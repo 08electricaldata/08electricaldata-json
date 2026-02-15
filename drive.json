@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-15T17:05:31.761Z",
+  "updated": "2026-02-15T18:06:56.005Z",
   "headers": [
     "SL NO",
     "",
@@ -20182,7 +20182,7 @@
     [
       77,
       "Breaker",
-      "US-10-3159-PMCC?D",
+      "US-10-3159-PMCC-D",
       "",
       "I/C-1,TFR-3159, US-10",
       "E.E",
@@ -20220,7 +20220,7 @@
     [
       78,
       "Breaker",
-      "US-10-MCC1-PMCC?D",
+      "US-10-MCC1-PMCC-D",
       "",
       "TO MCC.5.2, 5.2, 5.3",
       "E.E",
@@ -20258,7 +20258,7 @@
     [
       79,
       "Breaker",
-      "US-10-BC1-PMCC?D",
+      "US-10-BC1-PMCC-D",
       "",
       "B/C.BKR",
       "E.E",
@@ -20296,7 +20296,7 @@
     [
       80,
       "Breaker",
-      "US-10-3160-PMCC?D",
+      "US-10-3160-PMCC-D",
       "",
       "I/C-2,TFR-3160, US-10",
       "E.E",
@@ -20334,7 +20334,7 @@
     [
       81,
       "Breaker",
-      "US-10-BC2-PMCC?D",
+      "US-10-BC2-PMCC-D",
       "",
       "B/C.BKR",
       "E.E",
@@ -20372,7 +20372,7 @@
     [
       82,
       "Breaker",
-      "US-10-MCC2-PMCC?D",
+      "US-10-MCC2-PMCC-D",
       "",
       "TO MCC.10.1, 10.2 , 10.3",
       "E.E",
@@ -20410,7 +20410,7 @@
     [
       83,
       "Breaker",
-      "US-10-3161-PMCC?D",
+      "US-10-3161-PMCC-D",
       "",
       "I/C-3,TFR-3161, US-10",
       "E.E",
