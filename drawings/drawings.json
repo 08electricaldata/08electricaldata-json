@@ -1,0 +1,3121 @@
+{
+  "updated": "2026-02-18T02:38:46.988Z",
+  "rows": [
+    {
+      "id": "BAT_A-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-200",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-201",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-202",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-203",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-204",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-205",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-211",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-212",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-213",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-214",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-215",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-221A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-221B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-222A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-222B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-223",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-224A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-224B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-231",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-232",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-P-241",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_A-SP-251",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-200",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-201",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-202",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-203",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-204",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-205",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-211",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-212",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-213",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-214",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-215",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-221A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-221B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-222A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-222B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-223",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-224A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-224B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-231",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-232",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-P-241",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_B-SP-251",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-BOARD-REPLACE",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-200",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-201",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-202",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-203",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-204",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-205",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-211",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-212",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-213",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-214",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-215",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-221A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-221B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-222A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-222B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-223",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-224A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-224B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-231",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-232",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-P-241",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_C-SP-251",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-200",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-201",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-202",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-203",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-204",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-205",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-211",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-212",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-213",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-214",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-215",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-221A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-221B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-222A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-222B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-223",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-224A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-224B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-231",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-232",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-P-241",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_D-SP-251",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-AGITATOR-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-902",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-903",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-904",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-905",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-906",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-907A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-907B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-908",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-909A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-909B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-910",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-911",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-912",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-913",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-914A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-914B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-915",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-916A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-916B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-P-918",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-PCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BAT_E-SP-919",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-AGITATOR-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-902",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-903",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-904",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-905",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-906",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-907A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-907B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-908",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-909A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-909B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-910",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-911",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-912",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-913",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-914A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-914B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-915",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-916A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-916B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-P-918",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-PCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BAT_F-SP-919",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-AGITATOR-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-902",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-903",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-904",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-905",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-906",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-907A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-907B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-908",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-909A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-909B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-910",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-911",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-912",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-913",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-914A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-914B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-915",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-916A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-916B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-916C",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-P-918",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_G-SP-919",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-AGITATOR-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-902",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-903",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-904",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-905",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-906",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-907A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-907B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-908",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-909A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-909B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-910",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-911",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-912",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-913",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-914A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-914B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-915",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-916A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-916B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-916C",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-P-918",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_H-SP-919",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-AGITATOR-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-HPP",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-901",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-902",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-903",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-904",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-905",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-906",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-907A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-907B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-908",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-909A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-909B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-910",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-911",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-912",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-913",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-914A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-914B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-915",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-916A",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-916B",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-916C",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-P-918",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BAT_I-SP-919",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-OXALATE-ALSTOM",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-OXALATE-BCH",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-OXALATE-COBIT",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-OXALATE-SIEMENS",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-244-HT-BOARD",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-ALSTOM-388",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-ASB",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-BAT-E-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-BAT-E-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-BAT-F-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-BAT-F-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-BCH-398",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08E-DCDB",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-254-HT-BOARD",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-BAT-G-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-BAT-G-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-BAT-H-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-BAT-H-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-BAT-I-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-BAT-I-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-08EX-PCC-412",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-240-HT-BOARD",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-313",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-323",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-357",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-358",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-A-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-A-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-B-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-B-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-C-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-C-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-D-MCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-10-BAT-D-PMCC",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-13-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-15-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-18-MCC-328",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-18-PMCC-328",
+      "drawings": []
+    },
+    {
+      "id": "BOARD-US-20-PMCC-327",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-3294-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-3295-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-BC1-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-BC2-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-COBIT-MCC1-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-COBIT-MCC2-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-E383-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-LIME-MCC1-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-LIME-MCC2-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-MCCDB(BCH)1-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-OXALATE-MCCDB(BCH)2-PCDB.-401",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-220KV-ACDB-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-2244-HT-244",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-2245-HT-244",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-3245-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-3246-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-3250-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-3251-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-3252-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-3253-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-ASB-1-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-ASB1-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-ASB2-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-BC-HT-244",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-BC-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-BC-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-BC-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-CAPBNK1-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-CAPBNK2-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-LDB1-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-LDB2-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-MCC1-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-MCC1-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-MCC2-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-MCC2-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-MCDB1-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-MCDB2-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-SPARE-PMCC-403",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08E-VFD-AC-PDB-PMCC-404",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-2307-HT-254",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-2308-HT-254",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3319-PCC-G",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3320-PCC-H",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3321-PCC-G",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3322-PCC-H",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3323-PCC-412",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3324-PCC-412",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3326-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-3327-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-APFC1-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-APFC2-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-ASB1-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-ASB2-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-BC-HT-254",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-BC-PCC-412",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-BC-PCC-G",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-BC-PCC-H",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-BC-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-MCC1-PCC-G",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-MCC1-PCC-H",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-MCC1-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-MCC2-PCC-G",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-MCC2-PCC-H",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-MCC2-PCC-I",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-SPARE-PCC-G",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-08EX-SPARE-PCC-H",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-2144-PMCC-240",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-2145-PMCC-240",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3145-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3146-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3147-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3150-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3151-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3152-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3153-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3154-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3155-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3156-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3157-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3158-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3159-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3160-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3161-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3178-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-3179-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC-PMCC-240",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC1-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC1-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC1-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC1-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC1-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC2-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC2-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC2-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-BC2-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-CAPBNK1B-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-CAPBNK1B-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-CAPBNK2B-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-CAPBNK2B-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-CAPBNK3B-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-DB-401-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-GL-199-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC.DB-395-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC1-357-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC1-358-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC1-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC1-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC1-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC1-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC2-357-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC2-358-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC2-PMCC-A",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC2-PMCC-B",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC2-PMCC-C",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-MCC2-PMCC-D",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-SPARE1-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-SPARE1-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-SPARE2-PMCC-313",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-10-SPARE2-PMCC-323",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-2139-HT-239",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-2140-HT-239",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-2141-HT-239",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-3169-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-3170-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-3197-MLDB-374",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-ASB1-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-ASB2-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-BC-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-BC1-HT-239",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-BC2-HT-239",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-DG-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-13-MLDB-372-MLDB-374",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-3187-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-3188-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-3195-MLDB-372",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-ACDB-CDS1-486-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-ASB-CDS2-486-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-BC-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-CAPBNK1B-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-CAPBNK2B-PMCC-325",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-15-MLDB-374-MLDB-372",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-18-3175-PMCC.328",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-18-3176-PMCC.328",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-18-BC-PMCC.328",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-18-SPARE1-PMCC.328",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-18-SPARE2-PMCC.328",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-20-3184-PMCC.-327",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-20-3185-PMCC.-327",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-20-BC-PMCC.-327",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-20-CAPBNK1-PMCC.-327",
+      "drawings": []
+    },
+    {
+      "id": "BREAKER-US-20-CAPBNK2-PMCC.-327",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-AC",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-BORROW",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-CANTEEN",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-CCR",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-CIVIL",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-CSTORE",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-ERS",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-LIFT",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-PETROL-PUMP",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-POWER-DISTURB",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-SHIFTING",
+      "drawings": []
+    },
+    {
+      "id": "COMMON-WELDING-RECEPTICLE",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-AIR-DRYER-501&502",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-AIR-DRYER-63",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-AIR-DRYER-64",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-AIR-DRYER-65",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-1001",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-1002",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-1003",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-45",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-46",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-50",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-501",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-502",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-51",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-701",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-COMP-702",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-INDICON-101",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-INDICON-102",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-1001",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-1002",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-1003",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-45",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-46",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-50",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-51",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-701",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-LOP-702",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-NFPS",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-PMCC-322",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-PURIFLAIR-AIR-DRYER",
+      "drawings": []
+    },
+    {
+      "id": "COMPRESSOR-SHAHARA-AIR-DRYER",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-OIL-WATER-SEPARATOR",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-OTHER",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-118",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-119",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-219",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-220",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-336",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-337",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-338",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-340",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-345",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-346",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-347",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-348",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-385",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-386",
+      "drawings": [
+        "https://drive.google.com/file/d/1QGZfmw80pKj5bMg6nejhfq34SpGgtnX8/view?usp=sharing"
+      ]
+    },
+    {
+      "id": "CSFO-P-398",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-849",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-850",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-851",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-P-852",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-SP-218",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-SP-378",
+      "drawings": [
+        "https://drive.google.com/file/d/1QGZfmw80pKj5bMg6nejhfq34SpGgtnX8/view?usp=sharing"
+      ]
+    },
+    {
+      "id": "CSFO-VP-11",
+      "drawings": []
+    },
+    {
+      "id": "CSFO-VP-12",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-1001A",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-1001B",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-1001C",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-1001D",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-BOARD-REPLACE",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-F001",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-F002",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-F003",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-F004",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-HOIST",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-1163A",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-1163B",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-1163C",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-1166",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-1167",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-310",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-311",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-312",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-313",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-334",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-335",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-840",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-841",
+      "drawings": []
+    },
+    {
+      "id": "CT_1-P-842",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-CHLORINATOR-UNIT",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-F-001",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-F-002",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-F-003",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-F-1002",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-FP-001A",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-FP-1",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-1160A",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-1160B",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-1161A",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-1161B",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-224",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-225",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-226",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-227",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-228",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-367",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-368",
+      "drawings": []
+    },
+    {
+      "id": "CT_2-P-369",
+      "drawings": []
+    },
+    {
+      "id": "EMG_SIREN-08E-BACK",
+      "drawings": []
+    },
+    {
+      "id": "EMG_SIREN-BUXITE-SILO",
+      "drawings": []
+    },
+    {
+      "id": "EMG_SIREN-CALCINATION",
+      "drawings": []
+    },
+    {
+      "id": "EMG_SIREN-CCR",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-A",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-B",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-C",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-D",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-E",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-F",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-G",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-H",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-BAT-I",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-CENTRAL-STORE",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-COMPRESSOR",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-CT-1",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-CT-1(OLD)",
+      "drawings": []
+    },
+    {
+      "id": "EOT_CRANE-LIME-HANDLING",
+      "drawings": []
+    },
+    {
+      "id": "LAB-LAB",
+      "drawings": []
+    },
+    {
+      "id": "MOL-1036-A",
+      "drawings": []
+    },
+    {
+      "id": "MOL-1036-B",
+      "drawings": []
+    },
+    {
+      "id": "MOL-46_SIREN",
+      "drawings": []
+    },
+    {
+      "id": "MOL-AGI-1002",
+      "drawings": []
+    },
+    {
+      "id": "MOL-AGI-1171",
+      "drawings": []
+    },
+    {
+      "id": "MOL-AGI-1173",
+      "drawings": []
+    },
+    {
+      "id": "MOL-AGITATOR-161",
+      "drawings": []
+    },
+    {
+      "id": "MOL-AGITATOR-167",
+      "drawings": []
+    },
+    {
+      "id": "MOL-AGITATOR-168",
+      "drawings": []
+    },
+    {
+      "id": "MOL-ASB",
+      "drawings": []
+    },
+    {
+      "id": "MOL-BTC-1031",
+      "drawings": []
+    },
+    {
+      "id": "MOL-BUCKET-ELEVATOR-116",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CLASSIFIER-66",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CLASSIFIER-67",
+      "drawings": []
+    },
+    {
+      "id": "MOL-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CONV-46",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CONV-47",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CONV-726",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CONV-727",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CONV.-48",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CONV.-728",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CRUSHER-006-1",
+      "drawings": []
+    },
+    {
+      "id": "MOL-CRUSHER-006-2",
+      "drawings": []
+    },
+    {
+      "id": "MOL-DRUM-SLAKER-003",
+      "drawings": []
+    },
+    {
+      "id": "MOL-DRUM-SLAKER-004",
+      "drawings": []
+    },
+    {
+      "id": "MOL-LC_SIREN",
+      "drawings": []
+    },
+    {
+      "id": "MOL-MISC",
+      "drawings": []
+    },
+    {
+      "id": "MOL-P-1165A",
+      "drawings": []
+    },
+    {
+      "id": "MOL-P-1165B",
+      "drawings": []
+    },
+    {
+      "id": "MOL-P-1166A",
+      "drawings": []
+    },
+    {
+      "id": "MOL-P-1166B",
+      "drawings": []
+    },
+    {
+      "id": "MOL-P-1171A",
+      "drawings": []
+    },
+    {
+      "id": "MOL-P-1171B",
+      "drawings": []
+    },
+    {
+      "id": "MOL-PIPE-1033",
+      "drawings": []
+    },
+    {
+      "id": "MOL-RC-1001",
+      "drawings": []
+    },
+    {
+      "id": "MOL-RERVERSIBLE-CONV.-63",
+      "drawings": []
+    },
+    {
+      "id": "MOL-SCREW-1001",
+      "drawings": []
+    },
+    {
+      "id": "MOL-SLACKER-1001",
+      "drawings": []
+    },
+    {
+      "id": "MOL-SP-1173",
+      "drawings": []
+    },
+    {
+      "id": "MOL-SP-215",
+      "drawings": []
+    },
+    {
+      "id": "MOL-SWBD-328",
+      "drawings": []
+    },
+    {
+      "id": "MOL-TABLE-FEEDER-24",
+      "drawings": []
+    },
+    {
+      "id": "MOL-TABLE-FEEDER-25",
+      "drawings": []
+    },
+    {
+      "id": "MOL-TF-1001",
+      "drawings": []
+    },
+    {
+      "id": "MOL-WEIGH-FEEDER-1032",
+      "drawings": []
+    },
+    {
+      "id": "MOL-WEIGH-FEEDER-1035",
+      "drawings": []
+    },
+    {
+      "id": "MOL-WEIGH-FEEDER-67",
+      "drawings": []
+    },
+    {
+      "id": "MOL-WEIGH-FEEDER-68",
+      "drawings": []
+    },
+    {
+      "id": "PROJECT-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "PROJECT-OXALATE",
+      "drawings": []
+    },
+    {
+      "id": "PROJECT-SODIC-COND",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-LAB",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-OXALATE",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-08E",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-08E-CC",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-08E-STORE",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-08EX",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-08EX-CC",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-08EX-STORE",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-10",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-10-STORE",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-10-VFD",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-13",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-15",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-18",
+      "drawings": []
+    },
+    {
+      "id": "SUBSTATION-US-20",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-A-147",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-A-148",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-AGITATOR-1170",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-AGITATOR-765A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-AGITATOR-765B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1070A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1070B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1138A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1138B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1138C",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1139",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1140A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1140B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1141A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1141B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1142A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1142B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1143A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-1143B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-143",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-172",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-194",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-195",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-196",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-197",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-198",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-199",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-200",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-201",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-202",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-203",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-204",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-205",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-206",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-208",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-209",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-210",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-211",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-212",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-214",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-301",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-302",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-50",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-51",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-575",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-576",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-577",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-578",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-579",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-580",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-581",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-775",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-776",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-777",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-779A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-779B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-780A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-780B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-781A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-781B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-784",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-785A",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-P-785B",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-PMCC-388",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-PU-1170",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-SP-216",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-SP-217",
+      "drawings": []
+    },
+    {
+      "id": "TANKAGE-SP-817",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2139",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2140",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2141",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2144",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2145",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2244",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2245",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2307",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-2308",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3145",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3146",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3147",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3150",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3151",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3152",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3153",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3154",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3155",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3156",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3157",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3158",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3159",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3160",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3161",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3169",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3170",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3175",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3176",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3178",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3179",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3184",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3185",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3187",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3188",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3195",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3197",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3245",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3246",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3250",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3251",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3252",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3253",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3294",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3295",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3319",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3320",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3321",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3322",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3323",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3324",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3326",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3327",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3328",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-3329",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-BC",
+      "drawings": []
+    },
+    {
+      "id": "TRANSFORMER-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "UNIQUE ID",
+      "drawings": []
+    },
+    {
+      "id": "WWT-ACID-DOSING-PUMP",
+      "drawings": []
+    },
+    {
+      "id": "WWT-COMMON",
+      "drawings": []
+    },
+    {
+      "id": "WWT-MCC",
+      "drawings": []
+    },
+    {
+      "id": "WWT-NEW-ACID-UNLOADING-PUMP",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-15A",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-15B",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-222A(DAISTER-PUMP-01)",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-222B(DAISTER-PUMP-02)",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-389",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-394",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-8A",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-8B",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-8E",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-HT001",
+      "drawings": []
+    },
+    {
+      "id": "WWT-P-HT002",
+      "drawings": []
+    },
+    {
+      "id": "WWT-PMCC-328",
+      "drawings": []
+    },
+    {
+      "id": "WWT-SUMP-PUMP",
+      "drawings": []
+    }
+  ]
+}
