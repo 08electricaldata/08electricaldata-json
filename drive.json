@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T14:11:12.624Z",
+  "updated": "2026-02-19T14:15:54.143Z",
   "headers": [
     "SL NO",
     "",
@@ -12050,8 +12050,8 @@
     [
       305,
       "MOL",
-      "TABLE FEEDER-24",
-      "MOL_TABLE FEEDER-24",
+      "TABLE-FEEDER-24",
+      "MOL_TABLE-FEEDER-24",
       "TABLE FEEDER",
       11,
       "S",
@@ -12088,8 +12088,8 @@
     [
       306,
       "MOL",
-      "TABLE FEEDER-25",
-      "MOL_TABLE FEEDER-25",
+      "TABLE-FEEDER-25",
+      "MOL_TABLE-FEEDER-25",
       "TABLE FEEDER",
       11,
       "S",
@@ -12126,8 +12126,8 @@
     [
       307,
       "MOL",
-      "WEIGH FEEDER-67",
-      "MOL_WEIGH FEEDER-67",
+      "WEIGH-FEEDER-67",
+      "MOL_WEIGH-FEEDER-67",
       "WEIGH FEEDER",
       2.2,
       "S",
@@ -12164,8 +12164,8 @@
     [
       308,
       "MOL",
-      "WEIGH FEEDER 68",
-      "MOL_WEIGH FEEDER 68",
+      "WEIGH-FEEDER-68",
+      "MOL_WEIGH-FEEDER-68",
       "WEIGH FEEDER",
       2.2,
       "S",
@@ -12202,8 +12202,8 @@
     [
       309,
       "MOL",
-      "DRUM SLAKER 003",
-      "MOL_DRUM SLAKER 003",
+      "DRUM-SLAKER-003",
+      "MOL_DRUM-SLAKER-003",
       "DRUM SLAKER",
       30,
       "S",
@@ -12240,8 +12240,8 @@
     [
       310,
       "MOL",
-      "DRUM SLAKER 004",
-      "MOL_DRUM SLAKER 004",
+      "DRUM-SLAKER-004",
+      "MOL_DRUM-SLAKER-004",
       "DRUM SLAKER",
       30,
       "S",
