@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-19T11:04:12.668Z",
+  "updated": "2026-02-19T14:11:12.624Z",
   "headers": [
     "SL NO",
     "",
@@ -11974,8 +11974,8 @@
     [
       303,
       "MOL",
-      "CRUSHER 006-1",
-      "MOL_CRUSHER 006-1",
+      "CRUSHER-006-1",
+      "MOL_CRUSHER-006-1",
       "CRUSHER ",
       30,
       "S",
@@ -12012,8 +12012,8 @@
     [
       304,
       "MOL",
-      "CRUSHER 006-2",
-      "MOL_CRUSHER 006-2",
+      "CRUSHER-006-2",
+      "MOL_CRUSHER-006-2",
       "CRUSHER",
       30,
       "S",
