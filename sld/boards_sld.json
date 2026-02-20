@@ -1,0 +1,143 @@
+{
+  "updated": "2026-02-20T17:04:27.971Z",
+  "boards": {
+    "US-08E-244-HT-BOARD": {
+      "boardId": "US-08E-244-HT-BOARD",
+      "topology": {
+        "totalIncomers": 2,
+        "gridIncomers": 2,
+        "dgIncomers": 0,
+        "emergencyIncomers": 0,
+        "hasBusCoupler": true,
+        "busSections": [
+          "A",
+          "B"
+        ]
+      },
+      "incomers": [
+        {
+          "position": 1,
+          "breakerId": "US-08E-2244-HT-244",
+          "breakerType": "VCB",
+          "source": "TR-2244",
+          "transformer": 2244,
+          "bus": "A"
+        },
+        {
+          "position": 13,
+          "breakerId": "US-08E-2245-HT-244",
+          "breakerType": "VCB",
+          "source": "TR-2245",
+          "transformer": 2245,
+          "bus": "B"
+        }
+      ],
+      "dgIncomers": [],
+      "emergencyIncomers": [],
+      "busCouplers": [
+        {
+          "position": 7,
+          "breakerId": "BUS Coupler",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "COMMON"
+        }
+      ],
+      "busPT": [
+        {
+          "position": 6,
+          "breakerId": "BUS PT1",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 8,
+          "breakerId": "BUS PT-2",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "B"
+        }
+      ],
+      "linePT": [
+        {
+          "position": 2,
+          "breakerId": "LPT1",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 12,
+          "breakerId": "LPT2",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "B"
+        }
+      ],
+      "outgoings": [
+        {
+          "position": 3,
+          "breakerId": "P-841",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 4,
+          "breakerId": "290 KW spare motor fdr",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 5,
+          "breakerId": "HT-001",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 9,
+          "breakerId": "P-840",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "B"
+        },
+        {
+          "position": 10,
+          "breakerId": "P-842",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "B"
+        },
+        {
+          "position": 11,
+          "breakerId": "HT-002",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "B"
+        },
+        {
+          "position": 14,
+          "breakerId": "300 KW spare motor fdr",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "B"
+        }
+      ]
+    }
+  }
+}
