@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T17:04:27.971Z",
+  "updated": "2026-02-20T17:17:50.693Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -10,8 +10,7 @@
         "emergencyIncomers": 0,
         "hasBusCoupler": true,
         "busSections": [
-          "A",
-          "B"
+          "A"
         ]
       },
       "incomers": [
@@ -29,7 +28,7 @@
           "breakerType": "VCB",
           "source": "TR-2245",
           "transformer": 2245,
-          "bus": "B"
+          "bus": "A"
         }
       ],
       "dgIncomers": [],
@@ -41,7 +40,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "COMMON"
+          "bus": "A"
         }
       ],
       "busPT": [
@@ -59,7 +58,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "B"
+          "bus": "A"
         }
       ],
       "linePT": [
@@ -77,7 +76,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "B"
+          "bus": "A"
         }
       ],
       "outgoings": [
@@ -111,7 +110,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "B"
+          "bus": "A"
         },
         {
           "position": 10,
@@ -119,7 +118,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "B"
+          "bus": "A"
         },
         {
           "position": 11,
@@ -127,7 +126,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "B"
+          "bus": "A"
         },
         {
           "position": 14,
@@ -135,7 +134,7 @@
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
-          "bus": "B"
+          "bus": "A"
         }
       ]
     }
