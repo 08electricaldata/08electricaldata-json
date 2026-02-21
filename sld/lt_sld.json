@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T17:32:42.606Z",
+  "updated": "2026-02-21T17:40:12.150Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -115,7 +115,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "4": [
@@ -416,7 +416,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "4A",
