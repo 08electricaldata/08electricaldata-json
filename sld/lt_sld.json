@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T17:32:14.743Z",
+  "updated": "2026-02-21T17:32:42.606Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -179,7 +179,7 @@
             "breakerType": "SFU",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "5C",
@@ -191,7 +191,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "6": [
@@ -205,7 +205,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "6B",
@@ -217,7 +217,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "6C",
@@ -255,7 +255,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "7C",
@@ -267,7 +267,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "8": [
@@ -281,7 +281,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "8B",
@@ -293,7 +293,7 @@
             "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "Transformer-3145",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "8C",
@@ -476,7 +476,7 @@
           "breakerType": "SFU",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "5C",
@@ -488,7 +488,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "6A",
@@ -500,7 +500,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "6B",
@@ -512,7 +512,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "6C",
@@ -548,7 +548,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "7C",
@@ -560,7 +560,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "8A",
@@ -572,7 +572,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "8B",
@@ -584,7 +584,7 @@
           "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "Transformer-3145",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "8C",
