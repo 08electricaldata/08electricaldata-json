@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-20T18:39:47.103Z",
+  "updated": "2026-02-21T02:42:14.809Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -19,7 +19,7 @@
           "breakerId": "US-08E-2244-HT-244",
           "breakerType": "VCB",
           "source": "TR-2244",
-          "transformer": 2244,
+          "transformer": "Transformer-2244",
           "bus": "A"
         },
         {
@@ -27,7 +27,7 @@
           "breakerId": "US-08E-2245-HT-244",
           "breakerType": "VCB",
           "source": "TR-2245",
-          "transformer": 2245,
+          "transformer": "Transformer-2245",
           "bus": "A"
         }
       ],
@@ -82,7 +82,7 @@
       "outgoings": [
         {
           "position": 3,
-          "breakerId": "P-841",
+          "breakerId": "CT_1-P-841",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -90,7 +90,7 @@
         },
         {
           "position": 4,
-          "breakerId": "290 KW spare motor fdr",
+          "breakerId": "290 KW spare",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -98,7 +98,7 @@
         },
         {
           "position": 5,
-          "breakerId": "HT-001",
+          "breakerId": "WWT-P-HT001",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -106,7 +106,7 @@
         },
         {
           "position": 9,
-          "breakerId": "P-840",
+          "breakerId": "CT_1-P-840",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -114,7 +114,7 @@
         },
         {
           "position": 10,
-          "breakerId": "P-842",
+          "breakerId": "CT_1-P-842",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -122,7 +122,7 @@
         },
         {
           "position": 11,
-          "breakerId": "HT-002",
+          "breakerId": "WWT-P-HT002",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -130,7 +130,7 @@
         },
         {
           "position": 14,
-          "breakerId": "300 KW spare motor fdr",
+          "breakerId": "300 KW spare ",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
