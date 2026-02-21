@@ -1,0 +1,358 @@
+{
+  "updated": "2026-02-21T14:31:59.554Z",
+  "boards": {
+    "US-10-313": {
+      "boardId": "US-10-313",
+      "sections": {
+        "1": [
+          {
+            "position": "1A",
+            "section": "1",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "DOL",
+            "breakerType": "ACB",
+            "breakerRating": "",
+            "supplyFrom": "Transformer-2244",
+            "status": "ON"
+          },
+          {
+            "position": "1B",
+            "section": "1",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "VFD",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": "OFF"
+          },
+          {
+            "position": "1C",
+            "section": "1",
+            "level": "C",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "2": [
+          {
+            "position": "2A",
+            "section": "2",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "2B",
+            "section": "2",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "2C",
+            "section": "2",
+            "level": "C",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "3": [
+          {
+            "position": "3A",
+            "section": "3",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "3B",
+            "section": "3",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "3C",
+            "section": "3",
+            "level": "C",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "4": [
+          {
+            "position": "4A",
+            "section": "4",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "4B",
+            "section": "4",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "4C",
+            "section": "4",
+            "level": "C",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "5": [
+          {
+            "position": "5A",
+            "section": "5",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "Transformer-2245",
+            "status": ""
+          },
+          {
+            "position": "5B",
+            "section": "5",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ]
+      },
+      "devices": [
+        {
+          "position": "1A",
+          "section": "1",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "DOL",
+          "breakerType": "ACB",
+          "breakerRating": "",
+          "supplyFrom": "Transformer-2244",
+          "status": "ON"
+        },
+        {
+          "position": "1B",
+          "section": "1",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "VFD",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": "OFF"
+        },
+        {
+          "position": "1C",
+          "section": "1",
+          "level": "C",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "2A",
+          "section": "2",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "2B",
+          "section": "2",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "2C",
+          "section": "2",
+          "level": "C",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "3A",
+          "section": "3",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "3B",
+          "section": "3",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "3C",
+          "section": "3",
+          "level": "C",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "4A",
+          "section": "4",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "4B",
+          "section": "4",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "4C",
+          "section": "4",
+          "level": "C",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "5A",
+          "section": "5",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "Transformer-2245",
+          "status": ""
+        },
+        {
+          "position": "5B",
+          "section": "5",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        }
+      ]
+    }
+  }
+}
