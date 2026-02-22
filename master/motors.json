@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-22T03:04:05.204Z",
+  "updated": "2026-02-22T07:04:01.452Z",
   "headers": [
     "1",
     "MAIN DRIVE",
@@ -338,7 +338,7 @@
       "LT"
     ],
     [
-      "BATTERY-B",
+      "",
       "BATTERY -B",
       "",
       "",
@@ -660,7 +660,7 @@
       "LT"
     ],
     [
-      "BATTERY C",
+      "",
       "BATTERY -C",
       "",
       "",
@@ -1640,7 +1640,7 @@
       "LT"
     ],
     [
-      "BATTERY-F",
+      "",
       "BATTERY-F",
       "",
       "",
@@ -1976,7 +1976,7 @@
       "LT"
     ],
     [
-      "BATTERY-G",
+      "",
       "BATTERY-G",
       "",
       "",
@@ -2326,7 +2326,7 @@
       "LT"
     ],
     [
-      "BATTERY-H",
+      "",
       "BATTERY-H",
       "",
       "",
@@ -2676,7 +2676,7 @@
       "LT"
     ],
     [
-      "BATTERY-I",
+      "",
       "BATTERY-I",
       "",
       "",
@@ -4034,7 +4034,7 @@
       ""
     ],
     [
-      "FUEL OIL & CAUSTIC HANDLING AREA",
+      "",
       "FUEL OIL & CAUSTIC HANDLING AREA",
       "",
       "",
@@ -4370,7 +4370,7 @@
       "LT"
     ],
     [
-      "LIME HANDLING AREA",
+      "",
       "LIME HANDLING AREA",
       "",
       "",
@@ -5210,7 +5210,7 @@
       "LT"
     ],
     [
-      "WASTE WATER TREATMENT PLANT",
+      "",
       "WASTE WATER TREATMENT PLANT",
       "",
       "",
@@ -5406,7 +5406,7 @@
       "LT"
     ],
     [
-      "COMPRESSOR & COOLING TOWER",
+      "",
       "COMPRESSOR & COOLING TOWER",
       "",
       "",
