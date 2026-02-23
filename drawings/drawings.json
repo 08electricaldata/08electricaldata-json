@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-23T03:04:58.030Z",
+  "updated": "2026-02-23T08:21:02.502Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -1635,7 +1635,9 @@
     },
     {
       "id": "BREAKER-US-13-3197-MLDB-374",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1a3F6U9OZsllB92fqBprl1jutlO9aOCXR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-13-ASB1-PMCC-322",
@@ -1663,7 +1665,9 @@
     },
     {
       "id": "BREAKER-US-13-MLDB-372-MLDB-374",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1a3F6U9OZsllB92fqBprl1jutlO9aOCXR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-15-3187-PMCC-325",
@@ -1675,7 +1679,9 @@
     },
     {
       "id": "BREAKER-US-15-3195-MLDB-372",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1a3F6U9OZsllB92fqBprl1jutlO9aOCXR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-15-ACDB-CDS1-486-PMCC-325",
@@ -1699,7 +1705,9 @@
     },
     {
       "id": "BREAKER-US-15-MLDB-374-MLDB-372",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1a3F6U9OZsllB92fqBprl1jutlO9aOCXR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-18-3175-PMCC.328",
