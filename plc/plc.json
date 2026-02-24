@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T02:41:45.149Z",
+  "updated": "2026-02-24T02:45:13.310Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -544,6 +544,312 @@
           "panel": "752",
           "tb": "1T4-69/70",
           "rl": "35"
+        }
+      ]
+    },
+    "BAT_B-P-200": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8BXA200",
+          "address": "I:030.00",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "754",
+          "tb": "3T1-5/6",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8BXL200",
+          "address": "I:030.01",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "754",
+          "tb": "3T1-7/8",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8BP200_L",
+          "address": "O:030.00",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "754",
+          "tb": "3T4-1/2",
+          "rl": "1"
+        },
+        {
+          "signal": "START",
+          "tag": "8BP200_S",
+          "address": "O:030.01",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "754",
+          "tb": "3T4-3/4",
+          "rl": "2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8BP200_T",
+          "address": "O:030.02",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "754",
+          "tb": "3T4-5/6",
+          "rl": "3"
+        }
+      ]
+    },
+    "BAT_B-P-201": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8BXA201",
+          "address": "I:030.02",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "754",
+          "tb": "3T1-9/10",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8BXL201",
+          "address": "I:030.03",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "754",
+          "tb": "3T1-11/12",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8BP201_L",
+          "address": "O:030.03",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "754",
+          "tb": "3T4-7/8",
+          "rl": "4"
+        },
+        {
+          "signal": "START",
+          "tag": "8BP201_S",
+          "address": "O:030.04",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "754",
+          "tb": "3T4-9/10",
+          "rl": "5"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8BP201_T",
+          "address": "O:030.05",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "754",
+          "tb": "3T4-11/12",
+          "rl": "6"
+        }
+      ]
+    },
+    "BAT_B-P-202": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8BXA202",
+          "address": "I:030.04",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "754",
+          "tb": "3T1-13/14",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8BXL202",
+          "address": "I:030.05",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "754",
+          "tb": "3T1-15/16",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8BP202_L",
+          "address": "O:030.06",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "754",
+          "tb": "3T4-13/14",
+          "rl": "7"
+        },
+        {
+          "signal": "START",
+          "tag": "8BP202_S",
+          "address": "O:030.07",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "754",
+          "tb": "3T4-15/16",
+          "rl": "8"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8BP202_T",
+          "address": "O:030.10",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "754",
+          "tb": "3T4-17/18",
+          "rl": "9"
+        }
+      ]
+    },
+    "BAT_B-P-203": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8BXA203",
+          "address": "I:030.06",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "754",
+          "tb": "3T1-17/18",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8BXL203",
+          "address": "I:030.07",
+          "description": "CIRCULATION PUMP RUNNING ",
+          "panel": "754",
+          "tb": "3T1-19/20",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8BP203_L",
+          "address": "O:030.11",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "754",
+          "tb": "3T4-19/20",
+          "rl": "10"
+        },
+        {
+          "signal": "START",
+          "tag": "8BP203_S",
+          "address": "O:030.12",
+          "description": "STEAM COND PUMP START ",
+          "panel": "754",
+          "tb": "3T4-21/22",
+          "rl": "11"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8BP203_T",
+          "address": "O:030.13",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "754",
+          "tb": "3T4-23/24",
+          "rl": "12"
+        }
+      ]
+    },
+    "BAT_B-P-204": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8BXA204",
+          "address": "I:030.10",
+          "description": "VAPOUR COND PUMP AUTO TRIP ",
+          "panel": "754",
+          "tb": "3T1-21/22",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8BXL204",
+          "address": "I:030.11",
+          "description": "CIRCULATION PUMP RUNNING ",
+          "panel": "754",
+          "tb": "3T1-23/24",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8BP204_L",
+          "address": "O:030.14",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "754",
+          "tb": "3T4-25/26",
+          "rl": "13"
+        },
+        {
+          "signal": "START",
+          "tag": "8BP204_S",
+          "address": "O:030.15",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "754",
+          "tb": "3T4-27/28",
+          "rl": "14"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8BP204_T",
+          "address": "O:030.16",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "754",
+          "tb": "3T4-29/30",
+          "rl": "15"
+        }
+      ]
+    },
+    "BAT_B-P-205": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8BXA205",
+          "address": "I:030.12",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "754",
+          "tb": "3T1-25/26",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8BXL205",
+          "address": "I:030.13",
+          "description": "CIRCULATION PUMPRUNNING ",
+          "panel": "754",
+          "tb": "3T1-27/28",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8BP205_L",
+          "address": "O:031.00",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "754",
+          "tb": "3T4-33/34",
+          "rl": "17"
+        },
+        {
+          "signal": "START",
+          "tag": "8BP205_S",
+          "address": "O:031.01",
+          "description": "STEAM COND PUMP START ",
+          "panel": "754",
+          "tb": "3T4-35/36",
+          "rl": "18"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8BP205_T",
+          "address": "O:031.02",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "754",
+          "tb": "3T4-37/38",
+          "rl": "19"
         }
       ]
     },
