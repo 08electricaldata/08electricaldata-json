@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T02:23:14.382Z",
+  "updated": "2026-02-26T02:29:17.519Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -629,8 +629,8 @@
             "position": "17B",
             "section": "17",
             "level": "B",
-            "feederType": "OUTGOING",
-            "driveid": "17B\nBUS Coupler",
+            "feederType": "BUS_COUPLER",
+            "driveid": "BUS Coupler",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -1586,8 +1586,8 @@
           "position": "17B",
           "section": "17",
           "level": "B",
-          "feederType": "OUTGOING",
-          "driveid": "17B\nBUS Coupler",
+          "feederType": "BUS_COUPLER",
+          "driveid": "BUS Coupler",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
