@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T02:22:27.876Z",
+  "updated": "2026-02-26T02:22:52.580Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -363,7 +363,7 @@
             "position": "10B",
             "section": "10",
             "level": "B",
-            "feederType": "",
+            "feederType": "BUS_COUPLER",
             "driveid": "Bus Coupler",
             "DriveType": "",
             "breakerType": "",
@@ -1334,7 +1334,7 @@
           "position": "10B",
           "section": "10",
           "level": "B",
-          "feederType": "",
+          "feederType": "BUS_COUPLER",
           "driveid": "Bus Coupler",
           "DriveType": "",
           "breakerType": "",
