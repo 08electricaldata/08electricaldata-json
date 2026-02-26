@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T10:51:38.372Z",
+  "updated": "2026-02-26T11:04:58.592Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -49,6 +49,15 @@
           "panel": "752",
           "tb": "1T4-5/6",
           "rl": "3"
+        },
+        {
+          "signal": "INTERLOCK",
+          "tag": "8AI200",
+          "address": "O:010.17",
+          "description": "CIRCULATING PUMP INTERLOCK ",
+          "panel": "752",
+          "tb": "1T4-31/32",
+          "rl": "16"
         }
       ]
     },
@@ -304,6 +313,66 @@
           "panel": "752",
           "tb": "1T4-37/38",
           "rl": "19"
+        }
+      ]
+    },
+    "BAT_A-P-211": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8AXH211",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8AXA211",
+          "address": "I:010.14",
+          "description": "TRANSFER PUMP AUTO TRIP ",
+          "panel": "752",
+          "tb": "1T1-29/30",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8AXL211",
+          "address": "I:010.15",
+          "description": "TRANSFER PUMP RUNNING ",
+          "panel": "752",
+          "tb": "1T1-31/32",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8AP211_L",
+          "address": "O:011.03",
+          "description": "TRANSFER PUMP IN LOC ",
+          "panel": "752",
+          "tb": "1T4-39/40",
+          "rl": "20"
+        },
+        {
+          "signal": "START",
+          "tag": "8AP211_S",
+          "address": "O:011.04",
+          "description": "TRANSFER PUMP START ",
+          "panel": "752",
+          "tb": "1T4-41/42",
+          "rl": "21"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8AP211_T",
+          "address": "O:011.05",
+          "description": "TRANSFER PUMP STOP ",
+          "panel": "752",
+          "tb": "1T4-43/44",
+          "rl": "22"
         }
       ]
     },
