@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T02:29:17.519Z",
+  "updated": "2026-02-26T02:29:46.202Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -366,7 +366,7 @@
             "feederType": "BUS_COUPLER",
             "driveid": "Bus Coupler",
             "DriveType": "",
-            "breakerType": "",
+            "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "",
             "status": ""
@@ -1337,7 +1337,7 @@
           "feederType": "BUS_COUPLER",
           "driveid": "Bus Coupler",
           "DriveType": "",
-          "breakerType": "",
+          "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "",
           "status": ""
