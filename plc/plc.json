@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T15:06:08.170Z",
+  "updated": "2026-02-26T18:52:01.475Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -3046,120 +3046,102 @@
     "BAT_C-P-221A": {
       "inputs": [
         {
-          "signal": "HEALTHY",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
-        },
-        {
           "signal": "AUTO TRIP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXA221A",
+          "address": "I:051.06",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "756",
+          "tb": "5T1-49/50",
           "rl": ""
         },
         {
           "signal": "RUNNING",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXL221A",
+          "address": "I:051.07",
+          "description": "STEAM COND PUMP RUNNING ",
+          "panel": "756",
+          "tb": "5T1-51/52",
           "rl": ""
         }
       ],
       "outputs": [
         {
           "signal": "IN LOC",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP221A_L",
+          "address": "O:052.03",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "756",
+          "tb": "5T4-71/72",
+          "rl": "36"
         },
         {
           "signal": "START",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP221A_S",
+          "address": "O:052.04",
+          "description": "STEAM COND PUMP START ",
+          "panel": "756",
+          "tb": "5T4-73/74",
+          "rl": "37"
         },
         {
           "signal": "STOP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP221A_T",
+          "address": "O:052.05",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "756",
+          "tb": "5T4-75/76",
+          "rl": "38"
         }
       ]
     },
     "BAT_C-P-221B": {
       "inputs": [
         {
-          "signal": "HEALTHY",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
-        },
-        {
           "signal": "AUTO TRIP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXA221B",
+          "address": "I:051.10",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "756",
+          "tb": "5T1-53/54",
           "rl": ""
         },
         {
           "signal": "RUNNING",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXL221B",
+          "address": "I:051.11",
+          "description": "STEAM COND PUMP RUNNING ",
+          "panel": "756",
+          "tb": "5T1-55/56",
           "rl": ""
         }
       ],
       "outputs": [
         {
           "signal": "IN LOC",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP221B_L",
+          "address": "O:052.06",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "756",
+          "tb": "5T4-77/78",
+          "rl": "39"
         },
         {
           "signal": "START",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP221B_S",
+          "address": "O:052.07",
+          "description": "STEAM COND PUMP START ",
+          "panel": "756",
+          "tb": "5T4-79/80",
+          "rl": "40"
         },
         {
           "signal": "STOP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP221B_T",
+          "address": "O:052.10",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "756",
+          "tb": "5T4-81/82",
+          "rl": "41"
         }
       ]
     },
@@ -3527,59 +3509,59 @@
       "inputs": [
         {
           "signal": "HEALTHY",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXH232",
+          "address": "I:055.12",
+          "description": "HOT WELL TK PUMP HEALTHY ",
+          "panel": "756",
+          "tb": "5T2-25/26",
           "rl": ""
         },
         {
           "signal": "AUTO TRIP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXA232",
+          "address": "I:052.06",
+          "description": "COOLING WATER RETURN PUMP P231  AUTO TRIP",
+          "panel": "756",
+          "tb": "5T1-81/82",
           "rl": ""
         },
         {
           "signal": "RUNNING",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXL232",
+          "address": "I:052.07",
+          "description": "COOLING WATER RETURN PUMP P232  RUNNING",
+          "panel": "756",
+          "tb": "5T1-83/84",
           "rl": ""
         }
       ],
       "outputs": [
         {
           "signal": "IN LOC",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP232_L",
+          "address": "O:053.14",
+          "description": "COOLING WATER RETURN PUMP P232 IN LOC",
+          "panel": "756",
+          "tb": "5T5-25/26",
+          "rl": "61"
         },
         {
           "signal": "START",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP232_S",
+          "address": "O:053.15",
+          "description": "COOLING WATER RETURN PUMP P231 START",
+          "panel": "756",
+          "tb": "5T5-27/28",
+          "rl": "62"
         },
         {
           "signal": "STOP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP232_T",
+          "address": "O:053.16",
+          "description": "COOLING WATER RETURN PUMP P232 TO STOP",
+          "panel": "756",
+          "tb": "5T5-29/30",
+          "rl": "63"
         }
       ]
     },
@@ -3587,36 +3569,373 @@
       "inputs": [
         {
           "signal": "AUTO TRIP",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXA251",
+          "address": "I:052.12",
+          "description": "SPENT LIQUOR PUMP P251 AUTO TRIP  ",
+          "panel": "756",
+          "tb": "5T1-89/90",
           "rl": ""
         },
         {
           "signal": "RUNNING",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "tag": "8CXL251",
+          "address": "I:052.13",
+          "description": "SPENT LIQUOR PUMP P251 RUNNING  ",
+          "panel": "756",
+          "tb": "5T1-91/92",
           "rl": ""
         }
       ],
       "outputs": [
         {
           "signal": "IN LOC",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": ""
+          "tag": "8CP251_M",
+          "address": "O:054.03",
+          "description": "CP251 IN MANUAL  ",
+          "panel": "756",
+          "tb": "5T5-39/40",
+          "rl": "68"
         },
         {
           "signal": "START",
-          "tag": "",
+          "tag": "8CP251_S",
+          "address": "O:054.04",
+          "description": "SPENT LIQUOR PUMP P251 START",
+          "panel": "756",
+          "tb": "5T5-41/42",
+          "rl": "69"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8CP251_T",
+          "address": "O:054.05",
+          "description": "SPENT LIQUOR PUMP P251 STOP",
+          "panel": "756",
+          "tb": "5T5-43/44",
+          "rl": "70"
+        }
+      ]
+    },
+    "BAT_D-P-200": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA200",
+          "address": "I:070.00",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-5/6",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL200",
+          "address": "I:070.01",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-7/8",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP200_L",
+          "address": "O:070.00",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-1/2",
+          "rl": "1"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP200_S",
+          "address": "O:070.01",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "758",
+          "tb": "7T4-3/4",
+          "rl": "2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP200_T",
+          "address": "O:070.02",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-5/6",
+          "rl": "3"
+        },
+        {
+          "signal": "INTER LOCK",
+          "tag": "8DI200",
+          "address": "O:070.17",
+          "description": "CIRCULATING PUMP INTERLOCK ",
+          "panel": "758",
+          "tb": "7T4-31/32",
+          "rl": "16"
+        }
+      ]
+    },
+    "BAT_D-P-201": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA201",
+          "address": "I:070.02",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-9/10",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL201",
+          "address": "I:070.03",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-11/12",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP201_L",
+          "address": "O:070.03",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-7/8",
+          "rl": "4"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP201_S",
+          "address": "O:070.04",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "758",
+          "tb": "7T4-9/10",
+          "rl": "5"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP201_T",
+          "address": "O:070.05",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-11/12",
+          "rl": "6"
+        }
+      ]
+    },
+    "BAT_D-P-202": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA202",
+          "address": "I:070.04",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-13/14",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL202",
+          "address": "I:070.05",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-15/16",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP202_L",
+          "address": "O:070.06",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-13/14",
+          "rl": "7"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP202_S",
+          "address": "O:070.07",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "758",
+          "tb": "7T4-15/16",
+          "rl": "8"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP202_T",
+          "address": "O:070.10",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-17/18",
+          "rl": "9"
+        }
+      ]
+    },
+    "BAT_D-P-203": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA203",
+          "address": "I:070.06",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-17/18",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL203",
+          "address": "I:070.07",
+          "description": "CIRCULATION PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-19/20",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP203_L",
+          "address": "O:070.11",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-19/20",
+          "rl": "10"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP203_S",
+          "address": "O:070.12",
+          "description": "STEAM COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-21/22",
+          "rl": "11"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP203_T",
+          "address": "O:070.13",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-23/24",
+          "rl": "12"
+        }
+      ]
+    },
+    "BAT_D-P-204": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA204",
+          "address": "I:070.10",
+          "description": "VAPOUR COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-21/22",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL204",
+          "address": "I:070.11",
+          "description": "CIRCULATION PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-23/24",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP204_L",
+          "address": "O:070.14",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-25/26",
+          "rl": "13"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP204_S",
+          "address": "O:070.15",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-27/28",
+          "rl": "14"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP204_T",
+          "address": "O:070.16",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-29/30",
+          "rl": "15"
+        }
+      ]
+    },
+    "BAT_D-P-205": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA205",
+          "address": "I:070.12",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-25/26",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL205",
+          "address": "I:070.13",
+          "description": "CIRCULATION PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-27/28",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP205_L",
+          "address": "O:071.00",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-33/34",
+          "rl": "17"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP205_S",
+          "address": "O:071.01",
+          "description": "STEAM COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-35/36",
+          "rl": "18"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP205_T",
+          "address": "O:071.02",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-37/38",
+          "rl": "19"
+        }
+      ]
+    },
+    "BAT_D-P-211": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH211",
           "address": "",
           "description": "",
           "panel": "",
@@ -3624,13 +3943,1584 @@
           "rl": ""
         },
         {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA211",
+          "address": "I:070.14",
+          "description": "TRANSFER PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-29/30",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL211",
+          "address": "I:070.15",
+          "description": "TRANSFER PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-31/32",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP211_L",
+          "address": "O:071.03",
+          "description": "TRANSFER PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-39/40",
+          "rl": "20"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP211_S",
+          "address": "O:071.04",
+          "description": "TRANSFER PUMP START ",
+          "panel": "758",
+          "tb": "7T4-41/42",
+          "rl": "21"
+        },
+        {
           "signal": "STOP",
+          "tag": "8DP211_T",
+          "address": "O:071.05",
+          "description": "TRANSFER PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-43/44",
+          "rl": "22"
+        }
+      ]
+    },
+    "BAT_D-P-212": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH212",
+          "address": "I:075.00",
+          "description": "TRANSFER PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-5/6",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA212",
+          "address": "I:070.16",
+          "description": "TRANSFER PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-33/34",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL212",
+          "address": "I:070.17",
+          "description": "TRANSFER PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-35/36",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP212_L",
+          "address": "O:071.06",
+          "description": "TRANSFER PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-45/46",
+          "rl": "23"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP212_S",
+          "address": "O:071.07",
+          "description": "TRANSFER PUMP START ",
+          "panel": "758",
+          "tb": "7T4-47/48",
+          "rl": "24"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP212_T",
+          "address": "O:071.10",
+          "description": "TRANSFER PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-49/50",
+          "rl": "25"
+        }
+      ]
+    },
+    "BAT_D-P-213": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH213",
+          "address": "I:075.01",
+          "description": "TRANSFER PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-7/8",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA213",
+          "address": "I:071.00",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-37/38",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL213",
+          "address": "I:071.01",
+          "description": "STEAM COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-39/40",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP213_L",
+          "address": "O:071.11",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-51/52",
+          "rl": "26"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP213_S",
+          "address": "O:071.12",
+          "description": "STEAM COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-53/54",
+          "rl": "27"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP213_T",
+          "address": "O:071.13",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-55/56",
+          "rl": "28"
+        }
+      ]
+    },
+    "BAT_D-P-214": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH214",
+          "address": "I:075.02",
+          "description": "TRANSFER PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-9/10",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA214",
+          "address": "I:071.02",
+          "description": "VAPOUR COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-41/42",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL214",
+          "address": "I:071.03",
+          "description": "VAPOUR COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-43/44",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP214_L",
+          "address": "O:071.14",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-57/58",
+          "rl": "29"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP214_S",
+          "address": "O:071.15",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-59/60",
+          "rl": "30"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP214_T",
+          "address": "O:071.16",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-61/62",
+          "rl": "31"
+        }
+      ]
+    },
+    "BAT_D-P-215": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH215",
+          "address": "I:075.03",
+          "description": "TRANSFER PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-11/12",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA215",
+          "address": "I:071.04",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-45/46",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL215",
+          "address": "I:071.05",
+          "description": "STEAM COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-47/48",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP215_L",
+          "address": "O:072.00",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-65/66",
+          "rl": "33"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP215_S",
+          "address": "O:072.01",
+          "description": "STEAM COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-67/68",
+          "rl": "34"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP215_T",
+          "address": "O:072.02",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-69/70",
+          "rl": "35"
+        }
+      ]
+    },
+    "BAT_D-P-221A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA221A",
+          "address": "I:071.06",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-49/50",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL221A",
+          "address": "I:071.07",
+          "description": "STEAM COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-51/52",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP221A_L",
+          "address": "O:072.03",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-71/72",
+          "rl": "36"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP221A_S",
+          "address": "O:072.04",
+          "description": "STEAM COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-73/74",
+          "rl": "37"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP221A_T",
+          "address": "O:072.05",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-75/76",
+          "rl": "38"
+        }
+      ]
+    },
+    "BAT_D-P-221B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA221B",
+          "address": "I:071.10",
+          "description": "STEAM COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-53/54",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL221B",
+          "address": "I:071.11",
+          "description": "STEAM COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-55/56",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP221B_L",
+          "address": "O:072.06",
+          "description": "STEAM COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-77/78",
+          "rl": "39"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP221B_S",
+          "address": "O:072.07",
+          "description": "STEAM COND PUMP START ",
+          "panel": "758",
+          "tb": "7T4-79/80",
+          "rl": "40"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP221B_T",
+          "address": "O:072.10",
+          "description": "STEAM COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-81/82",
+          "rl": "41"
+        }
+      ]
+    },
+    "BAT_D-P-222A": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH222A",
+          "address": "I:075.04",
+          "description": "SODIC COND PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-13/14",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA222A",
+          "address": "I:071.12",
+          "description": "TRANSFER PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-57/58",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL222A",
+          "address": "I:071.13",
+          "description": "TRANSFER PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-59/60",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP222A_L",
+          "address": "O:072.11",
+          "description": "TRANSFER PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-83/84",
+          "rl": "42"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP222A_S",
+          "address": "O:072.12",
+          "description": "TRANSFER PUMP START ",
+          "panel": "758",
+          "tb": "7T4-85/86",
+          "rl": "43"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP222A_T",
+          "address": "O:072.13",
+          "description": "TRANSFER PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-87/88",
+          "rl": "44"
+        }
+      ]
+    },
+    "BAT_D-P-222B": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH222B",
+          "address": "I:075.05",
+          "description": "SODIC COND PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-15/16",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA222B",
+          "address": "I:071.14",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-61/62",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL222B",
+          "address": "I:071.15",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-63/64",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP222B_L",
+          "address": "O:072.14",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T4-89/90",
+          "rl": "45"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP222B_S",
+          "address": "O:072.15",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "758",
+          "tb": "7T4-91/92",
+          "rl": "46"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP222B_T",
+          "address": "O:072.16",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "758",
+          "tb": "7T4-93/94",
+          "rl": "47"
+        }
+      ]
+    },
+    "BAT_D-P-223": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH223",
+          "address": "I:075.06",
+          "description": "GREEN LIQUOR PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-17/18",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA223",
+          "address": "I:071.16",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-65/66",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL223",
+          "address": "I:071.17",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-67/68",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP223_L",
+          "address": "O:073.00",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T5-1/2",
+          "rl": "49"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP223_S",
+          "address": "O:073.01",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "758",
+          "tb": "7T5-3/4",
+          "rl": "50"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP223_T",
+          "address": "O:073.02",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-5/6",
+          "rl": "51"
+        }
+      ]
+    },
+    "BAT_D-P-224A": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH224A",
+          "address": "I:075.07",
+          "description": "VAPOUR COND PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-19/20",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA224A",
+          "address": "I:072.00",
+          "description": "VAPOUR COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-69/70",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL224A",
+          "address": "I:072.01",
+          "description": "VAPOUR COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-71/72",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP224A_L",
+          "address": "O:073.03",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T5-7/8",
+          "rl": "52"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP224A_S",
+          "address": "O:073.04",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "758",
+          "tb": "7T5-9/10",
+          "rl": "53"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP224A_T",
+          "address": "O:073.05",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-11/12",
+          "rl": "54"
+        }
+      ]
+    },
+    "BAT_D-P-224B": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH224B",
+          "address": "I:075.10",
+          "description": "VAPOUR COND PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-21/22",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA224B",
+          "address": "I:072.02",
+          "description": "VAPOUR COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-73/74",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL224B",
+          "address": "I:072.03",
+          "description": "VAPOUR COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-75/76",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP224B_L",
+          "address": "O:073.06",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T5-13/14",
+          "rl": "55"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP224B_S",
+          "address": "O:073.07",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "758",
+          "tb": "7T5-15/16",
+          "rl": "56"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP224B_T",
+          "address": "O:073.10",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-17/18",
+          "rl": "57"
+        }
+      ]
+    },
+    "BAT_D-P-231": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH231",
+          "address": "I:075.11",
+          "description": "HOT WELL TK PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-23/24",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA231",
+          "address": "I:072.04",
+          "description": "CIRCULATING PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-77/78",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL231",
+          "address": "I:072.05",
+          "description": "CIRCULATING PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-79/80",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP231_L",
+          "address": "O:073.11",
+          "description": "CIRCULATING PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T5-19/20",
+          "rl": "58"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP231_S",
+          "address": "O:073.12",
+          "description": "CIRCULATING PUMP START ",
+          "panel": "758",
+          "tb": "7T5-21/22",
+          "rl": "59"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP231_T",
+          "address": "O:073.13",
+          "description": "CIRCULATING PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-23/24",
+          "rl": "60"
+        }
+      ]
+    },
+    "BAT_D-P-232": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "8DXH232",
+          "address": "I:075.12",
+          "description": "HOT WELL TK PUMP HEALTHY ",
+          "panel": "758",
+          "tb": "7T2-25/26",
+          "rl": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA232",
+          "address": "I:072.06",
+          "description": "VAPOUR COND PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-81/82",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL232",
+          "address": "I:072.07",
+          "description": "VAPOUR COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-83/84",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP232_L",
+          "address": "O:073.14",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T5-25/26",
+          "rl": "61"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP232_S",
+          "address": "O:073.15",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "758",
+          "tb": "7T5-27/28",
+          "rl": "62"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP232_T",
+          "address": "O:073.16",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-29/30",
+          "rl": "63"
+        }
+      ]
+    },
+    "BAT_D-SP-251": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA251",
+          "address": "I:072.12",
+          "description": "TRANSFER PUMP AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-89/90",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL251",
+          "address": "I:072.13",
+          "description": "TRANSFER PUMP 8DP251 RUNNING",
+          "panel": "758",
+          "tb": "7T1-91/92",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP251_M",
+          "address": "O:074.03",
+          "description": "SUMP PUMP IN MANUAL ",
+          "panel": "758",
+          "tb": "7T5-39/40",
+          "rl": "68"
+        },
+        {
+          "signal": "START",
+          "tag": "8DP251_S",
+          "address": "O:074.04",
+          "description": "SUMP PUMP START ",
+          "panel": "758",
+          "tb": "7T5-41/42",
+          "rl": "69"
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP251_T",
+          "address": "O:074.05",
+          "description": "SUMP PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-43/44",
+          "rl": "70"
+        }
+      ]
+    },
+    "CT_1-P-310": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4138310_LS",
+          "address": "I:112.01",
+          "description": "CWP310 TO EVAP BAT D  LOC START ",
+          "panel": "766",
+          "tb": "19T1-72/73",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4138310_RUN",
+          "address": "I:112.02",
+          "description": "CWP310 TO EVAP BAT D  RUN ",
+          "panel": "766",
+          "tb": "19T1-74/75",
+          "rl": "TB2-25/26"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "4138310_TRIP",
+          "address": "I:112.03",
+          "description": "CWP310 TO EVAP BAT D  AUT TRP ",
+          "panel": "766",
+          "tb": "19T1-76/77",
+          "rl": "TB1-43/44"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4138310_STR",
+          "address": "O:114.00",
+          "description": "CWP310 TO EVAP BAT D  START ",
+          "panel": "766",
+          "tb": "19T4-1/4",
+          "rl": "1"
+        },
+        {
+          "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "",
+          "description": "LOCAL AMMETR",
+          "panel": "766",
+          "tb": "19T4-5/6",
+          "rl": ""
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "DCS CURRENT",
+          "panel": "--",
+          "tb": "TD-14-66",
+          "rl": ""
+        },
+        {
+          "signal": "SPACE HEATER",
+          "tag": "",
+          "address": "",
+          "description": "SPACE HEATER",
           "panel": "",
           "tb": "",
           "rl": ""
+        }
+      ]
+    },
+    "CT_1-P-311": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4138311_LS",
+          "address": "I:112.06",
+          "description": "CWP311 TO EVAP BAT D/C  LOC START ",
+          "panel": "766",
+          "tb": "19T1-82/83",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4138311_RUN",
+          "address": "I:112.07",
+          "description": "CWP311 TO EVAP BAT D/C  RUN ",
+          "panel": "766",
+          "tb": "19T1-84/85",
+          "rl": "TB2-25/26"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "4138311_TRIP",
+          "address": "I:112.10",
+          "description": "CWP311 TO EVAP BAT D/C  AUT TRP ",
+          "panel": "766",
+          "tb": "19T1-86/87",
+          "rl": "TB1-43/44"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4138311_STR",
+          "address": "O:114.01",
+          "description": "CWP311 TO EVAP BAT D/C  START ",
+          "panel": "766",
+          "tb": "19T4-7/10",
+          "rl": "2"
+        },
+        {
+          "signal": "LOCAL AMMETR",
+          "tag": "",
+          "address": "",
+          "description": "LOCAL AMMETR",
+          "panel": "766",
+          "tb": "19T4-11/12",
+          "rl": ""
+        },
+        {
+          "signal": "DCS CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "DCS CURRENT",
+          "panel": "--",
+          "tb": "TD-14-67",
+          "rl": ""
+        },
+        {
+          "signal": "SPACE HEATER",
+          "tag": "",
+          "address": "",
+          "description": "SPACE HEATER",
+          "panel": "",
+          "tb": "",
+          "rl": ""
+        }
+      ]
+    },
+    "CT_1-P-312": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4138312_LS",
+          "address": "I:112.13",
+          "description": "CWP312 TO EVAP BAT C  LOC START ",
+          "panel": "766",
+          "tb": "19T1-92/93",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4138312_RUN",
+          "address": "I:112.14",
+          "description": "CWP312 TO EVAP BAT C  RUN ",
+          "panel": "766",
+          "tb": "19T1-94/95",
+          "rl": "TB2-25/26"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "4138312_TRIP",
+          "address": "I:112.15",
+          "description": "CWP312 TO EVAP BAT C  AUT TRP ",
+          "panel": "766",
+          "tb": "19T1-96/97",
+          "rl": "TB1-43/44"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4138312_STR",
+          "address": "O:114.02",
+          "description": "CWP312 TO EVAP BAT C  START ",
+          "panel": "766",
+          "tb": "19T4-13/16",
+          "rl": "3"
+        },
+        {
+          "signal": "LOCAL AMMETR",
+          "tag": "",
+          "address": "",
+          "description": "LOCAL AMMETR",
+          "panel": "766",
+          "tb": "19T4-17/18",
+          "rl": ""
+        },
+        {
+          "signal": "DCS CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "DCS CURRENT",
+          "panel": "",
+          "tb": "TD-14-68",
+          "rl": ""
+        },
+        {
+          "signal": "SPACE HEATER",
+          "tag": "",
+          "address": "",
+          "description": "SPACE HEATER",
+          "panel": "",
+          "tb": "",
+          "rl": ""
+        }
+      ]
+    },
+    "CT_1-P-313": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4138313_LS",
+          "address": "I:113.01",
+          "description": "CWP313 TO EVAP BAT B  LOC START ",
+          "panel": "766",
+          "tb": "19T1-104/105",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4138313_RUN",
+          "address": "I:113.02",
+          "description": "CWP313 TO EVAP BAT B  RUN ",
+          "panel": "766",
+          "tb": "19T1-106/107",
+          "rl": "TB2-25/26"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "4138313_TRIP",
+          "address": "I:113.03",
+          "description": "CWP313 TO EVAP BAT B  AUT TRP ",
+          "panel": "766",
+          "tb": "19T1-108/109",
+          "rl": "TB1-43/44"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4138313_STR",
+          "address": "O:114.03",
+          "description": "CWP313 TO EVAP BAT B  START ",
+          "panel": "766",
+          "tb": "19T4-19/22",
+          "rl": "4"
+        },
+        {
+          "signal": "LOCAL AMMETR",
+          "tag": "",
+          "address": "",
+          "description": "LOCAL AMMETR",
+          "panel": "766",
+          "tb": "19T4-23/24",
+          "rl": ""
+        },
+        {
+          "signal": "DCS CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "DCS CURRENT",
+          "panel": "",
+          "tb": "TD-14-69",
+          "rl": ""
+        },
+        {
+          "signal": "SPACE HEATER",
+          "tag": "",
+          "address": "",
+          "description": "SPACE HEATER",
+          "panel": "",
+          "tb": "",
+          "rl": ""
+        }
+      ]
+    },
+    "CT_1-P-334": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4138334_LS",
+          "address": "I:113.06",
+          "description": "CWP334 TO EVAP BAT B/A  LOC START ",
+          "panel": "766",
+          "tb": "19T1-114/115",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4138334_RUN",
+          "address": "I:113.07",
+          "description": "CWP334 TO EVAP BAT B/A  RUN ",
+          "panel": "766",
+          "tb": "19T1-116/117",
+          "rl": "TB2-25/26"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "4138334_TRIP",
+          "address": "I:113.10",
+          "description": "CWP334 TO EVAP BAT B/A  AUT TRP ",
+          "panel": "766",
+          "tb": "19T1-118/119",
+          "rl": "TB1-43/44"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4138334_STR",
+          "address": "O:114.04",
+          "description": "CWP334 TO EVAP BAT B/A  START ",
+          "panel": "766",
+          "tb": "19T4-25/28",
+          "rl": "5"
+        },
+        {
+          "signal": "LOCAL AMMETR",
+          "tag": "",
+          "address": "",
+          "description": "LOCAL AMMETR",
+          "panel": "766",
+          "tb": "19T4-29/30",
+          "rl": ""
+        },
+        {
+          "signal": "DCS CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "DCS CURRENT",
+          "panel": "",
+          "tb": "TD14-70",
+          "rl": ""
+        },
+        {
+          "signal": "SPACE HEATER",
+          "tag": "",
+          "address": "",
+          "description": "SPACE HEATER",
+          "panel": "",
+          "tb": "",
+          "rl": ""
+        }
+      ]
+    },
+    "CT_1-P-335": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4138335_LS",
+          "address": "I:113.13",
+          "description": "CWP335 TO EVAP BAT A  LOC START ",
+          "panel": "766",
+          "tb": "19T1-124/125",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4138335_RUN",
+          "address": "I:113.14",
+          "description": "CWP335 TO EVAP BAT A  RUN ",
+          "panel": "766",
+          "tb": "19T1-126/127",
+          "rl": "TB2-25/26"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "4138335_TRIP",
+          "address": "I:113.15",
+          "description": "CWP335 TO EVAP BAT A  AUT TRP ",
+          "panel": "766",
+          "tb": "19T1-128/129",
+          "rl": "TB1-43/44"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4138335_STR",
+          "address": "O:114.05",
+          "description": "CWP335 TO EVAP BAT A  START ",
+          "panel": "766",
+          "tb": "19T4-31/34",
+          "rl": "6"
+        },
+        {
+          "signal": "LOCAL AMMETR",
+          "tag": "",
+          "address": "",
+          "description": "LOCAL AMMETR",
+          "panel": "766",
+          "tb": "19T4-35/36",
+          "rl": ""
+        },
+        {
+          "signal": "DCS CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "DCS CURRENT",
+          "panel": "",
+          "tb": "TD14-71",
+          "rl": ""
+        },
+        {
+          "signal": "SPACE HEATER",
+          "tag": "",
+          "address": "",
+          "description": "SPACE HEATER",
+          "panel": "",
+          "tb": "",
+          "rl": ""
+        }
+      ]
+    },
+    "TANKAGE-P-198": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "4108198_RDY",
+          "address": "B13/161",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM1 READY",
+          "panel": "762",
+          "tb": "17T2-56/57",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4108198_TRIP",
+          "address": "B13/165",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM 1 AUT TRP",
+          "panel": "762",
+          "tb": "17T2-68/69",
+          "rl": "M22B-13/14"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4108198_RUN",
+          "address": "B13/164",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM 1 RUN ",
+          "panel": "762",
+          "tb": "17T2-65/66",
+          "rl": "M22B-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "4108198_L",
+          "address": "B14.125",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM1 LOCAL ",
+          "panel": "762",
+          "tb": "17T4-43/46",
+          "rl": "14"
+        },
+        {
+          "signal": "START",
+          "tag": "4108198_STR",
+          "address": "B14.124",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM1 START ",
+          "panel": "762",
+          "tb": "17T4-37/40",
+          "rl": "13"
+        }
+      ]
+    },
+    "TANKAGE-P-199": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "4108199_RDY",
+          "address": "B13/167",
+          "description": "GR LIQ P199 TO PRE DESILICATION  STREAM1/2 READY",
+          "panel": "762",
+          "tb": "17T2-74/75",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4108199_TRIP",
+          "address": "B13/171",
+          "description": "GR LIQ P199 TO PRE DESILICATION  STREAM 1/2 AUT TRP",
+          "panel": "762",
+          "tb": "17T2-86/87",
+          "rl": "M313-23B-13/14"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4108199_RUN",
+          "address": "B13/170",
+          "description": "GR LIQ P199 TO PRE DESILICATION  STREAM 1/2 RUN",
+          "panel": "762",
+          "tb": "17T2-83/84",
+          "rl": "M313-23B-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "4108199_L",
+          "address": "B14.140",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM1/2 LOCAL ",
+          "panel": "762",
+          "tb": "17T5-25/28",
+          "rl": "29"
+        },
+        {
+          "signal": "START",
+          "tag": "4108199_STR",
+          "address": "B14.128",
+          "description": "GR LIQ P199 TO PRE DESILICATION  STREAM1/2 START",
+          "panel": "762",
+          "tb": "17T4-61/64",
+          "rl": "17"
+        }
+      ]
+    },
+    "TANKAGE-P-200": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "4108200_RDY",
+          "address": "B13/177",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM2 READY",
+          "panel": "762",
+          "tb": "17T3-8/9",
+          "rl": "N-1/2"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4108200_TRIP",
+          "address": "B13/181",
+          "description": "GR LIQ P200 TO PRE DESILICATION  STREAM 2 AUT TRP",
+          "panel": "762",
+          "tb": "17T3-20/21",
+          "rl": "M313-24B-13/14"
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4108200_RUN",
+          "address": "B13/180",
+          "description": "GR LIQ P200 TO PRE DESILICATION  STREAM 2 RUN ",
+          "panel": "762",
+          "tb": "17T3-17/18",
+          "rl": "M313-24B-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "4108200_L",
+          "address": "B14.143",
+          "description": "GR LIQ P198 TO PRE DESILICATION  STREAM 2 LOCAL ",
+          "panel": "762",
+          "tb": "17T5-43/46",
+          "rl": "32"
+        },
+        {
+          "signal": "START",
+          "tag": "4108200_STR",
+          "address": "B14.131",
+          "description": "GR LIQ P200 TO PRE DESILICATION  STREAM2 START ",
+          "panel": "762",
+          "tb": "17T4-79/82",
+          "rl": "20"
+        }
+      ]
+    },
+    "TANKAGE-P-579": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "08PACF579_RDY",
+          "address": "B13/135",
+          "description": "GR LIQ P579  TO DIGESTION STREAM2 READY",
+          "panel": "762",
+          "tb": "17T1-74/75",
+          "rl": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "08PACF579_TRIP",
+          "address": "B13/139",
+          "description": "GR LIQ P579  TO DIGESTION STREAM 2 AUT TRP",
+          "panel": "762",
+          "tb": "17T1-86/87",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF579_RUN",
+          "address": "B13/138",
+          "description": "GR LIQ P579  TO DIGESTION STREAM 2 RUN ",
+          "panel": "762",
+          "tb": "17T1-83/84",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF579_L",
+          "address": "B14.119",
+          "description": "GR LIQ P579  TO DIGESTION STREAM2 LOCAL ",
+          "panel": "762",
+          "tb": "17T6-7/8",
+          "rl": "8"
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF579_STR",
+          "address": "B14.118",
+          "description": "GR LIQ P579  TO DIGESTION STREAM2 START ",
+          "panel": "762",
+          "tb": "17T4-19/22",
+          "rl": "7"
+        }
+      ]
+    },
+    "TANKAGE-P-580": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "08PACF580_RDY",
+          "address": "B13/145",
+          "description": "GR LIQ P580  TO DIGESTION STREAM1/2 READY",
+          "panel": "762",
+          "tb": "17T2-8/9",
+          "rl": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "08PACF580_TRIP",
+          "address": "B13/149",
+          "description": "GR LIQ P580  TO DIGESTION STREAM 1/2 AUT TRP",
+          "panel": "762",
+          "tb": "17T2-20/21",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF580_RUN",
+          "address": "B13/148",
+          "description": "GR LIQ P580  TO DIGESTION STREAM1/2 RUN ",
+          "panel": "762",
+          "tb": "17T2-17/18",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF580_L",
+          "address": "B14.121",
+          "description": "OPEN SOL VLV  STREAM1/2 LOCAL ",
+          "panel": "762",
+          "tb": "17T6-9/10",
+          "rl": "10"
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF580_STR",
+          "address": "B14.120",
+          "description": "GR LIQ P580  TO DIGESTION STREAM1/2 START ",
+          "panel": "762",
+          "tb": "17T4-25/28",
+          "rl": "9"
+        }
+      ]
+    },
+    "TANKAGE-P-581": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "08PACF581_RDY",
+          "address": "B13/151",
+          "description": "GR LIQ P581  TO DIGESTION STREAM1 READY",
+          "panel": "762",
+          "tb": "17T2-26/27",
+          "rl": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "08PACF581_TRIP",
+          "address": "B13/155",
+          "description": "GR LIQ P581  TO DIGESTION STREAM 1 AUT TRP",
+          "panel": "762",
+          "tb": "17T2-38/39",
+          "rl": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF581_RUN",
+          "address": "B13/154",
+          "description": "GR LIQ P581  TO DIGESTION STREAM 1 RUN",
+          "panel": "762",
+          "tb": "17T2-35/36",
+          "rl": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF581_L",
+          "address": "B14.123",
+          "description": "OPEN SOL VLV  STREAM1 LOCAL ",
+          "panel": "762",
+          "tb": "17T6-11/12",
+          "rl": "12"
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF581_STR",
+          "address": "B14.122",
+          "description": "GR LIQ P581  TO DIGESTION STREAM1 START",
+          "panel": "762",
+          "tb": "17T4-31/34",
+          "rl": "11"
         }
       ]
     }
