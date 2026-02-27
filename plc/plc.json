@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T15:05:05.387Z",
+  "updated": "2026-02-27T18:51:53.613Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5281,6 +5281,62 @@
         }
       ]
     },
+    "BAT_E-P-904": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF904_RUN",
+          "address": "N40:5.04",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-14/15",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF904_TRIP",
+          "address": "N40:5.05",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-16/17",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF904_STR",
+          "address": "N41:5.08",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-17/18",
+          "rl": "9",
+          "board": ""
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF904_STP",
+          "address": "N41:5.09",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-19/20",
+          "rl": "10",
+          "board": ""
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF904_LOC",
+          "address": "N41:5.10",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-21/22",
+          "rl": "11",
+          "board": ""
+        }
+      ]
+    },
     "CT_1-P-310": {
       "inputs": [
         {
@@ -5380,7 +5436,7 @@
           "board": "XI-11-12"
         },
         {
-          "signal": "IN LOC",
+          "signal": "TRIP",
           "tag": "4138311_TRIP",
           "address": "I:112.10",
           "description": "CWP311 TO EVAP BAT D/C  AUT TRP ",
@@ -5402,7 +5458,7 @@
           "board": "XI-1-2"
         },
         {
-          "signal": "LOCAL AMMETR",
+          "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
           "description": "LOCAL AMMETR",
@@ -5412,7 +5468,7 @@
           "board": "XI-7-20"
         },
         {
-          "signal": "DCS CURRENT",
+          "signal": "CURRENT",
           "tag": "",
           "address": "",
           "description": "DCS CURRENT",
@@ -5456,7 +5512,7 @@
           "board": "XI-11-12"
         },
         {
-          "signal": "IN LOC",
+          "signal": "TRIP",
           "tag": "4138312_TRIP",
           "address": "I:112.15",
           "description": "CWP312 TO EVAP BAT C  AUT TRP ",
@@ -5478,7 +5534,7 @@
           "board": "XI-1-2"
         },
         {
-          "signal": "LOCAL AMMETR",
+          "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
           "description": "LOCAL AMMETR",
@@ -5488,7 +5544,7 @@
           "board": "XI-7-20"
         },
         {
-          "signal": "DCS CURRENT",
+          "signal": "CURRENT",
           "tag": "",
           "address": "",
           "description": "DCS CURRENT",
@@ -5532,7 +5588,7 @@
           "board": "XI-11-12"
         },
         {
-          "signal": "IN LOC",
+          "signal": "TRIP",
           "tag": "4138313_TRIP",
           "address": "I:113.03",
           "description": "CWP313 TO EVAP BAT B  AUT TRP ",
@@ -5554,7 +5610,7 @@
           "board": "XI-1-2"
         },
         {
-          "signal": "LOCAL AMMETR",
+          "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
           "description": "LOCAL AMMETR",
@@ -5564,7 +5620,7 @@
           "board": "XI-7-20"
         },
         {
-          "signal": "DCS CURRENT",
+          "signal": "CURRENT",
           "tag": "",
           "address": "",
           "description": "DCS CURRENT",
@@ -5608,7 +5664,7 @@
           "board": "XI-11-12"
         },
         {
-          "signal": "IN LOC",
+          "signal": "TRIP",
           "tag": "4138334_TRIP",
           "address": "I:113.10",
           "description": "CWP334 TO EVAP BAT B/A  AUT TRP ",
@@ -5630,7 +5686,7 @@
           "board": "XI-1-2"
         },
         {
-          "signal": "LOCAL AMMETR",
+          "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
           "description": "LOCAL AMMETR",
@@ -5640,7 +5696,7 @@
           "board": "XI-7-20"
         },
         {
-          "signal": "DCS CURRENT",
+          "signal": "CURRENT",
           "tag": "",
           "address": "",
           "description": "DCS CURRENT",
@@ -5684,7 +5740,7 @@
           "board": "XI-11-12"
         },
         {
-          "signal": "IN LOC",
+          "signal": "TRIP",
           "tag": "4138335_TRIP",
           "address": "I:113.15",
           "description": "CWP335 TO EVAP BAT A  AUT TRP ",
@@ -5706,7 +5762,7 @@
           "board": "XI-1-2"
         },
         {
-          "signal": "LOCAL AMMETR",
+          "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
           "description": "LOCAL AMMETR",
@@ -5716,7 +5772,7 @@
           "board": "XI-7-20"
         },
         {
-          "signal": "DCS CURRENT",
+          "signal": "CURRENT",
           "tag": "",
           "address": "",
           "description": "DCS CURRENT",
@@ -6069,6 +6125,158 @@
           "panel": "762",
           "tb": "17T4-31/34",
           "rl": "11",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-780A": {
+      "inputs": [
+        {
+          "signal": "LOC START",
+          "tag": "08PACF780A_LS",
+          "address": "B13/183",
+          "description": "SPT LIQ P780A TO GRINDING  LOC START",
+          "panel": "762",
+          "tb": "17T3-26/27",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF780A_RDY",
+          "address": "B13/182",
+          "description": "SPT LIQ P780A TO GRINDING   READY TO ST",
+          "panel": "762",
+          "tb": "17T3-23/24",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF780A_RUN",
+          "address": "B13/186",
+          "description": "SPT LIQ P780A TO GRINDING RUN ",
+          "panel": "762",
+          "tb": "17T3-35/36",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF780A_RUN",
+          "address": "B13/186",
+          "description": "SPT LIQ P780A TO GRINDING RUN ",
+          "panel": "762",
+          "tb": "17T3-35/36",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "08PACF780A_TRIP",
+          "address": "B13/187",
+          "description": "SPT LIQ P780A TO GRINDING AUT TRP ",
+          "panel": "762",
+          "tb": "17T3-38/39",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PACF780A_STR",
+          "address": "B14.132",
+          "description": "SPT LIQ P780A TO GRINDING  START",
+          "panel": "762",
+          "tb": "17T5-1/4",
+          "rl": "21",
+          "board": ""
+        },
+        {
+          "signal": "",
+          "tag": "08-PM-CF-780A",
+          "address": "",
+          "description": "CURRENT",
+          "panel": "RZ4-61-62",
+          "tb": "T4-23-24",
+          "rl": "TB-27/28",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-780B": {
+      "inputs": [
+        {
+          "signal": "LOC START",
+          "tag": "08PACF780B_LS",
+          "address": "B13/189",
+          "description": "SPT LIQ P780B TO GRINDING  LOC START",
+          "panel": "762",
+          "tb": "17T3-44/45",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF780B_RDY",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF780B_RUN",
+          "address": "B13/192",
+          "description": "SPT LIQ P780B TO GRINDING RUN ",
+          "panel": "762",
+          "tb": "17T3-53/54",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF780B_RUN",
+          "address": "B13/192",
+          "description": "SPT LIQ P780B TO GRINDING RUN ",
+          "panel": "762",
+          "tb": "17T3-53/54",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "08PACF780B_TRIP",
+          "address": "B13/193",
+          "description": "SPT LIQ P780B TO GRINDING AUT TRP ",
+          "panel": "762",
+          "tb": "17T3-56/57",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PACF780B_STR",
+          "address": "B14.134",
+          "description": "SPT LIQ P780B TO GRINDING  START",
+          "panel": "762",
+          "tb": "17T5-7/10",
+          "rl": "23",
+          "board": ""
+        },
+        {
+          "signal": "",
+          "tag": "08-PM-CF-780B",
+          "address": "",
+          "description": "CURRENT",
+          "panel": "RZ4-65-66",
+          "tb": "T4-25-26",
+          "rl": "TB-27/28",
           "board": ""
         }
       ]
