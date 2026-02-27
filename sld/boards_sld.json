@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T05:44:55.366Z",
+  "updated": "2026-02-27T05:58:49.622Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -258,6 +258,14 @@
           "bus": "A"
         },
         {
+          "position": 3,
+          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
           "position": 4,
           "breakerId": "COMPRESSOR-COMP-50",
           "breakerType": "VCB",
@@ -268,6 +276,14 @@
         {
           "position": 5,
           "breakerId": "COMPRESSOR-COMP-46",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 9,
+          "breakerId": "100A SPARE MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -348,6 +364,30 @@
         {
           "position": 24,
           "breakerId": "CT_2-P-368",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 27,
+          "breakerId": "250A TEST BENCH FDR SPARE",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 28,
+          "breakerId": "50A SPARE MOTOR FDR",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 29,
+          "breakerId": "ERS TEST BENCH 250A",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
