@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T14:31:49.549Z",
+  "updated": "2026-02-27T16:50:49.226Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -388,6 +388,175 @@
         {
           "position": 29,
           "breakerId": "ERS TEST BENCH 250A",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        }
+      ]
+    },
+    "US-08EX-254-HT-BOARD": {
+      "boardId": "US-08EX-254-HT-BOARD",
+      "topology": {
+        "totalIncomers": 2,
+        "gridIncomers": 2,
+        "dgIncomers": 0,
+        "emergencyIncomers": 0,
+        "hasBusCoupler": true,
+        "busSections": [
+          "A"
+        ]
+      },
+      "incomers": [
+        {
+          "position": 8,
+          "breakerId": "US-08EX-2307-HT-254",
+          "breakerType": "VCB",
+          "source": "TR-2307",
+          "transformer": "Transformer-2307",
+          "bus": "A"
+        },
+        {
+          "position": 12,
+          "breakerId": "US-08EX-2308-HT-254",
+          "breakerType": "VCB",
+          "source": "TR-2308",
+          "transformer": "Transformer-2308",
+          "bus": "A"
+        }
+      ],
+      "dgIncomers": [],
+      "emergencyIncomers": [],
+      "busCouplers": [
+        {
+          "position": 10,
+          "breakerId": "US-08EX-BC-HT-254",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        }
+      ],
+      "busPT": [
+        {
+          "position": 7,
+          "breakerId": "BUS PT-1",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 11,
+          "breakerId": "BUS PT-2",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        }
+      ],
+      "linePT": [
+        {
+          "position": 9,
+          "breakerId": "LPT-1",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 13,
+          "breakerId": "LPT-2",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        }
+      ],
+      "outgoings": [
+        {
+          "position": 1,
+          "breakerId": "spare",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 2,
+          "breakerId": "spare",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 3,
+          "breakerId": "COMPRESSOR-COMP-1001",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 4,
+          "breakerId": "TANKAGE-P-1140B",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 5,
+          "breakerId": "CT_1-P-1163B",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 6,
+          "breakerId": "CT_1-P-1163C",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 14,
+          "breakerId": "TANKAGE-P-1140A",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 15,
+          "breakerId": "CT_1-P-1163A",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 16,
+          "breakerId": "CT_1-P-1167",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 17,
+          "breakerId": "COMPRESSOR-COMP-1002",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 18,
+          "breakerId": "COMPRESSOR-COMP-1003",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
