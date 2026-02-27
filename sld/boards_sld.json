@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T05:16:56.288Z",
+  "updated": "2026-02-27T05:44:55.366Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -153,7 +153,7 @@
       "incomers": [
         {
           "position": 6,
-          "breakerId": "",
+          "breakerId": "US-13-2139-HT-239",
           "breakerType": "VCB",
           "source": "TR-2139",
           "transformer": "TR-2139 1200A",
@@ -161,7 +161,7 @@
         },
         {
           "position": 19,
-          "breakerId": "",
+          "breakerId": "US-13-2140-HT-239",
           "breakerType": "VCB",
           "source": "TR-2140",
           "transformer": "TR-2140 1200A",
@@ -169,7 +169,7 @@
         },
         {
           "position": 25,
-          "breakerId": "",
+          "breakerId": "US-13-2141-HT-239",
           "breakerType": "VCB",
           "source": "TR-2141",
           "transformer": "TR-2141 1200A",
@@ -181,15 +181,65 @@
       "busCouplers": [
         {
           "position": 10,
-          "breakerId": "",
+          "breakerId": "US-13-BC1-HT-239",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 20,
+          "breakerId": "US-13-BC2-HT-239",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
           "bus": "A"
         }
       ],
-      "busPT": [],
-      "linePT": [],
+      "busPT": [
+        {
+          "position": 8,
+          "breakerId": "BUS PT-1 150VA",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 11,
+          "breakerId": "BUS RISER CUM\n BUS PT-2",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 21,
+          "breakerId": "BUS RISER CUM BUS PT-3 150VA",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        }
+      ],
+      "linePT": [
+        {
+          "position": 7,
+          "breakerId": "LINE PT-1",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 26,
+          "breakerId": "LINE PT-3",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        }
+      ],
       "outgoings": [
         {
           "position": 1,
@@ -202,6 +252,102 @@
         {
           "position": 2,
           "breakerId": "COMPRESSOR-COMP-701",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 4,
+          "breakerId": "COMPRESSOR-COMP-50",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 5,
+          "breakerId": "COMPRESSOR-COMP-46",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 12,
+          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 13,
+          "breakerId": "50A SPARE MOTOR FDR",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 14,
+          "breakerId": "COMPRESSOR-COMP-502",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 15,
+          "breakerId": "COMPRESSOR-COMP-45",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 16,
+          "breakerId": "CT_2-P-367",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 17,
+          "breakerId": "COMPRESSOR-COMP-51",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 18,
+          "breakerId": "LINE PT-2 150VA",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 22,
+          "breakerId": "COMPRESSOR-COMP-702",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 23,
+          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": "A"
+        },
+        {
+          "position": 24,
+          "breakerId": "CT_2-P-368",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
