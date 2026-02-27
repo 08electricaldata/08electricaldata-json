@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T11:05:06.885Z",
+  "updated": "2026-02-27T15:05:02.792Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -2616,66 +2616,6 @@
     },
     {
       "id": "PROJECT-SODIC-COND",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-LAB",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-OXALATE",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-08E",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-08E-CC",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-08E-STORE",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-08EX",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-08EX-CC",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-08EX-STORE",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-10",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-10-STORE",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-10-VFD",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-13",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-15",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-18",
-      "drawings": []
-    },
-    {
-      "id": "SUBSTATION-US-20",
       "drawings": []
     },
     {
