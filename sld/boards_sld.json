@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T16:50:49.226Z",
+  "updated": "2026-02-27T17:03:41.949Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -259,7 +259,7 @@
         },
         {
           "position": 3,
-          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerId": "100A SPARE-MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -283,7 +283,7 @@
         },
         {
           "position": 9,
-          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerId": "100A SPARE-MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -291,7 +291,7 @@
         },
         {
           "position": 12,
-          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerId": "100A SPARE-MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -299,7 +299,7 @@
         },
         {
           "position": 13,
-          "breakerId": "50A SPARE MOTOR FDR",
+          "breakerId": "50A SPARE-MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -355,7 +355,7 @@
         },
         {
           "position": 23,
-          "breakerId": "100A SPARE MOTOR FDR",
+          "breakerId": "100A SPARE-MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -371,7 +371,7 @@
         },
         {
           "position": 27,
-          "breakerId": "250A TEST BENCH FDR SPARE",
+          "breakerId": "250A TEST BENCH-FDR SPARE",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -379,7 +379,7 @@
         },
         {
           "position": 28,
-          "breakerId": "50A SPARE MOTOR FDR",
+          "breakerId": "50A SPARE-MOTOR FDR",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
@@ -387,7 +387,7 @@
         },
         {
           "position": 29,
-          "breakerId": "ERS TEST BENCH 250A",
+          "breakerId": "ERS TEST-BENCH 250A",
           "breakerType": "VCB",
           "source": "BUS",
           "transformer": "",
