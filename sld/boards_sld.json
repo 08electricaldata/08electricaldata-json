@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T05:59:19.101Z",
+  "updated": "2026-02-27T14:31:13.462Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -155,24 +155,24 @@
           "position": 6,
           "breakerId": "US-13-2139-HT-239",
           "breakerType": "VCB",
-          "source": "TR-2139",
-          "transformer": "TR-2139 1200A",
+          "source": "TR-2139 1200A",
+          "transformer": "Transformer-2139",
           "bus": "A"
         },
         {
           "position": 19,
           "breakerId": "US-13-2140-HT-239",
           "breakerType": "VCB",
-          "source": "TR-2140",
-          "transformer": "TR-2140 1200A",
+          "source": "TR-2140. 1200A",
+          "transformer": "Transformer-2140",
           "bus": "A"
         },
         {
           "position": 25,
           "breakerId": "US-13-2141-HT-239",
           "breakerType": "VCB",
-          "source": "TR-2141",
-          "transformer": "TR-2141 1200A",
+          "source": "TR-2141. 1200A",
+          "transformer": "Transformer-2141",
           "bus": "A"
         }
       ],
