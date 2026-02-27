@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-21T02:42:14.809Z",
+  "updated": "2026-02-27T05:12:51.099Z",
   "boards": {
     "US-08E-244-HT-BOARD": {
       "boardId": "US-08E-244-HT-BOARD",
@@ -135,6 +135,75 @@
           "source": "BUS",
           "transformer": "",
           "bus": "A"
+        }
+      ]
+    },
+    "US-13-239-HT-BOARD": {
+      "boardId": "US-13-239-HT-BOARD",
+      "topology": {
+        "totalIncomers": 3,
+        "gridIncomers": 3,
+        "dgIncomers": 0,
+        "emergencyIncomers": 0,
+        "hasBusCoupler": true,
+        "busSections": []
+      },
+      "incomers": [
+        {
+          "position": 6,
+          "breakerId": "",
+          "breakerType": "VCB",
+          "source": "TR-2139",
+          "transformer": "TR-2139 1200A",
+          "bus": ""
+        },
+        {
+          "position": 19,
+          "breakerId": "",
+          "breakerType": "VCB",
+          "source": "TR-2140",
+          "transformer": "TR-2140 1200A",
+          "bus": ""
+        },
+        {
+          "position": 25,
+          "breakerId": "",
+          "breakerType": "VCB",
+          "source": "TR-2141",
+          "transformer": "TR-2141 1200A",
+          "bus": ""
+        }
+      ],
+      "dgIncomers": [],
+      "emergencyIncomers": [],
+      "busCouplers": [
+        {
+          "position": 10,
+          "breakerId": "",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": ""
+        }
+      ],
+      "busPT": [],
+      "linePT": [],
+      "outgoings": [
+        {
+          "position": 1,
+          "breakerId": "COMPRESSOR_COMP-501",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": ""
+        },
+        {
+          "position": 2,
+          "breakerId": "COMPRESSOR_COMP-701",
+          "breakerType": "VCB",
+          "source": "BUS",
+          "transformer": "",
+          "bus": ""
         }
       ]
     }
