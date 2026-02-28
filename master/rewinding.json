@@ -1,44 +1,8 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-02-28T17:21:52.180Z",
-  "totalRecords": 47,
+  "updated": "2026-02-28T17:29:36.875Z",
+  "totalRecords": 40,
   "data": [
-    {
-      "W.O No": "454/27.09.19",
-      "kW": "1Ph",
-      "Make": "Bemco",
-      "Frame Size": "Siron",
-      "Mounting": "B3",
-      "RPM": 2900,
-      "Sl No": "NA",
-      "Voltage": "230",
-      "Equipment details": "SIREN",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 2
-    },
-    {
-      "W.O No": "008/08.04.20",
-      "kW": 75,
-      "Make": "WEG",
-      "Frame Size": "280S",
-      "Mounting": "B3",
-      "RPM": 1480,
-      "Sl No": "NA",
-      "Voltage": "415",
-      "Equipment details": "CT-1001D P-906 BAT-E",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 3
-    },
     {
       "W.O No": "455/21.09.20",
       "kW": 1.1,
@@ -55,7 +19,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 37,
-      "rowNumber": 4
+      "rowNumber": 2
     },
     {
       "W.O No": "766/13.01.21",
@@ -73,7 +37,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 28,
-      "rowNumber": 5
+      "rowNumber": 3
     },
     {
       "W.O No": "103/28.05.21",
@@ -91,7 +55,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 31,
-      "rowNumber": 6
+      "rowNumber": 4
     },
     {
       "W.O No": "112/05.06.21",
@@ -109,25 +73,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 38,
-      "rowNumber": 7
-    },
-    {
-      "W.O No": "339/24.08.21",
-      "kW": "Siron",
-      "Make": "BEMCO",
-      "Frame Size": "",
-      "Mounting": "",
-      "RPM": 1500,
-      "Sl No": "NA",
-      "Voltage": 250,
-      "Equipment details": "CONV-46 L/H",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 8
+      "rowNumber": 5
     },
     {
       "W.O No": "343/26.08.21",
@@ -145,25 +91,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 34,
-      "rowNumber": 9
-    },
-    {
-      "W.O No": "350/27.08.21",
-      "kW": 110,
-      "Make": "KEC",
-      "Frame Size": "315SM",
-      "Mounting": "B3",
-      "RPM": 1480,
-      "Sl No": "29802039-1",
-      "Voltage": "415",
-      "Equipment details": "P#211 BAT-C",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 10
+      "rowNumber": 6
     },
     {
       "W.O No": "353/30.08.21",
@@ -181,7 +109,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 42,
-      "rowNumber": 11
+      "rowNumber": 7
     },
     {
       "W.O No": "419/21.09.21",
@@ -199,7 +127,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 30,
-      "rowNumber": 12
+      "rowNumber": 8
     },
     {
       "W.O No": "841/02.03.22",
@@ -217,25 +145,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "UP",
       "PRIORITY": "",
-      "rowNumber": 13
-    },
-    {
-      "W.O No": "072/07.05.22",
-      "kW": 280,
-      "Make": "MARATHON",
-      "Frame Size": 355,
-      "Mounting": "B3",
-      "RPM": 1480,
-      "Sl No": "EP186324/1",
-      "Voltage": "6600",
-      "Equipment details": "P#1140A",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 14
+      "rowNumber": 9
     },
     {
       "W.O No": "187/20.06.22",
@@ -253,7 +163,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 40,
-      "rowNumber": 15
+      "rowNumber": 10
     },
     {
       "W.O No": "423/27.09.22",
@@ -271,7 +181,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 7,
-      "rowNumber": 16
+      "rowNumber": 11
     },
     {
       "W.O No": "461/13.10.22",
@@ -289,7 +199,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 20,
-      "rowNumber": 17
+      "rowNumber": 12
     },
     {
       "W.O No": "491/27.10.22",
@@ -307,7 +217,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 13,
-      "rowNumber": 18
+      "rowNumber": 13
     },
     {
       "W.O No": "591/20.12.22",
@@ -325,7 +235,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 22,
-      "rowNumber": 19
+      "rowNumber": 14
     },
     {
       "W.O No": "614/03.01.23",
@@ -343,7 +253,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 25,
-      "rowNumber": 20
+      "rowNumber": 15
     },
     {
       "W.O No": "670/23.01.23",
@@ -361,7 +271,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 41,
-      "rowNumber": 21
+      "rowNumber": 16
     },
     {
       "W.O No": "684/31.01.23",
@@ -379,7 +289,7 @@
       "Motor Location\nUpdate On": "URGENT",
       "Job Completion Date": "UP",
       "PRIORITY": 1,
-      "rowNumber": 22
+      "rowNumber": 17
     },
     {
       "W.O No": "829/30.03.23",
@@ -397,7 +307,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 17,
-      "rowNumber": 23
+      "rowNumber": 18
     },
     {
       "W.O No": "835/31.10.23",
@@ -415,7 +325,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 14,
-      "rowNumber": 24
+      "rowNumber": 19
     },
     {
       "W.O No": "031/13.04.23",
@@ -433,7 +343,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 39,
-      "rowNumber": 25
+      "rowNumber": 20
     },
     {
       "W.O No": "057/19.04.23",
@@ -451,7 +361,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 18,
-      "rowNumber": 26
+      "rowNumber": 21
     },
     {
       "W.O No": "097/10.05.23",
@@ -469,7 +379,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 36,
-      "rowNumber": 27
+      "rowNumber": 22
     },
     {
       "W.O No": "122/22.05.23",
@@ -487,25 +397,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 6,
-      "rowNumber": 28
-    },
-    {
-      "W.O No": "144/01.06.23",
-      "kW": 132,
-      "Make": "NGEF",
-      "Frame Size": "AMW31514H1",
-      "Mounting": "B3",
-      "RPM": 1490,
-      "Sl No": "146 128 03",
-      "Voltage": "415",
-      "Equipment details": "P#231/232(BAT-A,B, C,D)",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 29
+      "rowNumber": 23
     },
     {
       "W.O No": "248/12.07.23",
@@ -523,7 +415,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 10,
-      "rowNumber": 30
+      "rowNumber": 24
     },
     {
       "W.O No": "524/27.10.23",
@@ -541,25 +433,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 5,
-      "rowNumber": 31
-    },
-    {
-      "W.O No": "587/25.11.23",
-      "kW": "",
-      "Make": "KHERAJ",
-      "Frame Size": "",
-      "Mounting": "B3",
-      "RPM": "2900",
-      "Sl No": "NA",
-      "Voltage": "230",
-      "Equipment details": "SIREN",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "M BARIK",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "SCRAP",
-      "PRIORITY": "",
-      "rowNumber": 32
+      "rowNumber": 25
     },
     {
       "W.O No": "591/25.11.23",
@@ -577,7 +451,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 15,
-      "rowNumber": 33
+      "rowNumber": 26
     },
     {
       "W.O No": "603/04.12.23",
@@ -595,7 +469,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 16,
-      "rowNumber": 34
+      "rowNumber": 27
     },
     {
       "W.O No": "765/24.02.24",
@@ -613,7 +487,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 35,
-      "rowNumber": 35
+      "rowNumber": 28
     },
     {
       "W.O No": "138/21.05.24",
@@ -631,7 +505,7 @@
       "Motor Location\nUpdate On": "MEDIUM",
       "Job Completion Date": "NS",
       "PRIORITY": 8,
-      "rowNumber": 36
+      "rowNumber": 29
     },
     {
       "W.O No": "199/18.06.24",
@@ -649,7 +523,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": 24,
-      "rowNumber": 37
+      "rowNumber": 30
     },
     {
       "W.O No": "261/09.07.24",
@@ -667,7 +541,7 @@
       "Motor Location\nUpdate On": "MEDIUM",
       "Job Completion Date": "NS",
       "PRIORITY": 27,
-      "rowNumber": 38
+      "rowNumber": 31
     },
     {
       "W.O No": "279/17.07.24",
@@ -685,7 +559,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": 9,
-      "rowNumber": 39
+      "rowNumber": 32
     },
     {
       "W.O No": "459/25.09.24",
@@ -703,7 +577,7 @@
       "Motor Location\nUpdate On": "MEDIUM",
       "Job Completion Date": "NS",
       "PRIORITY": 4,
-      "rowNumber": 40
+      "rowNumber": 33
     },
     {
       "W.O No": "795/22.01.25",
@@ -721,7 +595,7 @@
       "Motor Location\nUpdate On": "URGENT",
       "Job Completion Date": "NS",
       "PRIORITY": 2,
-      "rowNumber": 41
+      "rowNumber": 34
     },
     {
       "W.O No": "233/18.07.25",
@@ -739,7 +613,7 @@
       "Motor Location\nUpdate On": "LOW",
       "Job Completion Date": "NS",
       "PRIORITY": 19,
-      "rowNumber": 42
+      "rowNumber": 35
     },
     {
       "W.O No": "274/01.08.25",
@@ -757,7 +631,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": 12,
-      "rowNumber": 43
+      "rowNumber": 36
     },
     {
       "W.O No": "320/19.08.25",
@@ -775,7 +649,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": 11,
-      "rowNumber": 44
+      "rowNumber": 37
     },
     {
       "W.O No": "393/26.09.25",
@@ -793,7 +667,7 @@
       "Motor Location\nUpdate On": "LOW",
       "Job Completion Date": "NS",
       "PRIORITY": 21,
-      "rowNumber": 45
+      "rowNumber": 38
     },
     {
       "W.O No": "477/28.10.25",
@@ -811,7 +685,7 @@
       "Motor Location\nUpdate On": "LOW",
       "Job Completion Date": "NS",
       "PRIORITY": 23,
-      "rowNumber": 46
+      "rowNumber": 39
     },
     {
       "W.O No": "513/13.11.25",
@@ -829,7 +703,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": 26,
-      "rowNumber": 47
+      "rowNumber": 40
     },
     {
       "W.O No": "572/01.12.25",
@@ -847,7 +721,7 @@
       "Motor Location\nUpdate On": "URGENT",
       "Job Completion Date": "NS",
       "PRIORITY": 3,
-      "rowNumber": 48
+      "rowNumber": 41
     }
   ]
 }
