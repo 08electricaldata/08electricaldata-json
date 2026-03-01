@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T11:05:26.476Z",
+  "updated": "2026-03-01T15:05:29.024Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5333,6 +5333,286 @@
           "panel": "779",
           "tb": "21T3-21/22",
           "rl": "11",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-1001A": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38CT1001A_RUN",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38CT1001A_TRP",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38CT1001A_RDY",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38CT1001A_STR",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38CT1001A_LOC",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-F001": {
+      "inputs": [
+        {
+          "signal": "OIL LEVEL SWITCH",
+          "tag": "4138F001_OLS",
+          "address": "I:122.04",
+          "description": "FAN-001 CT-1 COOLING TOWER OIL LEVEL SWITCH",
+          "panel": "766",
+          "tb": "19T2-78/79",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4138F001_LS",
+          "address": "I:122.05",
+          "description": "FAN-001 CT-1 COOLING TOWER LOCAL START",
+          "panel": "766",
+          "tb": "19T2-80/81",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4138F001_RUN",
+          "address": "I:122.06",
+          "description": "FAN-001 CT-1 COOLING TOWER RUN",
+          "panel": "766",
+          "tb": "19T2-82/83",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4138F001_TRIP",
+          "address": "I:122.07",
+          "description": "FAN-001 CT-1 COOLING TOWER TRIP",
+          "panel": "766",
+          "tb": "19T2-84/85",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START O/P",
+          "tag": "4138F001_STR",
+          "address": "O:121.11",
+          "description": "FAN-001 CT-1 COOLING TOWER START",
+          "panel": "766",
+          "tb": "19T5-31/34",
+          "rl": "26",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-F002": {
+      "inputs": [
+        {
+          "signal": "OIL LEVEL SWITCH",
+          "tag": "4138F002_OLS",
+          "address": "I:122.14",
+          "description": "FAN-002 CT-1 COOLING TOWER OIL LEVEL SWITCH",
+          "panel": "766",
+          "tb": "19T2-94/95",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4138F002_LS",
+          "address": "I:122.15",
+          "description": "FAN-002 CT-1 COOLING TOWER LOCAL START",
+          "panel": "766",
+          "tb": "19T2-96/97",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4138F002_RUN",
+          "address": "I:122.16",
+          "description": "FAN-002 CT-1 COOLING TOWER RUN",
+          "panel": "766",
+          "tb": "19T2-98/99",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4138F002_TRIP",
+          "address": "I:122.17",
+          "description": "FAN-002 CT-1 COOLING TOWER TRIP",
+          "panel": "766",
+          "tb": "19T2-100/101",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START O/P",
+          "tag": "4138F002_STR",
+          "address": "O:121.13",
+          "description": "FAN-002 CT-1 COOLING TOWER START",
+          "panel": "766",
+          "tb": "19T5-43/46",
+          "rl": "28",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-F003": {
+      "inputs": [
+        {
+          "signal": "OIL LEVEL SWITCH",
+          "tag": "4138F003_OLS",
+          "address": "I:122.00",
+          "description": "FAN-003 CT-1 COOLING TOWER OIL LEVEL SWITCH",
+          "panel": "766",
+          "tb": "19T2-70/71",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4138F003_LS",
+          "address": "I:122.01",
+          "description": "FAN-003 CT-1 COOLING TOWER LOCAL START",
+          "panel": "766",
+          "tb": "19T2-72/73",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4138F003_RUN",
+          "address": "I:122.02",
+          "description": "FAN-003 CT-1 COOLING TOWER RUN",
+          "panel": "766",
+          "tb": "19T2-74/75",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4138F003_TRIP",
+          "address": "I:122.03",
+          "description": "FAN-003 CT-1 COOLING TOWER TRIP",
+          "panel": "766",
+          "tb": "19T2-76/77",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START O/P",
+          "tag": "4138F003_STR",
+          "address": "O:121.10",
+          "description": "FAN-003 CT-1 COOLING TOWER START",
+          "panel": "766",
+          "tb": "19T5-25/28",
+          "rl": "25",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-F004": {
+      "inputs": [
+        {
+          "signal": "OIL LEVEL SWITCH",
+          "tag": "4138F004_OLS",
+          "address": "I:122.10",
+          "description": "FAN-004 CT-1 COOLING TOWER OIL LEVEL SWITCH",
+          "panel": "766",
+          "tb": "19T2-86/87",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4138F004_LS",
+          "address": "I:122.11",
+          "description": "FAN-004 CT-1 COOLING TOWER LOCAL START",
+          "panel": "766",
+          "tb": "19T2-88/89",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4138F004_RUN",
+          "address": "I:122.12",
+          "description": "FAN-004 CT-1 COOLING TOWER RUN",
+          "panel": "766",
+          "tb": "19T2-90/91",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4138F004_TRIP",
+          "address": "I:122.13",
+          "description": "FAN-004 CT-1 COOLING TOWER TRIP",
+          "panel": "766",
+          "tb": "19T2-92/93",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START O/P",
+          "tag": "4138F004_STR",
+          "address": "O:121.12",
+          "description": "FAN-004 CT-1 COOLING TOWER START",
+          "panel": "766",
+          "tb": "19T5-37/40",
+          "rl": "27",
           "board": ""
         }
       ]
