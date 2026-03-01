@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-01T15:05:29.024Z",
+  "updated": "2026-03-01T18:51:25.974Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5343,31 +5343,31 @@
           "signal": "RUN",
           "tag": "38CT1001A_RUN",
           "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "description": "38CT1001A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 131 / 132",
           "rl": "",
-          "board": ""
+          "board": "X-17/18"
         },
         {
           "signal": "TRIP",
           "tag": "38CT1001A_TRP",
           "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "description": "38CT1001A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 129 / 130",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
         },
         {
           "signal": "READY",
           "tag": "38CT1001A_RDY",
           "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "description": "38CT1001A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 133 / 134",
           "rl": "",
-          "board": ""
+          "board": "X-21/22"
         }
       ],
       "outputs": [
@@ -5375,21 +5375,189 @@
           "signal": "START",
           "tag": "38CT1001A_STR",
           "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
-          "board": ""
+          "description": "38CT1001A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 65 / 66",
+          "rl": "3R33",
+          "board": "XA-2/3"
         },
         {
           "signal": "LOCAL/REMOTE",
           "tag": "38CT1001A_LOC",
           "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "description": "38CT1001A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 67 / 68",
+          "rl": "3R34",
+          "board": "XA-4/5"
+        }
+      ]
+    },
+    "CT_1-1001B": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38CT1001B_RUN",
+          "address": "",
+          "description": "38CT1001B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 137 / 138",
           "rl": "",
-          "board": ""
+          "board": "X-17/18"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38CT1001B_TRP",
+          "address": "",
+          "description": "38CT1001B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 135 / 136",
+          "rl": "",
+          "board": "X-19/20"
+        },
+        {
+          "signal": "READY",
+          "tag": "38CT1001B_RDY",
+          "address": "",
+          "description": "38CT1001B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 139 / 140",
+          "rl": "",
+          "board": "X-21/22"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38CT1001B_STR",
+          "address": "",
+          "description": "38CT1001B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 69 / 70",
+          "rl": "3R35",
+          "board": "XA-2/3"
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38CT1001B_LOC",
+          "address": "",
+          "description": "38CT1001B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 71 / 72",
+          "rl": "3R36",
+          "board": "XA-4/5"
+        }
+      ]
+    },
+    "CT_1-1001C": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38CT1001C_RUN",
+          "address": "",
+          "description": "38CT1001C RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 143 / 144",
+          "rl": "",
+          "board": "X-17/18"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38CT1001C_TRP",
+          "address": "",
+          "description": "38CT1001C TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 141 / 142",
+          "rl": "",
+          "board": "X-19/20"
+        },
+        {
+          "signal": "READY",
+          "tag": "38CT1001C_RDY",
+          "address": "",
+          "description": "38CT1001C READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 145 / 146",
+          "rl": "",
+          "board": "X-21/22"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38CT1001C_STR",
+          "address": "",
+          "description": "38CT1001C START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 73 / 74",
+          "rl": "3R37",
+          "board": "XA-2/3"
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38CT1001C_LOC",
+          "address": "",
+          "description": "38CT1001C LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 75 / 76",
+          "rl": "3R38",
+          "board": "XA-4/5"
+        }
+      ]
+    },
+    "CT_1-1001D": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38CT1001D_RUN",
+          "address": "",
+          "description": "38CT1001D RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 163 / 164",
+          "rl": "",
+          "board": "X-17/18"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38CT1001D_TRP",
+          "address": "",
+          "description": "38CT1001D TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 161 / 162",
+          "rl": "",
+          "board": "X-19/20"
+        },
+        {
+          "signal": "READY",
+          "tag": "38CT1001D_RDY",
+          "address": "",
+          "description": "38CT1001D READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 165 / 166",
+          "rl": "",
+          "board": "X-21/22"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38CT1001D_STR",
+          "address": "",
+          "description": "38CT1001D START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 81 / 82",
+          "rl": "3R41",
+          "board": "XA-2/3"
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38CT1001D_LOC",
+          "address": "",
+          "description": "38CT1001D LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 83 / 84",
+          "rl": "3R42",
+          "board": "XA-4/5"
         }
       ]
     },
@@ -5617,6 +5785,286 @@
         }
       ]
     },
+    "CT_1-P-1163A": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1163A_RUN",
+          "address": "",
+          "description": "38PU1163A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 169 / 170",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1163A_TRP",
+          "address": "",
+          "description": "38PU1163A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 167 / 168",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1163A_RDY",
+          "address": "",
+          "description": "38PU1163A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 171 / 172",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1163A_STR",
+          "address": "",
+          "description": "38PU1163A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 85 / 86",
+          "rl": "3R43",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1163A_LOC",
+          "address": "",
+          "description": "38PU1163A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 87 / 88",
+          "rl": "3R44",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-P-1163B": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1163B_RUN",
+          "address": "",
+          "description": "38PU1163B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 175 / 176",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1163B_TRP",
+          "address": "",
+          "description": "38PU1163B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 173 / 174",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1163B_RDY",
+          "address": "",
+          "description": "38PU1163B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 177 / 178",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1163B_STR",
+          "address": "",
+          "description": "38PU1163B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 89 / 90",
+          "rl": "3R45",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1163B_LOC",
+          "address": "",
+          "description": "38PU1163B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 91 / 92",
+          "rl": "3R46",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-P-1163C": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1163C_RUN",
+          "address": "",
+          "description": "38PU1163C RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 181 / 182",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1163C_TRP",
+          "address": "",
+          "description": "38PU1163C TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 179 / 180",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1163C_RDY",
+          "address": "",
+          "description": "38PU1163C READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 183 / 184",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1163C_STR",
+          "address": "",
+          "description": "38PU1163C START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 97 / 98",
+          "rl": "3R49",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1163C_LOC",
+          "address": "",
+          "description": "38PU1163C LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 99 / 100",
+          "rl": "3R50",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-P-1166": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1166_RUN",
+          "address": "",
+          "description": "38PU1166 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 149 / 150",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1166_TRP",
+          "address": "",
+          "description": "38PU1166 TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 147 / 148",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1166_RDY",
+          "address": "",
+          "description": "38PU1166 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 151 / 152",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1166_STR",
+          "address": "",
+          "description": "38PU1166 START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 77 / 78",
+          "rl": "3R39",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1166_LOC",
+          "address": "",
+          "description": "38PU1166 LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 79 / 80",
+          "rl": "3R40",
+          "board": ""
+        }
+      ]
+    },
+    "CT_1-P-1167": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1167_RUN",
+          "address": "",
+          "description": "38PU1167 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 233 / 234",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1167_TRP",
+          "address": "",
+          "description": "38PU1167 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 231 / 232",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1167_RDY",
+          "address": "",
+          "description": "38PU1167 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 235 / 236",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1167_STR",
+          "address": "",
+          "description": "38PU1167 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 149 / 150",
+          "rl": "3R75",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1167_LOC",
+          "address": "",
+          "description": "38PU1167 LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 151 / 152",
+          "rl": "3R76",
+          "board": ""
+        }
+      ]
+    },
     "CT_1-P-310": {
       "inputs": [
         {
@@ -5665,9 +6113,9 @@
           "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "LOCAL AMMETR",
-          "panel": "766",
-          "tb": "19T4-5/6",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-7-20"
         },
@@ -5675,9 +6123,9 @@
           "signal": "CURRENT",
           "tag": "",
           "address": "",
-          "description": "DCS CURRENT",
-          "panel": "--",
-          "tb": "TD-14-66",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-20-8"
         },
@@ -5685,7 +6133,7 @@
           "signal": "SPACE HEATER",
           "tag": "",
           "address": "",
-          "description": "SPACE HEATER",
+          "description": "",
           "panel": "",
           "tb": "",
           "rl": "",
@@ -5741,9 +6189,9 @@
           "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "LOCAL AMMETR",
-          "panel": "766",
-          "tb": "19T4-11/12",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-7-20"
         },
@@ -5751,9 +6199,9 @@
           "signal": "CURRENT",
           "tag": "",
           "address": "",
-          "description": "DCS CURRENT",
-          "panel": "--",
-          "tb": "TD-14-67",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-20-8"
         },
@@ -5761,7 +6209,7 @@
           "signal": "SPACE HEATER",
           "tag": "",
           "address": "",
-          "description": "SPACE HEATER",
+          "description": "",
           "panel": "",
           "tb": "",
           "rl": "",
@@ -5817,9 +6265,9 @@
           "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "LOCAL AMMETR",
-          "panel": "766",
-          "tb": "19T4-17/18",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-7-20"
         },
@@ -5827,9 +6275,9 @@
           "signal": "CURRENT",
           "tag": "",
           "address": "",
-          "description": "DCS CURRENT",
+          "description": "",
           "panel": "",
-          "tb": "TD-14-68",
+          "tb": "",
           "rl": "",
           "board": "XI-20-8"
         },
@@ -5837,7 +6285,7 @@
           "signal": "SPACE HEATER",
           "tag": "",
           "address": "",
-          "description": "SPACE HEATER",
+          "description": "",
           "panel": "",
           "tb": "",
           "rl": "",
@@ -5893,9 +6341,9 @@
           "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "LOCAL AMMETR",
-          "panel": "766",
-          "tb": "19T4-23/24",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-7-20"
         },
@@ -5903,9 +6351,9 @@
           "signal": "CURRENT",
           "tag": "",
           "address": "",
-          "description": "DCS CURRENT",
+          "description": "",
           "panel": "",
-          "tb": "TD-14-69",
+          "tb": "",
           "rl": "",
           "board": "XI-20-8"
         },
@@ -5913,7 +6361,7 @@
           "signal": "SPACE HEATER",
           "tag": "",
           "address": "",
-          "description": "SPACE HEATER",
+          "description": "",
           "panel": "",
           "tb": "",
           "rl": "",
@@ -5969,9 +6417,9 @@
           "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "LOCAL AMMETR",
-          "panel": "766",
-          "tb": "19T4-29/30",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-7-20"
         },
@@ -5979,9 +6427,9 @@
           "signal": "CURRENT",
           "tag": "",
           "address": "",
-          "description": "DCS CURRENT",
+          "description": "",
           "panel": "",
-          "tb": "TD14-70",
+          "tb": "",
           "rl": "",
           "board": "XI-20-8"
         },
@@ -5989,7 +6437,7 @@
           "signal": "SPACE HEATER",
           "tag": "",
           "address": "",
-          "description": "SPACE HEATER",
+          "description": "",
           "panel": "",
           "tb": "",
           "rl": "",
@@ -6045,9 +6493,9 @@
           "signal": "LOCAL AMMETER",
           "tag": "",
           "address": "",
-          "description": "LOCAL AMMETR",
-          "panel": "766",
-          "tb": "19T4-35/36",
+          "description": "",
+          "panel": "",
+          "tb": "",
           "rl": "",
           "board": "XI-7-20"
         },
@@ -6055,9 +6503,9 @@
           "signal": "CURRENT",
           "tag": "",
           "address": "",
-          "description": "DCS CURRENT",
+          "description": "",
           "panel": "",
-          "tb": "TD14-71",
+          "tb": "",
           "rl": "",
           "board": "XI-20-8"
         },
@@ -6065,11 +6513,235 @@
           "signal": "SPACE HEATER",
           "tag": "",
           "address": "",
-          "description": "SPACE HEATER",
+          "description": "",
           "panel": "",
           "tb": "",
           "rl": "",
           "board": "XI-9-10"
+        }
+      ]
+    },
+    "CT_2-P-1160A": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1160A_RUN",
+          "address": "",
+          "description": "38PU1160A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 213 / 214",
+          "rl": "",
+          "board": "X-17/18"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1160A_TRP",
+          "address": "",
+          "description": "38PU1160A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 211 / 212",
+          "rl": "",
+          "board": "X-19/20"
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1160A_RDY",
+          "address": "",
+          "description": "38PU1160A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 215 / 216",
+          "rl": "",
+          "board": "X-21/22"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1160A_STR",
+          "address": "",
+          "description": "38PU1160A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 113 / 114",
+          "rl": "3R57",
+          "board": "XA-2/3"
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1160A_LOC",
+          "address": "",
+          "description": "38PU1160A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 115 / 116",
+          "rl": "3R58",
+          "board": "XA-4/5"
+        }
+      ]
+    },
+    "CT_2-P-1160B": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1161A_RUN",
+          "address": "",
+          "description": "38PU1161A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 233 / 234",
+          "rl": "",
+          "board": "X-17/18"
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1161A_TRP",
+          "address": "",
+          "description": "38PU1161A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 231 / 232",
+          "rl": "",
+          "board": "X-19/20"
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1161A_RDY",
+          "address": "",
+          "description": "38PU1161A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 235 / 236",
+          "rl": "",
+          "board": "X-21/22"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1161A_STR",
+          "address": "",
+          "description": "38PU1161A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 121 / 122",
+          "rl": "3R61",
+          "board": "XA-2/3"
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1161A_LOC",
+          "address": "",
+          "description": "38PU1161A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 123 / 124",
+          "rl": "3R62",
+          "board": "XA-4/5"
+        }
+      ]
+    },
+    "CT_2-P-1161A": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1161A_RUN",
+          "address": "",
+          "description": "38PU1161A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 233 / 234",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1161A_TRP",
+          "address": "",
+          "description": "38PU1161A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 231 / 232",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1161A_RDY",
+          "address": "",
+          "description": "38PU1161A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 235 / 236",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1161A_STR",
+          "address": "",
+          "description": "38PU1161A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 121 / 122",
+          "rl": "3R61",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1161A_LOC",
+          "address": "",
+          "description": "38PU1161A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 123 / 124",
+          "rl": "3R62",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-1161B": {
+      "inputs": [
+        {
+          "signal": "RUN",
+          "tag": "38PU1161B_RUN",
+          "address": "",
+          "description": "38PU1161B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 239 / 240",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "38PU1161B_TRP",
+          "address": "",
+          "description": "38PU1161B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 237 / 238",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "38PU1161B_RDY",
+          "address": "",
+          "description": "38PU1161B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 241 / 242",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "38PU1161B_STR",
+          "address": "",
+          "description": "38PU1161B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 129 / 130",
+          "rl": "3R65",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "38PU1161B_LOC",
+          "address": "",
+          "description": "38PU1161B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 131 / 132",
+          "rl": "3R66",
+          "board": ""
         }
       ]
     },
@@ -6477,10 +7149,10 @@
           "signal": "",
           "tag": "08-PM-CF-780A",
           "address": "",
-          "description": "CURRENT",
-          "panel": "RZ4-61-62",
-          "tb": "T4-23-24",
-          "rl": "TB-27/28",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
           "board": ""
         }
       ]
@@ -6553,10 +7225,10 @@
           "signal": "",
           "tag": "08-PM-CF-780B",
           "address": "",
-          "description": "CURRENT",
-          "panel": "RZ4-65-66",
-          "tb": "T4-25-26",
-          "rl": "TB-27/28",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
           "board": ""
         }
       ]
