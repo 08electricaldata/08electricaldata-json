@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T09:33:04.172Z",
+  "updated": "2026-03-02T09:36:05.389Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -744,7 +744,7 @@
             "section": "20",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "I/C-3 Tr-3147",
+            "driveid": "Transformer-3147",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
@@ -1695,7 +1695,7 @@
           "section": "20",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "I/C-3 Tr-3147",
+          "driveid": "Transformer-3147",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
@@ -1941,7 +1941,7 @@
             "section": "1",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "P-1170",
+            "driveid": "TANKAGE-P-1170",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -1970,7 +1970,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "1D",
@@ -1996,19 +1996,19 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "2B",
             "section": "2",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "I/C-1 FROM TR-3323",
+            "driveid": "Transformer-3323",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "TR-3323",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "2C",
@@ -3292,7 +3292,7 @@
           "section": "1",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "P-1170",
+          "driveid": "TANKAGE-P-1170",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -3321,7 +3321,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "1D",
@@ -3345,19 +3345,19 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "2B",
           "section": "2",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "I/C-1 FROM TR-3323",
+          "driveid": "Transformer-3323",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "TR-3323",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "2C",
