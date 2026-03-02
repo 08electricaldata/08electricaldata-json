@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T15:05:28.399Z",
+  "updated": "2026-03-02T18:51:34.240Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5281,6 +5281,72 @@
         }
       ]
     },
+    "BAT_E-P-901": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF901_RUN",
+          "address": "N40:1.06",
+          "description": "SUPPLY PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-50/51",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF901_TRIP",
+          "address": "N40:1.07",
+          "description": "SUPPLY PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-52/53",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF901_STR",
+          "address": "N41:2.04",
+          "description": "SUPPLY PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-73/74",
+          "rl": "37",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF901_STP",
+          "address": "N41:2.05",
+          "description": "SUPPLY PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-75/76",
+          "rl": "38",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF901_LOC",
+          "address": "N41:2.06",
+          "description": "SUPPLY PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-77/78",
+          "rl": "39",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": "FZ1 -13/14",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
     "BAT_E-P-902": {
       "inputs": [
         {
@@ -5476,6 +5542,204 @@
           "tb": " FZ 2 -7/8",
           "rl": "",
           "board": ""
+        }
+      ]
+    },
+    "BAT_E-P-905": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF905_RUN",
+          "address": "N40:5.06",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-18/19",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF905_TRIP",
+          "address": "N40:5.07",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-20/21",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF905_STR",
+          "address": "N41:5.12",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-25/26",
+          "rl": "13",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF905_STP",
+          "address": "N41:5.13",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-27/28",
+          "rl": "14",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF905_LOC",
+          "address": "N41:6.00",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-33/34",
+          "rl": "17",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -11/12",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_E-P-906": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF906_RUN",
+          "address": "N40:0.02",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-10/11",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF906_TRIP",
+          "address": "N40:0.03",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-12/13",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF906_STR",
+          "address": "N41:0.04",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-9/10",
+          "rl": "5",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF906_STP",
+          "address": "N41:0.05",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-11/12",
+          "rl": "6",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF906_LOC",
+          "address": "N41:0.06",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-13/14",
+          "rl": "7",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -17/18",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_E-SP-919": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PASM919_RUN",
+          "address": "N40:0.04",
+          "description": "SUMP PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-14/15",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PASM919_TRIP",
+          "address": "N40:0.05",
+          "description": "SUMP PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-16/17",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PASM919_STR",
+          "address": "N41:0.08",
+          "description": "SUMP PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-17/18",
+          "rl": "9",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PASM919_STP",
+          "address": "N41:0.09",
+          "description": "SUMP PUMP   STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-19/20",
+          "rl": "10",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PASM919_LOC",
+          "address": "N41:0.10",
+          "description": "SUMP PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-21/22",
+          "rl": "11",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -35/36",
+          "rl": "",
+          "board": "X-19/20"
         }
       ]
     },
