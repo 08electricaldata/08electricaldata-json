@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T07:33:07.013Z",
+  "updated": "2026-03-02T09:31:02.753Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -288,7 +288,7 @@
             "section": "8",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "I/C-1 Tr-3145",
+            "driveid": "Transformer-3145",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
@@ -1263,7 +1263,7 @@
           "section": "8",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "I/C-1 Tr-3145",
+          "driveid": "Transformer-3145",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
