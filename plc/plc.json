@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T11:05:19.647Z",
+  "updated": "2026-03-02T15:05:28.399Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5281,6 +5281,138 @@
         }
       ]
     },
+    "BAT_E-P-902": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF902_RUN",
+          "address": "N40:5.02",
+          "description": "SUPPLY PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-10/11",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF902_TRIP",
+          "address": "N40:5.03",
+          "description": "SUPPLY PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-12/13",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF902_STR",
+          "address": "N41:5.04",
+          "description": "SUPPLY PUMP   START COMMAND",
+          "panel": "779",
+          "tb": "21T3-9/10",
+          "rl": "5",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF902_STP",
+          "address": "N41:5.05",
+          "description": "SUPPLY PUMP   STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-11/12",
+          "rl": "6",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF902_LOC",
+          "address": "N41:5.06",
+          "description": "SUPPLY PUMP   LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-13/14",
+          "rl": "7",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -19/20",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_E-P-903": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF903_RUN",
+          "address": "N40:5.00",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-6/7",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF903_TRIP",
+          "address": "N40:5.01",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-8/9",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF903_STR",
+          "address": "N41:5.00",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-1/2",
+          "rl": "1",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF903_STP",
+          "address": "N41:5.01",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-3/4",
+          "rl": "2",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF903_LOC",
+          "address": "N41:5.02",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-5/6",
+          "rl": "3",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -1/2",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
     "BAT_E-P-904": {
       "inputs": [
         {
@@ -5291,7 +5423,7 @@
           "panel": "779",
           "tb": "21T1-14/15",
           "rl": "",
-          "board": ""
+          "board": "X-9/10"
         },
         {
           "signal": "AUTO TRIP",
@@ -5301,7 +5433,7 @@
           "panel": "779",
           "tb": "21T1-16/17",
           "rl": "",
-          "board": ""
+          "board": "X-11/12"
         }
       ],
       "outputs": [
@@ -5313,7 +5445,7 @@
           "panel": "779",
           "tb": "21T3-17/18",
           "rl": "9",
-          "board": ""
+          "board": "X-1/2"
         },
         {
           "signal": "STOP",
@@ -5323,7 +5455,7 @@
           "panel": "779",
           "tb": "21T3-19/20",
           "rl": "10",
-          "board": ""
+          "board": "X-3/4"
         },
         {
           "signal": "IN LOC",
@@ -5333,6 +5465,16 @@
           "panel": "779",
           "tb": "21T3-21/22",
           "rl": "11",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -7/8",
+          "rl": "",
           "board": ""
         }
       ]
