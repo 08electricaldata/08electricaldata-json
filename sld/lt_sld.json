@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T10:53:33.095Z",
+  "updated": "2026-03-03T10:55:24.977Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -6381,7 +6381,7 @@
             "section": "5",
             "level": "A",
             "feederType": "",
-            "driveid": "5F1\n",
+            "driveid": "\n",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -6392,49 +6392,49 @@
             "position": "5B",
             "section": "5",
             "level": "B",
-            "feederType": "",
-            "driveid": "5F2\n22 KW SPARE SFU",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "22 KW SPARE SFU",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "5C",
             "section": "5",
             "level": "C",
-            "feederType": "",
-            "driveid": "5F3\nSUMP TANK AGITATOR MOTOR",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-AGITATOR-901",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "5D",
             "section": "5",
             "level": "D",
-            "feederType": "",
-            "driveid": "5F4\nSPARE SFU 30 KW",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "SPARE SFU 30 KW",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "5E",
             "section": "5",
             "level": "E",
-            "feederType": "",
-            "driveid": "5F5\n415/240V 2KVA CONTROL TRF",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "415/240V 2KVA CONTROL TRF",
+            "DriveType": "CONTROL-TRANSFORMER",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           }
         ],
         "6": [
@@ -6774,7 +6774,7 @@
           "section": "5",
           "level": "A",
           "feederType": "",
-          "driveid": "5F1\n",
+          "driveid": "\n",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
@@ -6785,49 +6785,49 @@
           "position": "5B",
           "section": "5",
           "level": "B",
-          "feederType": "",
-          "driveid": "5F2\n22 KW SPARE SFU",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "22 KW SPARE SFU",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "5C",
           "section": "5",
           "level": "C",
-          "feederType": "",
-          "driveid": "5F3\nSUMP TANK AGITATOR MOTOR",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-AGITATOR-901",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "5D",
           "section": "5",
           "level": "D",
-          "feederType": "",
-          "driveid": "5F4\nSPARE SFU 30 KW",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "SPARE SFU 30 KW",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "5E",
           "section": "5",
           "level": "E",
-          "feederType": "",
-          "driveid": "5F5\n415/240V 2KVA CONTROL TRF",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "415/240V 2KVA CONTROL TRF",
+          "DriveType": "CONTROL-TRANSFORMER",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "6A",
