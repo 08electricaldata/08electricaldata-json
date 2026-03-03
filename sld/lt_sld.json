@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T09:51:38.130Z",
+  "updated": "2026-03-03T10:42:09.980Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -4632,7 +4632,7 @@
             "section": "2",
             "level": "A",
             "feederType": "INCOMER",
-            "driveid": "Transformer-3319",
+            "driveid": "US-08EX-3319-PCC-G",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "4000A",
@@ -4719,8 +4719,8 @@
             "position": "4B",
             "section": "4",
             "level": "B",
-            "feederType": "OUTGOING",
-            "driveid": "4F2\nP-902 G\nP-903 H",
+            "feederType": "SPARE",
+            "driveid": "4F2\nSPARE 110KW",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -4826,7 +4826,7 @@
             "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "BUS",
             "status": "OFF"
           },
           {
@@ -4838,20 +4838,20 @@
             "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "7C",
             "section": "7",
             "level": "C",
-            "feederType": "",
-            "driveid": "7F3\nTO LDB BAT-G &H I/C-1 & 2",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TO LDB BAT-G &H I/C-1 & 2",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           }
         ],
         "8": [
@@ -4859,25 +4859,25 @@
             "position": "8A",
             "section": "8",
             "level": "A",
-            "feederType": "",
-            "driveid": "8F1\nP-908 G/H",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-908",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "8B",
             "section": "8",
             "level": "B",
-            "feederType": "",
-            "driveid": "8F2\nP-903G\nP-901H",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-903",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "8C",
@@ -4897,25 +4897,25 @@
             "position": "9A",
             "section": "9",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "9F1\nDUMMY",
-            "DriveType": "",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "9B",
             "section": "9",
             "level": "B",
-            "feederType": "",
-            "driveid": "9F2\nP-916B GH",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-916B",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "9C",
@@ -4935,25 +4935,25 @@
             "position": "10A",
             "section": "10",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "10F1\nVACANT",
-            "DriveType": "",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "10B",
             "section": "10",
             "level": "B",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "10F2\nFVNR200 SPARE MODULE",
-            "DriveType": "",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "10C",
@@ -4973,37 +4973,37 @@
             "position": "11A",
             "section": "11",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "11F1\nDUMMY",
-            "DriveType": "",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "11B",
             "section": "11",
             "level": "B",
-            "feederType": "",
+            "feederType": "OUTGOING",
             "driveid": "11F2\nCONTROL TRF-1 \n3.5 KVA",
-            "DriveType": "",
+            "DriveType": "CONTROL-TRANSFORMER",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "11C",
             "section": "11",
             "level": "C",
-            "feederType": "",
-            "driveid": "11F3\nP-916A GH",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-916A",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           }
         ],
         "12": [
@@ -5011,25 +5011,25 @@
             "position": "12A",
             "section": "12",
             "level": "A",
-            "feederType": "",
-            "driveid": "12F1\nBUS COUPLER BREAKER",
+            "feederType": "BUS_COUPLER",
+            "driveid": "US-08EX-BC-PCC-G",
             "DriveType": "",
-            "breakerType": "",
+            "breakerType": "ACB",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "12B",
             "section": "12",
             "level": "B",
-            "feederType": "",
-            "driveid": "12F2\nRELAY,METERING AND CONTROL ",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "RELAY,METERING AND CONTROL ",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "12C",
@@ -5049,20 +5049,20 @@
             "position": "13A",
             "section": "13",
             "level": "A",
-            "feederType": "",
-            "driveid": "13\nSPARE ACB 1000A",
+            "feederType": "OUTGOING",
+            "driveid": "US-08EX-MCC2-PCC-G",
             "DriveType": "",
             "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "breakerRating": "1000A",
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "13B",
             "section": "13",
             "level": "B",
             "feederType": "",
-            "driveid": "13F2\nMCC-GH\n I/C-2",
+            "driveid": "",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -5087,25 +5087,25 @@
             "position": "14A",
             "section": "14",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "14F1\nVACCANT",
-            "DriveType": "",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "14B",
             "section": "14",
             "level": "B",
-            "feederType": "",
-            "driveid": "14F2\nP-916C GH",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-916C",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "14C",
@@ -5125,25 +5125,25 @@
             "position": "15A",
             "section": "15",
             "level": "A",
-            "feederType": "",
-            "driveid": "15F1\nSPARE \nSFU \n90 KW",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "SPARE \nSFU \n90 KW",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "15B",
             "section": "15",
             "level": "B",
-            "feederType": "",
-            "driveid": "15F2\nP-904 G/H",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-904",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "15C",
@@ -5163,25 +5163,25 @@
             "position": "16A",
             "section": "16",
             "level": "A",
-            "feederType": "",
-            "driveid": "16F1\nP-910 G/H",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-910",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "16B",
             "section": "16",
             "level": "B",
-            "feederType": "",
-            "driveid": "16F2\nP-905 G/H",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-905",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "16C",
@@ -5201,25 +5201,25 @@
             "position": "17A",
             "section": "17",
             "level": "A",
-            "feederType": "",
-            "driveid": "17F1\n4000A ACB \nI/C -2 FROM TR-3321/3320",
+            "feederType": "INCOMER",
+            "driveid": "US-08EX-3321-PCC-G",
             "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
+            "breakerType": "ACB",
+            "breakerRating": "4000A",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "17B",
             "section": "17",
             "level": "B",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "17F2\nRELAY,METERING AND CONTROL ",
-            "DriveType": "",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "17C",
@@ -5239,13 +5239,13 @@
             "position": "18A",
             "section": "18",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "18F1\nSPARE 1000A \nACB",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "18B",
@@ -5277,25 +5277,25 @@
             "position": "19A",
             "section": "19",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "19F1\nDUMMY",
-            "DriveType": "",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "19B",
             "section": "19",
             "level": "B",
-            "feederType": "",
-            "driveid": "19F2\n415/240V 3.5 KVA CONTROL TRF-2",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "415/240V 3.5 KVA CONTROL TRF-2",
+            "DriveType": "CONTROL-TRANSFORMER",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "19C",
@@ -5315,25 +5315,25 @@
             "position": "20A",
             "section": "20",
             "level": "A",
-            "feederType": "",
-            "driveid": "20F1\nDUMMY",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-913",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "20B",
             "section": "20",
             "level": "B",
-            "feederType": "",
-            "driveid": "20F2\nP-906 GH",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-906",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "20C",
@@ -5353,33 +5353,33 @@
             "position": "21A",
             "section": "21",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "21F1\nVACCANT",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "21B",
             "section": "21",
             "level": "B",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "21F2\nMARSHALLING FDR FOR P-904,P-905,P-906 & SPARE",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "21C",
             "section": "21",
             "level": "C",
-            "feederType": "",
+            "feederType": "OUTGOING",
             "driveid": "21F3\nTO ASB I/C-1 & 2",
-            "DriveType": "",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
@@ -5391,25 +5391,25 @@
             "position": "22A",
             "section": "22",
             "level": "A",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "22F1\nVACCANT",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "22B",
             "section": "22",
             "level": "B",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "22F2\n110 KW SPARE MOTOR FDR",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "22C",
@@ -5467,7 +5467,7 @@
           "section": "2",
           "level": "A",
           "feederType": "INCOMER",
-          "driveid": "Transformer-3319",
+          "driveid": "US-08EX-3319-PCC-G",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "4000A",
@@ -5550,8 +5550,8 @@
           "position": "4B",
           "section": "4",
           "level": "B",
-          "feederType": "OUTGOING",
-          "driveid": "4F2\nP-902 G\nP-903 H",
+          "feederType": "SPARE",
+          "driveid": "4F2\nSPARE 110KW",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -5651,7 +5651,7 @@
           "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "BUS",
           "status": "OFF"
         },
         {
@@ -5663,44 +5663,44 @@
           "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "7C",
           "section": "7",
           "level": "C",
-          "feederType": "",
-          "driveid": "7F3\nTO LDB BAT-G &H I/C-1 & 2",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TO LDB BAT-G &H I/C-1 & 2",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "8A",
           "section": "8",
           "level": "A",
-          "feederType": "",
-          "driveid": "8F1\nP-908 G/H",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-908",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "8B",
           "section": "8",
           "level": "B",
-          "feederType": "",
-          "driveid": "8F2\nP-903G\nP-901H",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-903",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "8C",
@@ -5718,25 +5718,25 @@
           "position": "9A",
           "section": "9",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "9F1\nDUMMY",
-          "DriveType": "",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "9B",
           "section": "9",
           "level": "B",
-          "feederType": "",
-          "driveid": "9F2\nP-916B GH",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-916B",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "9C",
@@ -5754,25 +5754,25 @@
           "position": "10A",
           "section": "10",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "10F1\nVACANT",
-          "DriveType": "",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "10B",
           "section": "10",
           "level": "B",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "10F2\nFVNR200 SPARE MODULE",
-          "DriveType": "",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "10C",
@@ -5790,61 +5790,61 @@
           "position": "11A",
           "section": "11",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "11F1\nDUMMY",
-          "DriveType": "",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "11B",
           "section": "11",
           "level": "B",
-          "feederType": "",
+          "feederType": "OUTGOING",
           "driveid": "11F2\nCONTROL TRF-1 \n3.5 KVA",
-          "DriveType": "",
+          "DriveType": "CONTROL-TRANSFORMER",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "11C",
           "section": "11",
           "level": "C",
-          "feederType": "",
-          "driveid": "11F3\nP-916A GH",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-916A",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "12A",
           "section": "12",
           "level": "A",
-          "feederType": "",
-          "driveid": "12F1\nBUS COUPLER BREAKER",
+          "feederType": "BUS_COUPLER",
+          "driveid": "US-08EX-BC-PCC-G",
           "DriveType": "",
-          "breakerType": "",
+          "breakerType": "ACB",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "12B",
           "section": "12",
           "level": "B",
-          "feederType": "",
-          "driveid": "12F2\nRELAY,METERING AND CONTROL ",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "RELAY,METERING AND CONTROL ",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "12C",
@@ -5862,20 +5862,20 @@
           "position": "13A",
           "section": "13",
           "level": "A",
-          "feederType": "",
-          "driveid": "13\nSPARE ACB 1000A",
+          "feederType": "OUTGOING",
+          "driveid": "US-08EX-MCC2-PCC-G",
           "DriveType": "",
           "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "breakerRating": "1000A",
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "13B",
           "section": "13",
           "level": "B",
           "feederType": "",
-          "driveid": "13F2\nMCC-GH\n I/C-2",
+          "driveid": "",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
@@ -5898,25 +5898,25 @@
           "position": "14A",
           "section": "14",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "14F1\nVACCANT",
-          "DriveType": "",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "14B",
           "section": "14",
           "level": "B",
-          "feederType": "",
-          "driveid": "14F2\nP-916C GH",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-916C",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "14C",
@@ -5934,25 +5934,25 @@
           "position": "15A",
           "section": "15",
           "level": "A",
-          "feederType": "",
-          "driveid": "15F1\nSPARE \nSFU \n90 KW",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "SPARE \nSFU \n90 KW",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "15B",
           "section": "15",
           "level": "B",
-          "feederType": "",
-          "driveid": "15F2\nP-904 G/H",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-904",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "15C",
@@ -5970,25 +5970,25 @@
           "position": "16A",
           "section": "16",
           "level": "A",
-          "feederType": "",
-          "driveid": "16F1\nP-910 G/H",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-910",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "16B",
           "section": "16",
           "level": "B",
-          "feederType": "",
-          "driveid": "16F2\nP-905 G/H",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-905",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "16C",
@@ -6006,25 +6006,25 @@
           "position": "17A",
           "section": "17",
           "level": "A",
-          "feederType": "",
-          "driveid": "17F1\n4000A ACB \nI/C -2 FROM TR-3321/3320",
+          "feederType": "INCOMER",
+          "driveid": "US-08EX-3321-PCC-G",
           "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
+          "breakerType": "ACB",
+          "breakerRating": "4000A",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "17B",
           "section": "17",
           "level": "B",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "17F2\nRELAY,METERING AND CONTROL ",
-          "DriveType": "",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "17C",
@@ -6042,13 +6042,13 @@
           "position": "18A",
           "section": "18",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "18F1\nSPARE 1000A \nACB",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "18B",
@@ -6078,25 +6078,25 @@
           "position": "19A",
           "section": "19",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "19F1\nDUMMY",
-          "DriveType": "",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "19B",
           "section": "19",
           "level": "B",
-          "feederType": "",
-          "driveid": "19F2\n415/240V 3.5 KVA CONTROL TRF-2",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "415/240V 3.5 KVA CONTROL TRF-2",
+          "DriveType": "CONTROL-TRANSFORMER",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "19C",
@@ -6114,25 +6114,25 @@
           "position": "20A",
           "section": "20",
           "level": "A",
-          "feederType": "",
-          "driveid": "20F1\nDUMMY",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-913",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "20B",
           "section": "20",
           "level": "B",
-          "feederType": "",
-          "driveid": "20F2\nP-906 GH",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-906",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "20C",
@@ -6150,33 +6150,33 @@
           "position": "21A",
           "section": "21",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "21F1\nVACCANT",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "21B",
           "section": "21",
           "level": "B",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "21F2\nMARSHALLING FDR FOR P-904,P-905,P-906 & SPARE",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "21C",
           "section": "21",
           "level": "C",
-          "feederType": "",
+          "feederType": "OUTGOING",
           "driveid": "21F3\nTO ASB I/C-1 & 2",
-          "DriveType": "",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
@@ -6186,25 +6186,25 @@
           "position": "22A",
           "section": "22",
           "level": "A",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "22F1\nVACCANT",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "22B",
           "section": "22",
           "level": "B",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "22F2\n110 KW SPARE MOTOR FDR",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "22C",
