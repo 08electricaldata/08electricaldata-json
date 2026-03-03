@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T11:01:56.328Z",
+  "updated": "2026-03-03T11:02:51.056Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -6223,6 +6223,34 @@
     "US-08EX-BAT-G-MCC": {
       "boardId": "US-08EX-BAT-G-MCC",
       "sections": {
+        "1": [
+          {
+            "position": "1A",
+            "section": "1",
+            "level": "A",
+            "feederType": "INCOMER",
+            "driveid": "US-08EX-MCC1-PCC-G",
+            "DriveType": "SFU",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "US-08EX-MCC1-PCC-G",
+            "status": "OFF"
+          }
+        ],
+        "2": [
+          {
+            "position": "2A",
+            "section": "2",
+            "level": "A",
+            "feederType": "INCOMER",
+            "driveid": "US-08EX-MCC2-PCC-G",
+            "DriveType": "SFU",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "US-08EX-MCC2-PCC-G",
+            "status": "ON"
+          }
+        ],
         "3": [
           {
             "position": "3A",
@@ -6546,41 +6574,15 @@
             "supplyFrom": "BUS",
             "status": "OFF"
           }
-        ],
-        "": [
-          {
-            "position": "1",
-            "section": "",
-            "level": "",
-            "feederType": "INCOMER",
-            "driveid": "",
-            "DriveType": "SFU",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "US-08EX-MCC1-PCC-G",
-            "status": "OFF"
-          },
-          {
-            "position": "2",
-            "section": "",
-            "level": "",
-            "feederType": "INCOMER",
-            "driveid": "",
-            "DriveType": "SFU",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "US-08EX-MCC2-PCC-G",
-            "status": "ON"
-          }
         ]
       },
       "devices": [
         {
-          "position": "1",
-          "section": "",
-          "level": "",
+          "position": "1A",
+          "section": "1",
+          "level": "A",
           "feederType": "INCOMER",
-          "driveid": "",
+          "driveid": "US-08EX-MCC1-PCC-G",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
@@ -6588,11 +6590,11 @@
           "status": "OFF"
         },
         {
-          "position": "2",
-          "section": "",
-          "level": "",
+          "position": "2A",
+          "section": "2",
+          "level": "A",
           "feederType": "INCOMER",
-          "driveid": "",
+          "driveid": "US-08EX-MCC2-PCC-G",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
