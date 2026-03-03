@@ -1,9 +1,9 @@
 {
-  "updated": "2026-03-03T17:33:19.280Z",
+  "updated": "2026-03-03T17:45:14.846Z",
   "rows": [
     {
       "id": "BAT_A-P-200",
-      "url": "https://raw.githubusercontent.com/08electricaldata/08electricaldata-json/main/plc-pdf/master_plc.pdf",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
       "pages": [
         17,
         24
@@ -11,9 +11,26 @@
     },
     {
       "id": "BAT_A-P-201",
-      "url": "https://raw.githubusercontent.com/08electricaldata/08electricaldata-json/main/plc-pdf/master_plc.pdf",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
       "pages": [
-        18
+        18,
+        25
+      ]
+    },
+    {
+      "id": "BAT_A-P-202",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
+      "pages": [
+        19,
+        26
+      ]
+    },
+    {
+      "id": "BAT_A-P-203",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
+      "pages": [
+        20,
+        27
       ]
     }
   ]
