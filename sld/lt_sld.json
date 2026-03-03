@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T10:55:24.977Z",
+  "updated": "2026-03-03T10:56:10.328Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -6449,54 +6449,6 @@
             "breakerRating": "",
             "supplyFrom": "",
             "status": ""
-          },
-          {
-            "position": "6B",
-            "section": "6",
-            "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "6C",
-            "section": "6",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "6D",
-            "section": "6",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "6E",
-            "section": "6",
-            "level": "E",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "7": [
@@ -6835,54 +6787,6 @@
           "level": "A",
           "feederType": "",
           "driveid": "\"6F1\nMARSHALLING FDR FOR \nP- 919,P-909A,P-907A,BOOSTER PUMP,TM-901,P-918,P-907B\"",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "6B",
-          "section": "6",
-          "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "6C",
-          "section": "6",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "6D",
-          "section": "6",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "6E",
-          "section": "6",
-          "level": "E",
-          "feederType": "",
-          "driveid": "",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
