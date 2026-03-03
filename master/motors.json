@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T03:04:06.862Z",
+  "updated": "2026-03-03T07:04:08.094Z",
   "headers": [
     "1",
     "MAIN DRIVE",
@@ -4428,7 +4428,7 @@
     [
       302,
       "MOL",
-      "BUCKET ELEVATOR-116",
+      "BUCKET-ELEVATOR-116",
       "BUCKET ELEVATOR",
       22,
       "NGEF",
@@ -4442,7 +4442,7 @@
     [
       303,
       "MOL",
-      "RERVERSIBLE  CONV.-63",
+      "RERVERSIBLE-CONV.-63",
       "REVERSIBLE CONVEYOR",
       5.5,
       "ABB",
@@ -4456,7 +4456,7 @@
     [
       304,
       "MOL",
-      "CRUSHER 006-1",
+      "CRUSHER-006-1",
       "CRUSHER ",
       30,
       "NGEF",
@@ -4470,7 +4470,7 @@
     [
       305,
       "MOL",
-      "CRUSHER 006-2",
+      "CRUSHER-006-2",
       "CRUSHER",
       30,
       "NGEF",
@@ -4484,7 +4484,7 @@
     [
       306,
       "MOL",
-      "TABLE FEEDER-24",
+      "TABLE-FEEDER-24",
       "TABLE FEEDER",
       11,
       "NGEF",
@@ -4498,7 +4498,7 @@
     [
       307,
       "MOL",
-      "TABLE FEEDER-25",
+      "TABLE-FEEDER-25",
       "TABLE FEEDER",
       11,
       "NGEF",
@@ -4512,7 +4512,7 @@
     [
       308,
       "MOL",
-      "WEIGH FEEDER-67",
+      "WEIGH-FEEDER-67",
       "WEIGH FEEDER",
       2.2,
       "NGEF",
@@ -4526,7 +4526,7 @@
     [
       309,
       "MOL",
-      "WEIGH FEEDER 68",
+      "WEIGH-FEEDER-68",
       "WEIGH FEEDER",
       2.2,
       "CG",
@@ -4540,7 +4540,7 @@
     [
       310,
       "MOL",
-      "DRUM SLAKER 003",
+      "DRUM-SLAKER-003",
       "DRUM SLAKER",
       30,
       "NGEF",
@@ -4554,7 +4554,7 @@
     [
       311,
       "MOL",
-      "DRUM SLAKER 004",
+      "DRUM-SLAKER-004",
       "DRUM SLAKER",
       30,
       "NGEF",
