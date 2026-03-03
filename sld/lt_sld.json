@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T10:56:10.328Z",
+  "updated": "2026-03-03T11:00:50.140Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -6442,13 +6442,13 @@
             "position": "6A",
             "section": "6",
             "level": "A",
-            "feederType": "",
-            "driveid": "\"6F1\nMARSHALLING FDR FOR \nP- 919,P-909A,P-907A,BOOSTER PUMP,TM-901,P-918,P-907B\"",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "6F1\nMARSHALLING FDR FOR \nP- 919,P-909A,P-907A,BOOSTER PUMP,TM-901,P-918,P-907B",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           }
         ],
         "7": [
@@ -6468,49 +6468,49 @@
             "position": "7B",
             "section": "7",
             "level": "B",
-            "feederType": "",
-            "driveid": "7F2\nSWF-63\nMOV-901 G",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SWF-63\nMOV-901 G",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "7C",
             "section": "7",
             "level": "C",
-            "feederType": "",
-            "driveid": "7F3\nP-918 15 KW",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "P-918 15 KW",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "7D",
             "section": "7",
             "level": "D",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "7F4\nFVNR-60 18.5 KW\nSPARE MOTOR FDR",
-            "DriveType": "",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "7E",
             "section": "7",
             "level": "E",
-            "feederType": "",
-            "driveid": "7F5\nP-907B",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-907B",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           }
         ],
         "8": [
@@ -6518,61 +6518,61 @@
             "position": "8A",
             "section": "8",
             "level": "A",
-            "feederType": "",
-            "driveid": "8F1\nSWF-125",
+            "feederType": "OUTGOING",
+            "driveid": "8F1\nSWF-125 ELDB FOR BAT-G & H",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "8B",
             "section": "8",
             "level": "B",
-            "feederType": "",
-            "driveid": "8F2 ( 18.5 KW)\nP-909B",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-909B",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "8C",
             "section": "8",
             "level": "C",
-            "feederType": "",
-            "driveid": "8F3\nP-915 GH TO VFD",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "BAT_G-P-915",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "8D",
             "section": "8",
             "level": "D",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "8F4\nFVNR 60 SPARE MOTOR FDR 15 KW",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "8E",
             "section": "8",
             "level": "E",
-            "feederType": "",
+            "feederType": "SPARE",
             "driveid": "8F5\nFVNR 100 SPARE MOTOR FDR 45 KW",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           }
         ]
       },
@@ -6785,13 +6785,13 @@
           "position": "6A",
           "section": "6",
           "level": "A",
-          "feederType": "",
-          "driveid": "\"6F1\nMARSHALLING FDR FOR \nP- 919,P-909A,P-907A,BOOSTER PUMP,TM-901,P-918,P-907B\"",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "6F1\nMARSHALLING FDR FOR \nP- 919,P-909A,P-907A,BOOSTER PUMP,TM-901,P-918,P-907B",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "7A",
@@ -6809,109 +6809,109 @@
           "position": "7B",
           "section": "7",
           "level": "B",
-          "feederType": "",
-          "driveid": "7F2\nSWF-63\nMOV-901 G",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SWF-63\nMOV-901 G",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "7C",
           "section": "7",
           "level": "C",
-          "feederType": "",
-          "driveid": "7F3\nP-918 15 KW",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "P-918 15 KW",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "7D",
           "section": "7",
           "level": "D",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "7F4\nFVNR-60 18.5 KW\nSPARE MOTOR FDR",
-          "DriveType": "",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "7E",
           "section": "7",
           "level": "E",
-          "feederType": "",
-          "driveid": "7F5\nP-907B",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-907B",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "8A",
           "section": "8",
           "level": "A",
-          "feederType": "",
-          "driveid": "8F1\nSWF-125",
+          "feederType": "OUTGOING",
+          "driveid": "8F1\nSWF-125 ELDB FOR BAT-G & H",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "8B",
           "section": "8",
           "level": "B",
-          "feederType": "",
-          "driveid": "8F2 ( 18.5 KW)\nP-909B",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-909B",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "8C",
           "section": "8",
           "level": "C",
-          "feederType": "",
-          "driveid": "8F3\nP-915 GH TO VFD",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "BAT_G-P-915",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "8D",
           "section": "8",
           "level": "D",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "8F4\nFVNR 60 SPARE MOTOR FDR 15 KW",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "8E",
           "section": "8",
           "level": "E",
-          "feederType": "",
+          "feederType": "SPARE",
           "driveid": "8F5\nFVNR 100 SPARE MOTOR FDR 45 KW",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         }
       ]
     }
