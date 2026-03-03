@@ -1,9 +1,8 @@
 {
-  "updated": "2026-03-03T14:05:36.715Z",
+  "updated": "2026-03-03T14:17:27.651Z",
   "headers": [
-    "",
-    "",
-    "",
+    1,
+    "Schedule Maintenance",
     "",
     "Year achive",
     "Achieved",
@@ -19,8 +18,7 @@
   ],
   "rows": [
     [
-      1,
-      "Schedule Maintenance",
+      "",
       "LT Motor",
       "MOTOR PM",
       385,
@@ -36,7 +34,6 @@
       "year"
     ],
     [
-      "",
       "",
       "HT Motor",
       "MOTOR PM",
@@ -54,7 +51,6 @@
     ],
     [
       "",
-      "",
       "LT module maintenance",
       "MODULE PM",
       176,
@@ -70,7 +66,6 @@
       ""
     ],
     [
-      "",
       "",
       "VFD Panel PM",
       "VFD PM",
@@ -88,7 +83,6 @@
     ],
     [
       "",
-      "",
       "6.6 kV VCU/Breaker PM",
       "BREAKER PM",
       55,
@@ -104,7 +98,6 @@
       ""
     ],
     [
-      "",
       "",
       "ACB",
       "BREAKER PM",
@@ -122,7 +115,6 @@
     ],
     [
       "",
-      "",
       "Transformer maint.",
       "TRANSFORMER PM",
       8,
@@ -138,7 +130,6 @@
       ""
     ],
     [
-      "",
       "",
       "Motor overhauling Schedule",
       "MOTOR REPLACEMENT",
@@ -156,7 +147,6 @@
     ],
     [
       "",
-      "",
       "PMCC /MCC maintenance/Blowing",
       "",
       "",
@@ -172,7 +162,6 @@
       ""
     ],
     [
-      "",
       "",
       "ASB Maintenance/Blowing",
       "",
@@ -190,7 +179,6 @@
     ],
     [
       "",
-      "",
       "TD",
       "",
       "",
@@ -206,7 +194,6 @@
       ""
     ],
     [
-      "",
       "",
       "MLDB",
       "",
@@ -224,7 +211,6 @@
     ],
     [
       "",
-      "",
       "SLDB",
       "",
       "",
@@ -240,7 +226,6 @@
       ""
     ],
     [
-      "",
       "",
       "DCDB",
       "",
@@ -258,7 +243,6 @@
     ],
     [
       "",
-      "",
       "PLC Panel",
       "",
       "",
@@ -275,7 +259,6 @@
     ],
     [
       "",
-      "",
       "Greasing Schedule",
       "",
       "",
@@ -291,7 +274,6 @@
       ""
     ],
     [
-      "",
       "",
       "EOT Crane",
       "",
@@ -321,7 +303,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     [
@@ -338,12 +319,26 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     [
       4,
       "IMS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
       "History register",
       "",
       "",
@@ -359,7 +354,6 @@
       ""
     ],
     [
-      "",
       "",
       "B/D Analysis register",
       "",
@@ -377,7 +371,6 @@
     ],
     [
       "",
-      "",
       "Downtime analysis register",
       "",
       "",
@@ -393,7 +386,6 @@
       ""
     ],
     [
-      "",
       "",
       "Status of equipment critical to Environment",
       "",
@@ -411,7 +403,6 @@
     ],
     [
       "",
-      "",
       "Specific spares critical to quality and Environment",
       "",
       "",
@@ -427,7 +418,6 @@
       ""
     ],
     [
-      "",
       "",
       "Monthly objective and target",
       "",
@@ -445,7 +435,6 @@
     ],
     [
       "",
-      "",
       "Monthly highlight",
       "",
       "",
@@ -461,7 +450,6 @@
       ""
     ],
     [
-      "",
       "",
       "RAMCO addition/deletion",
       "",
@@ -491,12 +479,26 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     [
       6,
       "Spare planning",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
       "Specific spares",
       "",
       "",
@@ -513,7 +515,6 @@
     ],
     [
       "",
-      "",
       "Normal spares",
       "",
       "",
@@ -529,7 +530,6 @@
       ""
     ],
     [
-      "",
       "",
       "Consumbale spares",
       "",
@@ -548,6 +548,21 @@
     [
       7,
       "KAIZEN/SARJANA",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
       "Reporting Kaizens",
       "",
       "",
@@ -564,7 +579,6 @@
     ],
     [
       "",
-      "",
       "Sarjana Suggestion",
       "",
       "",
@@ -580,8 +594,23 @@
       ""
     ],
     [
-      6,
+      8,
       "NEARMIS",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
       "Reportong nearmis",
       "",
       "",
@@ -597,7 +626,7 @@
       ""
     ],
     [
-      7,
+      9,
       "EnMS",
       "",
       "",
@@ -610,11 +639,10 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     [
-      8,
+      10,
       "QC/six sigma",
       "",
       "",
@@ -627,12 +655,26 @@
       "",
       "",
       "",
+      ""
+    ],
+    [
+      11,
+      "Training",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
       "",
       ""
     ],
     [
-      9,
-      "Training",
+      "",
       "Updating training profile",
       "",
       "",
@@ -648,7 +690,6 @@
       ""
     ],
     [
-      "",
       "",
       "External training",
       "",
@@ -666,7 +707,6 @@
     ],
     [
       "",
-      "",
       "Inhouse training",
       "",
       "",
@@ -682,8 +722,23 @@
       ""
     ],
     [
-      10,
+      12,
       "HOUSE Keeping",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
       "Performing 5S in office",
       "",
       "",
@@ -700,7 +755,6 @@
     ],
     [
       "",
-      "",
       "performing 5S in stores",
       "",
       "",
@@ -716,7 +770,6 @@
       ""
     ],
     [
-      "",
       "",
       "Performing 5s in sub station and cable celler",
       "",
