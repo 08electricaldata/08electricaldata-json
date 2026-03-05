@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T15:05:11.417Z",
+  "updated": "2026-03-05T18:51:47.503Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5225,6 +5225,62 @@
         }
       ]
     },
+    "BAT_D-P-241": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "8DXA241",
+          "address": "I:072.10",
+          "description": "VAPOUR COND AUTO TRIP ",
+          "panel": "758",
+          "tb": "7T1-85/86",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "8DXL241",
+          "address": "I:072.11",
+          "description": "VAPOUR COND PUMP RUNNING ",
+          "panel": "758",
+          "tb": "7T1-87/88",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "8DP241_L",
+          "address": "O:074.00",
+          "description": "VAPOUR COND PUMP IN LOC ",
+          "panel": "758",
+          "tb": "7T5-33/34",
+          "rl": "65",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "8DP241_S",
+          "address": "O:074.01",
+          "description": "VAPOUR COND PUMP START ",
+          "panel": "758",
+          "tb": "7T5-35/36",
+          "rl": "66",
+          "board": ""
+        },
+        {
+          "signal": "STOP",
+          "tag": "8DP241_T",
+          "address": "O:074.02",
+          "description": "VAPOUR COND PUMP STOP ",
+          "panel": "758",
+          "tb": "7T5-37/38",
+          "rl": "67",
+          "board": ""
+        }
+      ]
+    },
     "BAT_D-SP-251": {
       "inputs": [
         {
@@ -5343,7 +5399,7 @@
           "panel": "729",
           "tb": "FZ1 -13/14",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
         }
       ]
     },
@@ -5409,7 +5465,7 @@
           "panel": "729",
           "tb": " FZ 1 -19/20",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
         }
       ]
     },
@@ -5475,7 +5531,7 @@
           "panel": "729",
           "tb": " FZ 2 -1/2",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
         }
       ]
     },
@@ -5541,7 +5597,7 @@
           "panel": "729",
           "tb": " FZ 2 -7/8",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
         }
       ]
     },
@@ -5607,7 +5663,7 @@
           "panel": "729",
           "tb": " FZ 2 -11/12",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
         }
       ]
     },
@@ -5673,7 +5729,997 @@
           "panel": "729",
           "tb": " FZ 2 -17/18",
           "rl": "",
-          "board": ""
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-907A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF907A_RUN",
+          "address": "N40:0.06",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-18/19",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF907A_TRIP",
+          "address": "N40:0.07",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-20/21",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF907A_STR",
+          "address": "N41:0.11",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-23/24",
+          "rl": "12",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF907A_STP",
+          "address": "N41:0.12",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-25/26",
+          "rl": "13",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF907A_LOC",
+          "address": "N41:0.13",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-27/28",
+          "rl": "14",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -15/16",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-907B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF907B_RUN",
+          "address": "N40:0.08",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-22/23",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF907B_TRIP",
+          "address": "N40:0.09",
+          "description": "CONDENSATE PUMP   TRIPPED",
+          "panel": "778",
+          "tb": "20T1-24/25",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF907B_STR",
+          "address": "N41:1.00",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-33/34",
+          "rl": "17",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF907B_STP",
+          "address": "N41:1.01",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-35/36",
+          "rl": "18",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF907B_LOC",
+          "address": "N41:1.02",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-37/38",
+          "rl": "19",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -17/18",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-908": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF908_RUN",
+          "address": "N40:5.12",
+          "description": "TRANSFER PUMP   RUNNING",
+          "panel": "779",
+          "tb": "21T1-30/31",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF908_TRIP",
+          "address": "N40:5.13",
+          "description": "TRANSFER PUMP   TRIPPED",
+          "panel": "779",
+          "tb": "21T1-32/33",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF908_STR",
+          "address": "N41:6.09",
+          "description": "TRANSFER PUMP   START COMMAND",
+          "panel": "779",
+          "tb": "21T3-51/52",
+          "rl": "26",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF908_STP",
+          "address": "N41:6.10",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-53/54",
+          "rl": "27",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF908_LOC",
+          "address": "N41:6.11",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-55/56",
+          "rl": "28",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -21/22",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-909A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF909A_RUN",
+          "address": "N40:1.00",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-38/39",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF909A_TRIP",
+          "address": "N40:1.01",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-40/41",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF909A_STR",
+          "address": "N41:1.09",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-51/52",
+          "rl": "26",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF909A_STP",
+          "address": "N41:1.10",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-53/54",
+          "rl": "27",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF909A_LOC",
+          "address": "N41:1.11",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-55/56",
+          "rl": "28",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -23/24",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-909B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF909B_RUN",
+          "address": "N40:1.04",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-46/47",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF909B_TRIP",
+          "address": "N40:1.05",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-48/49",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF909B_STR",
+          "address": "N41:2.01",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-67/68",
+          "rl": "34",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF909B_STP",
+          "address": "N41:2.02",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-69/70",
+          "rl": "35",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF909B_LOC",
+          "address": "N41:2.03",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-71/72",
+          "rl": "36",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-910": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF910_RUN",
+          "address": "N40:6.02",
+          "description": "STRONG LIQUOR  TRANSFER PUMP RUNNING",
+          "panel": "779",
+          "tb": "21T1-42/43",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF910_TRIP",
+          "address": "N40:6.03",
+          "description": "STRONG LIQUOR  TRANSFER PUMP TRIPPED",
+          "panel": "779",
+          "tb": "21T1-44/45",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF910_STR",
+          "address": "N41:7.03",
+          "description": "STRONG LIQUOR TRANSFER PUMP START COMMAND",
+          "panel": "779",
+          "tb": "21T3-71/72",
+          "rl": "36",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF910_STP",
+          "address": "N41:7.04",
+          "description": "STRONG LIQUOR TRANSFER PUMP STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-73/74",
+          "rl": "37",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF910_LOC",
+          "address": "N41:7.05",
+          "description": "STRONG LIQUOR TRANSFER PUMP LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-75/76",
+          "rl": "38",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-911": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF911_RUN",
+          "address": "N40:6.08",
+          "description": "PROCESS LIQUOR TRANSFER PUMP RUNNING",
+          "panel": "779",
+          "tb": "21T1-54/55",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF911_TRIP",
+          "address": "N40:6.09",
+          "description": "PROCESS LIQUOR TRANSFER PUMP TRIPPED",
+          "panel": "779",
+          "tb": "21T1-56/57",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF911_STR",
+          "address": "N41:8.01",
+          "description": "PROCESS LIQUOR  TRANSFER PUMP START COMMAND",
+          "panel": "779",
+          "tb": "21T4-3/4",
+          "rl": "50",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF911_STP",
+          "address": "N41:8.02",
+          "description": "PROCESS LIQUOR  TRANSFER PUMP STOP COMMAND",
+          "panel": "779",
+          "tb": "21T4-5/6",
+          "rl": "51",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF911_LOC",
+          "address": "N41:8.03",
+          "description": "PROCESS LIQUOR  TRANSFER PUMP LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T4-7/8",
+          "rl": "52",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-912": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF912_RUN",
+          "address": "N40:6.00",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-38/39",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF912_TRIP",
+          "address": "N40:6.01",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-40/41",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF912_STR",
+          "address": "N41:6.13",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-59/60",
+          "rl": "30",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF912_STP",
+          "address": "N41:7.00",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-65/66",
+          "rl": "33",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF912_LOC",
+          "address": "N41:7.01",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-67/68",
+          "rl": "34",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-913": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF913_RUN",
+          "address": "N40:6.06",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-50/51",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF913_TRIP",
+          "address": "N40:6.07",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-52/53",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF913_STR",
+          "address": "N41:7.11",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-87/88",
+          "rl": "44",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF913_STP",
+          "address": "N41:7.12",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-89/90",
+          "rl": "45",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF913_LOC",
+          "address": "N41:7.13",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-91/92",
+          "rl": "46",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-914A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF914A_RUN",
+          "address": "N40:1.02",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-42/43",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF914A_TRIP",
+          "address": "N40:1.03",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-44/45",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF914A_STR",
+          "address": "N41:1.12",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-57/58",
+          "rl": "29",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF914A_STP",
+          "address": "N41:1.13",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-59/60",
+          "rl": "30",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF914A_LOC",
+          "address": "N41:2.00",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-65/66",
+          "rl": "33",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-914B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF914B_RUN",
+          "address": "N40:0.10",
+          "description": "CONDENSATE PUMP   RUNNING",
+          "panel": "778",
+          "tb": "20T1-26/27",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF914B_TRIP",
+          "address": "N40:0.11",
+          "description": "CONDENSATE PUMP   TRIPPED",
+          "panel": "778",
+          "tb": "20T1-28/29",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF914B_STR",
+          "address": "N41:1.03",
+          "description": "CONDENSATE PUMP   START COMMAND",
+          "panel": "778",
+          "tb": "20T3-39/40",
+          "rl": "20",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF914B_STP",
+          "address": "N41:1.04",
+          "description": "CONDENSATE PUMP   STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-41/42",
+          "rl": "21",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF914B_LOC",
+          "address": "N41:1.05",
+          "description": "CONDENSATE PUMP   LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-43/44",
+          "rl": "22",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-915": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF915_RUN",
+          "address": "N40:5.08",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-22/23",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF915_TRIP",
+          "address": "N40:5.09",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-24/25",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF915_STR",
+          "address": "N41:6.02",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-37/38",
+          "rl": "19",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF915_STP",
+          "address": "N41:6.03",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-39/40",
+          "rl": "20",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF915_LOC",
+          "address": "N41:6.04",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-41/42",
+          "rl": "21",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-916A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF916A_RUN",
+          "address": "N40:6.04",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-46/47",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF916A_TRIP",
+          "address": "N40:6.05",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-48/49",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF916A_STR",
+          "address": "N41:7.08",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-81/82",
+          "rl": "41",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF916A_STP",
+          "address": "N41:7.09",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-83/84",
+          "rl": "42",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF916A_LOC",
+          "address": "N41:7.10",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-85/86",
+          "rl": "43",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-916B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF916B_RUN",
+          "address": "N40:5.10",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "779",
+          "tb": "21T1-26/27",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF916B_TRIP",
+          "address": "N40:5.11",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "779",
+          "tb": "21T1-28/29",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF916B_STR",
+          "address": "N41:6.06",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "779",
+          "tb": "21T3-45/46",
+          "rl": "23",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF916B_STP",
+          "address": "N41:6.07",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "779",
+          "tb": "21T3-47/48",
+          "rl": "24",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF916B_LOC",
+          "address": "N41:6.08",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "779",
+          "tb": "21T3-49/50",
+          "rl": "25",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_E-P-918": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08PACF918_RUN",
+          "address": "N40:0.00",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "778",
+          "tb": "20T1-6/7",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08PACF918_TRIP",
+          "address": "N40:0.01",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-8/9",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08PACF918_STR",
+          "address": "N41:0.00",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-1/2",
+          "rl": "1",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08PACF918_STP",
+          "address": "N41:0.01",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-3/4",
+          "rl": "2",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08PACF918_LOC",
+          "address": "N41:0.02",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-5/6",
+          "rl": "3",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
         }
       ]
     },
@@ -5728,6 +6774,1458 @@
           "description": "SUMP PUMP  LOCAL SELECTED",
           "panel": "778",
           "tb": "20T3-21/22",
+          "rl": "11",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -35/36",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-901": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF901_RUN",
+          "address": "N40:21.06",
+          "description": "SUPPLY PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-50/51",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF901_TRIP",
+          "address": "N40:21.07",
+          "description": "SUPPLY PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-52/53",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF901_STR",
+          "address": "N41:22.04",
+          "description": "SUPPLY PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-73/74",
+          "rl": "37",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF901_STP",
+          "address": "N41:22.05",
+          "description": "SUPPLY PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-75/76",
+          "rl": "38",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF901_LOC",
+          "address": "N41:22.06",
+          "description": "SUPPLY PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-77/78",
+          "rl": "39",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": "FZ1 -13/14",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-902": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF902_RUN",
+          "address": "N40:25.02",
+          "description": "SUPPLY PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-10/11",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF902_TRIP",
+          "address": "N40:25.03",
+          "description": "SUPPLY PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-12/13",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF902_STR",
+          "address": "N41:25.04",
+          "description": "SUPPLY PUMP   START COMMAND",
+          "panel": "781",
+          "tb": "23T3-9/10",
+          "rl": "5",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF902_STP",
+          "address": "N41:25.05",
+          "description": "SUPPLY PUMP   STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-11/12",
+          "rl": "6",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF902_LOC",
+          "address": "N41:25.06",
+          "description": "SUPPLY PUMP   LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-13/14",
+          "rl": "7",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -19/20",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-903": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF903_RUN",
+          "address": "N40:25.00",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-6/7",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF903_TRIP",
+          "address": "N40:25.01",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-8/9",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF903_STR",
+          "address": "N41:25.00",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-1/2",
+          "rl": "1",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF903_STP",
+          "address": "N41:25.01",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-3/4",
+          "rl": "2",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF903_LOC",
+          "address": "N41:25.02",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-5/6",
+          "rl": "3",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -1/2",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-904": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF904_RUN",
+          "address": "N40:25.04",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-14/15",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF904_TRIP",
+          "address": "N40:25.05",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-16/17",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF904_STR",
+          "address": "N41:25.08",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-17/18",
+          "rl": "9",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF904_STP",
+          "address": "N41:25.09",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-19/20",
+          "rl": "10",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF904_LOC",
+          "address": "N41:25.10",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-21/22",
+          "rl": "11",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -7/8",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-905": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF905_RUN",
+          "address": "N40:25.06",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-18/19",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF905_TRIP",
+          "address": "N40:25.07",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-20/21",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF905_STR",
+          "address": "N41:25.12",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-25/26",
+          "rl": "13",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF905_STP",
+          "address": "N41:25.13",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-27/28",
+          "rl": "14",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF905_LOC",
+          "address": "N41:26.00",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-33/34",
+          "rl": "17",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -11/12",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-906": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF906_RUN",
+          "address": "N40:20.02",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-10/11",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF906_TRIP",
+          "address": "N40:20.03",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-12/13",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF906_STR",
+          "address": "N41:20.04",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-9/10",
+          "rl": "5",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF906_STP",
+          "address": "N41:20.05",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-11/12",
+          "rl": "6",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF906_LOC",
+          "address": "N41:20.06",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-13/14",
+          "rl": "7",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 2 -17/18",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-907A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF907A_RUN",
+          "address": "N40:20.06",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-18/19",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF907A_TRIP",
+          "address": "N40:20.07",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-20/21",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF907A_STR",
+          "address": "N41:20.11",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-23/24",
+          "rl": "12",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF907A_STP",
+          "address": "N41:20.12",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-25/26",
+          "rl": "13",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF907A_LOC",
+          "address": "N41:20.13",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-27/28",
+          "rl": "14",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -15/16",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-907B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF907B_RUN",
+          "address": "N40:20.08",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-22/23",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF907B_TRIP",
+          "address": "N40:20.09",
+          "description": "CONDENSATE PUMP   TRIPPED",
+          "panel": "780",
+          "tb": "22T1-24/25",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF907B_STR",
+          "address": "N41:21.00",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-33/34",
+          "rl": "17",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF907B_STP",
+          "address": "N41:21.01",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-35/36",
+          "rl": "18",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF907B_LOC",
+          "address": "N41:21.02",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-37/38",
+          "rl": "19",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -17/18",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-908": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF908_RUN",
+          "address": "N40:25.12",
+          "description": "TRANSFER PUMP   RUNNING",
+          "panel": "781",
+          "tb": "23T1-30/31",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF908_TRIP",
+          "address": "N40:25.13",
+          "description": "TRANSFER PUMP   TRIPPED",
+          "panel": "781",
+          "tb": "23T1-32/33",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF908_STR",
+          "address": "N41:26.09",
+          "description": "TRANSFER PUMP   START COMMAND",
+          "panel": "781",
+          "tb": "23T3-51/52",
+          "rl": "26",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF908_STP",
+          "address": "N41:26.10",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-53/54",
+          "rl": "27",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF908_LOC",
+          "address": "N41:26.11",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-55/56",
+          "rl": "28",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -21/22",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-909A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF909A_RUN",
+          "address": "N40:21.00",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-38/39",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF909A_TRIP",
+          "address": "N40:21.01",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-40/41",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF909A_STR",
+          "address": "N41:21.09",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-51/52",
+          "rl": "26",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF909A_STP",
+          "address": "N41:21.10",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-53/54",
+          "rl": "27",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF909A_LOC",
+          "address": "N41:21.11",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-55/56",
+          "rl": "28",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -23/24",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-909B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF909B_RUN",
+          "address": "N40:21.04",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-46/47",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF909B_TRIP",
+          "address": "N40:21.05",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-48/49",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF909B_STR",
+          "address": "N41:22.01",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-67/68",
+          "rl": "34",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF909B_STP",
+          "address": "N41:22.02",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-69/70",
+          "rl": "35",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF909B_LOC",
+          "address": "N41:22.03",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-71/72",
+          "rl": "36",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-910": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF910_RUN",
+          "address": "N40:26.02",
+          "description": "STRONG LIQUOR  TRANSFER PUMP RUNNING",
+          "panel": "781",
+          "tb": "23T1-42/43",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF910_TRIP",
+          "address": "N40:26.03",
+          "description": "STRONG LIQUOR  TRANSFER PUMP TRIPPED",
+          "panel": "781",
+          "tb": "23T1-44/45",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF910_STR",
+          "address": "N41:27.03",
+          "description": "STRONG LIQUOR TRANSFER PUMP START COMMAND",
+          "panel": "781",
+          "tb": "23T3-71/72",
+          "rl": "36",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF910_STP",
+          "address": "N41:27.04",
+          "description": "STRONG LIQUOR TRANSFER PUMP STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-73/74",
+          "rl": "37",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF910_LOC",
+          "address": "N41:27.05",
+          "description": "STRONG LIQUOR TRANSFER PUMP LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-75/76",
+          "rl": "38",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-911": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF911_RUN",
+          "address": "N40:26.08",
+          "description": "PROCESS LIQUOR TRANSFER PUMP RUNNING",
+          "panel": "781",
+          "tb": "23T1-54/55",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF911_TRIP",
+          "address": "N40:26.09",
+          "description": "PROCESS LIQUOR TRANSFER PUMP TRIPPED",
+          "panel": "781",
+          "tb": "23T1-56/57",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF911_STR",
+          "address": "N41:28.01",
+          "description": "PROCESS LIQUOR  TRANSFER PUMP START COMMAND",
+          "panel": "781",
+          "tb": "23T4-3/4",
+          "rl": "50",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF911_STP",
+          "address": "N41:28.02",
+          "description": "PROCESS LIQUOR  TRANSFER PUMP STOP COMMAND",
+          "panel": "781",
+          "tb": "23T4-5/6",
+          "rl": "51",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF911_LOC",
+          "address": "N41:28.03",
+          "description": "PROCESS LIQUOR  TRANSFER PUMP LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T4-7/8",
+          "rl": "52",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-912": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF912_RUN",
+          "address": "N40:26.00",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-38/39",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF912_TRIP",
+          "address": "N40:26.01",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-40/41",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF912_STR",
+          "address": "N41:26.13",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-59/60",
+          "rl": "30",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF912_STP",
+          "address": "N41:27.00",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-65/66",
+          "rl": "33",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF912_LOC",
+          "address": "N41:27.01",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-67/68",
+          "rl": "34",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-913": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF913_RUN",
+          "address": "N40:26.06",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-50/51",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF913_TRIP",
+          "address": "N40:26.07",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-52/53",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF913_STR",
+          "address": "N41:27.11",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-87/88",
+          "rl": "44",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF913_STP",
+          "address": "N41:27.12",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-89/90",
+          "rl": "45",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF913_LOC",
+          "address": "N41:27.13",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-91/92",
+          "rl": "46",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-914A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF914A_RUN",
+          "address": "N40:21.02",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-42/43",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF914A_TRIP",
+          "address": "N40:21.03",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-44/45",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF914A_STR",
+          "address": "N41:21.12",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-57/58",
+          "rl": "29",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF914A_STP",
+          "address": "N41:21.13",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-59/60",
+          "rl": "30",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF914A_LOC",
+          "address": "N41:22.00",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-65/66",
+          "rl": "33",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-914B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF914B_RUN",
+          "address": "N40:20.10",
+          "description": "CONDENSATE PUMP   RUNNING",
+          "panel": "780",
+          "tb": "22T1-26/27",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF914B_TRIP",
+          "address": "N40:20.11",
+          "description": "CONDENSATE PUMP   TRIPPED",
+          "panel": "780",
+          "tb": "22T1-28/29",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF914B_STR",
+          "address": "N41:21.03",
+          "description": "CONDENSATE PUMP   START COMMAND",
+          "panel": "780",
+          "tb": "22T3-39/40",
+          "rl": "20",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF914B_STP",
+          "address": "N41:21.04",
+          "description": "CONDENSATE PUMP   STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-41/42",
+          "rl": "21",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF914B_LOC",
+          "address": "N41:21.05",
+          "description": "CONDENSATE PUMP   LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-43/44",
+          "rl": "22",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-915": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF915_RUN",
+          "address": "N40:25.08",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-22/23",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF915_TRIP",
+          "address": "N40:25.09",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-24/25",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF915_STR",
+          "address": "N41:26.02",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-37/38",
+          "rl": "19",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF915_STP",
+          "address": "N41:26.03",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-39/40",
+          "rl": "20",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF915_LOC",
+          "address": "N41:26.04",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-41/42",
+          "rl": "21",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-916A": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF916A_RUN",
+          "address": "N40:26.04",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-46/47",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF916A_TRIP",
+          "address": "N40:26.05",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-48/49",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF916A_STR",
+          "address": "N41:27.08",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-81/82",
+          "rl": "41",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF916A_STP",
+          "address": "N41:27.09",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-83/84",
+          "rl": "42",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF916A_LOC",
+          "address": "N41:27.10",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-85/86",
+          "rl": "43",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-916B": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF916B_RUN",
+          "address": "N40:25.10",
+          "description": "CONDENSATE PUMP  RUNNING",
+          "panel": "781",
+          "tb": "23T1-26/27",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF916B_TRIP",
+          "address": "N40:25.11",
+          "description": "CONDENSATE PUMP  TRIPPED",
+          "panel": "781",
+          "tb": "23T1-28/29",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF916B_STR",
+          "address": "N41:26.06",
+          "description": "CONDENSATE PUMP  START COMMAND",
+          "panel": "781",
+          "tb": "23T3-45/46",
+          "rl": "23",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF916B_STP",
+          "address": "N41:26.07",
+          "description": "CONDENSATE PUMP  STOP COMMAND",
+          "panel": "781",
+          "tb": "23T3-47/48",
+          "rl": "24",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF916B_LOC",
+          "address": "N41:26.08",
+          "description": "CONDENSATE PUMP  LOCAL SELECTED",
+          "panel": "781",
+          "tb": "23T3-49/50",
+          "rl": "25",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-P-918": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PACF918_RUN",
+          "address": "N40:20.00",
+          "description": "TRANSFER PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-6/7",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PACF918_TRIP",
+          "address": "N40:20.01",
+          "description": "TRANSFER PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-8/9",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PACF918_STR",
+          "address": "N41:20.00",
+          "description": "TRANSFER PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-1/2",
+          "rl": "1",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PACF918_STP",
+          "address": "N41:20.01",
+          "description": "TRANSFER PUMP  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-3/4",
+          "rl": "2",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PACF918_LOC",
+          "address": "N41:20.02",
+          "description": "TRANSFER PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-5/6",
+          "rl": "3",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": " FZ 1 -25/26",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_F-SP-919": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08PASM919_RUN",
+          "address": "N40:20.04",
+          "description": "SUMP PUMP  RUNNING",
+          "panel": "780",
+          "tb": "22T1-14/15",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08PASM919_TRIP",
+          "address": "N40:20.05",
+          "description": "SUMP PUMP  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-16/17",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08PASM919_STR",
+          "address": "N41:20.08",
+          "description": "SUMP PUMP  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-17/18",
+          "rl": "9",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08PASM919_STP",
+          "address": "N41:20.09",
+          "description": "SUMP PUMP   STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-19/20",
+          "rl": "10",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08PASM919_LOC",
+          "address": "N41:20.10",
+          "description": "SUMP PUMP  LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-21/22",
           "rl": "11",
           "board": "X-7/8"
         },
