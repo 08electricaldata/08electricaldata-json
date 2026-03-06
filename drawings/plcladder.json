@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T23:05:15.404Z",
+  "updated": "2026-03-06T02:51:36.245Z",
   "rows": [
     {
       "id": "BAT_A-P-200",
@@ -857,6 +857,15 @@
       ]
     },
     {
+      "id": "BAT_E-AGITATOR-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
+      "pages": [
+        182,
+        493,
+        497
+      ]
+    },
+    {
       "id": "BAT_E-P-901",
       "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
       "pages": [
@@ -1075,6 +1084,15 @@
       "pages": [
         202,
         203,
+        493,
+        497
+      ]
+    },
+    {
+      "id": "BAT_F-AGITATOR-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/master_plc.pdf",
+      "pages": [
+        182,
         493,
         497
       ]
