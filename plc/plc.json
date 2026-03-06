@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T23:05:13.824Z",
+  "updated": "2026-03-06T02:51:34.749Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -5337,6 +5337,72 @@
         }
       ]
     },
+    "BAT_E-AGITATOR-901": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "E_08TM00901_RUN",
+          "address": "N40:0.12",
+          "description": "SUMP TANK AGITATOR  RUNNING",
+          "panel": "778",
+          "tb": "20T1-30/31",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "E_08TM00901_TRIP",
+          "address": "N40:0.13",
+          "description": "SUMP TANK AGITATOR  TRIPPED",
+          "panel": "778",
+          "tb": "20T1-32/33",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "E_08TM00901_STR",
+          "address": "N41:1.06",
+          "description": "SUMP TANK AGITATOR  START COMMAND",
+          "panel": "778",
+          "tb": "20T3-45/46",
+          "rl": "23",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "E_08TM00901_STP",
+          "address": "N41:1.07",
+          "description": "SUMP TANK AGITATOR  STOP COMMAND",
+          "panel": "778",
+          "tb": "20T3-47/48",
+          "rl": "24",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "E_08TM00901_LOC",
+          "address": "N41:1.08",
+          "description": "SUMP TANK AGITATOR   LOCAL SELECTED",
+          "panel": "778",
+          "tb": "20T3-49/50",
+          "rl": "25",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": "FZ2 -37/38",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
     "BAT_E-P-901": {
       "inputs": [
         {
@@ -6789,6 +6855,72 @@
         }
       ]
     },
+    "BAT_F-AGITATOR-901": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "F_08TM00901_RUN",
+          "address": "N40:20.12",
+          "description": "SUMP TANK AGITATOR  RUNNING",
+          "panel": "780",
+          "tb": "22T1-30/31",
+          "rl": "",
+          "board": "X-9/10"
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "F_08TM00901_TRIP",
+          "address": "N40:20.13",
+          "description": "SUMP TANK AGITATOR  TRIPPED",
+          "panel": "780",
+          "tb": "22T1-32/33",
+          "rl": "",
+          "board": "X-11/12"
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "F_08TM00901_STR",
+          "address": "N41:21.06",
+          "description": "SUMP TANK AGITATOR  START COMMAND",
+          "panel": "780",
+          "tb": "22T3-45/46",
+          "rl": "23",
+          "board": "X-1/2"
+        },
+        {
+          "signal": "STOP",
+          "tag": "F_08TM00901_STP",
+          "address": "N41:21.07",
+          "description": "SUMP TANK AGITATOR  STOP COMMAND",
+          "panel": "780",
+          "tb": "22T3-47/48",
+          "rl": "24",
+          "board": "X-3/4"
+        },
+        {
+          "signal": "IN LOC",
+          "tag": "F_08TM00901_LOC",
+          "address": "N41:21.08",
+          "description": "SUMP TANK AGITATOR   LOCAL SELECTED",
+          "panel": "780",
+          "tb": "22T3-49/50",
+          "rl": "25",
+          "board": "X-7/8"
+        },
+        {
+          "signal": "CURRENT",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "729",
+          "tb": "RZ1 -69/70",
+          "rl": "",
+          "board": "X-19/20"
+        }
+      ]
+    },
     "BAT_F-P-901": {
       "inputs": [
         {
@@ -6849,7 +6981,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": "FZ1 -13/14",
+          "tb": "RZ1 -13/14",
           "rl": "",
           "board": "X-19/20"
         }
@@ -6915,7 +7047,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -19/20",
+          "tb": "RZ 1 -19/20",
           "rl": "",
           "board": "X-19/20"
         }
@@ -6981,7 +7113,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 2 -1/2",
+          "tb": "RZ1-33/34",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7047,7 +7179,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 2 -7/8",
+          "tb": "RZ1-39/40",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7113,7 +7245,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 2 -11/12",
+          "tb": "RZ1-43/44",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7179,7 +7311,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 2 -17/18",
+          "tb": "RZ1-49/50",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7245,7 +7377,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -15/16",
+          "tb": "RZ1-15/16",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7311,7 +7443,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -17/18",
+          "tb": "RZ 1 -17/18",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7377,7 +7509,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -21/22",
+          "tb": " RZ 1 -21/22",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7443,7 +7575,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -23/24",
+          "tb": "RZ 1 -23/24",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7509,7 +7641,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -25/26",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7575,7 +7707,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -05/06",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7641,7 +7773,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": "RZ 1 -27/28",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7707,7 +7839,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -37/38",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7773,7 +7905,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -41/42",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7839,7 +7971,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -45/46",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7905,7 +8037,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -47/48",
           "rl": "",
           "board": "X-19/20"
         }
@@ -7971,7 +8103,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -51/52",
           "rl": "",
           "board": "X-19/20"
         }
@@ -8037,7 +8169,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": "RZ1-57/58",
           "rl": "",
           "board": "X-19/20"
         }
@@ -8103,7 +8235,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": "RZ1-59/60",
           "rl": "",
           "board": "X-19/20"
         }
@@ -8169,7 +8301,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 1 -25/26",
+          "tb": " RZ 1 -65/66",
           "rl": "",
           "board": "X-19/20"
         }
@@ -8235,7 +8367,7 @@
           "address": "",
           "description": "",
           "panel": "729",
-          "tb": " FZ 2 -35/36",
+          "tb": " RZ 1 -67/68",
           "rl": "",
           "board": "X-19/20"
         }
