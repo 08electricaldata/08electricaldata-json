@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T15:05:28.797Z",
+  "updated": "2026-03-06T18:51:39.414Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -8370,6 +8370,174 @@
           "tb": " RZ 1 -67/68",
           "rl": "",
           "board": "X-19/20"
+        }
+      ]
+    },
+    "BAT_H-P-901": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU901H_TRP",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 1 / 2",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU901H_RUN",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 3 / 4",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "READY",
+          "tag": "08PU901H_RDY",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 5 / 6",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOC",
+          "tag": "08PU901H_LOC",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 1 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU901H_STR",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 2 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-902": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU902H_TRP",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 19 / 20",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU902H_RUN",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 21 / 22",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "READY",
+          "tag": "08PU902H_RDY",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 23 / 24",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOC",
+          "tag": "08PU902H_LOC",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 7 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU902H_STR",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 8 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-903": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU903H_TRP",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 51 / 52",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU903H_RUN",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 53 / 54",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "READY",
+          "tag": "08PU903H_RDY",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 55 / 56",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOC",
+          "tag": "08PU903H_LOC",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 17 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU903H_STR",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 18 / ",
+          "rl": "",
+          "board": ""
         }
       ]
     },
