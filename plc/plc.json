@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T15:05:13.011Z",
+  "updated": "2026-03-08T18:51:49.068Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -11653,6 +11653,118 @@
           "panel": "PLC-MC-CS07-01(R)",
           "tb": "2T - 57 / 58",
           "rl": "4R29",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-910": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF910_TRP",
+          "address": "",
+          "description": "O8PACF910 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 123 / 124",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF910_RUN",
+          "address": "",
+          "description": "O8PACF910 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 129 / 130",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF910_RDY",
+          "address": "",
+          "description": "O8PACF910 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 131 / 132",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF910_LOC",
+          "address": "",
+          "description": "O8PACF910  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 79 / 80",
+          "rl": "4R40",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF910_STR",
+          "address": "",
+          "description": "O8PACF910 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 77 / 78",
+          "rl": "4R39",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-911": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF911_TRP",
+          "address": "",
+          "description": "O8PACF911 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 133 / 134",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF911_RUN",
+          "address": "",
+          "description": "O8PACF911 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 135 / 136",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF911_RDY",
+          "address": "",
+          "description": "O8PACF911 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 137 / 138",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF911_LOC",
+          "address": "",
+          "description": "O8PACF911  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 83 / 84",
+          "rl": "4R42",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF911_STR",
+          "address": "",
+          "description": "O8PACF911 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 81 / 82",
+          "rl": "4R41",
           "board": ""
         }
       ]
