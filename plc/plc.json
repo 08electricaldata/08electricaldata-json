@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T11:05:20.004Z",
+  "updated": "2026-03-08T14:48:17.428Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -8373,6 +8373,1386 @@
         }
       ]
     },
+    "BAT_G-AGITATOR-901": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PUG901G_TRP",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 179 / 180",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PUG901G_RUN",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 181 / 182",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PUG901G_LOC",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 53 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PUG901G_STR",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 54 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-901": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU901G_TRP",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 1 / 2",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU901G_RUN",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 3 / 4",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU901G_RDY",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 5 / 6",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU901G_LOC",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 1 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU901G_STR",
+          "address": "",
+          "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 2 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-902": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU902G_TRP",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 19 / 20",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU902G_RUN",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 21 / 22",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU902G_RDY",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 23 / 24",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU902G_LOC",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 7 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU902G_STR",
+          "address": "",
+          "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 8 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-903": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU903G_TRP",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 51 / 52",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU903G_RUN",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 53 / 54",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU903G_RDY",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 55 / 56",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU903G_LOC",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 17 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU903G_STR",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 18 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-904": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU904G_TRP",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 77 / 78",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU904G_RUN",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 79 / 80",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU904G_RDY",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 81 / 82",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU904G_LOC",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 23 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU904G_STR",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 24 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-905": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU905G_TRP",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 97 / 98",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU905G_RUN",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 99 / 100",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU905G_RDY",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 101 / 102",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU905G_LOC",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 27 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU905G_STR",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 28 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-906": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU906G_TRP",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 129 / 130",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU906G_RUN",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 131 / 132",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU906G_RDY",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 133 / 134",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU906G_LOC",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 37 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU906G_STR",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 38 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-907A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU907AG_TRP",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 7 / 8",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU907AG_RUN",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 9 / 10",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU907AG_RDY",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 11 / 12",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU907AG_LOC",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 3 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU907AG_STR",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 4 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-907B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU907BG_TRP",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 13 / 14",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU907BG_RUN",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 15 / 16",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU907BG_RDY",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 17 / 18",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU907BG_LOC",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 5 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU907BG_STR",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 6 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-908": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU908PUG_TRP",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 45 / 46",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU908PUG_RUN",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 47 / 48",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU908PUG_RDY",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 49 / 50",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU908PUG_LOC",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 13 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU908PUG_STR",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 14 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-909A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU909AG_TRP",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 33 / 34",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU909AG_RUN",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 35 / 36",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU909AG_RDY",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 37 / 38",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU909AG_LOC",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 9 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU909AG_STR",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 10 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-909B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU909BG_TRP",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 39 / 40",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU909BG_RUN",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 41 / 42",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU909BG_RDY",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 43 / 44",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU909BG_LOC",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 11 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU909BG_STR",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 12 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-910": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU910G_TRP",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 71 / 72",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU910G_RUN",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 73 / 74",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU910G_RDY",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 75 / 76",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU910G_LOC",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 21 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU910G_STR",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 22 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-911": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU911G_TRP",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 65 / 66",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU911G_RUN",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 67 / 68",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU911G_RDY",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 69 / 70",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU911G_LOC",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 19 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU911G_STR",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 20 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-912": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU912G_TRP",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 83 / 84",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU912G_RUN",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 85 / 86",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU912G_RDY",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 87 / 88",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU912G_LOC",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 25 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU912G_STR",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 26 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-913": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU913G_TRP",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 103 / 104",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU913G_RUN",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 105 / 106",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU913G_RDY",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 107 / 108",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU913G_LOC",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 29 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU913G_STR",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 30 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-914A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU914AG_TRP",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 109 / 110",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU914AG_RUN",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 111 / 112",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU914AG_RDY",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 113 / 114",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU914AG_LOC",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 33 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU914AG_STR",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 34 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-914B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU914BG_TRP",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 115 / 116",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU914BG_RUN",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 117 / 118",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU914BG_RDY",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 119 / 120",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU914BG_LOC",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 35 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU914BG_STR",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 36 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-915": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU915G_TRP",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 135 / 136",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU915G_RUN",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 137 / 138",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU915G_RDY",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 139 / 140",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU915G_LOC",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 39 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU915G_STR",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 40 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-916A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU916AG_TRP",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 141 / 142",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU916AG_RUN",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 143 / 144",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU916AG_RDY",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 145 / 146",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU916AG_LOC",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 41 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU916AG_STR",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 42 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-916B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU916BG_TRP",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 147 / 148",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU916BG_RUN",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 149 / 150",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU916BG_RDY",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 151 / 152",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU916BG_LOC",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 43 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU916BG_STR",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 44 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-916C": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU916CG_TRP",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CG TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 161 / 162",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU916CG_RUN",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CG RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 163 / 164",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU916CG_RDY",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CG READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 165 / 166",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU916CG_LOC",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CG LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 45 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU916CG_STR",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CG START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 46 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-P-918": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU918G_TRP",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 167 / 168",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU918G_RUN",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 169 / 170",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU918G_RDY",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 171 / 172",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU918G_LOC",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 49 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU918G_STR",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 50 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_G-SP-919": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU919G_TRP",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919G TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 173 / 174",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU919G_RUN",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919G RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 175 / 176",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU919G_RDY",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919G READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "4T - 177 / 178",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU919G_LOC",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919G LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 51 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU919G_STR",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919G START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "2T - 52 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-AGITATOR-901": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PUG901H_TRP",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 179 / 180",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PUG901H_RUN",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 181 / 182",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PUG901H_LOC",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 53 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PUG901H_STR",
+          "address": "",
+          "description": "SUMP AGITATOR PUMP TM-00-901H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 54 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
     "BAT_H-P-901": {
       "inputs": [
         {
@@ -8394,9 +9774,7 @@
           "tb": "3T - 3 / 4",
           "rl": "",
           "board": ""
-        }
-      ],
-      "outputs": [
+        },
         {
           "signal": "READY",
           "tag": "08PU901H_RDY",
@@ -8406,9 +9784,11 @@
           "tb": "3T - 5 / 6",
           "rl": "",
           "board": ""
-        },
+        }
+      ],
+      "outputs": [
         {
-          "signal": "LOC",
+          "signal": "IN LOC",
           "tag": "08PU901H_LOC",
           "address": "",
           "description": "JE-FF-901 1st EFFECT CIRCULATION PUMP PA-CF-901H LOCAL/REMOTE SELECTOR SWITCH",
@@ -8450,9 +9830,7 @@
           "tb": "3T - 21 / 22",
           "rl": "",
           "board": ""
-        }
-      ],
-      "outputs": [
+        },
         {
           "signal": "READY",
           "tag": "08PU902H_RDY",
@@ -8462,9 +9840,11 @@
           "tb": "3T - 23 / 24",
           "rl": "",
           "board": ""
-        },
+        }
+      ],
+      "outputs": [
         {
-          "signal": "LOC",
+          "signal": "IN LOC",
           "tag": "08PU902H_LOC",
           "address": "",
           "description": "JE-FF-902 1st EFFECT CIRCULATION PUMP PA-CF-902H LOCAL/REMOTE SELECTOR SWITCH",
@@ -8506,9 +9886,7 @@
           "tb": "3T - 53 / 54",
           "rl": "",
           "board": ""
-        }
-      ],
-      "outputs": [
+        },
         {
           "signal": "READY",
           "tag": "08PU903H_RDY",
@@ -8518,9 +9896,11 @@
           "tb": "3T - 55 / 56",
           "rl": "",
           "board": ""
-        },
+        }
+      ],
+      "outputs": [
         {
-          "signal": "LOC",
+          "signal": "IN LOC",
           "tag": "08PU903H_LOC",
           "address": "",
           "description": "JE-FF-903 3rd EFFECT CIRCULATION PUMP PA-CF-903H LOCAL/REMOTE SELECTOR SWITCH",
@@ -8537,6 +9917,1742 @@
           "panel": "PLC-SC-CS07-01(R)",
           "tb": "1T - 18 / ",
           "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-904": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU904H_TRP",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 77 / 78",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU904H_RUN",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 79 / 80",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU904H_RDY",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 81 / 82",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU904H_LOC",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 23 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU904H_STR",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT CIRCULATION PUMP PA-CF-904H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 24 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-905": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU905H_TRP",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 97 / 98",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU905H_RUN",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 99 / 100",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU905H_RDY",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 101 / 102",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU905H_LOC",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 27 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU905H_STR",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT CIRCULATION PUMP PA-CF-905H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 28 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-906": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU906H_TRP",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 129 / 130",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU906H_RUN",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 131 / 132",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU906H_RDY",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 133 / 134",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU906H_LOC",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 37 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU906H_STR",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT CIRCULATION PUMP PA-CF-906H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 38 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-907A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU907AH_TRP",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 7 / 8",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU907AH_RUN",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 9 / 10",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU907AH_RDY",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 11 / 12",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU907AH_LOC",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 3 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU907AH_STR",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907AH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 4 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-907B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU907BH_TRP",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 13 / 14",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU907BH_RUN",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 15 / 16",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU907BH_RDY",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 17 / 18",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU907BH_LOC",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 5 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU907BH_STR",
+          "address": "",
+          "description": "STEAM CONDENSATE PUMP PA-CF-907BH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 6 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-908": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU908PUH_TRP",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 45 / 46",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU908PUH_RUN",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 47 / 48",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU908PUH_RDY",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU908PUH_LOC",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 13 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU908PUH_STR",
+          "address": "",
+          "description": "JE-FF-902 2nd EFFECT TRANSFER PUMP PA-CF-908H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 14 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-909A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU909AH_TRP",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 33 / 34",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU909AH_RUN",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 35 / 36",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU909AH_RDY",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 37 / 38",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU909AH_LOC",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 9 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU909AH_STR",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909AH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 10 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-909B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU909BH_TRP",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 39 / 40",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU909BH_RUN",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 41 / 42",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU909BH_RDY",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 43 / 44",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU909BH_LOC",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 11 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU909BH_STR",
+          "address": "",
+          "description": "2nd EFFECT CONDENSATE PUMP PA-CF-909BH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 12 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-910": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU910H_TRP",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 71 / 72",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU910H_RUN",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 73 / 74",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU910H_RDY",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 75 / 76",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU910H_LOC",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 21 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU910H_STR",
+          "address": "",
+          "description": "PRODUCT PUMP PA-CF-910H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 22 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-911": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU911H_TRP",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 65 / 66",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU911H_RUN",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 67 / 68",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU911H_RDY",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 69 / 70",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU911H_LOC",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 19 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU911H_STR",
+          "address": "",
+          "description": "JE-FF-903 3rd EFFECT TRANSFER PUMP PA-CF-911H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 20 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-912": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU912H_TRP",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 83 / 84",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU912H_RUN",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 85 / 86",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU912H_RDY",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 87 / 88",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU912H_LOC",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 25 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU912H_STR",
+          "address": "",
+          "description": "JE-FF-904 4th EFFECT TRANSFER PUMP PA-CF-912H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 26 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-913": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU913H_TRP",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 103 / 104",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU913H_RUN",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 105 / 106",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU913H_RDY",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 107 / 108",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU913H_LOC",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 29 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU913H_STR",
+          "address": "",
+          "description": "JE-FF-905 5th EFFECT TRANSFER PUMP PA-CF-913H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 30 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-914A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU914AH_TRP",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 109 / 110",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU914AH_RUN",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 111 / 112",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU914AH_RDY",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 113 / 114",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU914AH_LOC",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 33 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU914AH_STR",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914AH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 34 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-914B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU914BH_TRP",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 115 / 116",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU914BH_RUN",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 117 / 118",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU914BH_RDY",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 119 / 120",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU914BH_LOC",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 35 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU914BH_STR",
+          "address": "",
+          "description": "SODIC CONDENSATE PUMP PA-CF-914BH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 36 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-915": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU915H_TRP",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 135 / 136",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU915H_RUN",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 137 / 138",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU915H_RDY",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 139 / 140",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU915H_LOC",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 39 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU915H_STR",
+          "address": "",
+          "description": "JE-FF-906 6th EFFECT TRANSFER PUMP PA-CF-915H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 40 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-916A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU916AH_TRP",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 141 / 142",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU916AH_RUN",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 143 / 144",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU916AH_RDY",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 145 / 146",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU916AH_LOC",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 41 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU916AH_STR",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916AH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 42 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-916B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU916BH_TRP",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 147 / 148",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU916BH_RUN",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 149 / 150",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU916BH_RDY",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 151 / 152",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU916BH_LOC",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 43 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU916BH_STR",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916BH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 44 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-916C": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU916CH_TRP",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CH TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 161 / 162",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU916CH_RUN",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CH RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 163 / 164",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU916CH_RDY",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CH READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 165 / 166",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU916CH_LOC",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CH LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 45 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU916CH_STR",
+          "address": "",
+          "description": "COOLING WATER PUMP PA-CF-916CH START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 46 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-P-918": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU918H_TRP",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 167 / 168",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU918H_RUN",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 169 / 170",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU918H_RDY",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 171 / 172",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU918H_LOC",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 49 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU918H_STR",
+          "address": "",
+          "description": "ACID RETURN PUMP PA-CF-918H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 50 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_H-SP-919": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PU919H_TRP",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919H TRIP FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 173 / 174",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PU919H_RUN",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919H RUN FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 175 / 176",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU919H_RDY",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919H READY TO START FB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "3T - 177 / 178",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PU919H_LOC",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919H LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 51 / ",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PU919H_STR",
+          "address": "",
+          "description": "SUMP PUMP PUMP PA-CF-919H START/STOP PB",
+          "panel": "PLC-SC-CS07-01(R)",
+          "tb": "1T - 52 / ",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-901": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF901_TRP",
+          "address": "",
+          "description": "O8PACF901 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "3T - 37 / 38",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF901_RUN",
+          "address": "",
+          "description": "O8PACF901 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "3T - 39 / 40",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF901_RDY",
+          "address": "",
+          "description": "O8PACF901 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "3T - 41 / 42",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF901_LOC",
+          "address": "",
+          "description": "O8PACF901  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "1T - 3 / 4",
+          "rl": "5R02",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF901_STR",
+          "address": "",
+          "description": "O8PACF901 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "1T - 1 / 2",
+          "rl": "5R01",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-902": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF902_TRP",
+          "address": "",
+          "description": "O8PACF902 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "3T - 43 / 44",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF902_RUN",
+          "address": "",
+          "description": "O8PACF902 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "3T - 45 / 46",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF902_RDY",
+          "address": "",
+          "description": "O8PACF902 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "3T - 47 / 48",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF902_LOC",
+          "address": "",
+          "description": "O8PACF902  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "1T - 7 / 8",
+          "rl": "5R04",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF902_STR",
+          "address": "",
+          "description": "O8PACF902 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "1T - 5 / 6",
+          "rl": "5R03",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-903": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF903_TRP",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF903_RUN",
+          "address": "",
+          "description": "O8PACF903 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 51 / 52",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF903_RDY",
+          "address": "",
+          "description": "O8PACF903 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 53 / 54",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF903_LOC",
+          "address": "",
+          "description": "O8PACF903  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "1T - 11 / 12",
+          "rl": "5R06",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF903_STR",
+          "address": "",
+          "description": "O8PACF903 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-02(R)",
+          "tb": "1T - 9 / 10",
+          "rl": "5R05",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-904": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF904_TRP",
+          "address": "",
+          "description": "O8PACF904 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 55 / 56",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF904_RUN",
+          "address": "",
+          "description": "O8PACF904 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 57 / 58",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF904_RDY",
+          "address": "",
+          "description": "O8PACF904 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 59 / 60",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF904_LOC",
+          "address": "",
+          "description": "O8PACF904  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 35 / 36",
+          "rl": "4R18",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF904_STR",
+          "address": "",
+          "description": "O8PACF904 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 33 / 34",
+          "rl": "4R17",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-905": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF905_TRP",
+          "address": "",
+          "description": "O8PACF905 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 65 / 66",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF905_RUN",
+          "address": "",
+          "description": "O8PACF905 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 67 / 68",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF905_RDY",
+          "address": "",
+          "description": "O8PACF905 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 69 / 70",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF905_LOC",
+          "address": "",
+          "description": "O8PACF905  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 39 / 40",
+          "rl": "4R20",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF905_STR",
+          "address": "",
+          "description": "O8PACF905 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 37 / 38",
+          "rl": "4R19",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-906": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF906_TRP",
+          "address": "",
+          "description": "O8PACF906 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 71 / 72",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF906_RUN",
+          "address": "",
+          "description": "O8PACF906 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 73 / 74",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF906_RDY",
+          "address": "",
+          "description": "O8PACF906 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 75 / 76",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF906_LOC",
+          "address": "",
+          "description": "O8PACF906  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 43 / 44",
+          "rl": "4R22",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF906_STR",
+          "address": "",
+          "description": "O8PACF906 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 41 / 42",
+          "rl": "4R21",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-907A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF907A_TRP",
+          "address": "",
+          "description": "O8PACF907A TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 77 / 78",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF907A_RUN",
+          "address": "",
+          "description": "O8PACF907A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 79 / 80",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF907A_RDY",
+          "address": "",
+          "description": "O8PACF907A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 81 / 82",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF907A_LOC",
+          "address": "",
+          "description": "O8PACF907A  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 47 / 48",
+          "rl": "4R24",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF907A_STR",
+          "address": "",
+          "description": "O8PACF907A START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 45 / 46",
+          "rl": "4R23",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-907B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF907B_TRP",
+          "address": "",
+          "description": "O8PACF907B TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 83 / 84",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF907B_RUN",
+          "address": "",
+          "description": "O8PACF907B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 85 / 86",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF907B_RDY",
+          "address": "",
+          "description": "O8PACF907B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 87 / 88",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF907B_LOC",
+          "address": "",
+          "description": "O8PACF907B  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 51 / 52",
+          "rl": "4R26",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF907B_STR",
+          "address": "",
+          "description": "O8PACF907B START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 49 / 50",
+          "rl": "4R25",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-908": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF908_TRP",
+          "address": "",
+          "description": "O8PACF908 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 117 / 118",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF908_RUN",
+          "address": "",
+          "description": "O8PACF908 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 119 / 120",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF908_RDY",
+          "address": "",
+          "description": "O8PACF908 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 121 / 122",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF908_LOC",
+          "address": "",
+          "description": "O8PACF908  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 75 / 76",
+          "rl": "4R38",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF908_STR",
+          "address": "",
+          "description": "O8PACF908 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 73 / 74",
+          "rl": "4R37",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-909A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF909A_TRP",
+          "address": "",
+          "description": "O8PACF909A TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 89 / 90",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF909A_RUN",
+          "address": "",
+          "description": "O8PACF909A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 91 / 92",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF909A_RDY",
+          "address": "",
+          "description": "O8PACF909A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 97 / 98",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF909A_LOC",
+          "address": "",
+          "description": "O8PACF909A  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 55 / 56",
+          "rl": "4R28",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF909A_STR",
+          "address": "",
+          "description": "O8PACF909A START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 53 / 54",
+          "rl": "4R27",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-909B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF909B_TRP",
+          "address": "",
+          "description": "O8PACF909B TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 99 / 100",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF909B_RUN",
+          "address": "",
+          "description": "O8PACF909B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 101 / 102",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF909B_RDY",
+          "address": "",
+          "description": "O8PACF909B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 103 / 104",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF909B_LOC",
+          "address": "",
+          "description": "O8PACF909B  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 59 / 60",
+          "rl": "4R30",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF909B_STR",
+          "address": "",
+          "description": "O8PACF909B START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 57 / 58",
+          "rl": "4R29",
           "board": ""
         }
       ]
