@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T15:05:14.311Z",
+  "updated": "2026-03-08T18:51:50.689Z",
   "rows": [
     {
       "id": "BAT_A-P-200",
@@ -1821,6 +1821,23 @@
       "pages": [
         10,
         11
+      ]
+    },
+    {
+      "id": "BAT_I-P-910",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "BAT_I-P-911",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        15,
+        16,
+        17
       ]
     },
     {
