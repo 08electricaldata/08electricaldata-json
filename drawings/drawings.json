@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T03:05:02.346Z",
+  "updated": "2026-03-08T07:04:50.704Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -2264,15 +2264,21 @@
     },
     {
       "id": "CT_2-F-001",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1kmu9jPigjQmXjcyYsC58RPkKZge4bJob/view?usp=sharing"
+      ]
     },
     {
       "id": "CT_2-F-002",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1kmu9jPigjQmXjcyYsC58RPkKZge4bJob/view?usp=sharing"
+      ]
     },
     {
       "id": "CT_2-F-003",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1kmu9jPigjQmXjcyYsC58RPkKZge4bJob/view?usp=sharing"
+      ]
     },
     {
       "id": "CT_2-F-1002",
