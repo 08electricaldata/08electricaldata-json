@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T15:05:10.694Z",
+  "updated": "2026-03-08T18:51:46.072Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -463,7 +463,9 @@
     },
     {
       "id": "BAT_E-AGITATOR-901",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-COMMON",
@@ -479,35 +481,51 @@
     },
     {
       "id": "BAT_E-P-901",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-902",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-903",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-904",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-905",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-906",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-907A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-907B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-908",
@@ -515,11 +533,15 @@
     },
     {
       "id": "BAT_E-P-909A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-909B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-910",
@@ -539,11 +561,15 @@
     },
     {
       "id": "BAT_E-P-914A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-914B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-P-915",
@@ -559,7 +585,9 @@
     },
     {
       "id": "BAT_E-P-918",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-PCC-403",
@@ -567,11 +595,15 @@
     },
     {
       "id": "BAT_E-SP-919",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/13UdZcNK_teoJQA0w5avJBPSJj2iFvp_e/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-AGITATOR-901",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-COMMON",
@@ -587,35 +619,51 @@
     },
     {
       "id": "BAT_F-P-901",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-902",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-903",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-904",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-905",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1DRvyC03pXo4YLSYanoVkfMsgchWuxX2v/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-906",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-907A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-907B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-908",
@@ -623,11 +671,15 @@
     },
     {
       "id": "BAT_F-P-909A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-909B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1HZTqiQbfW6Po9rD4MlR7op7sXHjrlpnP/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-910",
@@ -647,11 +699,15 @@
     },
     {
       "id": "BAT_F-P-914A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-914B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-P-915",
@@ -667,7 +723,9 @@
     },
     {
       "id": "BAT_F-P-918",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1wj6IOLAsXnzPbU0_tyC6l3fbCSLCG_96/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_F-PCC-404",
@@ -675,7 +733,9 @@
     },
     {
       "id": "BAT_F-SP-919",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/13UdZcNK_teoJQA0w5avJBPSJj2iFvp_e/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_G-AGITATOR-901",
@@ -1215,7 +1275,9 @@
     },
     {
       "id": "BREAKER-US-08E-220KV-ACDB-PMCC-404",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1cCyGSGibMwtnY83VznlWWRkmn_FD20bR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-2244-HT-244",
@@ -1259,7 +1321,9 @@
     },
     {
       "id": "BREAKER-US-08E-ASB-1-PMCC-403",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-ASB1-PMCC-388",
@@ -1291,11 +1355,15 @@
     },
     {
       "id": "BREAKER-US-08E-CAPBNK1-PMCC-403",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1cCyGSGibMwtnY83VznlWWRkmn_FD20bR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-CAPBNK2-PMCC-404",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1cCyGSGibMwtnY83VznlWWRkmn_FD20bR/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-LDB1-PMCC-388",
@@ -1307,19 +1375,27 @@
     },
     {
       "id": "BREAKER-US-08E-MCC1-PMCC-403",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-MCC1-PMCC-404",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-MCC2-PMCC-403",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-MCC2-PMCC-404",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-MCDB1-PMCC-388",
@@ -1331,11 +1407,15 @@
     },
     {
       "id": "BREAKER-US-08E-SPARE-PMCC-403",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08E-VFD-AC-PDB-PMCC-404",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1aVHnpoCrwvXnwmdoYaSuXU8c8CLpcNHD/view?usp=sharing"
+      ]
     },
     {
       "id": "BREAKER-US-08EX-2307-HT-254",
