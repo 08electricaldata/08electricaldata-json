@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T11:05:21.500Z",
+  "updated": "2026-03-08T14:48:18.824Z",
   "rows": [
     {
       "id": "BAT_A-P-200",
@@ -1317,6 +1317,510 @@
         241,
         495,
         498
+      ]
+    },
+    {
+      "id": "BAT_G-AGITATOR-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "BAT_G-P-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "BAT_G-P-902",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "BAT_G-P-903",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "BAT_G-P-904",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "BAT_G-P-905",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "BAT_G-P-906",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "BAT_G-P-907A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "BAT_G-P-907B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "BAT_G-P-908",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "BAT_G-P-909A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "BAT_G-P-909B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "BAT_G-P-910",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "id": "BAT_G-P-911",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "BAT_G-P-912",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "id": "BAT_G-P-913",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "id": "BAT_G-P-914A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "id": "BAT_G-P-914B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "BAT_G-P-915",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "id": "BAT_G-P-916A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "id": "BAT_G-P-916B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "BAT_G-P-916C",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "BAT_G-P-918",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "id": "BAT_G-SP-919",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_G.pdf",
+      "pages": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "id": "BAT_H-AGITATOR-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        43,
+        44
+      ]
+    },
+    {
+      "id": "BAT_H-P-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "BAT_H-P-902",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "BAT_H-P-903",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "BAT_H-P-904",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "BAT_H-P-905",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "BAT_H-P-906",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "BAT_H-P-907A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "BAT_H-P-907B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "BAT_H-P-908",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "BAT_H-P-909A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "BAT_H-P-909B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "id": "BAT_H-P-910",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "BAT_H-P-911",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "BAT_H-P-912",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "BAT_H-P-913",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "id": "BAT_H-P-914A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "id": "BAT_H-P-914B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "BAT_H-P-915",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "id": "BAT_H-P-916A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "id": "BAT_H-P-916B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "BAT_H-P-916C",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "BAT_H-P-918",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "id": "BAT_H-SP-919",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_H.pdf",
+      "pages": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "id": "BAT_I-P-901",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "id": "BAT_I-P-902",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "BAT_I-P-903",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "BAT_I-P-904",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "BAT_I-P-905",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        5,
+        6
+      ]
+    },
+    {
+      "id": "BAT_I-P-906",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "BAT_I-P-907A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        7,
+        8
+      ]
+    },
+    {
+      "id": "BAT_I-P-907B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "BAT_I-P-908",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "BAT_I-P-909A",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "BAT_I-P-909B",
+      "url": "https://cdn.jsdelivr.net/gh/08electricaldata/08electricaldata-json@main/plc-pdf/CS07-PH4_CS07_AREA08_BATT_I.pdf",
+      "pages": [
+        10,
+        11
       ]
     },
     {
