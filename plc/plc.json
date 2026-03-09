@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-09T15:05:20.942Z",
+  "updated": "2026-03-09T18:51:38.185Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -11041,6 +11041,62 @@
         }
       ]
     },
+    "BAT_I-AGITATOR-901": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08TM00901_TRP",
+          "address": "",
+          "description": "08TM00901 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 111 / 112",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08TM00901_RUN",
+          "address": "",
+          "description": "08TM00901 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 113 / 114",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08TM00901_RDY",
+          "address": "",
+          "description": "08TM00901 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 115 / 116",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08TM00901_STR",
+          "address": "",
+          "description": "08TM00901 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 69 / 70",
+          "rl": "4R35",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08TM00901_LOC",
+          "address": "",
+          "description": "08TM00901  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 71 / 72",
+          "rl": "4R36",
+          "board": ""
+        }
+      ]
+    },
     "BAT_I-P-901": {
       "inputs": [
         {
@@ -11765,6 +11821,566 @@
           "panel": "PLC-MC-CS07-01(R)",
           "tb": "2T - 81 / 82",
           "rl": "4R41",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-912": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF912_TRP",
+          "address": "",
+          "description": "O8PACF912 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 139 / 140",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF912_RUN",
+          "address": "",
+          "description": "O8PACF912 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 141 / 142",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF912_RDY",
+          "address": "",
+          "description": "O8PACF912 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 143 / 144",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF912_LOC",
+          "address": "",
+          "description": "O8PACF912  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 87 / 88",
+          "rl": "4R44",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF912_STR",
+          "address": "",
+          "description": "O8PACF912 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 85 / 86",
+          "rl": "4R43",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-913": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF913_TRP",
+          "address": "",
+          "description": "O8PACF913 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 145 / 146",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF913_RUN",
+          "address": "",
+          "description": "O8PACF913 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 147 / 148",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF913_RDY",
+          "address": "",
+          "description": "O8PACF913 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 149 / 150",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF913_LOC",
+          "address": "",
+          "description": "O8PACF913  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 91 / 92",
+          "rl": "4R46",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF913_STR",
+          "address": "",
+          "description": "O8PACF913 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 89 / 90",
+          "rl": "4R45",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-914A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF914A_TRP",
+          "address": "",
+          "description": "O8PACF914A TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 183 / 184",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF914A_RUN",
+          "address": "",
+          "description": "O8PACF914A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 185 / 186",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF914A_RDY",
+          "address": "",
+          "description": "O8PACF914A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 187 / 188",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF914A_LOC",
+          "address": "",
+          "description": "O8PACF914A  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 111 / 112",
+          "rl": "4R56",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF914A_STR",
+          "address": "",
+          "description": "O8PACF914A START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 109 / 110",
+          "rl": "4R55",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-914B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF914B_TRP",
+          "address": "",
+          "description": "O8PACF914B TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 193 / 194",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF914B_RUN",
+          "address": "",
+          "description": "O8PACF914B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 195 / 196",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF914B_RDY",
+          "address": "",
+          "description": "O8PACF914B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 197 / 198",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF914B_LOC",
+          "address": "",
+          "description": "O8PACF914B  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 115 / 116",
+          "rl": "4R58",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF914B_STR",
+          "address": "",
+          "description": "O8PACF914B START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 113 / 114",
+          "rl": "4R57",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-915": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF915_TRP",
+          "address": "",
+          "description": "O8PACF915 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 199 / 200",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF915_RUN",
+          "address": "",
+          "description": "O8PACF915 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 201 / 202",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF915_RDY",
+          "address": "",
+          "description": "O8PACF915 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 203 / 204",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF915_LOC",
+          "address": "",
+          "description": "O8PACF915  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 119 / 120",
+          "rl": "4R60",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF915_STR",
+          "address": "",
+          "description": "O8PACF915 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 117 / 118",
+          "rl": "4R59",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-916A": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF916A_TRP",
+          "address": "",
+          "description": "O8PACF916A TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 151 / 152",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF916A_RUN",
+          "address": "",
+          "description": "O8PACF916A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 153 / 154",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF916A_RDY",
+          "address": "",
+          "description": "O8PACF916A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 155 / 156",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF916A_LOC",
+          "address": "",
+          "description": "O8PACF916A  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 99 / 100",
+          "rl": "4R50",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF916A_STR",
+          "address": "",
+          "description": "O8PACF916A START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 97 / 98",
+          "rl": "4R49",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-916B": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF916B_TRP",
+          "address": "",
+          "description": "O8PACF916B TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 161 / 162",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF916B_RUN",
+          "address": "",
+          "description": "O8PACF916B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 163 / 164",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF916B_RDY",
+          "address": "",
+          "description": "O8PACF916B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 165 / 166",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF916B_LOC",
+          "address": "",
+          "description": "O8PACF916B  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 103 / 104",
+          "rl": "4R52",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF916B_STR",
+          "address": "",
+          "description": "O8PACF916B START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 101 / 102",
+          "rl": "4R51",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-916C": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF916C_TRP",
+          "address": "",
+          "description": "O8PACF916C TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 167 / 168",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF916C_RUN",
+          "address": "",
+          "description": "O8PACF916C RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 169 / 170",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF916C_RDY",
+          "address": "",
+          "description": "O8PACF916C READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 171 / 172",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF916C_LOC",
+          "address": "",
+          "description": "O8PACF916C  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 107 / 108",
+          "rl": "4R54",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF916C_STR",
+          "address": "",
+          "description": "O8PACF916C START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 105 / 106",
+          "rl": "4R53",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-P-918": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACF918_TRP",
+          "address": "",
+          "description": "O8PACF918 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 105 / 106",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACF918_RUN",
+          "address": "",
+          "description": "O8PACF918 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 107 / 108",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACF918_RDY",
+          "address": "",
+          "description": "O8PACF918 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 109 / 110",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACF918_LOC",
+          "address": "",
+          "description": "O8PACF918  LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 67 / 68",
+          "rl": "4R34",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACF918_STR",
+          "address": "",
+          "description": "O8PACF918 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 65 / 66",
+          "rl": "4R33",
+          "board": ""
+        }
+      ]
+    },
+    "BAT_I-SP-919": {
+      "inputs": [
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08PACM919_TRP",
+          "address": "",
+          "description": "08PACM919 TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 213 / 214",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08PACM919_RUN",
+          "address": "",
+          "description": "08PACM919 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 215 / 216",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PACM919_RDY",
+          "address": "",
+          "description": "08PACM919 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 217 / 218",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "08PACM919_LOC",
+          "address": "",
+          "description": "08PACM919 LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 123 / 124",
+          "rl": "4R62",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "08PACM919_STR/STP",
+          "address": "",
+          "description": "08PACM919 START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 121 / 122",
+          "rl": "4R61",
           "board": ""
         }
       ]
@@ -13311,6 +13927,118 @@
           "panel": "PLC-MC-CS07-01(F)",
           "tb": "1T - 131 / 132",
           "rl": "3R66",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-A-147": {
+      "inputs": [
+        {
+          "signal": "Local Start",
+          "tag": "2608147_LS",
+          "address": "I:210.11",
+          "description": "SPT LIQ TK 147 AGIT LOC START ",
+          "panel": "761",
+          "tb": "16T1-24/25",
+          "rl": "N-1/2",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "2608147_RUN",
+          "address": "I:210.12",
+          "description": "SPT LIQ TK 147 AGIT RUN ",
+          "panel": "761",
+          "tb": "16T1-26/27",
+          "rl": "M16A-11/12",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "2608147_TRIP",
+          "address": "I:210.13",
+          "description": "SPT LIQ TK 147 AGIT AUT TRP ",
+          "panel": "761",
+          "tb": "16T1-28/29",
+          "rl": "M16A-15/16",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "2608147_STR",
+          "address": "O:214.04",
+          "description": "SPT LIQ TK 147 START ",
+          "panel": "761",
+          "tb": "16T4-13/16",
+          "rl": "5",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-A-148": {
+      "inputs": [
+        {
+          "signal": "Local Start",
+          "tag": "2608148_LS",
+          "address": "I:210.15",
+          "description": "SPT LIQ TK 148 AGIT LOC START ",
+          "panel": "761",
+          "tb": "16T1-32/33",
+          "rl": "N-1/2",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "2608148_RUN",
+          "address": "I:210.16",
+          "description": "SPT LIQ TK 148 AGIT RUN ",
+          "panel": "761",
+          "tb": "16T1-34/35",
+          "rl": "M2A-11/12",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "2608148_TRIP",
+          "address": "I:210.17",
+          "description": "SPT LIQ TK 148 AGIT AUT TRP ",
+          "panel": "761",
+          "tb": "16T1-36/37",
+          "rl": "M2A-15/16",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "IN LOC",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "2608148_STR",
+          "address": "O:214.05",
+          "description": "SPT LIQ TK 148 START ",
+          "panel": "761",
+          "tb": "16T4-19/22",
+          "rl": "6",
           "board": ""
         }
       ]
