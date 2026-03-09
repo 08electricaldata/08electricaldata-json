@@ -1,6 +1,6 @@
 {
   "year": "2024",
-  "updated": "2026-03-09T11:04:32.050Z",
+  "updated": "2026-03-09T15:04:36.726Z",
   "headers": [
     "Rcs_94383",
     "DATE",
@@ -26382,7 +26382,7 @@
       241883,
       "August",
       "Breaker",
-      "US-08E-CAPBNK1-PMCC-403",
+      "US-08E-ASB-1-PMCC-403",
       "2024-08-28T07:00:00.000Z",
       "BAT-E CAPACITOR FDR BKR NOT GETTING ON IF BUS COUPLER IS ON ,CHECKED AND FOUND I/C-1 K25 AND I/C-2 K29 CONTACTOR PROBLEM.",
       "NORMAL JOB",
@@ -26394,6 +26394,20 @@
     ],
     [
       241884,
+      "August",
+      "Breaker",
+      "US-08E-CAPBNK1-PMCC-403",
+      "2024-08-28T07:00:00.000Z",
+      "BAT-E CAPACITOR FDR BKR NOT GETTING ON IF BUS COUPLER IS ON ,CHECKED AND FOUND I/C-1 K25 AND I/C-2 K29 CONTACTOR PROBLEM.",
+      "NORMAL JOB",
+      "CHECKING",
+      "NO",
+      "NALCO",
+      "2024-08-28T07:00:00.000Z",
+      ""
+    ],
+    [
+      241885,
       "August",
       "BAT_G",
       "P-913",
@@ -26407,7 +26421,7 @@
       69
     ],
     [
-      241885,
+      241886,
       "August",
       "COMPRESSOR",
       "PURIFLAIR-AIR-DRYER",
@@ -26421,7 +26435,7 @@
       ""
     ],
     [
-      241886,
+      241887,
       "August",
       "Breaker",
       "US-08EX-MCC1-PCC-I",
@@ -26435,7 +26449,7 @@
       ""
     ],
     [
-      241887,
+      241888,
       "August",
       "Breaker",
       "US-08EX-MCC2-PCC-I",
@@ -26449,7 +26463,7 @@
       ""
     ],
     [
-      241888,
+      241889,
       "August",
       "Breaker",
       "COMMON",
@@ -26463,7 +26477,7 @@
       ""
     ],
     [
-      241889,
+      241890,
       "August",
       "TANKAGE",
       "P-785A",
@@ -26477,7 +26491,7 @@
       110
     ],
     [
-      241890,
+      241891,
       "August",
       "COMPRESSOR",
       "AIR-DRYER-63",
@@ -26491,7 +26505,7 @@
       ""
     ],
     [
-      241891,
+      241892,
       "August",
       "COMPRESSOR",
       "AIR-DRYER-64",
@@ -26505,7 +26519,7 @@
       ""
     ],
     [
-      241892,
+      241893,
       "August",
       "BAT_E",
       "P-901",
@@ -26519,7 +26533,7 @@
       75
     ],
     [
-      241893,
+      241894,
       "August",
       "BAT_E",
       "P-902",
@@ -26533,7 +26547,7 @@
       90
     ],
     [
-      241894,
+      241895,
       "August",
       "BAT_E",
       "P-903",
@@ -26547,7 +26561,7 @@
       90
     ],
     [
-      241895,
+      241896,
       "August",
       "BAT_E",
       "P-908",
@@ -26561,7 +26575,7 @@
       75
     ],
     [
-      241896,
+      241897,
       "August",
       "BAT_E",
       "P-910",
@@ -26575,7 +26589,7 @@
       90
     ],
     [
-      241897,
+      241898,
       "August",
       "BAT_E",
       "P-911",
@@ -26589,24 +26603,10 @@
       75
     ],
     [
-      241898,
-      "August",
-      "BAT_E",
-      "P-907A",
-      "2024-08-30T07:00:00.000Z",
-      "MOTOR LIC LPBS PM DONE",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "",
-      "2024-08-30T07:00:00.000Z",
-      30
-    ],
-    [
       241899,
       "August",
       "BAT_E",
-      "P-907B",
+      "P-907A",
       "2024-08-30T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -26620,7 +26620,7 @@
       241900,
       "August",
       "BAT_E",
-      "P-914A",
+      "P-907B",
       "2024-08-30T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -26628,13 +26628,13 @@
       "YES",
       "",
       "2024-08-30T07:00:00.000Z",
-      22
+      30
     ],
     [
       241901,
       "August",
       "BAT_E",
-      "P-914B",
+      "P-914A",
       "2024-08-30T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -26648,6 +26648,20 @@
       241902,
       "August",
       "BAT_E",
+      "P-914B",
+      "2024-08-30T07:00:00.000Z",
+      "MOTOR LIC LPBS PM DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "",
+      "2024-08-30T07:00:00.000Z",
+      22
+    ],
+    [
+      241903,
+      "August",
+      "BAT_E",
       "SP-919",
       "2024-08-30T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
@@ -26659,7 +26673,7 @@
       37
     ],
     [
-      241903,
+      241904,
       "August",
       "BAT_E",
       "AGITATOR-901",
@@ -26673,7 +26687,7 @@
       3
     ],
     [
-      241904,
+      241905,
       "August",
       "BAT_E",
       "P-912",
@@ -26687,7 +26701,7 @@
       75
     ],
     [
-      241905,
+      241906,
       "August",
       "BAT_I",
       "COMMON",
@@ -26701,7 +26715,7 @@
       ""
     ],
     [
-      241906,
+      241907,
       "August",
       "BAT_I",
       "P-907A",
@@ -26715,7 +26729,7 @@
       55
     ],
     [
-      241907,
+      241908,
       "August",
       "MOL",
       "CONV-46",
@@ -26729,7 +26743,7 @@
       7.5
     ],
     [
-      241908,
+      241909,
       "August",
       "TANKAGE",
       "P-577",
@@ -26743,7 +26757,7 @@
       55
     ],
     [
-      241909,
+      241910,
       "August",
       "TANKAGE",
       "P-577",
@@ -26757,7 +26771,7 @@
       55
     ],
     [
-      241910,
+      241911,
       "September",
       "BAT_I",
       "PMCC",
@@ -26771,7 +26785,7 @@
       ""
     ],
     [
-      241911,
+      241912,
       "September",
       "LAB",
       "LAB",
@@ -26785,7 +26799,7 @@
       ""
     ],
     [
-      241912,
+      241913,
       "September",
       "SUBSTATION",
       "US-08E-STORE",
@@ -26799,7 +26813,7 @@
       ""
     ],
     [
-      241913,
+      241914,
       "September",
       "EOT_CRANE",
       "BAT-I",
@@ -26813,7 +26827,7 @@
       ""
     ],
     [
-      241914,
+      241915,
       "September",
       "CT_2",
       "P-225",
@@ -26827,7 +26841,7 @@
       75
     ],
     [
-      241915,
+      241916,
       "September",
       "CT_2",
       "P-228",
@@ -26841,7 +26855,7 @@
       82.5
     ],
     [
-      241916,
+      241917,
       "September",
       "SUBSTATION",
       "US-10",
@@ -26855,7 +26869,7 @@
       ""
     ],
     [
-      241917,
+      241918,
       "September",
       "EOT_CRANE",
       "BAT-I",
@@ -26869,7 +26883,7 @@
       ""
     ],
     [
-      241918,
+      241919,
       "September",
       "TANKAGE",
       "P-780A",
@@ -26883,7 +26897,7 @@
       55
     ],
     [
-      241919,
+      241920,
       "September",
       "TANKAGE",
       "P-780A",
@@ -26897,7 +26911,7 @@
       55
     ],
     [
-      241920,
+      241921,
       "September",
       "CT_2",
       "P-368",
@@ -26911,7 +26925,7 @@
       250
     ],
     [
-      241921,
+      241922,
       "September",
       "COMPRESSOR",
       "COMP-1001",
@@ -26925,7 +26939,7 @@
       667
     ],
     [
-      241922,
+      241923,
       "September",
       "Transformer",
       3170,
@@ -26939,7 +26953,7 @@
       ""
     ],
     [
-      241923,
+      241924,
       "September",
       "Transformer",
       3170,
@@ -26953,7 +26967,7 @@
       ""
     ],
     [
-      241924,
+      241925,
       "September",
       "TANKAGE",
       "P-781B",
@@ -26967,24 +26981,10 @@
       55
     ],
     [
-      241925,
-      "September",
-      "CT_1",
-      "F001",
-      "2024-09-05T07:00:00.000Z",
-      "MOTOR LIC LPBS PM DONE",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "ANIL_AREA",
-      "2024-09-05T07:00:00.000Z",
-      132
-    ],
-    [
       241926,
       "September",
       "CT_1",
-      "F002",
+      "F001",
       "2024-09-05T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -26998,7 +26998,7 @@
       241927,
       "September",
       "CT_1",
-      "F003",
+      "F002",
       "2024-09-05T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -27012,7 +27012,7 @@
       241928,
       "September",
       "CT_1",
-      "F004",
+      "F003",
       "2024-09-05T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -27026,6 +27026,20 @@
       241929,
       "September",
       "CT_1",
+      "F004",
+      "2024-09-05T07:00:00.000Z",
+      "MOTOR LIC LPBS PM DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2024-09-05T07:00:00.000Z",
+      132
+    ],
+    [
+      241930,
+      "September",
+      "CT_1",
       "1001A",
       "2024-09-05T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
@@ -27037,7 +27051,7 @@
       75
     ],
     [
-      241930,
+      241931,
       "September",
       "SUBSTATION",
       "US-08E-STORE",
@@ -27051,24 +27065,10 @@
       ""
     ],
     [
-      241931,
-      "September",
-      "CT_1",
-      "F001",
-      "2024-09-05T07:00:00.000Z",
-      "MODULE PM DONE",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "Nalco & SUPPLY",
-      "2024-09-05T07:00:00.000Z",
-      132
-    ],
-    [
       241932,
       "September",
       "CT_1",
-      "F002",
+      "F001",
       "2024-09-05T07:00:00.000Z",
       "MODULE PM DONE",
       "PM JOBS",
@@ -27082,7 +27082,7 @@
       241933,
       "September",
       "CT_1",
-      "F003",
+      "F002",
       "2024-09-05T07:00:00.000Z",
       "MODULE PM DONE",
       "PM JOBS",
@@ -27096,7 +27096,7 @@
       241934,
       "September",
       "CT_1",
-      "F004",
+      "F003",
       "2024-09-05T07:00:00.000Z",
       "MODULE PM DONE",
       "PM JOBS",
@@ -27108,6 +27108,20 @@
     ],
     [
       241935,
+      "September",
+      "CT_1",
+      "F004",
+      "2024-09-05T07:00:00.000Z",
+      "MODULE PM DONE",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
+      "Nalco & SUPPLY",
+      "2024-09-05T07:00:00.000Z",
+      132
+    ],
+    [
+      241936,
       "September",
       "COMPRESSOR",
       "COMP-1002",
@@ -27121,7 +27135,7 @@
       667
     ],
     [
-      241936,
+      241937,
       "September",
       "COMPRESSOR",
       "COMP-1002",
@@ -27135,7 +27149,7 @@
       667
     ],
     [
-      241937,
+      241938,
       "September",
       "BAT_F",
       "P-916A",
@@ -27149,7 +27163,7 @@
       220
     ],
     [
-      241938,
+      241939,
       "September",
       "BAT_F",
       "P-916A",
@@ -27163,7 +27177,7 @@
       220
     ],
     [
-      241939,
+      241940,
       "September",
       "MOL",
       "P-1166B",
@@ -27177,24 +27191,10 @@
       75
     ],
     [
-      241940,
-      "September",
-      "CT_1",
-      "F001",
-      "2024-09-06T07:00:00.000Z",
-      "FOR LIC LPBS CANOPY , ANGLE CUTTING DONE",
-      "IMPROVEMENT",
-      "Fabrication",
-      "YES",
-      "ANIL_AREA",
-      "2024-09-06T07:00:00.000Z",
-      132
-    ],
-    [
       241941,
       "September",
       "CT_1",
-      "F002",
+      "F001",
       "2024-09-06T07:00:00.000Z",
       "FOR LIC LPBS CANOPY , ANGLE CUTTING DONE",
       "IMPROVEMENT",
@@ -27208,7 +27208,7 @@
       241942,
       "September",
       "CT_1",
-      "F003",
+      "F002",
       "2024-09-06T07:00:00.000Z",
       "FOR LIC LPBS CANOPY , ANGLE CUTTING DONE",
       "IMPROVEMENT",
@@ -27222,7 +27222,7 @@
       241943,
       "September",
       "CT_1",
-      "F004",
+      "F003",
       "2024-09-06T07:00:00.000Z",
       "FOR LIC LPBS CANOPY , ANGLE CUTTING DONE",
       "IMPROVEMENT",
@@ -27234,6 +27234,20 @@
     ],
     [
       241944,
+      "September",
+      "CT_1",
+      "F004",
+      "2024-09-06T07:00:00.000Z",
+      "FOR LIC LPBS CANOPY , ANGLE CUTTING DONE",
+      "IMPROVEMENT",
+      "Fabrication",
+      "YES",
+      "ANIL_AREA",
+      "2024-09-06T07:00:00.000Z",
+      132
+    ],
+    [
+      241945,
       "September",
       "COMPRESSOR",
       "COMP-502",
@@ -27247,7 +27261,7 @@
       720
     ],
     [
-      241945,
+      241946,
       "September",
       "BAT_B",
       "P-224A",
@@ -27261,7 +27275,7 @@
       45
     ],
     [
-      241946,
+      241947,
       "September",
       "BAT_E",
       "P-916A",
@@ -27275,7 +27289,7 @@
       220
     ],
     [
-      241947,
+      241948,
       "September",
       "BAT_E",
       "P-916A",
@@ -27289,7 +27303,7 @@
       220
     ],
     [
-      241948,
+      241949,
       "September",
       "SUBSTATION",
       "US-08E",
@@ -27303,7 +27317,7 @@
       ""
     ],
     [
-      241949,
+      241950,
       "September",
       "SUBSTATION",
       "US-08E-STORE",
@@ -27317,7 +27331,7 @@
       ""
     ],
     [
-      241950,
+      241951,
       "September",
       "BAT_E",
       "P-916A",
@@ -27331,7 +27345,7 @@
       220
     ],
     [
-      241951,
+      241952,
       "September",
       "TANKAGE",
       "P-785B",
@@ -27345,7 +27359,7 @@
       90
     ],
     [
-      241952,
+      241953,
       "September",
       "Breaker",
       "US-10-3153-PMCC-B",
@@ -27359,7 +27373,7 @@
       ""
     ],
     [
-      241953,
+      241954,
       "September",
       "Breaker",
       "US-10-3154-PMCC-B",
@@ -27373,7 +27387,7 @@
       ""
     ],
     [
-      241954,
+      241955,
       "September",
       "Breaker",
       "US-10-3155-PMCC-B",
@@ -27387,7 +27401,7 @@
       ""
     ],
     [
-      241955,
+      241956,
       "September",
       "BAT_B",
       "P-200",
@@ -27401,7 +27415,7 @@
       90
     ],
     [
-      241956,
+      241957,
       "September",
       "BAT_B",
       "P-201",
@@ -27415,24 +27429,10 @@
       90
     ],
     [
-      241957,
-      "September",
-      "BAT_B",
-      "P-202",
-      "2024-09-09T07:00:00.000Z",
-      " module pm",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "",
-      "2024-09-09T07:00:00.000Z",
-      90
-    ],
-    [
       241958,
       "September",
       "BAT_B",
-      "P-203",
+      "P-202",
       "2024-09-09T07:00:00.000Z",
       " module pm",
       "PM JOBS",
@@ -27446,7 +27446,7 @@
       241959,
       "September",
       "BAT_B",
-      "P-204",
+      "P-203",
       "2024-09-09T07:00:00.000Z",
       " module pm",
       "PM JOBS",
@@ -27460,7 +27460,7 @@
       241960,
       "September",
       "BAT_B",
-      "P-205",
+      "P-204",
       "2024-09-09T07:00:00.000Z",
       " module pm",
       "PM JOBS",
@@ -27474,6 +27474,20 @@
       241961,
       "September",
       "BAT_B",
+      "P-205",
+      "2024-09-09T07:00:00.000Z",
+      " module pm",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
+      "",
+      "2024-09-09T07:00:00.000Z",
+      90
+    ],
+    [
+      241962,
+      "September",
+      "BAT_B",
       "SP-251",
       "2024-09-09T07:00:00.000Z",
       " module pm",
@@ -27485,7 +27499,7 @@
       45
     ],
     [
-      241962,
+      241963,
       "September",
       "BAT_F",
       "P-903",
@@ -27499,7 +27513,7 @@
       90
     ],
     [
-      241963,
+      241964,
       "September",
       "BAT_F",
       "P-903",
@@ -27513,7 +27527,7 @@
       90
     ],
     [
-      241964,
+      241965,
       "September",
       "BAT_F",
       "P-915",
@@ -27527,24 +27541,24 @@
       22
     ],
     [
-      241965,
-      "September",
-      "",
-      "",
-      "2024-09-10T07:00:00.000Z",
-      "LABOUR STRIKE",
-      "",
-      "",
-      "NO",
-      "NALCO",
-      "2024-09-10T07:00:00.000Z",
-      "#REF!"
-    ],
-    [
       241966,
       "September",
       "",
       "",
+      "2024-09-10T07:00:00.000Z",
+      "LABOUR STRIKE",
+      "",
+      "",
+      "NO",
+      "NALCO",
+      "2024-09-10T07:00:00.000Z",
+      "#REF!"
+    ],
+    [
+      241967,
+      "September",
+      "",
+      "",
       "2024-09-11T07:00:00.000Z",
       "LABOUR STRIKE",
       "",
@@ -27555,7 +27569,7 @@
       "#REF!"
     ],
     [
-      241967,
+      241968,
       "September",
       "BAT_F",
       "P-916B",
@@ -27569,24 +27583,10 @@
       220
     ],
     [
-      241968,
-      "September",
-      "CT_1",
-      "1001A",
-      "2024-09-12T07:00:00.000Z",
-      "MODULE OUTGOING CABELE FOUND BURNT new luuging done",
-      "BD",
-      "CABLE DRESSING",
-      "YES",
-      "NALCO",
-      "2024-09-12T07:00:00.000Z",
-      75
-    ],
-    [
       241969,
       "September",
       "CT_1",
-      "1001D",
+      "1001A",
       "2024-09-12T07:00:00.000Z",
       "MODULE OUTGOING CABELE FOUND BURNT new luuging done",
       "BD",
@@ -27600,11 +27600,11 @@
       241970,
       "September",
       "CT_1",
-      "1001A",
+      "1001D",
       "2024-09-12T07:00:00.000Z",
-      "module pm",
-      "PM JOBS",
-      "MODULE PM",
+      "MODULE OUTGOING CABELE FOUND BURNT new luuging done",
+      "BD",
+      "CABLE DRESSING",
       "YES",
       "NALCO",
       "2024-09-12T07:00:00.000Z",
@@ -27614,7 +27614,7 @@
       241971,
       "September",
       "CT_1",
-      "1001B",
+      "1001A",
       "2024-09-12T07:00:00.000Z",
       "module pm",
       "PM JOBS",
@@ -27628,7 +27628,7 @@
       241972,
       "September",
       "CT_1",
-      "1001C",
+      "1001B",
       "2024-09-12T07:00:00.000Z",
       "module pm",
       "PM JOBS",
@@ -27642,7 +27642,7 @@
       241973,
       "September",
       "CT_1",
-      "1001D",
+      "1001C",
       "2024-09-12T07:00:00.000Z",
       "module pm",
       "PM JOBS",
@@ -27656,21 +27656,21 @@
       241974,
       "September",
       "CT_1",
-      "F001",
+      "1001D",
       "2024-09-12T07:00:00.000Z",
-      "canopy fabrication job started",
-      "IMPROVEMENT",
-      "CANOPY ",
-      "NO",
+      "module pm",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
       "NALCO",
       "2024-09-12T07:00:00.000Z",
-      132
+      75
     ],
     [
       241975,
       "September",
       "CT_1",
-      "F002",
+      "F001",
       "2024-09-12T07:00:00.000Z",
       "canopy fabrication job started",
       "IMPROVEMENT",
@@ -27684,7 +27684,7 @@
       241976,
       "September",
       "CT_1",
-      "F003",
+      "F002",
       "2024-09-12T07:00:00.000Z",
       "canopy fabrication job started",
       "IMPROVEMENT",
@@ -27698,7 +27698,7 @@
       241977,
       "September",
       "CT_1",
-      "F004",
+      "F003",
       "2024-09-12T07:00:00.000Z",
       "canopy fabrication job started",
       "IMPROVEMENT",
@@ -27710,6 +27710,20 @@
     ],
     [
       241978,
+      "September",
+      "CT_1",
+      "F004",
+      "2024-09-12T07:00:00.000Z",
+      "canopy fabrication job started",
+      "IMPROVEMENT",
+      "CANOPY ",
+      "NO",
+      "NALCO",
+      "2024-09-12T07:00:00.000Z",
+      132
+    ],
+    [
+      241979,
       "September",
       "Transformer",
       3326,
@@ -27723,7 +27737,7 @@
       ""
     ],
     [
-      241979,
+      241980,
       "September",
       "COMMON",
       "ERS",
@@ -27737,7 +27751,7 @@
       ""
     ],
     [
-      241980,
+      241981,
       "September",
       "TANKAGE",
       "P-302",
@@ -27751,7 +27765,7 @@
       110
     ],
     [
-      241981,
+      241982,
       "September",
       "CT_1",
       "COMMON",
@@ -27765,7 +27779,7 @@
       ""
     ],
     [
-      241982,
+      241983,
       "September",
       "COMMON",
       "CSTORE",
@@ -27779,7 +27793,7 @@
       ""
     ],
     [
-      241983,
+      241984,
       "September",
       "MOL",
       "CONV-46",
@@ -27793,7 +27807,7 @@
       7.5
     ],
     [
-      241984,
+      241985,
       "September",
       "TANKAGE",
       "P-785B",
@@ -27807,7 +27821,7 @@
       90
     ],
     [
-      241985,
+      241986,
       "September",
       "SUBSTATION",
       "US-08EX",
@@ -27821,7 +27835,7 @@
       ""
     ],
     [
-      241986,
+      241987,
       "September",
       "Transformer",
       3150,
@@ -27835,7 +27849,7 @@
       ""
     ],
     [
-      241987,
+      241988,
       "September",
       "Transformer",
       3150,
@@ -27849,7 +27863,7 @@
       ""
     ],
     [
-      241988,
+      241989,
       "September",
       "COMPRESSOR",
       "COMP-1003",
@@ -27863,7 +27877,7 @@
       650
     ],
     [
-      241989,
+      241990,
       "September",
       "MOL",
       "RERVERSIBLE-CONV.-63",
@@ -27877,7 +27891,7 @@
       ""
     ],
     [
-      241990,
+      241991,
       "September",
       "MOL",
       "CONV-47",
@@ -27891,7 +27905,7 @@
       11
     ],
     [
-      241991,
+      241992,
       "September",
       "MOL",
       "CONV-46",
@@ -27905,7 +27919,7 @@
       7.5
     ],
     [
-      241992,
+      241993,
       "September",
       "TANKAGE",
       "P-172",
@@ -27919,7 +27933,7 @@
       "37(45)"
     ],
     [
-      241993,
+      241994,
       "September",
       "TANKAGE",
       "P-172",
@@ -27933,7 +27947,7 @@
       "37(45)"
     ],
     [
-      241994,
+      241995,
       "September",
       "BAT_E",
       "P-916B",
@@ -27947,7 +27961,7 @@
       220
     ],
     [
-      241995,
+      241996,
       "September",
       "TANKAGE",
       "P-172",
@@ -27961,7 +27975,7 @@
       "37(45)"
     ],
     [
-      241996,
+      241997,
       "September",
       "TANKAGE",
       "P-780A",
@@ -27975,7 +27989,7 @@
       55
     ],
     [
-      241997,
+      241998,
       "September",
       "TANKAGE",
       "P-780B",
@@ -27989,7 +28003,7 @@
       55
     ],
     [
-      241998,
+      241999,
       "September",
       "BAT_B",
       "P-221B",
@@ -28003,7 +28017,7 @@
       ""
     ],
     [
-      241999,
+      242000,
       "September",
       "BAT_F",
       "P-916A",
@@ -28017,7 +28031,7 @@
       220
     ],
     [
-      242000,
+      242001,
       "September",
       "COMPRESSOR",
       "PURIFLAIR-AIR-DRYER",
@@ -28031,7 +28045,7 @@
       ""
     ],
     [
-      242001,
+      242002,
       "September",
       "COMPRESSOR",
       "PURIFLAIR-AIR-DRYER",
@@ -28045,7 +28059,7 @@
       ""
     ],
     [
-      242002,
+      242003,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28059,7 +28073,7 @@
       55
     ],
     [
-      242003,
+      242004,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28073,7 +28087,7 @@
       55
     ],
     [
-      242004,
+      242005,
       "September",
       "BAT_E",
       "P-916B",
@@ -28087,7 +28101,7 @@
       220
     ],
     [
-      242005,
+      242006,
       "September",
       "BAT_E",
       "P-916A",
@@ -28101,7 +28115,7 @@
       220
     ],
     [
-      242006,
+      242007,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28115,7 +28129,7 @@
       55
     ],
     [
-      242007,
+      242008,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28129,7 +28143,7 @@
       55
     ],
     [
-      242008,
+      242009,
       "September",
       "BAT_A",
       "P-224A",
@@ -28143,7 +28157,7 @@
       45
     ],
     [
-      242009,
+      242010,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28157,7 +28171,7 @@
       55
     ],
     [
-      242010,
+      242011,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28171,7 +28185,7 @@
       55
     ],
     [
-      242011,
+      242012,
       "September",
       "BAT_I",
       "COMMON",
@@ -28185,7 +28199,7 @@
       ""
     ],
     [
-      242012,
+      242013,
       "September",
       "COMPRESSOR",
       "INDICON-102",
@@ -28199,7 +28213,7 @@
       ""
     ],
     [
-      242013,
+      242014,
       "September",
       "BAT_G",
       "P-916C",
@@ -28213,7 +28227,7 @@
       200
     ],
     [
-      242014,
+      242015,
       "September",
       "COMMON",
       "SHIFTING",
@@ -28227,7 +28241,7 @@
       ""
     ],
     [
-      242015,
+      242016,
       "September",
       "BAT_G",
       "P-907A",
@@ -28241,7 +28255,7 @@
       45
     ],
     [
-      242016,
+      242017,
       "September",
       "COMMON",
       "SHIFTING",
@@ -28255,7 +28269,7 @@
       ""
     ],
     [
-      242017,
+      242018,
       "September",
       "COMPRESSOR",
       "INDICON-101",
@@ -28269,7 +28283,7 @@
       ""
     ],
     [
-      242018,
+      242019,
       "September",
       "COMMON",
       "SHIFTING",
@@ -28283,7 +28297,7 @@
       ""
     ],
     [
-      242019,
+      242020,
       "September",
       "Breaker",
       "US-20-3184-PMCC.-327",
@@ -28297,7 +28311,7 @@
       ""
     ],
     [
-      242020,
+      242021,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28311,7 +28325,7 @@
       55
     ],
     [
-      242021,
+      242022,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28325,7 +28339,7 @@
       55
     ],
     [
-      242022,
+      242023,
       "September",
       "COMPRESSOR",
       "INDICON-101",
@@ -28339,7 +28353,7 @@
       ""
     ],
     [
-      242023,
+      242024,
       "September",
       "COMMON",
       "SHIFTING",
@@ -28353,7 +28367,7 @@
       ""
     ],
     [
-      242024,
+      242025,
       "September",
       "TANKAGE",
       "P-1140A",
@@ -28367,7 +28381,7 @@
       280
     ],
     [
-      242025,
+      242026,
       "September",
       "MOL",
       "CLASSIFIER-67",
@@ -28381,24 +28395,10 @@
       5.5
     ],
     [
-      242026,
-      "September",
-      "TANKAGE",
-      "P-780A",
-      "2024-09-25T07:00:00.000Z",
-      "NEW CABLE TRAY INSTALLATION DONE AND control cable laying",
-      "IMPROVEMENT",
-      "CABLE LAY",
-      "NO",
-      "NALCO",
-      "2024-09-25T07:00:00.000Z",
-      55
-    ],
-    [
       242027,
       "September",
       "TANKAGE",
-      "P-780B",
+      "P-780A",
       "2024-09-25T07:00:00.000Z",
       "NEW CABLE TRAY INSTALLATION DONE AND control cable laying",
       "IMPROVEMENT",
@@ -28412,6 +28412,20 @@
       242028,
       "September",
       "TANKAGE",
+      "P-780B",
+      "2024-09-25T07:00:00.000Z",
+      "NEW CABLE TRAY INSTALLATION DONE AND control cable laying",
+      "IMPROVEMENT",
+      "CABLE LAY",
+      "NO",
+      "NALCO",
+      "2024-09-25T07:00:00.000Z",
+      55
+    ],
+    [
+      242029,
+      "September",
+      "TANKAGE",
       "P-780A",
       "2024-09-25T07:00:00.000Z",
       "LIC BASE FABRICATION AND MOUNTING",
@@ -28423,7 +28437,7 @@
       55
     ],
     [
-      242029,
+      242030,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28437,7 +28451,7 @@
       55
     ],
     [
-      242030,
+      242031,
       "September",
       "MOL",
       "CONV-726",
@@ -28451,7 +28465,7 @@
       2.2
     ],
     [
-      242031,
+      242032,
       "September",
       "SUBSTATION",
       "US-10",
@@ -28465,7 +28479,7 @@
       ""
     ],
     [
-      242032,
+      242033,
       "September",
       "",
       "",
@@ -28479,7 +28493,7 @@
       "#REF!"
     ],
     [
-      242033,
+      242034,
       "September",
       "Transformer",
       3326,
@@ -28493,7 +28507,7 @@
       ""
     ],
     [
-      242034,
+      242035,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28507,7 +28521,7 @@
       55
     ],
     [
-      242035,
+      242036,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28521,7 +28535,7 @@
       55
     ],
     [
-      242036,
+      242037,
       "September",
       "SUBSTATION",
       "US-08E",
@@ -28535,7 +28549,7 @@
       ""
     ],
     [
-      242037,
+      242038,
       "September",
       "LAB",
       "LAB",
@@ -28549,7 +28563,7 @@
       ""
     ],
     [
-      242038,
+      242039,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28563,7 +28577,7 @@
       55
     ],
     [
-      242039,
+      242040,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28577,7 +28591,7 @@
       55
     ],
     [
-      242040,
+      242041,
       "September",
       "COMPRESSOR",
       "INDICON-101",
@@ -28591,7 +28605,7 @@
       ""
     ],
     [
-      242041,
+      242042,
       "September",
       "COMPRESSOR",
       "INDICON-101",
@@ -28605,7 +28619,7 @@
       ""
     ],
     [
-      242042,
+      242043,
       "September",
       "COMPRESSOR",
       "COMP-502",
@@ -28619,7 +28633,7 @@
       720
     ],
     [
-      242043,
+      242044,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28633,7 +28647,7 @@
       55
     ],
     [
-      242044,
+      242045,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28647,7 +28661,7 @@
       55
     ],
     [
-      242045,
+      242046,
       "September",
       "Transformer",
       3152,
@@ -28661,7 +28675,7 @@
       ""
     ],
     [
-      242046,
+      242047,
       "September",
       "COMPRESSOR",
       "INDICON-101",
@@ -28675,7 +28689,7 @@
       ""
     ],
     [
-      242047,
+      242048,
       "September",
       "Breaker",
       3185,
@@ -28689,7 +28703,7 @@
       ""
     ],
     [
-      242048,
+      242049,
       "September",
       "TANKAGE",
       "P-780A",
@@ -28703,7 +28717,7 @@
       55
     ],
     [
-      242049,
+      242050,
       "September",
       "TANKAGE",
       "P-780B",
@@ -28717,7 +28731,7 @@
       55
     ],
     [
-      242050,
+      242051,
       "October",
       "LAB",
       "LAB",
@@ -28731,7 +28745,7 @@
       ""
     ],
     [
-      242051,
+      242052,
       "October",
       "TANKAGE",
       "P-780A",
@@ -28745,7 +28759,7 @@
       55
     ],
     [
-      242052,
+      242053,
       "October",
       "TANKAGE",
       "P-780B",
@@ -28759,7 +28773,7 @@
       55
     ],
     [
-      242053,
+      242054,
       "October",
       "Transformer",
       3152,
@@ -28773,7 +28787,7 @@
       ""
     ],
     [
-      242054,
+      242055,
       "October",
       "BAT_D",
       "P-202",
@@ -28787,7 +28801,7 @@
       90
     ],
     [
-      242055,
+      242056,
       "October",
       "BAT_D",
       "P-204",
@@ -28801,7 +28815,7 @@
       90
     ],
     [
-      242056,
+      242057,
       "October",
       "BAT_D",
       "P-205",
@@ -28815,7 +28829,7 @@
       90
     ],
     [
-      242057,
+      242058,
       "October",
       "BAT_D",
       "P-211",
@@ -28829,7 +28843,7 @@
       110
     ],
     [
-      242058,
+      242059,
       "October",
       "BAT_D",
       "P-212",
@@ -28843,7 +28857,7 @@
       110
     ],
     [
-      242059,
+      242060,
       "October",
       "BAT_D",
       "P-213",
@@ -28857,7 +28871,7 @@
       110
     ],
     [
-      242060,
+      242061,
       "October",
       "BAT_D",
       "P-223",
@@ -28871,7 +28885,7 @@
       110
     ],
     [
-      242061,
+      242062,
       "October",
       "COMPRESSOR",
       "AIR-DRYER-63",
@@ -28885,7 +28899,7 @@
       ""
     ],
     [
-      242062,
+      242063,
       "October",
       "MOL",
       "CONV-46",
@@ -28899,7 +28913,7 @@
       7.5
     ],
     [
-      242063,
+      242064,
       "October",
       "BAT_I",
       "COMMON",
@@ -28913,24 +28927,10 @@
       ""
     ],
     [
-      242064,
-      "October",
-      "TANKAGE",
-      "P-780A",
-      "2024-10-03T07:00:00.000Z",
-      "power and control cable dressing done",
-      "IMPROVEMENT",
-      "CABLE DRESSING",
-      "YES",
-      "ANIL_AREA",
-      "2024-10-03T07:00:00.000Z",
-      55
-    ],
-    [
       242065,
       "October",
       "TANKAGE",
-      "P-780B",
+      "P-780A",
       "2024-10-03T07:00:00.000Z",
       "power and control cable dressing done",
       "IMPROVEMENT",
@@ -28946,6 +28946,20 @@
       "TANKAGE",
       "P-780B",
       "2024-10-03T07:00:00.000Z",
+      "power and control cable dressing done",
+      "IMPROVEMENT",
+      "CABLE DRESSING",
+      "YES",
+      "ANIL_AREA",
+      "2024-10-03T07:00:00.000Z",
+      55
+    ],
+    [
+      242067,
+      "October",
+      "TANKAGE",
+      "P-780B",
+      "2024-10-03T07:00:00.000Z",
       "lic canopy fabrication completed",
       "IMPROVEMENT",
       "CANOPY ",
@@ -28955,7 +28969,7 @@
       55
     ],
     [
-      242067,
+      242068,
       "October",
       "TANKAGE",
       "P-576",
@@ -28969,7 +28983,7 @@
       55
     ],
     [
-      242068,
+      242069,
       "October",
       "LAB",
       "LAB",
@@ -28983,7 +28997,7 @@
       ""
     ],
     [
-      242069,
+      242070,
       "October",
       "MOL",
       "RERVERSIBLE-CONV.-63",
@@ -28997,7 +29011,7 @@
       ""
     ],
     [
-      242070,
+      242071,
       "October",
       "Breaker",
       "US-08EX-3326-PCC-I",
@@ -29011,7 +29025,7 @@
       ""
     ],
     [
-      242071,
+      242072,
       "October",
       "BAT_I",
       "P-902",
@@ -29025,7 +29039,7 @@
       75
     ],
     [
-      242072,
+      242073,
       "October",
       "BAT_I",
       "P-915",
@@ -29039,7 +29053,7 @@
       11
     ],
     [
-      242073,
+      242074,
       "October",
       "BAT_I",
       "P-902",
@@ -29053,24 +29067,10 @@
       75
     ],
     [
-      242074,
-      "October",
-      "BAT_I",
-      "P-904",
-      "2024-10-04T07:00:00.000Z",
-      "NOT RUNNING CHECKED AND FOUND CONTROL T/F WAS IN OFF CONDITION MADE ON",
-      "BD",
-      "CHECKING",
-      "NO",
-      "NALCO",
-      "2024-10-04T07:00:00.000Z",
-      110
-    ],
-    [
       242075,
       "October",
       "BAT_I",
-      "P-906",
+      "P-904",
       "2024-10-04T07:00:00.000Z",
       "NOT RUNNING CHECKED AND FOUND CONTROL T/F WAS IN OFF CONDITION MADE ON",
       "BD",
@@ -29084,6 +29084,20 @@
       242076,
       "October",
       "BAT_I",
+      "P-906",
+      "2024-10-04T07:00:00.000Z",
+      "NOT RUNNING CHECKED AND FOUND CONTROL T/F WAS IN OFF CONDITION MADE ON",
+      "BD",
+      "CHECKING",
+      "NO",
+      "NALCO",
+      "2024-10-04T07:00:00.000Z",
+      110
+    ],
+    [
+      242077,
+      "October",
+      "BAT_I",
       "SP-919",
       "2024-10-04T07:00:00.000Z",
       "HOLD ON WAS NOT TAKING PLACE RECTIFIED",
@@ -29095,24 +29109,10 @@
       37
     ],
     [
-      242077,
-      "October",
-      "TANKAGE",
-      "P-780A",
-      "2024-10-04T07:00:00.000Z",
-      "CANOPY REDOXIDE PAINTING DONE",
-      "IMPROVEMENT",
-      "painting",
-      "YES",
-      "ANIL_AREA",
-      "2024-10-04T07:00:00.000Z",
-      55
-    ],
-    [
       242078,
       "October",
       "TANKAGE",
-      "P-780B",
+      "P-780A",
       "2024-10-04T07:00:00.000Z",
       "CANOPY REDOXIDE PAINTING DONE",
       "IMPROVEMENT",
@@ -29126,6 +29126,20 @@
       242079,
       "October",
       "TANKAGE",
+      "P-780B",
+      "2024-10-04T07:00:00.000Z",
+      "CANOPY REDOXIDE PAINTING DONE",
+      "IMPROVEMENT",
+      "painting",
+      "YES",
+      "ANIL_AREA",
+      "2024-10-04T07:00:00.000Z",
+      55
+    ],
+    [
+      242080,
+      "October",
+      "TANKAGE",
       "P-780A",
       "2024-10-04T07:00:00.000Z",
       "POWER CABLE AND CONTROL CABLE LUGGING ,TERMINATION DONE AT LOCAL",
@@ -29137,7 +29151,7 @@
       55
     ],
     [
-      242080,
+      242081,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29151,7 +29165,7 @@
       55
     ],
     [
-      242081,
+      242082,
       "October",
       "BAT_I",
       "P-904",
@@ -29165,7 +29179,7 @@
       110
     ],
     [
-      242082,
+      242083,
       "October",
       "TANKAGE",
       "P-780A",
@@ -29179,7 +29193,7 @@
       55
     ],
     [
-      242083,
+      242084,
       "October",
       "Transformer",
       3152,
@@ -29193,7 +29207,7 @@
       ""
     ],
     [
-      242084,
+      242085,
       "October",
       "TANKAGE",
       "P-211",
@@ -29207,7 +29221,7 @@
       55
     ],
     [
-      242085,
+      242086,
       "October",
       "TANKAGE",
       "P-211",
@@ -29221,7 +29235,7 @@
       55
     ],
     [
-      242086,
+      242087,
       "October",
       "BAT_I",
       "P-909B",
@@ -29235,7 +29249,7 @@
       22
     ],
     [
-      242087,
+      242088,
       "October",
       "BAT_I",
       "P-909B",
@@ -29249,7 +29263,7 @@
       22
     ],
     [
-      242088,
+      242089,
       "October",
       "Breaker",
       "US-10-3152-PMCC-A",
@@ -29263,7 +29277,7 @@
       ""
     ],
     [
-      242089,
+      242090,
       "October",
       "CSFO",
       "P-338",
@@ -29277,7 +29291,7 @@
       55
     ],
     [
-      242090,
+      242091,
       "October",
       "CSFO",
       "P-347",
@@ -29291,7 +29305,7 @@
       37
     ],
     [
-      242091,
+      242092,
       "October",
       "CSFO",
       "P-345",
@@ -29305,7 +29319,7 @@
       37
     ],
     [
-      242092,
+      242093,
       "October",
       "CSFO",
       "P-337",
@@ -29319,7 +29333,7 @@
       55
     ],
     [
-      242093,
+      242094,
       "October",
       "TANKAGE",
       "P-50",
@@ -29333,7 +29347,7 @@
       125
     ],
     [
-      242094,
+      242095,
       "October",
       "TANKAGE",
       "P-780A",
@@ -29347,7 +29361,7 @@
       55
     ],
     [
-      242095,
+      242096,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29361,7 +29375,7 @@
       55
     ],
     [
-      242096,
+      242097,
       "October",
       "CSFO",
       "Other",
@@ -29375,7 +29389,7 @@
       ""
     ],
     [
-      242097,
+      242098,
       "October",
       "TANKAGE",
       "P-203",
@@ -29389,7 +29403,7 @@
       75
     ],
     [
-      242098,
+      242099,
       "October",
       "CSFO",
       "P-346",
@@ -29403,7 +29417,7 @@
       37
     ],
     [
-      242099,
+      242100,
       "October",
       "CSFO",
       "P-348",
@@ -29417,7 +29431,7 @@
       37
     ],
     [
-      242100,
+      242101,
       "October",
       "CSFO",
       "P-849",
@@ -29431,7 +29445,7 @@
       37
     ],
     [
-      242101,
+      242102,
       "October",
       "CSFO",
       "P-852",
@@ -29445,7 +29459,7 @@
       3.7
     ],
     [
-      242102,
+      242103,
       "October",
       "CSFO",
       "P-851",
@@ -29459,7 +29473,7 @@
       30
     ],
     [
-      242103,
+      242104,
       "October",
       "CSFO",
       "P-398",
@@ -29473,7 +29487,7 @@
       150
     ],
     [
-      242104,
+      242105,
       "October",
       "CSFO",
       "P-340",
@@ -29487,7 +29501,7 @@
       55
     ],
     [
-      242105,
+      242106,
       "October",
       "MOL",
       "CONV-726",
@@ -29501,7 +29515,7 @@
       2.2
     ],
     [
-      242106,
+      242107,
       "October",
       "BAT_I",
       "P-909B",
@@ -29515,7 +29529,7 @@
       22
     ],
     [
-      242107,
+      242108,
       "October",
       "LAB",
       "LAB",
@@ -29529,7 +29543,7 @@
       ""
     ],
     [
-      242108,
+      242109,
       "October",
       "TANKAGE",
       "P-780A",
@@ -29543,7 +29557,7 @@
       55
     ],
     [
-      242109,
+      242110,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29557,7 +29571,7 @@
       55
     ],
     [
-      242110,
+      242111,
       "October",
       "SUBSTATION",
       "US-08E",
@@ -29571,24 +29585,10 @@
       ""
     ],
     [
-      242111,
-      "October",
-      "TANKAGE",
-      "P-780A",
-      "2024-10-09T07:00:00.000Z",
-      "MOTOR SPACE HEATER CABLE REROUTING JOB",
-      "IMPROVEMENT",
-      "CABLE LAY",
-      "YES",
-      "ANIL_AREA",
-      "2024-10-09T07:00:00.000Z",
-      55
-    ],
-    [
       242112,
       "October",
       "TANKAGE",
-      "P-780B",
+      "P-780A",
       "2024-10-09T07:00:00.000Z",
       "MOTOR SPACE HEATER CABLE REROUTING JOB",
       "IMPROVEMENT",
@@ -29602,6 +29602,20 @@
       242113,
       "October",
       "TANKAGE",
+      "P-780B",
+      "2024-10-09T07:00:00.000Z",
+      "MOTOR SPACE HEATER CABLE REROUTING JOB",
+      "IMPROVEMENT",
+      "CABLE LAY",
+      "YES",
+      "ANIL_AREA",
+      "2024-10-09T07:00:00.000Z",
+      55
+    ],
+    [
+      242114,
+      "October",
+      "TANKAGE",
       "P-780A",
       "2024-10-09T07:00:00.000Z",
       "POWER CABLE TRAY FROM LIC TO MOTOR FABRICATION JOB",
@@ -29613,7 +29627,7 @@
       55
     ],
     [
-      242114,
+      242115,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29627,7 +29641,7 @@
       55
     ],
     [
-      242115,
+      242116,
       "October",
       "CSFO",
       "Other",
@@ -29641,7 +29655,7 @@
       ""
     ],
     [
-      242116,
+      242117,
       "October",
       "SUBSTATION",
       "US-08E",
@@ -29655,7 +29669,7 @@
       ""
     ],
     [
-      242117,
+      242118,
       "October",
       "WWT",
       "P-HT001",
@@ -29669,7 +29683,7 @@
       375
     ],
     [
-      242118,
+      242119,
       "October",
       "WWT",
       "P-HT002",
@@ -29683,7 +29697,7 @@
       375
     ],
     [
-      242119,
+      242120,
       "October",
       "CT_1",
       "P-840",
@@ -29697,7 +29711,7 @@
       290
     ],
     [
-      242120,
+      242121,
       "October",
       "BAT_E",
       "P-915",
@@ -29711,7 +29725,7 @@
       22
     ],
     [
-      242121,
+      242122,
       "October",
       "MOL",
       "CONV-46",
@@ -29725,7 +29739,7 @@
       7.5
     ],
     [
-      242122,
+      242123,
       "October",
       "WWT",
       "COMMON",
@@ -29739,7 +29753,7 @@
       ""
     ],
     [
-      242123,
+      242124,
       "October",
       "MOL",
       "CLASSIFIER-66",
@@ -29753,7 +29767,7 @@
       5.5
     ],
     [
-      242124,
+      242125,
       "October",
       "TANKAGE",
       "P-780A",
@@ -29767,7 +29781,7 @@
       55
     ],
     [
-      242125,
+      242126,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29781,7 +29795,7 @@
       55
     ],
     [
-      242126,
+      242127,
       "October",
       "CSFO",
       "Other",
@@ -29795,7 +29809,7 @@
       ""
     ],
     [
-      242127,
+      242128,
       "October",
       "",
       "",
@@ -29809,7 +29823,7 @@
       "#REF!"
     ],
     [
-      242128,
+      242129,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29823,7 +29837,7 @@
       55
     ],
     [
-      242129,
+      242130,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29837,7 +29851,7 @@
       55
     ],
     [
-      242130,
+      242131,
       "October",
       "MOL",
       "CONV-46",
@@ -29851,7 +29865,7 @@
       7.5
     ],
     [
-      242131,
+      242132,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29865,24 +29879,10 @@
       55
     ],
     [
-      242132,
-      "October",
-      "TANKAGE",
-      "P-780A",
-      "2024-10-14T07:00:00.000Z",
-      "LIC TO MOTOR CABLE TRAY FIXING DONE",
-      "IMPROVEMENT",
-      "Cable tray",
-      "YES",
-      "ANIL_AREA",
-      "2024-10-14T07:00:00.000Z",
-      55
-    ],
-    [
       242133,
       "October",
       "TANKAGE",
-      "P-780B",
+      "P-780A",
       "2024-10-14T07:00:00.000Z",
       "LIC TO MOTOR CABLE TRAY FIXING DONE",
       "IMPROVEMENT",
@@ -29896,6 +29896,20 @@
       242134,
       "October",
       "TANKAGE",
+      "P-780B",
+      "2024-10-14T07:00:00.000Z",
+      "LIC TO MOTOR CABLE TRAY FIXING DONE",
+      "IMPROVEMENT",
+      "Cable tray",
+      "YES",
+      "ANIL_AREA",
+      "2024-10-14T07:00:00.000Z",
+      55
+    ],
+    [
+      242135,
+      "October",
+      "TANKAGE",
       "P-1139",
       "2024-10-14T07:00:00.000Z",
       "LIC FIXING AND NECCESERY FABRICATION DONE",
@@ -29907,7 +29921,7 @@
       90
     ],
     [
-      242135,
+      242136,
       "October",
       "SUBSTATION",
       "US-10",
@@ -29921,7 +29935,7 @@
       ""
     ],
     [
-      242136,
+      242137,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29935,7 +29949,7 @@
       55
     ],
     [
-      242137,
+      242138,
       "October",
       "TANKAGE",
       "P-780B",
@@ -29949,7 +29963,7 @@
       55
     ],
     [
-      242138,
+      242139,
       "October",
       "TANKAGE",
       "P-1139",
@@ -29963,7 +29977,7 @@
       90
     ],
     [
-      242139,
+      242140,
       "October",
       "Transformer",
       2145,
@@ -29977,7 +29991,7 @@
       ""
     ],
     [
-      242140,
+      242141,
       "October",
       "Transformer",
       3150,
@@ -29991,7 +30005,7 @@
       ""
     ],
     [
-      242141,
+      242142,
       "October",
       "Transformer",
       3153,
@@ -30005,7 +30019,7 @@
       ""
     ],
     [
-      242142,
+      242143,
       "October",
       "Transformer",
       3179,
@@ -30019,7 +30033,7 @@
       ""
     ],
     [
-      242143,
+      242144,
       "October",
       "MOL",
       "CONV-46",
@@ -30033,7 +30047,7 @@
       7.5
     ],
     [
-      242144,
+      242145,
       "October",
       "BAT_D",
       "P-222A",
@@ -30047,7 +30061,7 @@
       45
     ],
     [
-      242145,
+      242146,
       "October",
       "TANKAGE",
       "P-780B",
@@ -30061,7 +30075,7 @@
       55
     ],
     [
-      242146,
+      242147,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30075,7 +30089,7 @@
       55
     ],
     [
-      242147,
+      242148,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30089,7 +30103,7 @@
       90
     ],
     [
-      242148,
+      242149,
       "October",
       "MOL",
       "CONV-46",
@@ -30103,7 +30117,7 @@
       7.5
     ],
     [
-      242149,
+      242150,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30117,7 +30131,7 @@
       55
     ],
     [
-      242150,
+      242151,
       "October",
       "TANKAGE",
       "P-780B",
@@ -30131,7 +30145,7 @@
       55
     ],
     [
-      242151,
+      242152,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30145,7 +30159,7 @@
       90
     ],
     [
-      242152,
+      242153,
       "October",
       "Transformer",
       3155,
@@ -30159,7 +30173,7 @@
       ""
     ],
     [
-      242153,
+      242154,
       "October",
       "Transformer",
       3146,
@@ -30173,7 +30187,7 @@
       ""
     ],
     [
-      242154,
+      242155,
       "October",
       "Transformer",
       3151,
@@ -30187,7 +30201,7 @@
       ""
     ],
     [
-      242155,
+      242156,
       "October",
       "BAT_I",
       "SP-919",
@@ -30201,7 +30215,7 @@
       37
     ],
     [
-      242156,
+      242157,
       "October",
       "BAT_G",
       "P-908",
@@ -30215,7 +30229,7 @@
       69
     ],
     [
-      242157,
+      242158,
       "October",
       "COMPRESSOR",
       "COMP-501",
@@ -30229,7 +30243,7 @@
       720
     ],
     [
-      242158,
+      242159,
       "October",
       "TANKAGE",
       "P-200",
@@ -30243,7 +30257,7 @@
       180
     ],
     [
-      242159,
+      242160,
       "October",
       "BAT_I",
       "SP-919",
@@ -30257,7 +30271,7 @@
       37
     ],
     [
-      242160,
+      242161,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30271,7 +30285,7 @@
       55
     ],
     [
-      242161,
+      242162,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30285,7 +30299,7 @@
       55
     ],
     [
-      242162,
+      242163,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30299,7 +30313,7 @@
       55
     ],
     [
-      242163,
+      242164,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30313,7 +30327,7 @@
       90
     ],
     [
-      242164,
+      242165,
       "October",
       "COMMON",
       "CSTORE",
@@ -30327,7 +30341,7 @@
       ""
     ],
     [
-      242165,
+      242166,
       "October",
       "BAT_I",
       "P-906",
@@ -30341,7 +30355,7 @@
       110
     ],
     [
-      242166,
+      242167,
       "October",
       "BAT_G",
       "P-908",
@@ -30355,7 +30369,7 @@
       69
     ],
     [
-      242167,
+      242168,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30369,7 +30383,7 @@
       90
     ],
     [
-      242168,
+      242169,
       "October",
       "COMMON",
       "CSTORE",
@@ -30383,7 +30397,7 @@
       ""
     ],
     [
-      242169,
+      242170,
       "October",
       "COMMON",
       "CSTORE",
@@ -30397,7 +30411,7 @@
       ""
     ],
     [
-      242170,
+      242171,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30411,7 +30425,7 @@
       55
     ],
     [
-      242171,
+      242172,
       "October",
       "COMMON",
       "CSTORE",
@@ -30425,7 +30439,7 @@
       ""
     ],
     [
-      242172,
+      242173,
       "October",
       "TANKAGE",
       "P-1140A",
@@ -30439,7 +30453,7 @@
       280
     ],
     [
-      242173,
+      242174,
       "October",
       "BAT_I",
       "COMMON",
@@ -30453,7 +30467,7 @@
       ""
     ],
     [
-      242174,
+      242175,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30467,7 +30481,7 @@
       90
     ],
     [
-      242175,
+      242176,
       "October",
       "CT_1",
       "P-1163A",
@@ -30481,7 +30495,7 @@
       275
     ],
     [
-      242176,
+      242177,
       "October",
       "CT_1",
       "P-1163B",
@@ -30495,7 +30509,7 @@
       275
     ],
     [
-      242177,
+      242178,
       "October",
       "CT_1",
       "P-1163C",
@@ -30509,7 +30523,7 @@
       275
     ],
     [
-      242178,
+      242179,
       "October",
       "TANKAGE",
       "P-1140B",
@@ -30523,7 +30537,7 @@
       280
     ],
     [
-      242179,
+      242180,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30537,7 +30551,7 @@
       90
     ],
     [
-      242180,
+      242181,
       "October",
       "SUBSTATION",
       "US-08E-STORE",
@@ -30551,7 +30565,7 @@
       ""
     ],
     [
-      242181,
+      242182,
       "October",
       "TANKAGE",
       "P-780B",
@@ -30565,7 +30579,7 @@
       55
     ],
     [
-      242182,
+      242183,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30579,7 +30593,7 @@
       55
     ],
     [
-      242183,
+      242184,
       "October",
       "MOL",
       "CLASSIFIER-67",
@@ -30593,7 +30607,7 @@
       5.5
     ],
     [
-      242184,
+      242185,
       "October",
       "BAT_C",
       "P-223",
@@ -30607,7 +30621,7 @@
       110
     ],
     [
-      242185,
+      242186,
       "October",
       "TANKAGE",
       "P-780B",
@@ -30621,7 +30635,7 @@
       55
     ],
     [
-      242186,
+      242187,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30635,7 +30649,7 @@
       90
     ],
     [
-      242187,
+      242188,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30649,7 +30663,7 @@
       90
     ],
     [
-      242188,
+      242189,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30663,7 +30677,7 @@
       90
     ],
     [
-      242189,
+      242190,
       "October",
       "TANKAGE",
       "P-1139",
@@ -30677,7 +30691,7 @@
       90
     ],
     [
-      242190,
+      242191,
       "October",
       "COMPRESSOR",
       "INDICON-101",
@@ -30691,7 +30705,7 @@
       ""
     ],
     [
-      242191,
+      242192,
       "October",
       "COMMON",
       "COMMON",
@@ -30705,7 +30719,7 @@
       ""
     ],
     [
-      242192,
+      242193,
       "October",
       "SUBSTATION",
       "US-15",
@@ -30719,7 +30733,7 @@
       ""
     ],
     [
-      242193,
+      242194,
       "October",
       "SUBSTATION",
       "US-08E-STORE",
@@ -30733,7 +30747,7 @@
       ""
     ],
     [
-      242194,
+      242195,
       "October",
       "TANKAGE",
       "AGITATOR-765A",
@@ -30747,7 +30761,7 @@
       22
     ],
     [
-      242195,
+      242196,
       "October",
       "TANKAGE",
       "AGITATOR-765B",
@@ -30761,7 +30775,7 @@
       18.5
     ],
     [
-      242196,
+      242197,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30775,7 +30789,7 @@
       55
     ],
     [
-      242197,
+      242198,
       "October",
       "SUBSTATION",
       "US-08E-STORE",
@@ -30789,7 +30803,7 @@
       ""
     ],
     [
-      242198,
+      242199,
       "October",
       "TANKAGE",
       "P-780B",
@@ -30803,7 +30817,7 @@
       55
     ],
     [
-      242199,
+      242200,
       "October",
       "SUBSTATION",
       "US-08E-STORE",
@@ -30817,7 +30831,7 @@
       ""
     ],
     [
-      242200,
+      242201,
       "October",
       "TANKAGE",
       "P-780A",
@@ -30831,7 +30845,7 @@
       55
     ],
     [
-      242201,
+      242202,
       "October",
       "TANKAGE",
       "P-205",
@@ -30845,7 +30859,7 @@
       75
     ],
     [
-      242202,
+      242203,
       "October",
       "TANKAGE",
       "P-210",
@@ -30859,7 +30873,7 @@
       55
     ],
     [
-      242203,
+      242204,
       "October",
       "TANKAGE",
       "P-301",
@@ -30873,7 +30887,7 @@
       90
     ],
     [
-      242204,
+      242205,
       "October",
       "TANKAGE",
       "PU-1170",
@@ -30887,7 +30901,7 @@
       45
     ],
     [
-      242205,
+      242206,
       "October",
       "TANKAGE",
       "P-1141B",
@@ -30901,7 +30915,7 @@
       55
     ],
     [
-      242206,
+      242207,
       "October",
       "TANKAGE",
       "P-1142B",
@@ -30915,7 +30929,7 @@
       90
     ],
     [
-      242207,
+      242208,
       "October",
       "TANKAGE",
       "P-1070A",
@@ -30929,7 +30943,7 @@
       110
     ],
     [
-      242208,
+      242209,
       "October",
       "TANKAGE",
       "Agitator-1170",
@@ -30943,7 +30957,7 @@
       3.7
     ],
     [
-      242209,
+      242210,
       "October",
       "TANKAGE",
       "P-50",
@@ -30957,7 +30971,7 @@
       125
     ],
     [
-      242210,
+      242211,
       "October",
       "TANKAGE",
       "P-205",
@@ -30971,7 +30985,7 @@
       75
     ],
     [
-      242211,
+      242212,
       "October",
       "TANKAGE",
       "P-210",
@@ -30985,7 +30999,7 @@
       55
     ],
     [
-      242212,
+      242213,
       "October",
       "TANKAGE",
       "P-1142B",
@@ -30999,7 +31013,7 @@
       90
     ],
     [
-      242213,
+      242214,
       "October",
       "TANKAGE",
       "PU-1170",
@@ -31013,7 +31027,7 @@
       45
     ],
     [
-      242214,
+      242215,
       "October",
       "TANKAGE",
       "Agitator-1170",
@@ -31027,7 +31041,7 @@
       3.7
     ],
     [
-      242215,
+      242216,
       "October",
       "COMMON",
       "CSTORE",
@@ -31041,7 +31055,7 @@
       ""
     ],
     [
-      242216,
+      242217,
       "October",
       "LAB",
       "LAB",
@@ -31055,7 +31069,7 @@
       ""
     ],
     [
-      242217,
+      242218,
       "October",
       "MOL",
       "CONV-726",
@@ -31069,7 +31083,7 @@
       2.2
     ],
     [
-      242218,
+      242219,
       "October",
       "BAT_I",
       "P-906",
@@ -31083,7 +31097,7 @@
       110
     ],
     [
-      242219,
+      242220,
       "October",
       "TANKAGE",
       "P-200",
@@ -31097,7 +31111,7 @@
       180
     ],
     [
-      242220,
+      242221,
       "October",
       "TANKAGE",
       "SP-216",
@@ -31109,25 +31123,25 @@
       "Nalco & SUPPLY",
       "2024-10-30T07:00:00.000Z",
       45
-    ],
-    [
-      242221,
-      "October",
-      "TANKAGE",
-      "SP-817",
-      "2024-10-30T07:00:00.000Z",
-      "MOTOR SIDE PM DONE",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "Nalco & SUPPLY",
-      "2024-10-30T07:00:00.000Z",
-      30
     ],
     [
       242222,
       "October",
       "TANKAGE",
+      "SP-817",
+      "2024-10-30T07:00:00.000Z",
+      "MOTOR SIDE PM DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "Nalco & SUPPLY",
+      "2024-10-30T07:00:00.000Z",
+      30
+    ],
+    [
+      242223,
+      "October",
+      "TANKAGE",
       "SP-216",
       "2024-10-30T07:00:00.000Z",
       "MODULE PM",
@@ -31139,7 +31153,7 @@
       45
     ],
     [
-      242223,
+      242224,
       "October",
       "TANKAGE",
       "SP-817",
@@ -31153,7 +31167,7 @@
       30
     ],
     [
-      242224,
+      242225,
       "October",
       "TANKAGE",
       "P-578",
@@ -31167,7 +31181,7 @@
       55
     ],
     [
-      242225,
+      242226,
       "October",
       "TANKAGE",
       "P-580",
@@ -31181,7 +31195,7 @@
       55
     ],
     [
-      242226,
+      242227,
       "October",
       "TANKAGE",
       "P-785B",
@@ -31195,7 +31209,7 @@
       90
     ],
     [
-      242227,
+      242228,
       "October",
       "TANKAGE",
       "SP-217",
@@ -31209,24 +31223,10 @@
       45
     ],
     [
-      242228,
-      "October",
-      "TANKAGE",
-      "A-147",
-      "2024-10-30T07:00:00.000Z",
-      "motor lic lpbs pm done",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "ANIL_AREA",
-      "2024-10-30T07:00:00.000Z",
-      18.5
-    ],
-    [
       242229,
       "October",
       "TANKAGE",
-      "A-148",
+      "A-147",
       "2024-10-30T07:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -31240,7 +31240,7 @@
       242230,
       "October",
       "TANKAGE",
-      "AGITATOR-765B",
+      "A-148",
       "2024-10-30T07:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -31252,6 +31252,20 @@
     ],
     [
       242231,
+      "October",
+      "TANKAGE",
+      "AGITATOR-765B",
+      "2024-10-30T07:00:00.000Z",
+      "motor lic lpbs pm done",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2024-10-30T07:00:00.000Z",
+      18.5
+    ],
+    [
+      242232,
       "October",
       "LAB",
       "LAB",
@@ -31265,7 +31279,7 @@
       ""
     ],
     [
-      242232,
+      242233,
       "November",
       "Transformer",
       3169,
@@ -31279,7 +31293,7 @@
       ""
     ],
     [
-      242233,
+      242234,
       "November",
       "Transformer",
       3169,
@@ -31293,7 +31307,7 @@
       ""
     ],
     [
-      242234,
+      242235,
       "November",
       "Transformer",
       3169,
@@ -31307,7 +31321,7 @@
       ""
     ],
     [
-      242235,
+      242236,
       "November",
       "SUBSTATION",
       "US-08E",
@@ -31321,7 +31335,7 @@
       ""
     ],
     [
-      242236,
+      242237,
       "November",
       "WWT",
       "COMMON",
@@ -31335,7 +31349,7 @@
       ""
     ],
     [
-      242237,
+      242238,
       "November",
       "CSFO",
       "P-851",
@@ -31349,7 +31363,7 @@
       30
     ],
     [
-      242238,
+      242239,
       "November",
       "BAT_H",
       "P-907A",
@@ -31363,7 +31377,7 @@
       45
     ],
     [
-      242239,
+      242240,
       "November",
       "WWT",
       "PMCC-328",
@@ -31377,7 +31391,7 @@
       ""
     ],
     [
-      242240,
+      242241,
       "November",
       "COMMON",
       "ERS",
@@ -31391,7 +31405,7 @@
       ""
     ],
     [
-      242241,
+      242242,
       "November",
       "COMMON",
       "CSTORE",
@@ -31405,7 +31419,7 @@
       ""
     ],
     [
-      242242,
+      242243,
       "November",
       "CSFO",
       "Other",
@@ -31419,7 +31433,7 @@
       ""
     ],
     [
-      242243,
+      242244,
       "November",
       "COMPRESSOR",
       "COMP-501",
@@ -31433,7 +31447,7 @@
       720
     ],
     [
-      242244,
+      242245,
       "November",
       "COMPRESSOR",
       "COMP-501",
@@ -31447,7 +31461,7 @@
       720
     ],
     [
-      242245,
+      242246,
       "November",
       "MOL",
       "TABLE-FEEDER-24",
@@ -31461,7 +31475,7 @@
       ""
     ],
     [
-      242246,
+      242247,
       "November",
       "MOL",
       "WEIGH-FEEDER-67",
@@ -31475,7 +31489,7 @@
       ""
     ],
     [
-      242247,
+      242248,
       "November",
       "MOL",
       "DRUM-SLAKER-003",
@@ -31489,7 +31503,7 @@
       ""
     ],
     [
-      242248,
+      242249,
       "November",
       "MOL",
       "CLASSIFIER-66",
@@ -31503,7 +31517,7 @@
       5.5
     ],
     [
-      242249,
+      242250,
       "November",
       "MOL",
       "AGITATOR-168",
@@ -31517,7 +31531,7 @@
       7.5
     ],
     [
-      242250,
+      242251,
       "November",
       "BAT_H",
       "P-907A",
@@ -31531,7 +31545,7 @@
       45
     ],
     [
-      242251,
+      242252,
       "November",
       "TANKAGE",
       "SP-216",
@@ -31545,7 +31559,7 @@
       45
     ],
     [
-      242252,
+      242253,
       "November",
       "COMPRESSOR",
       "AIR-DRYER-64",
@@ -31559,7 +31573,7 @@
       ""
     ],
     [
-      242253,
+      242254,
       "November",
       "Transformer",
       2144,
@@ -31573,7 +31587,7 @@
       ""
     ],
     [
-      242254,
+      242255,
       "November",
       "COMPRESSOR",
       "COMP-501",
@@ -31587,7 +31601,7 @@
       720
     ],
     [
-      242255,
+      242256,
       "November",
       "TANKAGE",
       "SP-216",
@@ -31601,7 +31615,7 @@
       45
     ],
     [
-      242256,
+      242257,
       "November",
       "TANKAGE",
       "P-302",
@@ -31615,7 +31629,7 @@
       110
     ],
     [
-      242257,
+      242258,
       "November",
       "CT_1",
       "COMMON",
@@ -31629,7 +31643,7 @@
       ""
     ],
     [
-      242258,
+      242259,
       "November",
       "COMMON",
       "COMMON",
@@ -31643,7 +31657,7 @@
       ""
     ],
     [
-      242259,
+      242260,
       "November",
       "COMMON",
       "SHIFTING",
@@ -31657,7 +31671,7 @@
       ""
     ],
     [
-      242260,
+      242261,
       "November",
       "Transformer",
       2244,
@@ -31671,7 +31685,7 @@
       ""
     ],
     [
-      242261,
+      242262,
       "November",
       "SUBSTATION",
       "US-10",
@@ -31685,7 +31699,7 @@
       ""
     ],
     [
-      242262,
+      242263,
       "November",
       "MOL",
       "CONV-727",
@@ -31699,7 +31713,7 @@
       3.7
     ],
     [
-      242263,
+      242264,
       "November",
       "MOL",
       "CONV-726",
@@ -31713,7 +31727,7 @@
       2.2
     ],
     [
-      242264,
+      242265,
       "November",
       "Transformer",
       "COMMON",
@@ -31727,7 +31741,7 @@
       ""
     ],
     [
-      242265,
+      242266,
       "November",
       "COMMON",
       "COMMON",
@@ -31741,7 +31755,7 @@
       ""
     ],
     [
-      242266,
+      242267,
       "November",
       "TANKAGE",
       "P-781A",
@@ -31755,7 +31769,7 @@
       55
     ],
     [
-      242267,
+      242268,
       "November",
       "BAT_C",
       "P-223",
@@ -31769,7 +31783,7 @@
       110
     ],
     [
-      242268,
+      242269,
       "November",
       "CT_2",
       "F-001",
@@ -31783,7 +31797,7 @@
       52
     ],
     [
-      242269,
+      242270,
       "November",
       "CT_2",
       "F-001",
@@ -31797,7 +31811,7 @@
       52
     ],
     [
-      242270,
+      242271,
       "November",
       "CT_1",
       "COMMON",
@@ -31811,7 +31825,7 @@
       ""
     ],
     [
-      242271,
+      242272,
       "November",
       "Transformer",
       3185,
@@ -31825,7 +31839,7 @@
       ""
     ],
     [
-      242272,
+      242273,
       "November",
       "COMMON",
       "BORROW",
@@ -31839,7 +31853,7 @@
       ""
     ],
     [
-      242273,
+      242274,
       "November",
       "Transformer",
       3176,
@@ -31853,7 +31867,7 @@
       ""
     ],
     [
-      242274,
+      242275,
       "November",
       "MOL",
       "CONV-46",
@@ -31867,7 +31881,7 @@
       7.5
     ],
     [
-      242275,
+      242276,
       "November",
       "MOL",
       "CONV-47",
@@ -31881,7 +31895,7 @@
       11
     ],
     [
-      242276,
+      242277,
       "November",
       "MOL",
       "CRUSHER-006-1",
@@ -31895,7 +31909,7 @@
       ""
     ],
     [
-      242277,
+      242278,
       "November",
       "MOL",
       "CRUSHER-006-2",
@@ -31909,7 +31923,7 @@
       ""
     ],
     [
-      242278,
+      242279,
       "November",
       "MOL",
       "CONV.-48",
@@ -31923,7 +31937,7 @@
       5.5
     ],
     [
-      242279,
+      242280,
       "November",
       "MOL",
       "BUCKET-ELEVATOR-116",
@@ -31937,7 +31951,7 @@
       ""
     ],
     [
-      242280,
+      242281,
       "November",
       "Transformer",
       3176,
@@ -31951,7 +31965,7 @@
       ""
     ],
     [
-      242281,
+      242282,
       "November",
       "SUBSTATION",
       "US-20",
@@ -31965,7 +31979,7 @@
       ""
     ],
     [
-      242282,
+      242283,
       "November",
       "COMMON",
       "COMMON",
@@ -31979,7 +31993,7 @@
       ""
     ],
     [
-      242283,
+      242284,
       "November",
       "Transformer",
       3176,
@@ -31993,7 +32007,7 @@
       ""
     ],
     [
-      242284,
+      242285,
       "November",
       "MOL",
       "Agi-1173",
@@ -32007,7 +32021,7 @@
       ""
     ],
     [
-      242285,
+      242286,
       "November",
       "MOL",
       "pipe-1033",
@@ -32021,7 +32035,7 @@
       ""
     ],
     [
-      242286,
+      242287,
       "November",
       "TANKAGE",
       "P-577",
@@ -32035,7 +32049,7 @@
       55
     ],
     [
-      242287,
+      242288,
       "November",
       "CT_1",
       "COMMON",
@@ -32049,7 +32063,7 @@
       ""
     ],
     [
-      242288,
+      242289,
       "November",
       "COMMON",
       "CSTORE",
@@ -32063,7 +32077,7 @@
       ""
     ],
     [
-      242289,
+      242290,
       "November",
       "TANKAGE",
       "P-211",
@@ -32077,7 +32091,7 @@
       55
     ],
     [
-      242290,
+      242291,
       "November",
       "BAT_E",
       "P-907A",
@@ -32091,7 +32105,7 @@
       30
     ],
     [
-      242291,
+      242292,
       "November",
       "BAT_E",
       "P-907B",
@@ -32105,7 +32119,7 @@
       30
     ],
     [
-      242292,
+      242293,
       "November",
       "BAT_E",
       "P-914A",
@@ -32119,7 +32133,7 @@
       22
     ],
     [
-      242293,
+      242294,
       "November",
       "BAT_E",
       "P-914B",
@@ -32133,7 +32147,7 @@
       22
     ],
     [
-      242294,
+      242295,
       "November",
       "BAT_E",
       "P-911",
@@ -32147,7 +32161,7 @@
       75
     ],
     [
-      242295,
+      242296,
       "November",
       "CT_2",
       "F-001",
@@ -32161,7 +32175,7 @@
       52
     ],
     [
-      242296,
+      242297,
       "November",
       "TANKAGE",
       "AGITATOR-765A",
@@ -32175,7 +32189,7 @@
       22
     ],
     [
-      242297,
+      242298,
       "November",
       "BAT_E",
       "P-905",
@@ -32189,7 +32203,7 @@
       90
     ],
     [
-      242298,
+      242299,
       "November",
       "BAT_E",
       "P-901",
@@ -32203,7 +32217,7 @@
       ""
     ],
     [
-      242299,
+      242300,
       "November",
       "BAT_E",
       "P-902",
@@ -32217,7 +32231,7 @@
       ""
     ],
     [
-      242300,
+      242301,
       "November",
       "BAT_E",
       "P-903",
@@ -32231,7 +32245,7 @@
       ""
     ],
     [
-      242301,
+      242302,
       "November",
       "BAT_E",
       "P-904",
@@ -32245,7 +32259,7 @@
       ""
     ],
     [
-      242302,
+      242303,
       "November",
       "BAT_E",
       "P-908",
@@ -32259,7 +32273,7 @@
       ""
     ],
     [
-      242303,
+      242304,
       "November",
       "BAT_E",
       "P-910",
@@ -32273,7 +32287,7 @@
       ""
     ],
     [
-      242304,
+      242305,
       "November",
       "BAT_E",
       "P-911",
@@ -32287,7 +32301,7 @@
       ""
     ],
     [
-      242305,
+      242306,
       "November",
       "BAT_E",
       "P-912",
@@ -32301,7 +32315,7 @@
       ""
     ],
     [
-      242306,
+      242307,
       "November",
       "BAT_E",
       "P-913",
@@ -32315,7 +32329,7 @@
       ""
     ],
     [
-      242307,
+      242308,
       "November",
       "BAT_E",
       "P-916B",
@@ -32329,7 +32343,7 @@
       ""
     ],
     [
-      242308,
+      242309,
       "November",
       "Transformer",
       3176,
@@ -32343,7 +32357,7 @@
       ""
     ],
     [
-      242309,
+      242310,
       "November",
       "CT_1",
       "COMMON",
@@ -32357,7 +32371,7 @@
       ""
     ],
     [
-      242310,
+      242311,
       "November",
       "Transformer",
       3187,
@@ -32371,7 +32385,7 @@
       ""
     ],
     [
-      242311,
+      242312,
       "November",
       "Transformer",
       3321,
@@ -32385,7 +32399,7 @@
       ""
     ],
     [
-      242312,
+      242313,
       "November",
       "Transformer",
       2308,
@@ -32399,7 +32413,7 @@
       ""
     ],
     [
-      242313,
+      242314,
       "November",
       "TANKAGE",
       "P-1139",
@@ -32413,7 +32427,7 @@
       90
     ],
     [
-      242314,
+      242315,
       "November",
       "COMMON",
       "CANTEEN",
@@ -32427,7 +32441,7 @@
       ""
     ],
     [
-      242315,
+      242316,
       "November",
       "MOL",
       "Agi-1173",
@@ -32441,7 +32455,7 @@
       ""
     ],
     [
-      242316,
+      242317,
       "November",
       "MOL",
       "COMMON",
@@ -32455,7 +32469,7 @@
       ""
     ],
     [
-      242317,
+      242318,
       "November",
       "Transformer",
       3176,
@@ -32469,7 +32483,7 @@
       ""
     ],
     [
-      242318,
+      242319,
       "November",
       "TANKAGE",
       "A-147",
@@ -32483,24 +32497,10 @@
       18.5
     ],
     [
-      242319,
-      "November",
-      "TANKAGE",
-      "A-147",
-      "2024-11-14T08:00:00.000Z",
-      "MODULE PM",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "Nalco & SUPPLY",
-      "2024-11-14T08:00:00.000Z",
-      18.5
-    ],
-    [
       242320,
       "November",
       "TANKAGE",
-      "A-148",
+      "A-147",
       "2024-11-14T08:00:00.000Z",
       "MODULE PM",
       "PM JOBS",
@@ -32516,6 +32516,20 @@
       "TANKAGE",
       "A-148",
       "2024-11-14T08:00:00.000Z",
+      "MODULE PM",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
+      "Nalco & SUPPLY",
+      "2024-11-14T08:00:00.000Z",
+      18.5
+    ],
+    [
+      242322,
+      "November",
+      "TANKAGE",
+      "A-148",
+      "2024-11-14T08:00:00.000Z",
       "MOTOR REPLACEMENT FOR S/C O/H WORK",
       "NORMAL JOB",
       "MOTOR REPLACEMENT",
@@ -32525,7 +32539,7 @@
       18.5
     ],
     [
-      242322,
+      242323,
       "November",
       "CT_1",
       "COMMON",
@@ -32539,7 +32553,7 @@
       ""
     ],
     [
-      242323,
+      242324,
       "November",
       "CT_1",
       "F004",
@@ -32553,7 +32567,7 @@
       132
     ],
     [
-      242324,
+      242325,
       "November",
       "CT_1",
       "COMMON",
@@ -32567,7 +32581,7 @@
       ""
     ],
     [
-      242325,
+      242326,
       "November",
       "CT_2",
       "P-226",
@@ -32581,7 +32595,7 @@
       75
     ],
     [
-      242326,
+      242327,
       "November",
       "MOL",
       "CONV.-728",
@@ -32595,7 +32609,7 @@
       2.2
     ],
     [
-      242327,
+      242328,
       "November",
       "BAT_G",
       "P-908",
@@ -32609,7 +32623,7 @@
       69
     ],
     [
-      242328,
+      242329,
       "November",
       "MOL",
       "CONV-47",
@@ -32623,24 +32637,10 @@
       11
     ],
     [
-      242329,
-      "November",
-      "BAT_G",
-      "P-903",
-      "2024-11-18T08:00:00.000Z",
-      "MODULE PM DONE",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "ANIL_AREA",
-      "2024-11-18T08:00:00.000Z",
-      101
-    ],
-    [
       242330,
       "November",
       "BAT_G",
-      "P-904",
+      "P-903",
       "2024-11-18T08:00:00.000Z",
       "MODULE PM DONE",
       "PM JOBS",
@@ -32654,6 +32654,20 @@
       242331,
       "November",
       "BAT_G",
+      "P-904",
+      "2024-11-18T08:00:00.000Z",
+      "MODULE PM DONE",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
+      "ANIL_AREA",
+      "2024-11-18T08:00:00.000Z",
+      101
+    ],
+    [
+      242332,
+      "November",
+      "BAT_G",
       "P-906",
       "2024-11-18T08:00:00.000Z",
       "MODULE PM DONE",
@@ -32665,7 +32679,7 @@
       69
     ],
     [
-      242332,
+      242333,
       "November",
       "BAT_G",
       "P-908",
@@ -32679,7 +32693,7 @@
       69
     ],
     [
-      242333,
+      242334,
       "November",
       "BAT_G",
       "P-910",
@@ -32693,7 +32707,7 @@
       82.8
     ],
     [
-      242334,
+      242335,
       "November",
       "BAT_G",
       "COMMON",
@@ -32707,7 +32721,7 @@
       ""
     ],
     [
-      242335,
+      242336,
       "November",
       "COMMON",
       "CSTORE",
@@ -32721,7 +32735,7 @@
       ""
     ],
     [
-      242336,
+      242337,
       "November",
       "TANKAGE",
       "P-785B",
@@ -32735,24 +32749,10 @@
       90
     ],
     [
-      242337,
-      "November",
-      "TANKAGE",
-      "P-576",
-      "2024-11-19T08:00:00.000Z",
-      "FUSE TO MCB CONVERTED FOR CONTROL CKT",
-      "IMPROVEMENT",
-      "REPLACE-MCB",
-      "YES",
-      "Nalco & SUPPLY",
-      "2024-11-19T08:00:00.000Z",
-      55
-    ],
-    [
       242338,
       "November",
       "TANKAGE",
-      "P-578",
+      "P-576",
       "2024-11-19T08:00:00.000Z",
       "FUSE TO MCB CONVERTED FOR CONTROL CKT",
       "IMPROVEMENT",
@@ -32766,15 +32766,15 @@
       242339,
       "November",
       "TANKAGE",
-      "pmcc-388",
+      "P-578",
       "2024-11-19T08:00:00.000Z",
-      "FUSE TO MCB CONVERTED FOR CONTROL CKT ON 577S/B MODULE",
+      "FUSE TO MCB CONVERTED FOR CONTROL CKT",
       "IMPROVEMENT",
       "REPLACE-MCB",
       "YES",
       "Nalco & SUPPLY",
       "2024-11-19T08:00:00.000Z",
-      ""
+      55
     ],
     [
       242340,
@@ -32782,7 +32782,7 @@
       "TANKAGE",
       "pmcc-388",
       "2024-11-19T08:00:00.000Z",
-      "FUSE TO MCB CONVERTED FOR CONTROL CKT FOR SPARE 55KW",
+      "FUSE TO MCB CONVERTED FOR CONTROL CKT ON 577S/B MODULE",
       "IMPROVEMENT",
       "REPLACE-MCB",
       "YES",
@@ -32796,7 +32796,7 @@
       "TANKAGE",
       "pmcc-388",
       "2024-11-19T08:00:00.000Z",
-      "FUSE TO MCB CONVERTED FOR CONTROL CKT P-785B SPARE",
+      "FUSE TO MCB CONVERTED FOR CONTROL CKT FOR SPARE 55KW",
       "IMPROVEMENT",
       "REPLACE-MCB",
       "YES",
@@ -32810,7 +32810,7 @@
       "TANKAGE",
       "pmcc-388",
       "2024-11-19T08:00:00.000Z",
-      "FUSE TO MCB CONVERTED FOR CONTROL CKT P-785 A SPARE",
+      "FUSE TO MCB CONVERTED FOR CONTROL CKT P-785B SPARE",
       "IMPROVEMENT",
       "REPLACE-MCB",
       "YES",
@@ -32820,6 +32820,20 @@
     ],
     [
       242343,
+      "November",
+      "TANKAGE",
+      "pmcc-388",
+      "2024-11-19T08:00:00.000Z",
+      "FUSE TO MCB CONVERTED FOR CONTROL CKT P-785 A SPARE",
+      "IMPROVEMENT",
+      "REPLACE-MCB",
+      "YES",
+      "Nalco & SUPPLY",
+      "2024-11-19T08:00:00.000Z",
+      ""
+    ],
+    [
+      242344,
       "November",
       "CT_1",
       "COMMON",
@@ -32833,7 +32847,7 @@
       ""
     ],
     [
-      242344,
+      242345,
       "November",
       "CT_1",
       "F004",
@@ -32847,7 +32861,7 @@
       132
     ],
     [
-      242345,
+      242346,
       "November",
       "COMMON",
       "CSTORE",
@@ -32861,24 +32875,10 @@
       ""
     ],
     [
-      242346,
-      "November",
-      "Breaker",
-      "US-10-MCC1-357-PMCC-313",
-      "2024-11-20T08:00:00.000Z",
-      "BREAKER PM DONE",
-      "PM JOBS",
-      "BREAKER PM",
-      "YES",
-      "Nalco & SUPPLY",
-      "2024-11-20T08:00:00.000Z",
-      ""
-    ],
-    [
       242347,
       "November",
       "Breaker",
-      "US-10-MCC2-357-PMCC-313",
+      "US-10-MCC1-357-PMCC-313",
       "2024-11-20T08:00:00.000Z",
       "BREAKER PM DONE",
       "PM JOBS",
@@ -32892,7 +32892,7 @@
       242348,
       "November",
       "Breaker",
-      "US-10-MCC1-358-PMCC-313",
+      "US-10-MCC2-357-PMCC-313",
       "2024-11-20T08:00:00.000Z",
       "BREAKER PM DONE",
       "PM JOBS",
@@ -32906,7 +32906,7 @@
       242349,
       "November",
       "Breaker",
-      "US-10-MCC2-358-PMCC-313",
+      "US-10-MCC1-358-PMCC-313",
       "2024-11-20T08:00:00.000Z",
       "BREAKER PM DONE",
       "PM JOBS",
@@ -32920,7 +32920,7 @@
       242350,
       "November",
       "Breaker",
-      "US-10-SPARE1-PMCC-313",
+      "US-10-MCC2-358-PMCC-313",
       "2024-11-20T08:00:00.000Z",
       "BREAKER PM DONE",
       "PM JOBS",
@@ -32934,7 +32934,7 @@
       242351,
       "November",
       "Breaker",
-      "US-10-SPARE2-PMCC-313",
+      "US-10-SPARE1-PMCC-313",
       "2024-11-20T08:00:00.000Z",
       "BREAKER PM DONE",
       "PM JOBS",
@@ -32946,6 +32946,20 @@
     ],
     [
       242352,
+      "November",
+      "Breaker",
+      "US-10-SPARE2-PMCC-313",
+      "2024-11-20T08:00:00.000Z",
+      "BREAKER PM DONE",
+      "PM JOBS",
+      "BREAKER PM",
+      "YES",
+      "Nalco & SUPPLY",
+      "2024-11-20T08:00:00.000Z",
+      ""
+    ],
+    [
+      242353,
       "November",
       "MOL",
       "CONV-46",
@@ -32959,7 +32973,7 @@
       7.5
     ],
     [
-      242353,
+      242354,
       "November",
       "CT_1",
       "COMMON",
@@ -32973,7 +32987,7 @@
       ""
     ],
     [
-      242354,
+      242355,
       "November",
       "COMMON",
       "SHIFTING",
@@ -32987,7 +33001,7 @@
       ""
     ],
     [
-      242355,
+      242356,
       "November",
       "TANKAGE",
       "P-200",
@@ -33001,7 +33015,7 @@
       180
     ],
     [
-      242356,
+      242357,
       "November",
       "CT_1",
       "F004",
@@ -33015,7 +33029,7 @@
       132
     ],
     [
-      242357,
+      242358,
       "November",
       "BAT_I",
       "AGITATOR-901",
@@ -33029,7 +33043,7 @@
       2.2
     ],
     [
-      242358,
+      242359,
       "November",
       "MOL",
       "DRUM-SLAKER-003",
@@ -33043,7 +33057,7 @@
       ""
     ],
     [
-      242359,
+      242360,
       "November",
       "CT_1",
       "COMMON",
@@ -33057,7 +33071,7 @@
       ""
     ],
     [
-      242360,
+      242361,
       "November",
       "MOL",
       "DRUM-SLAKER-003",
@@ -33071,7 +33085,7 @@
       ""
     ],
     [
-      242361,
+      242362,
       "November",
       "MOL",
       "CLASSIFIER-66",
@@ -33085,7 +33099,7 @@
       5.5
     ],
     [
-      242362,
+      242363,
       "November",
       "TANKAGE",
       "P-200",
@@ -33099,7 +33113,7 @@
       180
     ],
     [
-      242363,
+      242364,
       "November",
       "TANKAGE",
       "P-577",
@@ -33113,7 +33127,7 @@
       55
     ],
     [
-      242364,
+      242365,
       "November",
       "TANKAGE",
       "P-577",
@@ -33127,7 +33141,7 @@
       55
     ],
     [
-      242365,
+      242366,
       "November",
       "CT_1",
       "COMMON",
@@ -33141,7 +33155,7 @@
       ""
     ],
     [
-      242366,
+      242367,
       "November",
       "BAT_C",
       "SP-251",
@@ -33155,7 +33169,7 @@
       45
     ],
     [
-      242367,
+      242368,
       "November",
       "TANKAGE",
       "P-200",
@@ -33169,7 +33183,7 @@
       180
     ],
     [
-      242368,
+      242369,
       "November",
       "TANKAGE",
       "P-195",
@@ -33183,7 +33197,7 @@
       135
     ],
     [
-      242369,
+      242370,
       "November",
       "TANKAGE",
       "P-195",
@@ -33197,7 +33211,7 @@
       135
     ],
     [
-      242370,
+      242371,
       "November",
       "TANKAGE",
       "P-195",
@@ -33211,7 +33225,7 @@
       135
     ],
     [
-      242371,
+      242372,
       "November",
       "TANKAGE",
       "P-195",
@@ -33225,7 +33239,7 @@
       135
     ],
     [
-      242372,
+      242373,
       "November",
       "TANKAGE",
       "P-577",
@@ -33239,7 +33253,7 @@
       55
     ],
     [
-      242373,
+      242374,
       "November",
       "BAT_H",
       "SP-919",
@@ -33253,24 +33267,10 @@
       45
     ],
     [
-      242374,
-      "November",
-      "BAT_H",
-      "P-901",
-      "2024-11-23T08:00:00.000Z",
-      "motor lic lpbs pm done",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "ANIL_AREA",
-      "2024-11-23T08:00:00.000Z",
-      101
-    ],
-    [
       242375,
       "November",
       "BAT_H",
-      "P-902",
+      "P-901",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33284,7 +33284,7 @@
       242376,
       "November",
       "BAT_H",
-      "P-903",
+      "P-902",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33298,7 +33298,7 @@
       242377,
       "November",
       "BAT_H",
-      "P-904",
+      "P-903",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33312,7 +33312,7 @@
       242378,
       "November",
       "BAT_H",
-      "P-905",
+      "P-904",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33326,7 +33326,7 @@
       242379,
       "November",
       "BAT_H",
-      "P-906",
+      "P-905",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33334,13 +33334,13 @@
       "YES",
       "ANIL_AREA",
       "2024-11-23T08:00:00.000Z",
-      69
+      101
     ],
     [
       242380,
       "November",
       "BAT_H",
-      "P-908",
+      "P-906",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33354,7 +33354,7 @@
       242381,
       "November",
       "BAT_H",
-      "P-910",
+      "P-908",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33362,13 +33362,13 @@
       "YES",
       "ANIL_AREA",
       "2024-11-23T08:00:00.000Z",
-      82.8
+      69
     ],
     [
       242382,
       "November",
       "BAT_H",
-      "P-911",
+      "P-910",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33382,21 +33382,21 @@
       242383,
       "November",
       "BAT_H",
-      "P-907A",
+      "P-911",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
       "MOTOR PM",
       "YES",
-      "SUPPLY",
+      "ANIL_AREA",
       "2024-11-23T08:00:00.000Z",
-      45
+      82.8
     ],
     [
       242384,
       "November",
       "BAT_H",
-      "P-907B",
+      "P-907A",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33410,7 +33410,7 @@
       242385,
       "November",
       "BAT_H",
-      "P-914A",
+      "P-907B",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33418,13 +33418,13 @@
       "YES",
       "SUPPLY",
       "2024-11-23T08:00:00.000Z",
-      30
+      45
     ],
     [
       242386,
       "November",
       "BAT_H",
-      "P-914B",
+      "P-914A",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
       "PM JOBS",
@@ -33438,6 +33438,20 @@
       242387,
       "November",
       "BAT_H",
+      "P-914B",
+      "2024-11-23T08:00:00.000Z",
+      "motor lic lpbs pm done",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "SUPPLY",
+      "2024-11-23T08:00:00.000Z",
+      30
+    ],
+    [
+      242388,
+      "November",
+      "BAT_H",
       "P-909A",
       "2024-11-23T08:00:00.000Z",
       "motor lic lpbs pm done",
@@ -33449,7 +33463,7 @@
       18.5
     ],
     [
-      242388,
+      242389,
       "November",
       "BAT_H",
       "P-915",
@@ -33463,7 +33477,7 @@
       20.2
     ],
     [
-      242389,
+      242390,
       "November",
       "BAT_H",
       "P-916A",
@@ -33477,7 +33491,7 @@
       200
     ],
     [
-      242390,
+      242391,
       "November",
       "CT_1",
       "COMMON",
@@ -33491,7 +33505,7 @@
       ""
     ],
     [
-      242391,
+      242392,
       "November",
       "TANKAGE",
       "P-200",
@@ -33505,7 +33519,7 @@
       180
     ],
     [
-      242392,
+      242393,
       "November",
       "BAT_I",
       "AGITATOR-901",
@@ -33519,7 +33533,7 @@
       2.2
     ],
     [
-      242393,
+      242394,
       "November",
       "CT_1",
       "1001A",
@@ -33533,7 +33547,7 @@
       75
     ],
     [
-      242394,
+      242395,
       "November",
       "TANKAGE",
       "P-200",
@@ -33547,7 +33561,7 @@
       180
     ],
     [
-      242395,
+      242396,
       "November",
       "SUBSTATION",
       "US-10",
@@ -33561,7 +33575,7 @@
       ""
     ],
     [
-      242396,
+      242397,
       "November",
       "TANKAGE",
       "SP-817",
@@ -33575,7 +33589,7 @@
       30
     ],
     [
-      242397,
+      242398,
       "November",
       "COMMON",
       "COMMON",
@@ -33589,7 +33603,7 @@
       ""
     ],
     [
-      242398,
+      242399,
       "November",
       "MOL",
       "CONV-46",
@@ -33603,7 +33617,7 @@
       7.5
     ],
     [
-      242399,
+      242400,
       "November",
       "CSFO",
       "P-851",
@@ -33617,7 +33631,7 @@
       30
     ],
     [
-      242400,
+      242401,
       "November",
       "BAT_H",
       "SP-919",
@@ -33631,7 +33645,7 @@
       45
     ],
     [
-      242401,
+      242402,
       "November",
       "BOARD",
       "US-10-323",
@@ -33645,7 +33659,7 @@
       ""
     ],
     [
-      242402,
+      242403,
       "November",
       "TANKAGE",
       "P-200",
@@ -33659,7 +33673,7 @@
       180
     ],
     [
-      242403,
+      242404,
       "November",
       "CT_1",
       "COMMON",
@@ -33673,7 +33687,7 @@
       ""
     ],
     [
-      242404,
+      242405,
       "November",
       "COMPRESSOR",
       "COMP-45",
@@ -33687,7 +33701,7 @@
       421
     ],
     [
-      242405,
+      242406,
       "November",
       "COMPRESSOR",
       "COMP-45",
@@ -33701,7 +33715,7 @@
       421
     ],
     [
-      242406,
+      242407,
       "November",
       "COMPRESSOR",
       "LOP-45",
@@ -33715,7 +33729,7 @@
       1.5
     ],
     [
-      242407,
+      242408,
       "November",
       "TANKAGE",
       "P-781A",
@@ -33729,7 +33743,7 @@
       55
     ],
     [
-      242408,
+      242409,
       "November",
       "Breaker",
       "US-10-SPARE2-PMCC-313",
@@ -33743,7 +33757,7 @@
       ""
     ],
     [
-      242409,
+      242410,
       "November",
       "Breaker",
       "US-10-MCC1-357-PMCC-313",
@@ -33757,7 +33771,7 @@
       ""
     ],
     [
-      242410,
+      242411,
       "November",
       "BAT_B",
       "P-203",
@@ -33771,7 +33785,7 @@
       90
     ],
     [
-      242411,
+      242412,
       "November",
       "COMPRESSOR",
       "COMP-502",
@@ -33785,7 +33799,7 @@
       720
     ],
     [
-      242412,
+      242413,
       "November",
       "COMPRESSOR",
       "COMP-702",
@@ -33799,7 +33813,7 @@
       640
     ],
     [
-      242413,
+      242414,
       "November",
       "COMPRESSOR",
       "COMP-702",
@@ -33813,7 +33827,7 @@
       640
     ],
     [
-      242414,
+      242415,
       "November",
       "BOARD",
       "US-10-323",
@@ -33827,7 +33841,7 @@
       ""
     ],
     [
-      242415,
+      242416,
       "November",
       "TANKAGE",
       "P-200",
@@ -33841,7 +33855,7 @@
       180
     ],
     [
-      242416,
+      242417,
       "November",
       "Transformer",
       3176,
@@ -33855,7 +33869,7 @@
       ""
     ],
     [
-      242417,
+      242418,
       "November",
       "CT_1",
       "F004",
@@ -33869,7 +33883,7 @@
       132
     ],
     [
-      242418,
+      242419,
       "November",
       "BAT_I",
       "SP-919",
@@ -33883,7 +33897,7 @@
       37
     ],
     [
-      242419,
+      242420,
       "November",
       "CT_2",
       "P-226",
@@ -33897,7 +33911,7 @@
       75
     ],
     [
-      242420,
+      242421,
       "November",
       "TANKAGE",
       "P-200",
@@ -33911,24 +33925,10 @@
       180
     ],
     [
-      242421,
-      "November",
-      "CSFO",
-      "P-345",
-      "2024-11-28T08:00:00.000Z",
-      "4A MCB Fixing against control fuse",
-      "IMPROVEMENT",
-      "REPLACE-MCB",
-      "YES",
-      "Nalco & SUPPLY",
-      "2024-11-28T08:00:00.000Z",
-      37
-    ],
-    [
       242422,
       "November",
       "CSFO",
-      "P-346",
+      "P-345",
       "2024-11-28T08:00:00.000Z",
       "4A MCB Fixing against control fuse",
       "IMPROVEMENT",
@@ -33942,7 +33942,7 @@
       242423,
       "November",
       "CSFO",
-      "P-347",
+      "P-346",
       "2024-11-28T08:00:00.000Z",
       "4A MCB Fixing against control fuse",
       "IMPROVEMENT",
@@ -33956,7 +33956,7 @@
       242424,
       "November",
       "CSFO",
-      "P-348",
+      "P-347",
       "2024-11-28T08:00:00.000Z",
       "4A MCB Fixing against control fuse",
       "IMPROVEMENT",
@@ -33970,7 +33970,7 @@
       242425,
       "November",
       "CSFO",
-      "P-849",
+      "P-348",
       "2024-11-28T08:00:00.000Z",
       "4A MCB Fixing against control fuse",
       "IMPROVEMENT",
@@ -33982,6 +33982,20 @@
     ],
     [
       242426,
+      "November",
+      "CSFO",
+      "P-849",
+      "2024-11-28T08:00:00.000Z",
+      "4A MCB Fixing against control fuse",
+      "IMPROVEMENT",
+      "REPLACE-MCB",
+      "YES",
+      "Nalco & SUPPLY",
+      "2024-11-28T08:00:00.000Z",
+      37
+    ],
+    [
+      242427,
       "November",
       "MOL",
       "TABLE-FEEDER-24",
@@ -33995,7 +34009,7 @@
       ""
     ],
     [
-      242427,
+      242428,
       "November",
       "BOARD",
       "US-10-313",
@@ -34009,7 +34023,7 @@
       ""
     ],
     [
-      242428,
+      242429,
       "November",
       "CSFO",
       "P-345",
@@ -34023,7 +34037,7 @@
       37
     ],
     [
-      242429,
+      242430,
       "November",
       "CSFO",
       "P-346",
@@ -34037,7 +34051,7 @@
       37
     ],
     [
-      242430,
+      242431,
       "November",
       "CSFO",
       "P-347",
@@ -34051,7 +34065,7 @@
       37
     ],
     [
-      242431,
+      242432,
       "November",
       "CSFO",
       "P-348",
@@ -34065,7 +34079,7 @@
       37
     ],
     [
-      242432,
+      242433,
       "November",
       "CSFO",
       "P-849",
@@ -34079,7 +34093,7 @@
       37
     ],
     [
-      242433,
+      242434,
       "November",
       "CSFO",
       "P-386",
@@ -34093,7 +34107,7 @@
       5.5
     ],
     [
-      242434,
+      242435,
       "November",
       "CSFO",
       "P-852",
@@ -34107,7 +34121,7 @@
       3.7
     ],
     [
-      242435,
+      242436,
       "November",
       "CT_2",
       "P-226",
@@ -34121,7 +34135,7 @@
       75
     ],
     [
-      242436,
+      242437,
       "November",
       "BOARD",
       "US-08E-BCH-398",
@@ -34135,7 +34149,7 @@
       ""
     ],
     [
-      242437,
+      242438,
       "November",
       "BAT_D",
       "SP-251",
@@ -34149,24 +34163,10 @@
       45
     ],
     [
-      242438,
-      "November",
-      "BAT_D",
-      "P-200",
-      "2024-11-28T08:00:00.000Z",
-      "MOTOR LIC LPBS PM DONE",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "ANIL_AREA",
-      "2024-11-28T08:00:00.000Z",
-      90
-    ],
-    [
       242439,
       "November",
       "BAT_D",
-      "P-203",
+      "P-200",
       "2024-11-28T08:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -34180,7 +34180,7 @@
       242440,
       "November",
       "BAT_D",
-      "P-205",
+      "P-203",
       "2024-11-28T08:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -34192,6 +34192,20 @@
     ],
     [
       242441,
+      "November",
+      "BAT_D",
+      "P-205",
+      "2024-11-28T08:00:00.000Z",
+      "MOTOR LIC LPBS PM DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2024-11-28T08:00:00.000Z",
+      90
+    ],
+    [
+      242442,
       "November",
       "TANKAGE",
       "P-197",
@@ -34205,7 +34219,7 @@
       135
     ],
     [
-      242442,
+      242443,
       "November",
       "BAT_D",
       "P-205",
@@ -34219,7 +34233,7 @@
       90
     ],
     [
-      242443,
+      242444,
       "November",
       "BAT_D",
       "P-205",
@@ -34233,7 +34247,7 @@
       90
     ],
     [
-      242444,
+      242445,
       "November",
       "CT_2",
       "P-226",
@@ -34247,7 +34261,7 @@
       75
     ],
     [
-      242445,
+      242446,
       "November",
       "BOARD",
       "US-10-313",
@@ -34261,7 +34275,7 @@
       ""
     ],
     [
-      242446,
+      242447,
       "November",
       "Transformer",
       3176,
@@ -34275,7 +34289,7 @@
       ""
     ],
     [
-      242447,
+      242448,
       "December",
       "COMMON",
       "COMMON",
@@ -34289,7 +34303,7 @@
       ""
     ],
     [
-      242448,
+      242449,
       "December",
       "BAT_I",
       "P-910",
@@ -34303,7 +34317,7 @@
       110
     ],
     [
-      242449,
+      242450,
       "December",
       "BAT_I",
       "P-902",
@@ -34317,7 +34331,7 @@
       75
     ],
     [
-      242450,
+      242451,
       "December",
       "BAT_I",
       "P-904",
@@ -34331,7 +34345,7 @@
       110
     ],
     [
-      242451,
+      242452,
       "December",
       "BAT_I",
       "P-906",
@@ -34345,7 +34359,7 @@
       110
     ],
     [
-      242452,
+      242453,
       "December",
       "BAT_I",
       "P-908",
@@ -34359,24 +34373,10 @@
       75
     ],
     [
-      242453,
-      "December",
-      "BAT_I",
-      "P-911",
-      "2024-12-01T08:00:00.000Z",
-      "CURRENT TRANSDUCER GLASS FUSE REPLACED DUE TO BLACKOUT",
-      "REPLACEMENT",
-      "REPLACE-FUSE",
-      "YES",
-      "NALCO",
-      "2024-12-01T08:00:00.000Z",
-      132
-    ],
-    [
       242454,
       "December",
       "BAT_I",
-      "P-912",
+      "P-911",
       "2024-12-01T08:00:00.000Z",
       "CURRENT TRANSDUCER GLASS FUSE REPLACED DUE TO BLACKOUT",
       "REPLACEMENT",
@@ -34390,6 +34390,20 @@
       242455,
       "December",
       "BAT_I",
+      "P-912",
+      "2024-12-01T08:00:00.000Z",
+      "CURRENT TRANSDUCER GLASS FUSE REPLACED DUE TO BLACKOUT",
+      "REPLACEMENT",
+      "REPLACE-FUSE",
+      "YES",
+      "NALCO",
+      "2024-12-01T08:00:00.000Z",
+      132
+    ],
+    [
+      242456,
+      "December",
+      "BAT_I",
       "P-914B",
       "2024-12-01T08:00:00.000Z",
       "CURRENT TRANSDUCER GLASS FUSE REPLACED DUE TO BLACKOUT",
@@ -34401,7 +34415,7 @@
       45
     ],
     [
-      242456,
+      242457,
       "December",
       "BOARD",
       "US-08EX-PCC-412",
@@ -34415,7 +34429,7 @@
       ""
     ],
     [
-      242457,
+      242458,
       "December",
       "COMMON",
       "COMMON",
@@ -34429,7 +34443,7 @@
       ""
     ],
     [
-      242458,
+      242459,
       "December",
       "TANKAGE",
       "P-578",
@@ -34443,23 +34457,9 @@
       55
     ],
     [
-      242459,
-      "December",
-      "BAT_B",
-      "P-211",
-      "2024-12-01T08:00:00.000Z",
-      "TRIPPED DURING BLACKOUT RESET DONE",
-      "BD",
-      "DAILY JOBS",
-      "NO",
-      "NALCO",
-      "2024-12-01T08:00:00.000Z",
-      110
-    ],
-    [
       242460,
       "December",
-      "BAT_C",
+      "BAT_B",
       "P-211",
       "2024-12-01T08:00:00.000Z",
       "TRIPPED DURING BLACKOUT RESET DONE",
@@ -34473,7 +34473,7 @@
     [
       242461,
       "December",
-      "BAT_D",
+      "BAT_C",
       "P-211",
       "2024-12-01T08:00:00.000Z",
       "TRIPPED DURING BLACKOUT RESET DONE",
@@ -34487,6 +34487,20 @@
     [
       242462,
       "December",
+      "BAT_D",
+      "P-211",
+      "2024-12-01T08:00:00.000Z",
+      "TRIPPED DURING BLACKOUT RESET DONE",
+      "BD",
+      "DAILY JOBS",
+      "NO",
+      "NALCO",
+      "2024-12-01T08:00:00.000Z",
+      110
+    ],
+    [
+      242463,
+      "December",
       "TANKAGE",
       "P-208",
       "2024-12-02T08:00:00.000Z",
@@ -34499,7 +34513,7 @@
       45
     ],
     [
-      242463,
+      242464,
       "December",
       "MOL",
       "CONV-46",
@@ -34513,7 +34527,7 @@
       7.5
     ],
     [
-      242464,
+      242465,
       "December",
       "COMPRESSOR",
       "AIR-DRYER-63",
@@ -34527,7 +34541,7 @@
       ""
     ],
     [
-      242465,
+      242466,
       "December",
       "COMPRESSOR",
       "INDICON-101",
@@ -34541,7 +34555,7 @@
       ""
     ],
     [
-      242466,
+      242467,
       "December",
       "Transformer",
       3176,
@@ -34555,7 +34569,7 @@
       ""
     ],
     [
-      242467,
+      242468,
       "December",
       "BAT_H",
       "P-909B",
@@ -34569,7 +34583,7 @@
       ""
     ],
     [
-      242468,
+      242469,
       "December",
       "TANKAGE",
       "P-197",
@@ -34583,7 +34597,7 @@
       135
     ],
     [
-      242469,
+      242470,
       "December",
       "TANKAGE",
       "P-197",
@@ -34597,7 +34611,7 @@
       135
     ],
     [
-      242470,
+      242471,
       "December",
       "TANKAGE",
       "P-579",
@@ -34611,7 +34625,7 @@
       55
     ],
     [
-      242471,
+      242472,
       "December",
       "TANKAGE",
       "P-581",
@@ -34625,7 +34639,7 @@
       55
     ],
     [
-      242472,
+      242473,
       "December",
       "Transformer",
       3176,
@@ -34639,7 +34653,7 @@
       ""
     ],
     [
-      242473,
+      242474,
       "December",
       "TANKAGE",
       "P-1138A",
@@ -34653,7 +34667,7 @@
       110
     ],
     [
-      242474,
+      242475,
       "December",
       "BOARD",
       "US-13-PMCC-322",
@@ -34667,7 +34681,7 @@
       ""
     ],
     [
-      242475,
+      242476,
       "December",
       "BAT_H",
       "P-907A",
@@ -34681,7 +34695,7 @@
       45
     ],
     [
-      242476,
+      242477,
       "December",
       "BAT_H",
       "P-907B",
@@ -34695,7 +34709,7 @@
       45
     ],
     [
-      242477,
+      242478,
       "December",
       "BAT_H",
       "P-916A",
@@ -34709,7 +34723,7 @@
       200
     ],
     [
-      242478,
+      242479,
       "December",
       "Transformer",
       3176,
@@ -34723,7 +34737,7 @@
       ""
     ],
     [
-      242479,
+      242480,
       "December",
       "SUBSTATION",
       "US-10",
@@ -34737,7 +34751,7 @@
       ""
     ],
     [
-      242480,
+      242481,
       "December",
       "TANKAGE",
       "P-575",
@@ -34751,7 +34765,7 @@
       132
     ],
     [
-      242481,
+      242482,
       "December",
       "TANKAGE",
       "P-172",
@@ -34765,7 +34779,7 @@
       "37(45)"
     ],
     [
-      242482,
+      242483,
       "December",
       "TANKAGE",
       "P-172",
@@ -34779,7 +34793,7 @@
       "37(45)"
     ],
     [
-      242483,
+      242484,
       "December",
       "SUBSTATION",
       "US-13",
@@ -34793,7 +34807,7 @@
       ""
     ],
     [
-      242484,
+      242485,
       "December",
       "TANKAGE",
       "P-172",
@@ -34807,7 +34821,7 @@
       "37(45)"
     ],
     [
-      242485,
+      242486,
       "December",
       "Transformer",
       3176,
@@ -34821,7 +34835,7 @@
       ""
     ],
     [
-      242486,
+      242487,
       "December",
       "TANKAGE",
       "SP-216",
@@ -34835,7 +34849,7 @@
       45
     ],
     [
-      242487,
+      242488,
       "December",
       "TANKAGE",
       "SP-216",
@@ -34849,7 +34863,7 @@
       45
     ],
     [
-      242488,
+      242489,
       "December",
       "EOT_CRANE",
       "BAT-I",
@@ -34863,7 +34877,7 @@
       ""
     ],
     [
-      242489,
+      242490,
       "December",
       "COMMON",
       "ERS",
@@ -34877,7 +34891,7 @@
       ""
     ],
     [
-      242490,
+      242491,
       "December",
       "SUBSTATION",
       "US-13",
@@ -34891,7 +34905,7 @@
       ""
     ],
     [
-      242491,
+      242492,
       "December",
       "Transformer",
       3176,
@@ -34905,7 +34919,7 @@
       ""
     ],
     [
-      242492,
+      242493,
       "December",
       "TANKAGE",
       "P-781A",
@@ -34919,7 +34933,7 @@
       55
     ],
     [
-      242493,
+      242494,
       "December",
       "BAT_C",
       "P-222A",
@@ -34933,7 +34947,7 @@
       45
     ],
     [
-      242494,
+      242495,
       "December",
       "EOT_CRANE",
       "BAT-I",
@@ -34947,7 +34961,7 @@
       ""
     ],
     [
-      242495,
+      242496,
       "December",
       "Transformer",
       3176,
@@ -34961,7 +34975,7 @@
       ""
     ],
     [
-      242496,
+      242497,
       "December",
       "BAT_H",
       "P-918",
@@ -34975,7 +34989,7 @@
       ""
     ],
     [
-      242497,
+      242498,
       "December",
       "BOARD",
       "US-18-PMCC",
@@ -34989,7 +35003,7 @@
       ""
     ],
     [
-      242498,
+      242499,
       "December",
       "MOL",
       "CONV-46",
@@ -35003,7 +35017,7 @@
       7.5
     ],
     [
-      242499,
+      242500,
       "December",
       "BAT_G",
       "P-911",
@@ -35017,7 +35031,7 @@
       82.8
     ],
     [
-      242500,
+      242501,
       "December",
       "EOT_CRANE",
       "BAT-I",
@@ -35031,7 +35045,7 @@
       ""
     ],
     [
-      242501,
+      242502,
       "December",
       "WWT",
       "P-222B(Daister-pump-02)",
@@ -35045,7 +35059,7 @@
       ""
     ],
     [
-      242502,
+      242503,
       "December",
       "COMMON",
       "AC",
@@ -35059,7 +35073,7 @@
       ""
     ],
     [
-      242503,
+      242504,
       "December",
       "Transformer",
       3150,
@@ -35073,7 +35087,7 @@
       ""
     ],
     [
-      242504,
+      242505,
       "December",
       "SUBSTATION",
       "US-10",
@@ -35087,7 +35101,7 @@
       ""
     ],
     [
-      242505,
+      242506,
       "December",
       "Transformer",
       3176,
@@ -35101,7 +35115,7 @@
       ""
     ],
     [
-      242506,
+      242507,
       "December",
       "Breaker",
       "US-18-3176-PMCC.328",
@@ -35115,7 +35129,7 @@
       ""
     ],
     [
-      242507,
+      242508,
       "December",
       "SUBSTATION",
       "US-18",
@@ -35129,7 +35143,7 @@
       ""
     ],
     [
-      242508,
+      242509,
       "December",
       "TANKAGE",
       "P-198",
@@ -35143,7 +35157,7 @@
       180
     ],
     [
-      242509,
+      242510,
       "December",
       "SUBSTATION",
       "US-10",
@@ -35157,7 +35171,7 @@
       ""
     ],
     [
-      242510,
+      242511,
       "December",
       "COMMON",
       "AC",
@@ -35171,7 +35185,7 @@
       ""
     ],
     [
-      242511,
+      242512,
       "December",
       "COMMON",
       "AC",
@@ -35185,7 +35199,7 @@
       ""
     ],
     [
-      242512,
+      242513,
       "December",
       "BAT_A",
       "P-211",
@@ -35199,7 +35213,7 @@
       110
     ],
     [
-      242513,
+      242514,
       "December",
       "CT_1",
       "F003",
@@ -35213,7 +35227,7 @@
       132
     ],
     [
-      242514,
+      242515,
       "December",
       "TANKAGE",
       "P-199",
@@ -35227,7 +35241,7 @@
       180
     ],
     [
-      242515,
+      242516,
       "December",
       "COMMON",
       "CSTORE",
@@ -35241,7 +35255,7 @@
       ""
     ],
     [
-      242516,
+      242517,
       "December",
       "BAT_B",
       "COMMON",
@@ -35255,7 +35269,7 @@
       ""
     ],
     [
-      242517,
+      242518,
       "December",
       "BAT_B",
       "COMMON",
@@ -35269,7 +35283,7 @@
       ""
     ],
     [
-      242518,
+      242519,
       "December",
       "BOARD",
       "US-18-PMCC-328",
@@ -35283,7 +35297,7 @@
       ""
     ],
     [
-      242519,
+      242520,
       "December",
       "Transformer",
       3179,
@@ -35297,7 +35311,7 @@
       ""
     ],
     [
-      242520,
+      242521,
       "December",
       "LAB",
       "LAB",
@@ -35311,7 +35325,7 @@
       ""
     ],
     [
-      242521,
+      242522,
       "December",
       "CT_1",
       "F003",
@@ -35325,7 +35339,7 @@
       132
     ],
     [
-      242522,
+      242523,
       "December",
       "Breaker",
       "US-10-3178-PMCC-323",
@@ -35339,7 +35353,7 @@
       ""
     ],
     [
-      242523,
+      242524,
       "December",
       "BAT_B",
       "COMMON",
@@ -35353,7 +35367,7 @@
       ""
     ],
     [
-      242524,
+      242525,
       "December",
       "TANKAGE",
       "P-199",
@@ -35367,7 +35381,7 @@
       180
     ],
     [
-      242525,
+      242526,
       "December",
       "Transformer",
       "COMMON",
@@ -35381,7 +35395,7 @@
       ""
     ],
     [
-      242526,
+      242527,
       "December",
       "Transformer",
       3179,
@@ -35395,7 +35409,7 @@
       ""
     ],
     [
-      242527,
+      242528,
       "December",
       "Transformer",
       3170,
@@ -35409,7 +35423,7 @@
       ""
     ],
     [
-      242528,
+      242529,
       "December",
       "Transformer",
       3197,
@@ -35423,7 +35437,7 @@
       ""
     ],
     [
-      242529,
+      242530,
       "December",
       "Transformer",
       3145,
@@ -35437,7 +35451,7 @@
       ""
     ],
     [
-      242530,
+      242531,
       "December",
       "Transformer",
       2145,
@@ -35451,23 +35465,9 @@
       ""
     ],
     [
-      242531,
-      "December",
-      "BAT_A",
-      "COMMON",
-      "2024-12-11T08:00:00.000Z",
-      "greasing work done",
-      "greasing",
-      "GREASING",
-      "YES",
-      "MOTOR",
-      "2024-12-11T08:00:00.000Z",
-      ""
-    ],
-    [
       242532,
       "December",
-      "BAT_B",
+      "BAT_A",
       "COMMON",
       "2024-12-11T08:00:00.000Z",
       "greasing work done",
@@ -35481,6 +35481,20 @@
     [
       242533,
       "December",
+      "BAT_B",
+      "COMMON",
+      "2024-12-11T08:00:00.000Z",
+      "greasing work done",
+      "greasing",
+      "GREASING",
+      "YES",
+      "MOTOR",
+      "2024-12-11T08:00:00.000Z",
+      ""
+    ],
+    [
+      242534,
+      "December",
       "CT_1",
       "F003",
       "2024-12-11T08:00:00.000Z",
@@ -35493,7 +35507,7 @@
       132
     ],
     [
-      242534,
+      242535,
       "December",
       "CT_1",
       "F003",
@@ -35507,7 +35521,7 @@
       132
     ],
     [
-      242535,
+      242536,
       "December",
       "TANKAGE",
       "P-301",
@@ -35521,7 +35535,7 @@
       90
     ],
     [
-      242536,
+      242537,
       "December",
       "CT_1",
       "F003",
@@ -35535,7 +35549,7 @@
       132
     ],
     [
-      242537,
+      242538,
       "December",
       "CT_1",
       "F003",
@@ -35549,7 +35563,7 @@
       132
     ],
     [
-      242538,
+      242539,
       "December",
       "TANKAGE",
       "P-1138C",
@@ -35563,7 +35577,7 @@
       110
     ],
     [
-      242539,
+      242540,
       "December",
       "CT_1",
       "F003",
@@ -35577,7 +35591,7 @@
       132
     ],
     [
-      242540,
+      242541,
       "December",
       "TANKAGE",
       "P-199",
@@ -35591,23 +35605,9 @@
       180
     ],
     [
-      242541,
-      "December",
-      "BAT_B",
-      "COMMON",
-      "2024-12-12T08:00:00.000Z",
-      "greasing done",
-      "greasing",
-      "GREASING",
-      "YES",
-      "MOTOR",
-      "2024-12-12T08:00:00.000Z",
-      ""
-    ],
-    [
       242542,
       "December",
-      "BAT_C",
+      "BAT_B",
       "COMMON",
       "2024-12-12T08:00:00.000Z",
       "greasing done",
@@ -35621,6 +35621,20 @@
     [
       242543,
       "December",
+      "BAT_C",
+      "COMMON",
+      "2024-12-12T08:00:00.000Z",
+      "greasing done",
+      "greasing",
+      "GREASING",
+      "YES",
+      "MOTOR",
+      "2024-12-12T08:00:00.000Z",
+      ""
+    ],
+    [
+      242544,
+      "December",
       "Transformer",
       3184,
       "2024-12-12T08:00:00.000Z",
@@ -35633,7 +35647,7 @@
       ""
     ],
     [
-      242544,
+      242545,
       "December",
       "Transformer",
       3328,
@@ -35647,7 +35661,7 @@
       ""
     ],
     [
-      242545,
+      242546,
       "December",
       "CT_1",
       "F002",
@@ -35661,7 +35675,7 @@
       132
     ],
     [
-      242546,
+      242547,
       "December",
       "CT_1",
       "F003",
@@ -35675,7 +35689,7 @@
       132
     ],
     [
-      242547,
+      242548,
       "December",
       "COMPRESSOR",
       "INDICON-102",
@@ -35689,7 +35703,7 @@
       ""
     ],
     [
-      242548,
+      242549,
       "December",
       "BAT_G",
       "P-911",
@@ -35703,7 +35717,7 @@
       82.8
     ],
     [
-      242549,
+      242550,
       "December",
       "BAT_C",
       "SP-251",
@@ -35717,7 +35731,7 @@
       45
     ],
     [
-      242550,
+      242551,
       "December",
       "CT_1",
       "F003",
@@ -35731,7 +35745,7 @@
       132
     ],
     [
-      242551,
+      242552,
       "December",
       "CT_1",
       "F003",
@@ -35745,23 +35759,9 @@
       132
     ],
     [
-      242552,
-      "December",
-      "BAT_C",
-      "COMMON",
-      "2024-12-13T08:00:00.000Z",
-      "GREASING DONE",
-      "greasing",
-      "GREASING",
-      "YES",
-      "MOTOR",
-      "2024-12-13T08:00:00.000Z",
-      ""
-    ],
-    [
       242553,
       "December",
-      "BAT_D",
+      "BAT_C",
       "COMMON",
       "2024-12-13T08:00:00.000Z",
       "GREASING DONE",
@@ -35775,6 +35775,20 @@
     [
       242554,
       "December",
+      "BAT_D",
+      "COMMON",
+      "2024-12-13T08:00:00.000Z",
+      "GREASING DONE",
+      "greasing",
+      "GREASING",
+      "YES",
+      "MOTOR",
+      "2024-12-13T08:00:00.000Z",
+      ""
+    ],
+    [
+      242555,
+      "December",
       "BOARD",
       "US-10-323",
       "2024-12-13T08:00:00.000Z",
@@ -35787,7 +35801,7 @@
       ""
     ],
     [
-      242555,
+      242556,
       "December",
       "BOARD",
       "US-10-313",
@@ -35801,7 +35815,7 @@
       ""
     ],
     [
-      242556,
+      242557,
       "December",
       "TANKAGE",
       "P-576",
@@ -35815,7 +35829,7 @@
       55
     ],
     [
-      242557,
+      242558,
       "December",
       "TANKAGE",
       "P-196",
@@ -35829,7 +35843,7 @@
       135
     ],
     [
-      242558,
+      242559,
       "December",
       "Breaker",
       "US-10-3147-PMCC-313",
@@ -35843,7 +35857,7 @@
       ""
     ],
     [
-      242559,
+      242560,
       "December",
       "TANKAGE",
       "P-194",
@@ -35857,7 +35871,7 @@
       135
     ],
     [
-      242560,
+      242561,
       "December",
       "TANKAGE",
       "P-196",
@@ -35871,7 +35885,7 @@
       135
     ],
     [
-      242561,
+      242562,
       "December",
       "TANKAGE",
       "P-198",
@@ -35885,7 +35899,7 @@
       180
     ],
     [
-      242562,
+      242563,
       "December",
       "TANKAGE",
       "P-194",
@@ -35899,7 +35913,7 @@
       135
     ],
     [
-      242563,
+      242564,
       "December",
       "TANKAGE",
       "P-194",
@@ -35913,7 +35927,7 @@
       135
     ],
     [
-      242564,
+      242565,
       "December",
       "TANKAGE",
       "P-576",
@@ -35927,7 +35941,7 @@
       55
     ],
     [
-      242565,
+      242566,
       "December",
       "BAT_A",
       "P-200",
@@ -35941,7 +35955,7 @@
       90
     ],
     [
-      242566,
+      242567,
       "December",
       "BOARD",
       "US-10-313",
@@ -35955,7 +35969,7 @@
       ""
     ],
     [
-      242567,
+      242568,
       "December",
       "WWT",
       "P-222B(Daister-pump-02)",
@@ -35969,7 +35983,7 @@
       ""
     ],
     [
-      242568,
+      242569,
       "December",
       "BAT_C",
       "P-222A",
@@ -35983,7 +35997,7 @@
       45
     ],
     [
-      242569,
+      242570,
       "December",
       "CSFO",
       "P-219",
@@ -35997,24 +36011,10 @@
       75
     ],
     [
-      242570,
-      "December",
-      "CSFO",
-      "P-220",
-      "2024-12-16T08:00:00.000Z",
-      "MCB REPLACEMENT IN PLACE OF CONTROL FUSE",
-      "REPLACEMENT",
-      "REPLACE-MCB",
-      "YES",
-      "NALCO",
-      "2024-12-16T08:00:00.000Z",
-      75
-    ],
-    [
       242571,
       "December",
       "CSFO",
-      "P-385",
+      "P-220",
       "2024-12-16T08:00:00.000Z",
       "MCB REPLACEMENT IN PLACE OF CONTROL FUSE",
       "REPLACEMENT",
@@ -36028,6 +36028,20 @@
       242572,
       "December",
       "CSFO",
+      "P-385",
+      "2024-12-16T08:00:00.000Z",
+      "MCB REPLACEMENT IN PLACE OF CONTROL FUSE",
+      "REPLACEMENT",
+      "REPLACE-MCB",
+      "YES",
+      "NALCO",
+      "2024-12-16T08:00:00.000Z",
+      75
+    ],
+    [
+      242573,
+      "December",
+      "CSFO",
       "P-337",
       "2024-12-16T08:00:00.000Z",
       "MCB REPLACEMENT IN PLACE OF CONTROL FUSE",
@@ -36039,7 +36053,7 @@
       55
     ],
     [
-      242573,
+      242574,
       "December",
       "TANKAGE",
       "P-785B",
@@ -36053,7 +36067,7 @@
       90
     ],
     [
-      242574,
+      242575,
       "December",
       "TANKAGE",
       "SP-216",
@@ -36067,7 +36081,7 @@
       45
     ],
     [
-      242575,
+      242576,
       "December",
       "TANKAGE",
       "P-198",
@@ -36081,7 +36095,7 @@
       180
     ],
     [
-      242576,
+      242577,
       "December",
       "TANKAGE",
       "SP-216",
@@ -36095,7 +36109,7 @@
       45
     ],
     [
-      242577,
+      242578,
       "December",
       "BOARD",
       "US-10-323",
@@ -36109,7 +36123,7 @@
       ""
     ],
     [
-      242578,
+      242579,
       "December",
       "BOARD",
       "US-10-323",
@@ -36123,7 +36137,7 @@
       ""
     ],
     [
-      242579,
+      242580,
       "December",
       "COMMON",
       "SHIFTING",
@@ -36137,7 +36151,7 @@
       ""
     ],
     [
-      242580,
+      242581,
       "December",
       "COMPRESSOR",
       "COMP-51",
@@ -36151,7 +36165,7 @@
       421
     ],
     [
-      242581,
+      242582,
       "December",
       "BAT_F",
       "COMMON",
@@ -36165,7 +36179,7 @@
       ""
     ],
     [
-      242582,
+      242583,
       "December",
       "TANKAGE",
       "P-198",
@@ -36179,7 +36193,7 @@
       180
     ],
     [
-      242583,
+      242584,
       "December",
       "COMMON",
       "CSTORE",
@@ -36193,7 +36207,7 @@
       ""
     ],
     [
-      242584,
+      242585,
       "December",
       "COMMON",
       "CSTORE",
@@ -36207,7 +36221,7 @@
       ""
     ],
     [
-      242585,
+      242586,
       "December",
       "COMMON",
       "SHIFTING",
@@ -36221,7 +36235,7 @@
       ""
     ],
     [
-      242586,
+      242587,
       "December",
       "SUBSTATION",
       "US-13",
@@ -36235,7 +36249,7 @@
       ""
     ],
     [
-      242587,
+      242588,
       "December",
       "BAT_A",
       "P-224A",
@@ -36249,7 +36263,7 @@
       45
     ],
     [
-      242588,
+      242589,
       "December",
       "LAB",
       "LAB",
@@ -36263,7 +36277,7 @@
       ""
     ],
     [
-      242589,
+      242590,
       "December",
       "LAB",
       "LAB",
@@ -36277,7 +36291,7 @@
       ""
     ],
     [
-      242590,
+      242591,
       "December",
       "TANKAGE",
       "P-199",
@@ -36291,23 +36305,9 @@
       180
     ],
     [
-      242591,
-      "December",
-      "BAT_E",
-      "COMMON",
-      "2024-12-18T08:00:00.000Z",
-      "GREASING WORK",
-      "greasing",
-      "GREASING",
-      "YES",
-      "MOTOR",
-      "2024-12-18T08:00:00.000Z",
-      ""
-    ],
-    [
       242592,
       "December",
-      "BAT_F",
+      "BAT_E",
       "COMMON",
       "2024-12-18T08:00:00.000Z",
       "GREASING WORK",
@@ -36321,6 +36321,20 @@
     [
       242593,
       "December",
+      "BAT_F",
+      "COMMON",
+      "2024-12-18T08:00:00.000Z",
+      "GREASING WORK",
+      "greasing",
+      "GREASING",
+      "YES",
+      "MOTOR",
+      "2024-12-18T08:00:00.000Z",
+      ""
+    ],
+    [
+      242594,
+      "December",
       "BAT_B",
       "P-212",
       "2024-12-18T08:00:00.000Z",
@@ -36333,7 +36347,7 @@
       110
     ],
     [
-      242594,
+      242595,
       "December",
       "BAT_D",
       "P-204",
@@ -36347,7 +36361,7 @@
       90
     ],
     [
-      242595,
+      242596,
       "December",
       "CT_1",
       "P-1163B",
@@ -36361,7 +36375,7 @@
       275
     ],
     [
-      242596,
+      242597,
       "December",
       "Transformer",
       2244,
@@ -36375,7 +36389,7 @@
       ""
     ],
     [
-      242597,
+      242598,
       "December",
       "Transformer",
       3252,
@@ -36389,7 +36403,7 @@
       ""
     ],
     [
-      242598,
+      242599,
       "December",
       "Transformer",
       3326,
@@ -36403,7 +36417,7 @@
       ""
     ],
     [
-      242599,
+      242600,
       "December",
       "Transformer",
       3322,
@@ -36417,7 +36431,7 @@
       ""
     ],
     [
-      242600,
+      242601,
       "December",
       "CSFO",
       "P-220",
@@ -36431,7 +36445,7 @@
       75
     ],
     [
-      242601,
+      242602,
       "December",
       "MOL",
       "CONV-46",
@@ -36445,7 +36459,7 @@
       7.5
     ],
     [
-      242602,
+      242603,
       "December",
       "MOL",
       "CONV-47",
@@ -36459,7 +36473,7 @@
       11
     ],
     [
-      242603,
+      242604,
       "December",
       "MOL",
       "CONV.-48",
@@ -36473,7 +36487,7 @@
       5.5
     ],
     [
-      242604,
+      242605,
       "December",
       "MOL",
       "BUCKET-ELEVATOR-116",
@@ -36487,24 +36501,10 @@
       ""
     ],
     [
-      242605,
-      "December",
-      "MOL",
-      "CRUSHER-006-1",
-      "2024-12-18T08:00:00.000Z",
-      "T4[21].DN   BYPASSED IN LADDER(SHORTED) in start ckt",
-      "NA",
-      "PLC LOGIC MOD",
-      "NO",
-      "NALCO",
-      "2024-12-18T08:00:00.000Z",
-      ""
-    ],
-    [
       242606,
       "December",
       "MOL",
-      "CRUSHER-006-2",
+      "CRUSHER-006-1",
       "2024-12-18T08:00:00.000Z",
       "T4[21].DN   BYPASSED IN LADDER(SHORTED) in start ckt",
       "NA",
@@ -36518,6 +36518,20 @@
       242607,
       "December",
       "MOL",
+      "CRUSHER-006-2",
+      "2024-12-18T08:00:00.000Z",
+      "T4[21].DN   BYPASSED IN LADDER(SHORTED) in start ckt",
+      "NA",
+      "PLC LOGIC MOD",
+      "NO",
+      "NALCO",
+      "2024-12-18T08:00:00.000Z",
+      ""
+    ],
+    [
+      242608,
+      "December",
+      "MOL",
       "CONV-46",
       "2024-12-19T08:00:00.000Z",
       "DRIVE NOT STOPPED AS PER LOGIC SO TIMER T4[23] PRESET VALUE CHANGED FROM 120000 TO 0  bypass noramlised",
@@ -36529,7 +36543,7 @@
       7.5
     ],
     [
-      242608,
+      242609,
       "December",
       "MOL",
       "CONV-47",
@@ -36543,7 +36557,7 @@
       11
     ],
     [
-      242609,
+      242610,
       "December",
       "MOL",
       "CONV.-48",
@@ -36557,7 +36571,7 @@
       5.5
     ],
     [
-      242610,
+      242611,
       "December",
       "MOL",
       "BUCKET-ELEVATOR-116",
@@ -36571,7 +36585,7 @@
       ""
     ],
     [
-      242611,
+      242612,
       "December",
       "MOL",
       "CRUSHER-006-1",
@@ -36585,7 +36599,7 @@
       ""
     ],
     [
-      242612,
+      242613,
       "December",
       "MOL",
       "CRUSHER-006-2",
@@ -36599,7 +36613,7 @@
       ""
     ],
     [
-      242613,
+      242614,
       "December",
       "BOARD",
       "US-10-313",
@@ -36613,7 +36627,7 @@
       ""
     ],
     [
-      242614,
+      242615,
       "December",
       "BAT_F",
       "P-905",
@@ -36627,7 +36641,7 @@
       90
     ],
     [
-      242615,
+      242616,
       "December",
       "BAT_F",
       "P-905",
@@ -36641,7 +36655,7 @@
       90
     ],
     [
-      242616,
+      242617,
       "December",
       "BOARD",
       "US-15-PMCC-325",
@@ -36655,7 +36669,7 @@
       ""
     ],
     [
-      242617,
+      242618,
       "December",
       "Breaker",
       "US-10-3160-PMCC-D",
@@ -36669,7 +36683,7 @@
       ""
     ],
     [
-      242618,
+      242619,
       "December",
       "Breaker",
       "US-10-BC1-PMCC-D",
@@ -36683,7 +36697,7 @@
       ""
     ],
     [
-      242619,
+      242620,
       "December",
       "Breaker",
       "US-10-BC2-PMCC-D",
@@ -36697,7 +36711,7 @@
       ""
     ],
     [
-      242620,
+      242621,
       "December",
       "CT_1",
       "P-310",
@@ -36711,7 +36725,7 @@
       275
     ],
     [
-      242621,
+      242622,
       "December",
       "TANKAGE",
       "P-201",
@@ -36725,7 +36739,7 @@
       250
     ],
     [
-      242622,
+      242623,
       "December",
       "CT_1",
       "P-841",
@@ -36739,7 +36753,7 @@
       290
     ],
     [
-      242623,
+      242624,
       "December",
       "WWT",
       "P-HT001",
@@ -36753,7 +36767,7 @@
       375
     ],
     [
-      242624,
+      242625,
       "December",
       "WWT",
       "P-HT002",
@@ -36767,7 +36781,7 @@
       375
     ],
     [
-      242625,
+      242626,
       "December",
       "BAT_E",
       "P-901",
@@ -36781,7 +36795,7 @@
       75
     ],
     [
-      242626,
+      242627,
       "December",
       "COMMON",
       "COMMON",
@@ -36795,7 +36809,7 @@
       ""
     ],
     [
-      242627,
+      242628,
       "December",
       "COMMON",
       "SHIFTING",
@@ -36809,7 +36823,7 @@
       ""
     ],
     [
-      242628,
+      242629,
       "December",
       "Breaker",
       "US-10-BC1-PMCC?D",
@@ -36823,7 +36837,7 @@
       ""
     ],
     [
-      242629,
+      242630,
       "December",
       "BOARD",
       "US-15-PMCC-325",
@@ -36837,7 +36851,7 @@
       ""
     ],
     [
-      242630,
+      242631,
       "December",
       "Breaker",
       "US-10-3158-PMCC-C",
@@ -36851,7 +36865,7 @@
       ""
     ],
     [
-      242631,
+      242632,
       "December",
       "Transformer",
       3158,
@@ -36865,7 +36879,7 @@
       ""
     ],
     [
-      242632,
+      242633,
       "December",
       "BAT_G",
       "COMMON",
@@ -36879,7 +36893,7 @@
       ""
     ],
     [
-      242633,
+      242634,
       "December",
       "BAT_I",
       "COMMON",
@@ -36893,7 +36907,7 @@
       ""
     ],
     [
-      242634,
+      242635,
       "December",
       "Breaker",
       "US-10-3158-PMCC-C",
@@ -36907,7 +36921,7 @@
       ""
     ],
     [
-      242635,
+      242636,
       "December",
       "Breaker",
       "US-10-3158-PMCC-C",
@@ -36921,7 +36935,7 @@
       ""
     ],
     [
-      242636,
+      242637,
       "December",
       "BAT_C",
       "P-222B",
@@ -36935,7 +36949,7 @@
       45
     ],
     [
-      242637,
+      242638,
       "December",
       "BAT_F",
       "P-916A",
@@ -36949,7 +36963,7 @@
       220
     ],
     [
-      242638,
+      242639,
       "December",
       "LAB",
       "LAB",
@@ -36963,7 +36977,7 @@
       ""
     ],
     [
-      242639,
+      242640,
       "December",
       "TANKAGE",
       "P-198",
@@ -36977,7 +36991,7 @@
       180
     ],
     [
-      242640,
+      242641,
       "December",
       "TANKAGE",
       "P-199",
@@ -36991,7 +37005,7 @@
       180
     ],
     [
-      242641,
+      242642,
       "December",
       "TANKAGE",
       "P-200",
@@ -37005,7 +37019,7 @@
       180
     ],
     [
-      242642,
+      242643,
       "December",
       "BOARD",
       "US-15-PMCC-325",
@@ -37019,7 +37033,7 @@
       ""
     ],
     [
-      242643,
+      242644,
       "December",
       "BAT_A",
       "P-224B",
@@ -37033,7 +37047,7 @@
       45
     ],
     [
-      242644,
+      242645,
       "December",
       "BAT_F",
       "P-916A",
@@ -37047,7 +37061,7 @@
       220
     ],
     [
-      242645,
+      242646,
       "December",
       "TANKAGE",
       "P-785B",
@@ -37061,7 +37075,7 @@
       90
     ],
     [
-      242646,
+      242647,
       "December",
       "BOARD",
       "US-15-PMCC-325",
@@ -37075,7 +37089,7 @@
       ""
     ],
     [
-      242647,
+      242648,
       "December",
       "Transformer",
       3294,
@@ -37089,7 +37103,7 @@
       ""
     ],
     [
-      242648,
+      242649,
       "December",
       "Transformer",
       3329,
@@ -37103,7 +37117,7 @@
       ""
     ],
     [
-      242649,
+      242650,
       "December",
       "Transformer",
       3246,
@@ -37117,7 +37131,7 @@
       ""
     ],
     [
-      242650,
+      242651,
       "December",
       "Transformer",
       3245,
@@ -37131,7 +37145,7 @@
       ""
     ],
     [
-      242651,
+      242652,
       "December",
       "Transformer",
       3154,
@@ -37145,7 +37159,7 @@
       ""
     ],
     [
-      242652,
+      242653,
       "December",
       "Transformer",
       2144,
@@ -37159,7 +37173,7 @@
       ""
     ],
     [
-      242653,
+      242654,
       "December",
       "BAT_I",
       "P-909B",
@@ -37173,7 +37187,7 @@
       22
     ],
     [
-      242654,
+      242655,
       "December",
       "BAT_H",
       "COMMON",
@@ -37187,7 +37201,7 @@
       ""
     ],
     [
-      242655,
+      242656,
       "December",
       "COMMON",
       "ERS",
@@ -37201,7 +37215,7 @@
       ""
     ],
     [
-      242656,
+      242657,
       "December",
       "BAT_B",
       "P-214",
@@ -37215,7 +37229,7 @@
       110
     ],
     [
-      242657,
+      242658,
       "December",
       "BAT_B",
       "P-215",
@@ -37229,7 +37243,7 @@
       75
     ],
     [
-      242658,
+      242659,
       "December",
       "BAT_B",
       "P-222A",
@@ -37243,7 +37257,7 @@
       45
     ],
     [
-      242659,
+      242660,
       "December",
       "BAT_B",
       "P-222B",
@@ -37257,7 +37271,7 @@
       45
     ],
     [
-      242660,
+      242661,
       "December",
       "BAT_B",
       "P-223",
@@ -37271,7 +37285,7 @@
       110
     ],
     [
-      242661,
+      242662,
       "December",
       "BAT_B",
       "P-224A",
@@ -37285,7 +37299,7 @@
       45
     ],
     [
-      242662,
+      242663,
       "December",
       "BOARD",
       "US-13-PMCC-322",
@@ -37299,7 +37313,7 @@
       ""
     ],
     [
-      242663,
+      242664,
       "December",
       "CT_1",
       "F002",
@@ -37313,7 +37327,7 @@
       132
     ],
     [
-      242664,
+      242665,
       "December",
       "CSFO",
       "P-851",
@@ -37327,7 +37341,7 @@
       30
     ],
     [
-      242665,
+      242666,
       "December",
       "CSFO",
       "P-851",
@@ -37341,7 +37355,7 @@
       30
     ],
     [
-      242666,
+      242667,
       "December",
       "BOARD",
       "US-15-PMCC-325",
@@ -37355,7 +37369,7 @@
       ""
     ],
     [
-      242667,
+      242668,
       "December",
       "Transformer",
       3145,
@@ -37369,7 +37383,7 @@
       ""
     ],
     [
-      242668,
+      242669,
       "December",
       "Transformer",
       3147,
@@ -37383,7 +37397,7 @@
       ""
     ],
     [
-      242669,
+      242670,
       "December",
       "Transformer",
       3151,
@@ -37397,7 +37411,7 @@
       ""
     ],
     [
-      242670,
+      242671,
       "December",
       "Transformer",
       3152,
@@ -37411,7 +37425,7 @@
       ""
     ],
     [
-      242671,
+      242672,
       "December",
       "Transformer",
       3153,
@@ -37425,7 +37439,7 @@
       ""
     ],
     [
-      242672,
+      242673,
       "December",
       "Transformer",
       3158,
@@ -37439,7 +37453,7 @@
       ""
     ],
     [
-      242673,
+      242674,
       "December",
       "Transformer",
       3159,
@@ -37453,7 +37467,7 @@
       ""
     ],
     [
-      242674,
+      242675,
       "December",
       "Transformer",
       3160,
@@ -37467,7 +37481,7 @@
       ""
     ],
     [
-      242675,
+      242676,
       "December",
       "Transformer",
       3178,
@@ -37481,7 +37495,7 @@
       ""
     ],
     [
-      242676,
+      242677,
       "December",
       "MOL",
       "CONV-46",
@@ -37495,7 +37509,7 @@
       7.5
     ],
     [
-      242677,
+      242678,
       "December",
       "BOARD",
       "US-15-PMCC-325",
@@ -37509,7 +37523,7 @@
       ""
     ],
     [
-      242678,
+      242679,
       "December",
       "CT_2",
       "P-369",
@@ -37521,25 +37535,25 @@
       "ANIL_AREA",
       "2024-12-27T08:00:00.000Z",
       82.5
-    ],
-    [
-      242679,
-      "December",
-      "CT_2",
-      "P-1161B",
-      "2024-12-27T08:00:00.000Z",
-      "MOTOR PM DONE",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "ANIL_AREA",
-      "2024-12-27T08:00:00.000Z",
-      90
     ],
     [
       242680,
       "December",
       "CT_2",
+      "P-1161B",
+      "2024-12-27T08:00:00.000Z",
+      "MOTOR PM DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2024-12-27T08:00:00.000Z",
+      90
+    ],
+    [
+      242681,
+      "December",
+      "CT_2",
       "P-1160B",
       "2024-12-27T08:00:00.000Z",
       "MOTOR PM DONE",
@@ -37551,7 +37565,7 @@
       180
     ],
     [
-      242681,
+      242682,
       "December",
       "CT_2",
       "P-369",
@@ -37565,7 +37579,7 @@
       82.5
     ],
     [
-      242682,
+      242683,
       "December",
       "CT_2",
       "P-1161B",
@@ -37579,7 +37593,7 @@
       90
     ],
     [
-      242683,
+      242684,
       "December",
       "CT_2",
       "P-1160B",
@@ -37593,7 +37607,7 @@
       180
     ],
     [
-      242684,
+      242685,
       "December",
       "COMMON",
       "SHIFTING",
@@ -37607,7 +37621,7 @@
       ""
     ],
     [
-      242685,
+      242686,
       "December",
       "SUBSTATION",
       "US-20",
@@ -37621,7 +37635,7 @@
       ""
     ],
     [
-      242686,
+      242687,
       "December",
       "CT_2",
       "P-369",
@@ -37635,7 +37649,7 @@
       82.5
     ],
     [
-      242687,
+      242688,
       "December",
       "MOL",
       "RERVERSIBLE-CONV.-63",
@@ -37649,7 +37663,7 @@
       ""
     ],
     [
-      242688,
+      242689,
       "December",
       "CT_1",
       "F002",
@@ -37663,7 +37677,7 @@
       132
     ],
     [
-      242689,
+      242690,
       "December",
       "SUBSTATION",
       "OXALATE",
@@ -37677,7 +37691,7 @@
       ""
     ],
     [
-      242690,
+      242691,
       "December",
       "BOARD",
       "US-20-PMCC-327",
@@ -37691,7 +37705,7 @@
       ""
     ],
     [
-      242691,
+      242692,
       "December",
       "MOL",
       "CONV.-48",
@@ -37705,7 +37719,7 @@
       5.5
     ],
     [
-      242692,
+      242693,
       "December",
       "CT_1",
       "F002",
@@ -37719,7 +37733,7 @@
       132
     ],
     [
-      242693,
+      242694,
       "December",
       "SUBSTATION",
       "US-08E-STORE",
@@ -37733,7 +37747,7 @@
       ""
     ],
     [
-      242694,
+      242695,
       "December",
       "SUBSTATION",
       "US-10-STORE",
@@ -37747,7 +37761,7 @@
       ""
     ],
     [
-      242695,
+      242696,
       "December",
       "BAT_B",
       "P-221A",
@@ -37761,7 +37775,7 @@
       ""
     ],
     [
-      242696,
+      242697,
       "December",
       "BOARD",
       "US-08E-ALSTOM-388",
@@ -37775,7 +37789,7 @@
       ""
     ],
     [
-      242697,
+      242698,
       "December",
       "Transformer",
       2308,
@@ -37789,7 +37803,7 @@
       ""
     ],
     [
-      242698,
+      242699,
       "December",
       "SUBSTATION",
       "US-08E",
@@ -37803,7 +37817,7 @@
       ""
     ],
     [
-      242699,
+      242700,
       "December",
       "COMMON",
       "CSTORE",
@@ -37817,7 +37831,7 @@
       ""
     ],
     [
-      242700,
+      242701,
       "December",
       "WWT",
       "COMMON",
@@ -37829,20 +37843,6 @@
       "NALCO",
       "2024-12-31T08:00:00.000Z",
       ""
-    ],
-    [
-      242701,
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!"
     ],
     [
       242702,
@@ -39820,6 +39820,20 @@
     ],
     [
       242843,
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "#REF!"
+    ],
+    [
+      242844,
       "",
       "",
       "",
