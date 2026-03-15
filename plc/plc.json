@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T15:04:52.118Z",
+  "updated": "2026-03-15T18:51:22.856Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -13612,6 +13612,16 @@
           "tb": "19T4-49/52",
           "rl": "9",
           "board": ""
+        },
+        {
+          "signal": "SPARE",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
         }
       ]
     },
@@ -13658,6 +13668,16 @@
           "tb": "19T4-55/58",
           "rl": "10",
           "board": ""
+        },
+        {
+          "signal": "SPARE",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
         }
       ]
     },
@@ -13703,6 +13723,16 @@
           "panel": "766",
           "tb": "19T4-61/64",
           "rl": "11",
+          "board": ""
+        },
+        {
+          "signal": "SPARE",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
           "board": ""
         }
       ]
@@ -14039,6 +14069,230 @@
           "panel": "761",
           "tb": "16T4-19/22",
           "rl": "6",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-AGITATOR-765A": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "08TM00765A_HTY",
+          "address": "I:254.04",
+          "description": "SPT LIQ AGIT TK 765A HEALTHY",
+          "panel": "763",
+          "tb": "18T1-142/143",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "Local Start",
+          "tag": "08TM00765A_LS",
+          "address": "I:254.05",
+          "description": "SPT LIQ AGIT TK 765A LOC START",
+          "panel": "763",
+          "tb": "18T1-144/145",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08TM00765A_RUN",
+          "address": "I:254.06",
+          "description": "SPT LIQ AGIT TK 765A RUN ",
+          "panel": "763",
+          "tb": "18T1-146/147",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08TM00765A_TRIP",
+          "address": "I:254.07",
+          "description": "SPT LIQ AGIT TK 765A AUT TRP ",
+          "panel": "763",
+          "tb": "18T1-148/149",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08TM00765A_STR",
+          "address": "O:254.05",
+          "description": "SPT LIQ AGIT TK 765A  START",
+          "panel": "763",
+          "tb": "18T5-7/10",
+          "rl": "22",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-AGITATOR-765B": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "08TM00765B_HTY",
+          "address": "I:254.10",
+          "description": "SPT LIQ AGIT TK 765B HEALTHY",
+          "panel": "763",
+          "tb": "18T1-150/151",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "Local Start",
+          "tag": "08TM00765B_LS",
+          "address": "I:254.11",
+          "description": "SPT LIQ AGIT TK 765B LOC START",
+          "panel": "763",
+          "tb": "18T1-152/153",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "08TM00765B_RUN",
+          "address": "I:254.12",
+          "description": "SPT LIQ AGIT TK 765B RUN ",
+          "panel": "763",
+          "tb": "18T1-154/155",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "08TM00765B_TRIP",
+          "address": "I:254.13",
+          "description": "SPT LIQ AGIT TK 765B AUT TRP ",
+          "panel": "763",
+          "tb": "18T1-156/157",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08TM00765B_STR",
+          "address": "O:254.06",
+          "description": "SPT LIQ AGIT TK 765B  START",
+          "panel": "763",
+          "tb": "18T5-13/16",
+          "rl": "23",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1070A": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1070A_TRP",
+          "address": "",
+          "description": "08PU1070A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 33 / 34",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1070A_RUN",
+          "address": "",
+          "description": "08PU1070A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 35 / 36",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1070A_RDY",
+          "address": "",
+          "description": "08PU1070A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 37 / 38",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1070A_STR",
+          "address": "",
+          "description": "08PU1070A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 1 / 2",
+          "rl": "3R01",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1070A_LOC",
+          "address": "",
+          "description": "08PU1070A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 3 / 4",
+          "rl": "3R02",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1070B": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1070B_TRP",
+          "address": "",
+          "description": "08PU107B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 39 / 40",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1070B_RUN",
+          "address": "",
+          "description": "08PU107B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 41 / 42",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1070B_RDY",
+          "address": "",
+          "description": "08PU107B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 43 / 44",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1070B_STR",
+          "address": "",
+          "description": "08PU107B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 5 / 6",
+          "rl": "3R03",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1070B_LOC",
+          "address": "",
+          "description": "08PU107B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 7 / 8",
+          "rl": "3R04",
           "board": ""
         }
       ]
