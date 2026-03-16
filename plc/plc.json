@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-15T23:05:20.124Z",
+  "updated": "2026-03-16T02:52:16.803Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -14293,6 +14293,846 @@
           "panel": "PLC-MC-CS07-01(F)",
           "tb": "1T - 7 / 8",
           "rl": "3R04",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1138A": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1138A_TRP",
+          "address": "",
+          "description": "08PU1138A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 45 / 46",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1138A_RUN",
+          "address": "",
+          "description": "08PU1138A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 47 / 48",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1138A_RDY",
+          "address": "",
+          "description": "08PU1138A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 49 / 50",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1138A_STR",
+          "address": "",
+          "description": "08PU1138A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 9 / 10",
+          "rl": "3R05",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1138A_LOC",
+          "address": "",
+          "description": "08PU1138A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 11 / 12",
+          "rl": "3R06",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1138B": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1138B_TRP",
+          "address": "",
+          "description": "08PU1138B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 51 / 52",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1138B_RUN",
+          "address": "",
+          "description": "08PU1138B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 53 / 54",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1138B_RDY",
+          "address": "",
+          "description": "08PU1138B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 55 / 56",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1138B_STR",
+          "address": "",
+          "description": "08PU1138B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 13 / 14",
+          "rl": "3R07",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1138B_LOC",
+          "address": "",
+          "description": "08PU1138B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 15 / 16",
+          "rl": "3R08",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1138C": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1138C_TRP",
+          "address": "",
+          "description": "08PU1138C TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 65 / 66",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1138C_RUN",
+          "address": "",
+          "description": "08PU1138C RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 67 / 68",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1138C_RDY",
+          "address": "",
+          "description": "08PU1138C READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 69 / 70",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1138C_STR",
+          "address": "",
+          "description": "08PU1138C START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 17 / 18",
+          "rl": "3R09",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1138C_LOC",
+          "address": "",
+          "description": "08PU1138C LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 19 / 20",
+          "rl": "3R10",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1139": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1139_TRP",
+          "address": "",
+          "description": "08PU1139 TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 71 / 72",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1139_RUN",
+          "address": "",
+          "description": "08PU1139 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 73 / 74",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1139_RDY",
+          "address": "",
+          "description": "08PU1139 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 75 / 76",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1139_STR",
+          "address": "",
+          "description": "08PU1139 START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 21 / 22",
+          "rl": "3R11",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1139_LOC",
+          "address": "",
+          "description": "08PU1139 LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 23 / 24",
+          "rl": "3R12",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1140A": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1140A_TRP",
+          "address": "",
+          "description": "08PU1140A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 77 / 78",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1140A_RUN",
+          "address": "",
+          "description": "08PU1140A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 79 / 80",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1140A_RDY",
+          "address": "",
+          "description": "08PU1140A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 81 / 82",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1140A_STR",
+          "address": "",
+          "description": "08PU1140A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 25 / 26",
+          "rl": "3R13",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1140A_LOC",
+          "address": "",
+          "description": "08PU1140A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 27 / 28",
+          "rl": "3R14",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1140B": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1140B_TRP",
+          "address": "",
+          "description": "08PU1140B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 83 / 84",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1140B_RUN",
+          "address": "",
+          "description": "08PU1140B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 85 / 86",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1140B_RDY",
+          "address": "",
+          "description": "08PU1140B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 87 / 88",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1140B_STR",
+          "address": "",
+          "description": "08PU1140B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 33 / 34",
+          "rl": "3R17",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1140B_LOC",
+          "address": "",
+          "description": "08PU1140B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 35 / 36",
+          "rl": "3R18",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1141A": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1141A_TRP",
+          "address": "",
+          "description": "08PU1141 TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 97 / 98",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1141A_RUN",
+          "address": "",
+          "description": "08PU1141 RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 99 / 100",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1141A_RDY",
+          "address": "",
+          "description": "08PU1141 READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 101 / 102",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1141A_STR",
+          "address": "",
+          "description": "08PU1141 START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 37 / 38",
+          "rl": "3R19",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1141A_LOC",
+          "address": "",
+          "description": "08PU1141 LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 39 / 40",
+          "rl": "3R20",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1141B": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1141B_TRP",
+          "address": "",
+          "description": "08PU1141B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 103 / 104",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1141B_RUN",
+          "address": "",
+          "description": "08PU1141B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 105 / 106",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1141B_RDY",
+          "address": "",
+          "description": "08PU1141B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 107 / 108",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1141B_STR",
+          "address": "",
+          "description": "08PU1141B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 41 / 42",
+          "rl": "3R21",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1141B_LOC",
+          "address": "",
+          "description": "08PU1141B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 43 / 44",
+          "rl": "3R22",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1142A": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1142A_TRP",
+          "address": "",
+          "description": "08PU1142A TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 109 / 110",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1142A_RUN",
+          "address": "",
+          "description": "08PU1142A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 111 / 112",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1142A_RDY",
+          "address": "",
+          "description": "08PU1142A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 113 / 114",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1142A_STR",
+          "address": "",
+          "description": "08PU1142A START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 45 / 46",
+          "rl": "3R23",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1142A_LOC",
+          "address": "",
+          "description": "08PU1142A LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 47 / 48",
+          "rl": "3R24",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1142B": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1142B_TRP",
+          "address": "",
+          "description": "08PU1142B TRIP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 115 / 116",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1142B_RUN",
+          "address": "",
+          "description": "08PU1142B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 117 / 118",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1142B_RDY",
+          "address": "",
+          "description": "08PU1142B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "3T - 119 / 120",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1142B_STR",
+          "address": "",
+          "description": "08PU1142B START/STOP PB",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 49 / 50",
+          "rl": "3R25",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1142B_LOC",
+          "address": "",
+          "description": "08PU1142B LOCAL/REMOTE SELECTOR SWITCH",
+          "panel": "PLC-MC-CS07-01(F)",
+          "tb": "1T - 51 / 52",
+          "rl": "3R26",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1143A": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1143A_TRP",
+          "address": "",
+          "description": "08PU1143A TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 277 / 278",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1143A_RUN",
+          "address": "",
+          "description": "08PU1143A RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 279 / 280",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1143A_RDY",
+          "address": "",
+          "description": "08PU1143A READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 281 / 282",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1143A_STR",
+          "address": "",
+          "description": "08PU1143A START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 9 / 10",
+          "rl": "4R05",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1143A_LOC",
+          "address": "",
+          "description": "08PU1143A LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 11 / 12",
+          "rl": "4R06",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-1143B": {
+      "inputs": [
+        {
+          "signal": "TRIP",
+          "tag": "08PU1143B_TRP",
+          "address": "",
+          "description": "08PU1143B TRP FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 19 / 20",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "08PU1143B_RUN",
+          "address": "",
+          "description": "08PU1143B RUN FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 21 / 22",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "READY",
+          "tag": "08PU1143B_RDY",
+          "address": "",
+          "description": "08PU1143B READY TO START FEEDBACK",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "4T - 23 / 24",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START",
+          "tag": "08PU1143B_STR",
+          "address": "",
+          "description": "08PU1143B START/STOP COMMAND",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 13 / 14",
+          "rl": "4R07",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "08PU1143B_LOC",
+          "address": "",
+          "description": "08PU1143B LOCAL SELECTED",
+          "panel": "PLC-MC-CS07-01(R)",
+          "tb": "2T - 15 / 16",
+          "rl": "4R08",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-143": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "4108143_READY",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4108143_LS",
+          "address": "I:217.05",
+          "description": "MUD W.WATER P143 TO RED MUD W. WATER  LOC START",
+          "panel": "761",
+          "tb": "16T2-48/49",
+          "rl": "N-1/2",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4108143_RUN",
+          "address": "I:217.06",
+          "description": "MUD W.WATER P143 TO RED MUD W. WATER  RUN",
+          "panel": "761",
+          "tb": "16T2-50/51",
+          "rl": "M16A-11/12",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4108143_TRIP",
+          "address": "I:217.07",
+          "description": "MUD W.WATER P143 TO RED MUD W. WATER  AUT TRP",
+          "panel": "761",
+          "tb": "16T2-52/53",
+          "rl": "M16A-15/16",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4108143_STR",
+          "address": "O:221.13",
+          "description": "MUD W.WATER P143 TO RED MUD W. WATER  START",
+          "panel": "761",
+          "tb": "16T5-25/28",
+          "rl": "28",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-172": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "4108172_READY",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4108172_LS",
+          "address": "I:215.11",
+          "description": "FRESH SODA SUP P172 TO CAUSTIC SODA LOC START",
+          "panel": "761",
+          "tb": "16T1-152/153",
+          "rl": "N-1/2",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4108172_RUN",
+          "address": "I:215.12",
+          "description": "FRESH SODA SUP P172 TO CAUSTIC SODA RUN",
+          "panel": "761",
+          "tb": "16T1-154/155",
+          "rl": "M357-3B-11/12",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4108172_TRIP",
+          "address": "I:215.13",
+          "description": "FRESH SODA SUP P172 TO CAUSTIC SODA  AUT TRP",
+          "panel": "761",
+          "tb": "16T1-156/157",
+          "rl": "M357-3B-15/16",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4108172_STR",
+          "address": "O:221.02",
+          "description": "FRESH SODA SUP P172 TO CAUSTIC SODA START",
+          "panel": "761",
+          "tb": "16T4-97/100",
+          "rl": "19",
+          "board": ""
+        }
+      ]
+    },
+    "TANKAGE-P-194": {
+      "inputs": [
+        {
+          "signal": "READY",
+          "tag": "4108194_READY",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "4108194_LS",
+          "address": "I:211.11",
+          "description": "SPT LIQ P194 TO SPT LIQ OF EVAP  BAT A LOC START",
+          "panel": "761",
+          "tb": "16T1-56/57",
+          "rl": "N-1/2",
+          "board": ""
+        },
+        {
+          "signal": "RUNNING",
+          "tag": "4108194_RUN",
+          "address": "I:211.12",
+          "description": "SPT LIQ P194 TO SPT LIQ OF EVAP  BAT A RUN",
+          "panel": "761",
+          "tb": "16T1-58/59",
+          "rl": "M1B-11/12",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4108194_TRIP",
+          "address": "I:211.13",
+          "description": "SPT LIQ P194 TO SPT LIQ OF EVAP  BAT A AT TRP",
+          "panel": "761",
+          "tb": "16T1-60/61",
+          "rl": "M1B-15/16",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4108194_STR",
+          "address": "O:214.10",
+          "description": "SPT LIQ P194 TO SPT LIQ OF EVAP BAT A START",
+          "panel": "761",
+          "tb": "16T4-37/40",
+          "rl": "9",
           "board": ""
         }
       ]
