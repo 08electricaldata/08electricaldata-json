@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T15:06:29.769Z",
+  "updated": "2026-03-17T18:51:56.588Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -17849,58 +17849,226 @@
         }
       ]
     },
-    "MOL-CONV-46": {
+    "MOL-CLASSIFIER-66": {
       "inputs": [
         {
-          "signal": "",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "signal": "LOCAL START",
+          "tag": "2556066_LS",
+          "address": "I:060.01",
+          "description": "DORR RAKE CLASSIFIER DSF LOCAL START ",
+          "panel": "954",
+          "tb": "4T1-8/9",
           "rl": "",
           "board": ""
         },
         {
-          "signal": "",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "signal": "RUN",
+          "tag": "2556066_RUN",
+          "address": "I:060.02",
+          "description": "DORR RAKE CLASSIFIER DSF RUNNING ",
+          "panel": "954",
+          "tb": "4T1-10/11",
           "rl": "",
           "board": ""
         },
         {
-          "signal": "",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "signal": "TRIP",
+          "tag": "2556066_TRIP",
+          "address": "I:060.03",
+          "description": "DORR RAKE CLASSIFIER DSF TRIP ",
+          "panel": "954",
+          "tb": "4T1-12/13",
           "rl": "",
           "board": ""
         }
       ],
       "outputs": [
         {
-          "signal": "",
-          "tag": "3456116_STR",
-          "address": "O:070.12",
-          "description": "BUCKET ELEVATOR START CMD   ",
+          "signal": "START WITH LOCAL STOP",
+          "tag": "2556066_STR",
+          "address": "O:070.00",
+          "description": "DORR RAKE CLASSIFIER DSF START CMD ",
           "panel": "954",
-          "tb": "4T3-45/48",
-          "rl": "11",
+          "tb": "4T3-1/4",
+          "rl": "1",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-CLASSIFIER-67": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "2556067_LS",
+          "address": "I:010.01",
+          "description": "DORR RAKE CLASSIFIER DSF LOCAL START",
+          "panel": "951",
+          "tb": "1T1-8/9",
+          "rl": "",
           "board": ""
         },
         {
-          "signal": "",
-          "tag": "",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
+          "signal": "RUN",
+          "tag": "2556067_RUN",
+          "address": "I:010.02",
+          "description": "DORR RAKE CLASSIFIER DSF RUNNING",
+          "panel": "951",
+          "tb": "1T1-10/11",
           "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "2556067_TRIP",
+          "address": "I:010.03",
+          "description": "DORR RAKE CLASSIFIER DSF TRIP",
+          "panel": "951",
+          "tb": "1T1-12/13",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "2556067_STR",
+          "address": "O:016.00",
+          "description": "DORR RAKE CLASSIFIER DSF START CMD ",
+          "panel": "951",
+          "tb": "1T3-1/4",
+          "rl": "1",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-CONV-46": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4756046_LS",
+          "address": "I:067.00",
+          "description": "BELT CONVEYOR LOCAL START PB  ",
+          "panel": "954",
+          "tb": "4T2-70/71",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4756046_RUN",
+          "address": "I:067.01",
+          "description": "BELT CONVEYOR RUNNING  ",
+          "panel": "954",
+          "tb": "4T2-72/73",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4756046_TRIP",
+          "address": "I:067.02",
+          "description": "BELT CONVEYOR TRIP  ",
+          "panel": "954",
+          "tb": "4T2-74/75",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "PCS",
+          "tag": "4756046_BSS_PCS",
+          "address": "I:067.03",
+          "description": "BELT CONVEYOR BELT SWAY SW & PCS HEALTHY ",
+          "panel": "954",
+          "tb": "4T2-76/77",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "ZSS",
+          "tag": "4756046_ZSS",
+          "address": "I:067.05",
+          "description": "BELT CONVEYOR ZERO SPPED SW  ",
+          "panel": "954",
+          "tb": "4T2-80/81",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4756046_STR",
+          "address": "O:070.13",
+          "description": "BELT CONVEYOR  START CMD   ",
+          "panel": "954",
+          "tb": "4T3-51/54",
+          "rl": "12",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-CONV-47": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4756047_LS",
+          "address": "I:011.14",
+          "description": "BELT CONVEYOR  LOCAL START PB ",
+          "panel": "951",
+          "tb": "1T1-62/63",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4756047_RUN",
+          "address": "I:011.15",
+          "description": "BELT CONVEYOR  RUNNING ",
+          "panel": "951",
+          "tb": "1T1-64/65",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4756047_TRIP",
+          "address": "I:011.16",
+          "description": "BELT CONVEYOR TRIP ",
+          "panel": "951",
+          "tb": "1T1-66/67",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "PCS",
+          "tag": "4756047_PCS_BSS",
+          "address": "I:012.00",
+          "description": "BELT CONVEYOR PULL CHORD SW & BSS HEALTHY",
+          "panel": "951",
+          "tb": "1T1-70/71",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "ZSS",
+          "tag": "4756047_ZSS",
+          "address": "I:012.02",
+          "description": "BELT CONVEYOR  ZERO SPPED SW ",
+          "panel": "951",
+          "tb": "1T1-74/75",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4756047_STR",
+          "address": "O:016.07",
+          "description": "BELT CONVEYOR  START CMD   ",
+          "panel": "951",
+          "tb": "1T3-29/32",
+          "rl": "8",
           "board": ""
         }
       ]
@@ -18059,6 +18227,362 @@
           "panel": "951",
           "tb": "1T3-25/28",
           "rl": "7",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-DRUM-SLAKER-003": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4356003_LS",
+          "address": "I:060.04",
+          "description": "DORR DRUM  SLAKER LOCAL START PB ",
+          "panel": "954",
+          "tb": "4T1-14/15",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4356003_RUN",
+          "address": "I:060.05",
+          "description": "DORR DRUM  SLAKER RUNNING ",
+          "panel": "954",
+          "tb": "4T1-16/17",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4356003_TRIP",
+          "address": "I:060.06",
+          "description": "DORR DRUM  SLAKER TRIP ",
+          "panel": "954",
+          "tb": "4T1-18/19",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4356003_STR",
+          "address": "O:070.01",
+          "description": "DORR DRUM  SLAKER START CMD ",
+          "panel": "954",
+          "tb": "4T3-5/8",
+          "rl": "2",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-DRUM-SLAKER-004": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4356004_LS",
+          "address": "I:010.04",
+          "description": "DORR DRUM  SLAKER(WEST) LOCAL START PB",
+          "panel": "951",
+          "tb": "1T1-14/15",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4356004_RUN",
+          "address": "I:010.05",
+          "description": "DORR DRUM  SLAKER(WEST) RUNNING",
+          "panel": "951",
+          "tb": "1T1-16/17",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4356004_TRIP",
+          "address": "I:010.06",
+          "description": "DORR DRUM  SLAKER(WEST) TRIP",
+          "panel": "951",
+          "tb": "1T1-18/19",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4356004_STR",
+          "address": "O:016.01",
+          "description": "DORR DRUM  SLAKER(WEST) START CMD ",
+          "panel": "951",
+          "tb": "1T3-5/8",
+          "rl": "2",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-TABLE-FEEDER-24": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "3356024_HTY",
+          "address": "I:060.15",
+          "description": "DORR TABLE FEEDER CKT HEALTHY  ",
+          "panel": "954",
+          "tb": "4T1-32/33",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "3356024_LS",
+          "address": "I:061.00",
+          "description": "DORR TABLE FEEDER LOCAL START CMD  ",
+          "panel": "954",
+          "tb": "4T1-38/39",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "3356024_RUN",
+          "address": "I:061.01",
+          "description": "DORR TABLE FEEDER RUNNING  ",
+          "panel": "954",
+          "tb": "4T1-40/41",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "3356024_TRIP",
+          "address": "I:061.02",
+          "description": "DORR TABLE FEEDER TRIP  ",
+          "panel": "954",
+          "tb": "4T1-42/43",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "3356024_STR",
+          "address": "O:070.03",
+          "description": "TABLE FEEDER START CMD  ",
+          "panel": "954",
+          "tb": "4T3-15/18",
+          "rl": "4",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "3356024_LOC",
+          "address": "O:070.16",
+          "description": "TABLE FDR 3356024 LOCAL SELECTED ",
+          "panel": "954",
+          "tb": "4T3-63/64",
+          "rl": "15",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-TABLE-FEEDER-25": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "3356025_HTY",
+          "address": "I:011.04",
+          "description": "DORR TABLE FEEDER CKT HEALTHY ",
+          "panel": "951",
+          "tb": "1T1-46/47",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "3356025_LS",
+          "address": "I:011.05",
+          "description": "DORR TABLE FEEDER LOCAL START PB ",
+          "panel": "951",
+          "tb": "1T1-48/49",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "3356025_RUN",
+          "address": "I:011.06",
+          "description": "DORR TABLE FEEDER RUNNING ",
+          "panel": "951",
+          "tb": "1T1-50/51",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "3356025_TRIP",
+          "address": "I:011.07",
+          "description": "DORR TABLE FEEDER TRIP ",
+          "panel": "951",
+          "tb": "1T1-52/53",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "3356025_STR",
+          "address": "O:016.03",
+          "description": "TABLE FEEDER START CMD  ",
+          "panel": "951",
+          "tb": "1T3-13/16",
+          "rl": "4",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "3356025_LOC",
+          "address": "O:020.02",
+          "description": "TABLE FDR 3356025 LOCAL SELECTED ",
+          "panel": "951",
+          "tb": "1T3-65/66",
+          "rl": "35",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-WEIGH-FEEDER-67": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4756067_LS",
+          "address": "I:060.07",
+          "description": "WEIGH FEEDER LOCAL START  ",
+          "panel": "954",
+          "tb": "4T1-20/21",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4756067_RUN",
+          "address": "I:060.10",
+          "description": "WEIGH FEEDER RUN  ",
+          "panel": "954",
+          "tb": "4T1-22/23",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4756067_TRIP",
+          "address": "I:060.11",
+          "description": "WEIGH FEEDER TRIP  ",
+          "panel": "954",
+          "tb": "4T1-24/25",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "PCS_BSS",
+          "tag": "4756067_PCS_BSS",
+          "address": "I:060.12",
+          "description": "PCS/BSS SW FROM AUX CONTROL PANEL ",
+          "panel": "954",
+          "tb": "4T1-26/27",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "ZSS",
+          "tag": "4756067_PCS_BSS",
+          "address": "I:060.12",
+          "description": "PCS/BSS SW FROM AUX CONTROL PANEL ",
+          "panel": "954",
+          "tb": "4T1-26/27",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4756067_STR",
+          "address": "O:070.02",
+          "description": "WEIGH FEEDER START CMD  ",
+          "panel": "954",
+          "tb": "4T3-11/14",
+          "rl": "3",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-WEIGH-FEEDER-68": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4756068_LS",
+          "address": "I:010.07",
+          "description": "WEIGH FEEDER LOCAL START PB ",
+          "panel": "951",
+          "tb": "1T1-20/21",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4756068_RUN",
+          "address": "I:010.10",
+          "description": "WEIGH FEEDER RUNNING ",
+          "panel": "951",
+          "tb": "1T1-22/23",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4756068_TRIP",
+          "address": "I:010.11",
+          "description": "WEIGH FEEDER TRIP ",
+          "panel": "951",
+          "tb": "1T1-24/25",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "PCS_BSS",
+          "tag": "4756068_PCS_BSS",
+          "address": "I:010.12",
+          "description": "BSS/pcs SW FROM AUX CONTROL PANEL(SLACKER-003)",
+          "panel": "951",
+          "tb": "1T1-26/27",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "ZSS",
+          "tag": "4756068_ZSS",
+          "address": "I:010.14",
+          "description": "ZSS SW FROM AUX CONTROL PANEL(SLACKER-003)",
+          "panel": "951",
+          "tb": "1T1-30/31",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4756068_STR",
+          "address": "O:016.02",
+          "description": "WEIGH FEEDER START CMD  ",
+          "panel": "951",
+          "tb": "1T3-9/12",
+          "rl": "3",
           "board": ""
         }
       ]
