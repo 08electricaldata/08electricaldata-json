@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T23:05:01.825Z",
+  "updated": "2026-03-17T02:52:15.578Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -17908,7 +17908,7 @@
     "MOL-CONV.-48": {
       "inputs": [
         {
-          "signal": "",
+          "signal": "LOCAL START",
           "tag": "4756048_LS",
           "address": "I:010.15",
           "description": "INCLINED BELT CONV LOCAL START PB",
@@ -17918,7 +17918,7 @@
           "board": ""
         },
         {
-          "signal": "",
+          "signal": "RUN",
           "tag": "4756048_RUN",
           "address": "I:010.16",
           "description": "INCLINED BELT CONV RUNNING ",
@@ -17928,7 +17928,7 @@
           "board": ""
         },
         {
-          "signal": "",
+          "signal": "TRIP",
           "tag": "4756048_TRIP",
           "address": "I:011.00",
           "description": "INCLINED BELT CONV TRIP ",
@@ -17938,7 +17938,7 @@
           "board": ""
         },
         {
-          "signal": "",
+          "signal": "PULL CHORD SWITCH",
           "tag": "4756048_BSS_PCS",
           "address": "I:011.01",
           "description": "INCLINED BELT CONV BELT SWAY SW ",
@@ -17948,7 +17948,7 @@
           "board": ""
         },
         {
-          "signal": "",
+          "signal": "ZERO SPEED SWITCH",
           "tag": "4756048_ZSS",
           "address": "I:011.03",
           "description": "INCLINED BELT CONV zero speed SW ",
@@ -17960,13 +17960,105 @@
       ],
       "outputs": [
         {
-          "signal": "",
+          "signal": "START WITH LOCAL STOP",
           "tag": "4756048_STR",
           "address": "O:016.04",
           "description": "INCLINED BELT CONV  START CMD   ",
           "panel": "951",
           "tb": "1T3-17/20",
           "rl": "5",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-CRUSHER-006-1": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "3556006M1_LS",
+          "address": "I:011.10",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M1 LOCAL START",
+          "panel": "951",
+          "tb": "1T1-54/55",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "3556006_M1_RUN",
+          "address": "I:011.11",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M1 RUNNING",
+          "panel": "951",
+          "tb": "1T1-56/57",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "3556006M1_TRIP",
+          "address": "I:011.12",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M1 TRIP",
+          "panel": "951",
+          "tb": "1T1-58/59",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "3556006_M1_STR",
+          "address": "O:016.05",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M1 TO START ",
+          "panel": "951",
+          "tb": "1T3-21/24",
+          "rl": "6",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-CRUSHER-006-2": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "3556006_M2_LS",
+          "address": "I:015.02",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M2 LOCAL START",
+          "panel": "951",
+          "tb": "1T2-10/11",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "3556006_M2_RUN",
+          "address": "I:015.03",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M2 RUNNING",
+          "panel": "951",
+          "tb": "1T2-12/13",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "3556006_M2_TRIP",
+          "address": "I:015.04",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M2 TRIP",
+          "panel": "951",
+          "tb": "1T2-14/15",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "3556006_M2_STR",
+          "address": "O:016.06",
+          "description": "TOOTHED DOUBLE ROLL CRUSHER M2 TO START ",
+          "panel": "951",
+          "tb": "1T3-25/28",
+          "rl": "7",
           "board": ""
         }
       ]
