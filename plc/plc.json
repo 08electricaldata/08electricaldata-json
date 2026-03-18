@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-18T11:05:04.308Z",
+  "updated": "2026-03-18T15:06:53.877Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -17793,6 +17793,144 @@
         }
       ]
     },
+    "MOL-AGITATOR-161": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "2656161_LS",
+          "address": "I:012.04",
+          "description": "AGITATOR FOR SUMP PUMP 4156215  LOCAL START",
+          "panel": "951",
+          "tb": "1T1-78/79",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "2656161_RUN",
+          "address": "I:012.05",
+          "description": "AGITATOR FOR SUMP PUMP 4156215  RUNNING",
+          "panel": "951",
+          "tb": "1T1-80/81",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "2656161_TRIP",
+          "address": "I:012.06",
+          "description": "AGITATOR FOR SUMP PUMP 4156215  TRIP",
+          "panel": "951",
+          "tb": "1T1-82/83",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "2656161_STR",
+          "address": "O:016.10",
+          "description": "AGITATOR FOR SUMP PUMP 4156215  TO START ",
+          "panel": "951",
+          "tb": "1T3-33/36",
+          "rl": "9",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-AGITATOR-167": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "2656167_LS",
+          "address": "I:012.12",
+          "description": "AGITATOR FOR LIME SLURRY TANK236 LOCAL START",
+          "panel": "951",
+          "tb": "1T1-90/91",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "2656167_RUN",
+          "address": "I:012.13",
+          "description": "AGITATOR FOR LIME SLURRY TANK236 RUNNING",
+          "panel": "951",
+          "tb": "1T1-92/93",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "2656167_TRIP",
+          "address": "I:012.14",
+          "description": "AGITATOR FOR LIME SLURRY TANK236 TRIP",
+          "panel": "951",
+          "tb": "1T1-94/95",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "2656167_STR",
+          "address": "O:016.12",
+          "description": "AGITATOR FOR LIME SLURRY TANK236 TO START ",
+          "panel": "951",
+          "tb": "1T3-41/44",
+          "rl": "11",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-AGITATOR-168": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "2656168_LS",
+          "address": "I:012.15",
+          "description": "AGITATOR FOR LIME SLURRY TANK237 LOCAL START",
+          "panel": "951",
+          "tb": "1T1-96/97",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "2656168_RUN",
+          "address": "I:013.00",
+          "description": "AGITATOR FOR LIME SLURRY TANK237 RUNNING",
+          "panel": "951",
+          "tb": "1T1-102/103",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "2656168_TRIP",
+          "address": "I:013.01",
+          "description": "AGITATOR FOR LIME SLURRY TANK237 TRIP",
+          "panel": "951",
+          "tb": "1T1-104/105",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "2656168_STR",
+          "address": "O:016.13",
+          "description": "AGITATOR FOR LIME SLURRY TANK237 TO START ",
+          "panel": "951",
+          "tb": "1T3-45/48",
+          "rl": "12",
+          "board": ""
+        }
+      ]
+    },
     "MOL-BUCKET-ELEVATOR-116": {
       "inputs": [
         {
@@ -18319,6 +18457,72 @@
           "panel": "951",
           "tb": "1T3-5/8",
           "rl": "2",
+          "board": ""
+        }
+      ]
+    },
+    "MOL-SP-215": {
+      "inputs": [
+        {
+          "signal": "LOCAL START",
+          "tag": "4156215_LS",
+          "address": "I:014.06",
+          "description": "SUMP PUMP FOR  LIME SLURRY TANKS LOCAL START",
+          "panel": "951",
+          "tb": "1T1-146/147",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4156215_RUN",
+          "address": "I:014.07",
+          "description": "SUMP PUMP FOR  LIME SLURRY TANKS RUNNING",
+          "panel": "951",
+          "tb": "1T1-148/149",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4156215_TRIP",
+          "address": "I:014.10",
+          "description": "SUMP PUMP FOR  LIME SLURRY TANKS TRIP",
+          "panel": "951",
+          "tb": "1T1-150/151",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LEVEL SWITCH- HIGH",
+          "tag": "56LSH203",
+          "address": "I:015.00",
+          "description": "HIGH LEVEL FOR SUMP PUMP 215 ",
+          "panel": "951",
+          "tb": "1T2-6/7",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LEVEL SWITCH-LOW",
+          "tag": "56LSL203",
+          "address": "I:015.01",
+          "description": "LOW LEVEL INDICATION FOR SUMP PUMP 215 ",
+          "panel": "951",
+          "tb": "1T2-8/9",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "START WITH LOCAL STOP",
+          "tag": "4156215_STR",
+          "address": "O:017.04",
+          "description": "SUMP PUMP FOR  LIME SLURRY TANKS TO START ",
+          "panel": "951",
+          "tb": "1T4-17/20",
+          "rl": "21",
           "board": ""
         }
       ]
