@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-19T15:06:57.776Z",
+  "updated": "2026-03-19T18:51:27.102Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -17838,7 +17838,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4130118_STR",
           "address": "O:034.02",
           "description": "FUEL OIL XFER PMP 118 OUTLET TO   CALCINATION/POWER PLANT START",
@@ -17894,7 +17894,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4130119_STR",
           "address": "O:034.07",
           "description": "FUEL OIL XFER PMP 119 OUTLET TO   CALCINATION/POWER PLANT START",
@@ -17950,7 +17950,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157219_STR",
           "address": "O:042.00",
           "description": "SODA UNLOADING PMP 219 O/P TO CAUSTIC SODA TK 232/233 START",
@@ -18006,7 +18006,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157220_STR",
           "address": "O:042.06",
           "description": "SODA UNLOADING PMP 220 O/P TO CAUSTIC SODA TK 232/233 START",
@@ -18062,7 +18062,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157336_STR",
           "address": "O:042.10",
           "description": "CAUSTIC SODA TX PMP 336 O/P TO YARD  PIPING AREA START",
@@ -18118,7 +18118,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157337_STR",
           "address": "O:042.01",
           "description": "CAUSTIC SODA TX PMP 337 O/P TO HYD FILTN AND HT EXCHN/31 AREA START",
@@ -18174,7 +18174,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157338_STR",
           "address": "O:042.05",
           "description": "CAUSTIC SODA TX PMP 338 O/P TO HYD FILTN AND HT EXCHN/31 AREA START",
@@ -18230,7 +18230,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157340_STR",
           "address": "",
           "description": "",
@@ -18286,7 +18286,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4130345_STR",
           "address": "O:034.05",
           "description": "FUEL OIL UNLOADING PMP 345 O/P TO F/O STRG TK 239/787 START",
@@ -18342,7 +18342,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4130346_STR",
           "address": "O:034.06",
           "description": "FUEL OIL UNLOADING PMP 346 O/P TO F/O STRG TK 239/787 START",
@@ -18398,7 +18398,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4130347_STR",
           "address": "O:034.00",
           "description": "FUEL OIL UNLOADING PMP 347 O/P TO F/O STRG TK 238/239/787 START",
@@ -18454,7 +18454,7 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4130348_STR",
           "address": "O:034.01",
           "description": "FUEL OIL UNLOADING PMP 348 O/P TO F/O STRG TK 238/239/787 START",
@@ -18510,13 +18510,517 @@
           "board": ""
         },
         {
-          "signal": "START WITH LOCAL STOP",
+          "signal": "START",
           "tag": "4157385_STR",
           "address": "O:042.04",
           "description": "SODA UNLOADING PMP 385 O/P TO CAUSTIC SODA TK 131857232  START",
           "panel": "852",
           "tb": "1T4-55/58",
           "rl": "37",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-P-386": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "4130386_HTY",
+          "address": "I:030.15",
+          "description": "FUEL OIL SUMP PUMP 386 O/P TO OILWATER SEPERATOR TANK HEALTHY",
+          "panel": "852",
+          "tb": "1T1-32/33",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4130386_RUN",
+          "address": "I:031.00",
+          "description": "FUEL OIL SUMP PUMP 386 O/P TO OILWATER  SEPERATOR TANK RUN",
+          "panel": "852",
+          "tb": "1T1-38/39",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4130386_TRIP",
+          "address": "I:031.01",
+          "description": "FUEL OIL SUMP PUMP 386 O/P TO OILWATER  SEPERATOR TANK TRIP",
+          "panel": "852",
+          "tb": "1T1-40/41",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "4130386_LOC",
+          "address": "O:036.10",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T3-113/116",
+          "rl": "25",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "4130386_STR",
+          "address": "O:034.03",
+          "description": "FUEL OIL SUMP PUMP 386 O/P TO OILWATER  SEPERATOR TANK START",
+          "panel": "852",
+          "tb": "1T3-19/22",
+          "rl": "4",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-P-398": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "4157398_HTY",
+          "address": "I:040.10",
+          "description": "CAUSTIC SODA TX PMP 398 O/P TO YARD PIPING AREA HEALTHY",
+          "panel": "852",
+          "tb": "1T2-54/55",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4157398_RUN",
+          "address": "I:040.11",
+          "description": "CAUSTIC SODA TX PMP 398 O/P TO YARD  PIPING AREA RUN",
+          "panel": "852",
+          "tb": "1T2-56/57",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4157398_TRIP",
+          "address": "I:040.12",
+          "description": "CAUSTIC SODA TX PMP 398 O/P TO YARD  PIPING AREA TRIP",
+          "panel": "852",
+          "tb": "1T2-58/59",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "LOCAL/REMOTE",
+          "tag": "4157398_LOC",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "START",
+          "tag": "4157398_STR",
+          "address": "O:042.11",
+          "description": "CAUSTIC SODA TX PMP 398 O/P TO YARD  PIPING AREA START",
+          "panel": "852",
+          "tb": "1T4-85/88",
+          "rl": "42",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-P-849": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "30PAGR849_HTY",
+          "address": "I:033.00",
+          "description": "FUEL OIL UNLOADING   PMP 849 O/P TO F/O  STRG TK 238/239/787 HEALTHY",
+          "panel": "852",
+          "tb": "1T1-102/103",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "30PAGR849_LS",
+          "address": "I:033.01",
+          "description": "FUEL OIL UNLOADING   PMP 849 O/P TO F/O  STRG TK 238/239/787 LOCAL START",
+          "panel": "852",
+          "tb": "1T1-104/105",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "30PAGR849_RUN",
+          "address": "I:033.02",
+          "description": "FUEL OIL UNLOADING   PMP 849 O/P TO F/O  STRG TK 238/239/787 RUN",
+          "panel": "852",
+          "tb": "1T1-106/107",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "30PAGR849_TRIP",
+          "address": "I:033.03",
+          "description": "FUEL OIL UNLOADING   PMP 849 O/P TO F/O  STRG TK 238/239/787 TRIP",
+          "panel": "852",
+          "tb": "1T1-108/109",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "30PAGR849_STR",
+          "address": "O:034.10",
+          "description": "FUEL OIL UNLOADING   PMP 849 O/P TO F/O  STRG TK 131830238 HEALTHY",
+          "panel": "852",
+          "tb": "1T3-49/50",
+          "rl": "9",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-P-851": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "30PAGR851_HTY",
+          "address": "I:033.04",
+          "description": "FUEL OIL XFER PMP 851 O/P TO F/O  STRG TK 787 HEALTHY",
+          "panel": "852",
+          "tb": "1T1-110/111",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "30PAGR851_LS",
+          "address": "I:033.05",
+          "description": "FUEL OIL XFER PMP 851 O/P TO F/O  STRG TK 787 LOCAL START",
+          "panel": "852",
+          "tb": "1T1-112/113",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "30PAGR851_RUN",
+          "address": "I:033.06",
+          "description": "FUEL OIL XFER PMP 851 O/P TO F/O  STRG TK 787 RUN",
+          "panel": "852",
+          "tb": "1T1-114/115",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "30PAGR851_TRIP",
+          "address": "I:033.07",
+          "description": "FUEL OIL XFER PMP 851 O/P TO F/O  STRG TK 787 TRIP",
+          "panel": "852",
+          "tb": "1T1-116/117",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "30PAGR851_STR",
+          "address": "O:034.11",
+          "description": "FUEL OIL XFER PMP 851 O/P TO F/O  STRG TK 131830239 START",
+          "panel": "852",
+          "tb": "1T3-51/52",
+          "rl": "10",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-P-852": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "30PAGR852_HTY",
+          "address": "I:033.10",
+          "description": "FUEL OIL SUMP PUMP 852 O/P TO OILWATER  SEPERATOR TANK HEALTHY",
+          "panel": "852",
+          "tb": "1T1-118/119",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "30PAGR852_LS",
+          "address": "I:033.11",
+          "description": "FUEL OIL SUMP PUMP 852 O/P TO OILWATER  SEPERATOR TANK LOCAL START",
+          "panel": "852",
+          "tb": "1T1-120/121",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "30PAGR852_RUN",
+          "address": "I:033.12",
+          "description": "FUEL OIL SUMP PUMP 852 O/P TO OILWATER  SEPERATOR TANK RUN",
+          "panel": "852",
+          "tb": "1T1-122/123",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "30PAGR852_TRIP",
+          "address": "I:033.13",
+          "description": "FUEL OIL SUMP PUMP 852 O/P TO OILWATER  SEPERATOR TANK TRIP",
+          "panel": "852",
+          "tb": "1T1-124/125",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "30PAGR852_STR",
+          "address": "O:034.12",
+          "description": "FUEL OIL SUMP PUMP 852 O/P TO OILWATER  SEPERATOR TANK START",
+          "panel": "852",
+          "tb": "1T3-53/54",
+          "rl": "11",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-SP-218": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "4157218_HTY",
+          "address": "I:040.15",
+          "description": "SUMP PUMP P218 O/P TO CAUSTIC SODA SODA TK 232/233 HEALTHY",
+          "panel": "852",
+          "tb": "1T2-64/65",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4157218_RUN",
+          "address": "I:041.00",
+          "description": "SUMP PUMP P218 O/P TO CAUSTIC SODA  SODA TK 232/233 RUN",
+          "panel": "852",
+          "tb": "1T2-70/71",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4157218_TRIP",
+          "address": "I:041.01",
+          "description": "SUMP PUMP P218 O/P TO CAUSTIC SODA  SODA TK 232/233 TRIP",
+          "panel": "852",
+          "tb": "1T2-72/73",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4157218_STR",
+          "address": "O:042.07",
+          "description": "SUMP PUMP P218 O/P TO CAUSTIC SODA  STRG TK 233 START",
+          "panel": "852",
+          "tb": "1T4-73/76",
+          "rl": "40",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-SP-378": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "4130378_HTY",
+          "address": "I:031.03",
+          "description": "FUEL OIL SUMP PMP 378 O/P TO F/O STRG TK 238/239 HEALTHY",
+          "panel": "852",
+          "tb": "1T1-44/45",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "4130378_RUN",
+          "address": "I:031.04",
+          "description": "FUEL OIL SUMP  PMP 378 O/P TO F/O STRG TK 238/239 RUN",
+          "panel": "852",
+          "tb": "1T1-46/47",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "4130378_TRIP",
+          "address": "I:031.05",
+          "description": "FUEL OIL SUMP  PMP 378 O/P TO F/O STRG TK 238/239 TRIP",
+          "panel": "852",
+          "tb": "1T1-48/49",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "4130378_STR",
+          "address": "O:034.04",
+          "description": "FUEL OIL SUMP  PMP 378 O/P TO F/O STRG TK 238/239 START",
+          "panel": "852",
+          "tb": "1T3-25/28",
+          "rl": "5",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-VP-11": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "3257011_HTY",
+          "address": "I:037.11",
+          "description": "VACCUM PUMP P011 O/P TO VACCUM VSL 121857141 HEALTHY",
+          "panel": "852",
+          "tb": "1T2-24/25",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "3257011_RUN",
+          "address": "I:037.12",
+          "description": "VACCUM PUMP P011 O/P TO VACCUM VSL 121857141 RUN",
+          "panel": "852",
+          "tb": "1T2-26/27",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "3257011_TRIP",
+          "address": "I:037.13",
+          "description": "VACCUM PUMP P011 O/P TO VACCUM VSL 121857141 TRIP",
+          "panel": "852",
+          "tb": "1T2-28/29",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "3257011_STR",
+          "address": "O:042.02",
+          "description": "VACCUM PUMP P011 O/P TO VACCUM VSL 121857141 START",
+          "panel": "852",
+          "tb": "1T4-43/46",
+          "rl": "35",
+          "board": ""
+        }
+      ]
+    },
+    "CSFO-VP-12": {
+      "inputs": [
+        {
+          "signal": "HEALTHY",
+          "tag": "3257012_HTY",
+          "address": "I:041.13",
+          "description": "VACCUM PUMP P012 O/P TO VACCUM VSL 121857142 HEALTHY",
+          "panel": "852",
+          "tb": "1T2-92/93",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL START",
+          "tag": "",
+          "address": "",
+          "description": "",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "RUN",
+          "tag": "3257012_RUN",
+          "address": "I:041.14",
+          "description": "VACCUM PUMP P012 O/P TO VACCUM VSL 121857142 RUN",
+          "panel": "852",
+          "tb": "1T2-94/95",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "TRIP",
+          "tag": "3257012_TRIP",
+          "address": "I:041.15",
+          "description": "VACCUM PUMP P012 O/P TO VACCUM VSL 121857142 TRIP",
+          "panel": "852",
+          "tb": "1T2-96/97",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "DCS START",
+          "tag": "3257012_STR",
+          "address": "O:042.03",
+          "description": "VACCUM PUMP P012 O/P TO VACCUM VSL 121857142 START",
+          "panel": "852",
+          "tb": "1T4-49/52",
+          "rl": "36",
           "board": ""
         }
       ]
