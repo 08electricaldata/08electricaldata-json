@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T11:04:57.439Z",
+  "updated": "2026-04-04T15:05:25.095Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -19021,6 +19021,424 @@
           "panel": "852",
           "tb": "1T4-49/52",
           "rl": "36",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-F-001": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-001-RUNNING",
+          "panel": "",
+          "tb": "2T-39/40",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-001-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-41/42",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "VIBRATION TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-001-VIBRATION TRIP",
+          "panel": "",
+          "tb": "2T-93/94",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": []
+    },
+    "CT_2-F-002": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-002-RUNNING",
+          "panel": "",
+          "tb": "2T-43/44",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-002-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-45/46",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "VIBRATION TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-002-VIBRATION TRIP",
+          "panel": "",
+          "tb": "2T-95/96",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": []
+    },
+    "CT_2-F-003": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-003-RUNNING",
+          "panel": "",
+          "tb": "2T-47/48",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-003-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-49/50",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "VIBRATION TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-F-003-VIBRATION TRIP",
+          "panel": "",
+          "tb": "2T-97/98",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": []
+    },
+    "CT_2-FP-1": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-FP-1-RUNNING",
+          "panel": "",
+          "tb": "2T-35/36",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-FP-1-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-37/38",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": []
+    },
+    "CT_2-P-224": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-224-RUNNING",
+          "panel": "",
+          "tb": "2T-3/4",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-224-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-5/6",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II224",
+          "address": "",
+          "description": "CT_2-P-224-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-225": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-225-RUNNING",
+          "panel": "",
+          "tb": "2T-7/8",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-225-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-9/10",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II225",
+          "address": "",
+          "description": "CT_2-P-225-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-226": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-226-RUNNING",
+          "panel": "",
+          "tb": "2T-11/12",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-226-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-13/14",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II226",
+          "address": "",
+          "description": "CT_2-P-226-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-227": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-227-RUNNING",
+          "panel": "",
+          "tb": "2T-15/16",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-227-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-17/18",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II227",
+          "address": "",
+          "description": "CT_2-P-227-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-228": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-228-RUNNING",
+          "panel": "",
+          "tb": "2T-19/20",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-228-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-21/22",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II228",
+          "address": "",
+          "description": "CT_2-P-228-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-367": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-367-RUNNING",
+          "panel": "",
+          "tb": "2T-27/28",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-367-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-29/30",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II367",
+          "address": "",
+          "description": "CT_2-P-367-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-368": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-368-RUNNING",
+          "panel": "",
+          "tb": "2T-31/32",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-368-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-33/34",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II368",
+          "address": "",
+          "description": "CT_2-P-368-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
+          "board": ""
+        }
+      ]
+    },
+    "CT_2-P-369": {
+      "inputs": [
+        {
+          "signal": "RUNNING",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-369-RUNNING",
+          "panel": "",
+          "tb": "2T-23/24",
+          "rl": "",
+          "board": ""
+        },
+        {
+          "signal": "AUTO TRIP",
+          "tag": "",
+          "address": "",
+          "description": "CT_2-P-369-AUTO TRIP",
+          "panel": "",
+          "tb": "2T-25/26",
+          "rl": "",
+          "board": ""
+        }
+      ],
+      "outputs": [
+        {
+          "signal": "CURRENT",
+          "tag": "38II369",
+          "address": "",
+          "description": "CT_2-P-369-CURRENT",
+          "panel": "",
+          "tb": "",
+          "rl": "",
           "board": ""
         }
       ]
