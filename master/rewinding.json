@@ -1,7 +1,7 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-04-17T04:57:17.860Z",
-  "totalRecords": 39,
+  "updated": "2026-04-17T05:57:20.158Z",
+  "totalRecords": 41,
   "data": [
     {
       "W.O No": "455/21.09.20",
@@ -341,7 +341,7 @@
       "Storage": "R/W",
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "PRIORITY": 18,
       "rowNumber": 20
     },
@@ -431,7 +431,7 @@
       "Storage": "R/W",
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "PRIORITY": 15,
       "rowNumber": 25
     },
@@ -575,7 +575,7 @@
       "Storage": "R/W",
       "Remarks": "M MURMU",
       "Motor Location\nUpdate On": "URGENT",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "PRIORITY": 2,
       "rowNumber": 33
     },
@@ -701,9 +701,45 @@
       "Storage": "R/W",
       "Remarks": "R.C.SETHY",
       "Motor Location\nUpdate On": "URGENT",
-      "Job Completion Date": "UP",
+      "Job Completion Date": "PENDING",
       "PRIORITY": 3,
       "rowNumber": 40
+    },
+    {
+      "W.O No": "764/16.03.26",
+      "kW": "0.37",
+      "Make": "ADITYA",
+      "Frame Size": "71",
+      "Mounting": "B3",
+      "RPM": "1390",
+      "Sl No": "160324-493",
+      "Voltage": "415",
+      "Equipment details": "LAB MOTOR",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "M.BARIK",
+      "Motor Location\nUpdate On": "HIGH",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 41
+    },
+    {
+      "W.O No": "009/06.04.26",
+      "kW": "75",
+      "Make": "WEG",
+      "Frame Size": "280S",
+      "Mounting": "B3",
+      "RPM": "1480",
+      "Sl No": "NA",
+      "Voltage": "415",
+      "Equipment details": "CT-1",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "B MURMU",
+      "Motor Location\nUpdate On": "HIGH",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 42
     }
   ]
 }
