@@ -1,7 +1,7 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-05-04T06:57:19.651Z",
-  "totalRecords": 41,
+  "updated": "2026-05-04T07:21:22.024Z",
+  "totalRecords": 44,
   "data": [
     {
       "W.O No": "455/21.09.20",
@@ -740,6 +740,60 @@
       "Job Completion Date": "NS",
       "PRIORITY": "",
       "rowNumber": 42
+    },
+    {
+      "W.O No": "095/30.04.26",
+      "kW": "75",
+      "Make": "ABB",
+      "Frame Size": "315S MA41",
+      "Mounting": "B3",
+      "RPM": "1485",
+      "Sl No": "864679",
+      "Voltage": "415",
+      "Equipment details": "P- 908, (BAT- E)",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "M. BARIK",
+      "Motor Location\nUpdate On": "HIGH",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 43
+    },
+    {
+      "W.O No": "096/30.04.26",
+      "kW": "75",
+      "Make": "SIEMENS",
+      "Frame Size": "315 M",
+      "Mounting": "B3",
+      "RPM": "1490",
+      "Sl No": "N8/ 64014980",
+      "Voltage": "415",
+      "Equipment details": "P- 908 (BAT- E)",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "M. BARIK",
+      "Motor Location\nUpdate On": "HIGH",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 44
+    },
+    {
+      "W.O No": "100/02.05.26",
+      "kW": "90",
+      "Make": "WEG",
+      "Frame Size": "315 SM4",
+      "Mounting": "B3",
+      "RPM": "1485",
+      "Sl No": "NA",
+      "Voltage": "415",
+      "Equipment details": "P- 904 (BAT- F)",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "M. BARIK",
+      "Motor Location\nUpdate On": "HIGH",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 45
     }
   ]
 }
