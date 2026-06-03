@@ -1,7 +1,7 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-06-03T11:57:18.135Z",
-  "totalRecords": 44,
+  "updated": "2026-06-03T12:57:19.014Z",
+  "totalRecords": 45,
   "data": [
     {
       "W.O No": "455/21.09.20",
@@ -575,7 +575,7 @@
       "Storage": "R/W",
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "LOW",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "PRIORITY": 19,
       "rowNumber": 33
     },
@@ -688,24 +688,6 @@
       "rowNumber": 39
     },
     {
-      "W.O No": "764/16.03.26",
-      "kW": "0.37",
-      "Make": "ADITYA",
-      "Frame Size": "71",
-      "Mounting": "B3",
-      "RPM": "1390",
-      "Sl No": "160324-493",
-      "Voltage": "415",
-      "Equipment details": "LAB MOTOR",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "M.BARIK",
-      "Motor Location\nUpdate On": "HIGH",
-      "Job Completion Date": "NS",
-      "PRIORITY": "",
-      "rowNumber": 40
-    },
-    {
       "W.O No": "009/06.04.26",
       "kW": "75",
       "Make": "WEG",
@@ -721,7 +703,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": "",
-      "rowNumber": 41
+      "rowNumber": 40
     },
     {
       "W.O No": "041/17.04.26",
@@ -739,7 +721,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": "",
-      "rowNumber": 42
+      "rowNumber": 41
     },
     {
       "W.O No": "095/30.04.26",
@@ -757,7 +739,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": "",
-      "rowNumber": 43
+      "rowNumber": 42
     },
     {
       "W.O No": "096/30.04.26",
@@ -775,7 +757,7 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": "",
-      "rowNumber": 44
+      "rowNumber": 43
     },
     {
       "W.O No": "100/02.05.26",
@@ -793,7 +775,43 @@
       "Motor Location\nUpdate On": "HIGH",
       "Job Completion Date": "NS",
       "PRIORITY": "",
+      "rowNumber": 44
+    },
+    {
+      "W.O No": "145/25.05.26",
+      "kW": "101",
+      "Make": "SIEMENS",
+      "Frame Size": "315S",
+      "Mounting": "B3",
+      "RPM": "1488",
+      "Sl No": "NA",
+      "Voltage": "415",
+      "Equipment details": "BAT-G , P-905",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "SURAJ JAISWAL",
+      "Motor Location\nUpdate On": "LOW",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
       "rowNumber": 45
+    },
+    {
+      "W.O No": "159/30.05.26",
+      "kW": "75",
+      "Make": "MARATHON",
+      "Frame Size": "D280S",
+      "Mounting": "B3",
+      "RPM": "1480",
+      "Sl No": "29560264AS0009",
+      "Voltage": "415",
+      "Equipment details": "LIME HANDLING P-1166A",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "M BARIK",
+      "Motor Location\nUpdate On": "LOW",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 46
     }
   ]
 }
