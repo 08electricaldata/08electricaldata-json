@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T03:05:19.805Z",
+  "updated": "2026-06-06T07:05:10.395Z",
   "drives": {
     "BAT_A-P-200": {
       "inputs": [
@@ -17886,11 +17886,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4130119_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:036.06",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T3-101/104",
+          "rl": "23",
           "board": ""
         },
         {
@@ -17942,11 +17942,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157219_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:036.17",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-25/28",
+          "rl": "32",
           "board": ""
         },
         {
@@ -17998,11 +17998,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157220_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:036.16",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-19/22",
+          "rl": "31",
           "board": ""
         },
         {
@@ -18054,11 +18054,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157336_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:042.13",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-97/100",
+          "rl": "44",
           "board": ""
         },
         {
@@ -18110,11 +18110,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157337_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:036.13",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-1/4",
+          "rl": "28",
           "board": ""
         },
         {
@@ -18166,11 +18166,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157338_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:036.14",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-7/10",
+          "rl": "29",
           "board": ""
         },
         {
@@ -18502,11 +18502,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157385_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:036.15",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-13/16",
+          "rl": "30",
           "board": ""
         },
         {
@@ -18614,11 +18614,11 @@
         {
           "signal": "LOCAL/REMOTE",
           "tag": "4157398_LOC",
-          "address": "",
-          "description": "",
-          "panel": "",
-          "tb": "",
-          "rl": "",
+          "address": "O:042.12",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-91/94",
+          "rl": "43",
           "board": ""
         },
         {
@@ -18686,6 +18686,16 @@
           "tb": "1T3-49/50",
           "rl": "9",
           "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "30PAGR849_LOC",
+          "address": "O:036.00",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T3-65/68",
+          "rl": "17",
+          "board": ""
         }
       ]
     },
@@ -18741,6 +18751,16 @@
           "panel": "852",
           "tb": "1T3-51/52",
           "rl": "10",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "30PAGR851_LOC",
+          "address": "O:036.11",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T3-119/122",
+          "rl": "26",
           "board": ""
         }
       ]
@@ -18798,6 +18818,16 @@
           "tb": "1T3-53/54",
           "rl": "11",
           "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "30PAGR852_LOC",
+          "address": "O:036.12",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T3-125/128",
+          "rl": "27",
+          "board": ""
         }
       ]
     },
@@ -18853,6 +18883,16 @@
           "panel": "852",
           "tb": "1T4-73/76",
           "rl": "40",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "4157218_LOC",
+          "address": "O:042.14",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-103/106",
+          "rl": "45",
           "board": ""
         }
       ]
@@ -18910,6 +18950,16 @@
           "tb": "1T3-25/28",
           "rl": "5",
           "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "4130378_LOC",
+          "address": "O:036.07",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T3-107/110",
+          "rl": "24",
+          "board": ""
         }
       ]
     },
@@ -18966,6 +19016,16 @@
           "tb": "1T4-43/46",
           "rl": "35",
           "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "3257011_LOC",
+          "address": "O:042.15",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-109/112",
+          "rl": "46",
+          "board": ""
         }
       ]
     },
@@ -19021,6 +19081,16 @@
           "panel": "852",
           "tb": "1T4-49/52",
           "rl": "36",
+          "board": ""
+        },
+        {
+          "signal": "LOCAL SELECTED   ",
+          "tag": "3257012_LOC",
+          "address": "O:042.16",
+          "description": "LOCAL SELECTED   ",
+          "panel": "852",
+          "tb": "1T4-115/118",
+          "rl": "47",
           "board": ""
         }
       ]
