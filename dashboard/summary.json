@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-10T16:18:49.188Z",
+  "updated": "2026-06-10T16:48:50.696Z",
   "metrics": [
     {
       "key": "overdue_motors_oh",
       "installed": 399,
-      "due": 130
+      "due": 129
     },
     {
       "key": "overdue_motors_pm",
       "installed": 365,
-      "due": 122
+      "due": 120
     },
     {
       "key": "overdue_modules_pm",
