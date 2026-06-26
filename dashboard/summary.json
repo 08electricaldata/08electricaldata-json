@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T18:18:44.919Z",
+  "updated": "2026-06-26T18:48:55.667Z",
   "metrics": [
     {
       "key": "overdue_motors_oh",
@@ -24,7 +24,7 @@
     {
       "key": "overdue_breaker_pm",
       "installed": 157,
-      "due": 128
+      "due": 129
     },
     {
       "key": "updated_at",
