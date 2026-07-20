@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-07-20T12:57:19.071Z",
+  "updated": "2026-07-20T13:57:20.020Z",
   "totalRecords": 45,
   "data": [
     {
@@ -809,7 +809,7 @@
       "Storage": "R/W",
       "Remarks": "M BARIK",
       "Motor Location\nUpdate On": "LOW",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "PENDING",
       "PRIORITY": "",
       "rowNumber": 46
     }
