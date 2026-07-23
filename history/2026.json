@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "updated": "2026-07-23T15:04:31.119Z",
+  "updated": "2026-07-23T18:50:53.968Z",
   "headers": [
     "",
     "",
@@ -31577,7 +31577,7 @@
       "BAT_H",
       "P-906",
       "2026-07-23T07:00:00.000Z",
-      "fAULTY CURRENT TRANSDUCER HAS BEEN REPLACED",
+      "FAULTY CURRENT TRANSDUCER HAS BEEN REPLACED",
       "BD",
       "REPLACE-TRANSDUCER",
       "YES",
