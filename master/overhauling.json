@@ -1,6 +1,6 @@
 {
   "sheetName": "O/H PENDING",
-  "updated": "2026-07-25T11:57:26.621Z",
+  "updated": "2026-07-25T12:57:21.320Z",
   "totalRecords": 23,
   "data": [
     {
@@ -400,15 +400,15 @@
       "rowNumber": 23
     },
     {
-      "W.O No": "268/09.07.26",
-      "kW": "30",
+      "W.O No": "288/23.07.26",
+      "kW": "75",
       "Make": "NGEF",
-      "Frame Size": "225S4",
+      "Frame Size": "AMW280S4",
       "Mounting": "B3",
-      "RPM": "1475",
-      "Sl No": "NA",
+      "RPM": "1485",
+      "Sl No": "144 365 23",
       "Voltage": "415",
-      "Equipment details": "DRUM SLAKER-4",
+      "Equipment details": "CWP-225",
       "Area": "08",
       "Storage": "O/H",
       "Remarks": "B MURMU",
