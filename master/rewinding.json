@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-07-30T08:57:19.069Z",
+  "updated": "2026-07-30T09:23:56.378Z",
   "totalRecords": 45,
   "data": [
     {
@@ -34,7 +34,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "RACK LOC-  Z2/J",
       "Job Completion Date": "NS",
       "PRIORITY": 3,
       "rowNumber": 3
@@ -52,7 +52,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "Z1/E",
       "Job Completion Date": "NS",
       "PRIORITY": 3,
       "rowNumber": 4
@@ -70,7 +70,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "FAN BLADE BROKEN",
       "Job Completion Date": "NS",
       "PRIORITY": 4,
       "rowNumber": 5
@@ -196,7 +196,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1ST LOT)",
       "Job Completion Date": "UP",
       "PRIORITY": 20,
       "rowNumber": 12
@@ -214,7 +214,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "R C SETY",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "RACK LOC - Z1/B. R/W BY M/S MAITY.",
       "Job Completion Date": "NS",
       "PRIORITY": 13,
       "rowNumber": 13
@@ -286,7 +286,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "RACK LOC-V0/I\n24.11.23",
       "Job Completion Date": "NS",
       "PRIORITY": 17,
       "rowNumber": 17
@@ -340,7 +340,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "OUT SOURCING  R/W.",
       "Job Completion Date": "UP",
       "PRIORITY": 18,
       "rowNumber": 20
@@ -358,7 +358,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "STATOR, ROTOR, GREASE CUP DAMAGED",
       "Job Completion Date": "NS",
       "PRIORITY": 36,
       "rowNumber": 21
@@ -394,7 +394,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B.MURMU",
-      "Motor Location\nUpdate On": "URGENT",
+      "Motor Location\nUpdate On": "LOCATION-I",
       "Job Completion Date": "NS",
       "PRIORITY": 5,
       "rowNumber": 23
@@ -412,7 +412,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "RACK LOC - Z1/P,OUT SOURCING R/W BY MAITY (1ST LOT) ",
       "Job Completion Date": "UP",
       "PRIORITY": 15,
       "rowNumber": 24
@@ -430,7 +430,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M BARIK",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "R/W BY M/S MAITY.(1ST LOT)",
       "Job Completion Date": "UP",
       "PRIORITY": 16,
       "rowNumber": 25
@@ -448,7 +448,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "R C SETHY",
-      "Motor Location\nUpdate On": "",
+      "Motor Location\nUpdate On": "SHIFTED TO TRS ON 18.04.24",
       "Job Completion Date": "NS",
       "PRIORITY": 35,
       "rowNumber": 26
@@ -466,7 +466,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "URGENT",
+      "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 8,
       "rowNumber": 27
@@ -484,7 +484,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B.MURMU",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "RACL LOC-Z2/K",
       "Job Completion Date": "NS",
       "PRIORITY": 24,
       "rowNumber": 28
@@ -502,7 +502,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "MEDIUM",
+      "Motor Location\nUpdate On": "CORRIDOR RACK A-1",
       "Job Completion Date": "NS",
       "PRIORITY": 27,
       "rowNumber": 29
@@ -520,7 +520,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B.MURMU",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 9,
       "rowNumber": 30
@@ -538,7 +538,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "URGENT",
+      "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 4,
       "rowNumber": 31
@@ -556,7 +556,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M MURMU",
-      "Motor Location\nUpdate On": "URGENT",
+      "Motor Location\nUpdate On": "RACK LOC - Z1/K.R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "UP",
       "PRIORITY": 2,
       "rowNumber": 32
@@ -574,7 +574,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "LOW",
+      "Motor Location\nUpdate On": "LOCATION-Y0/E.08.05.26  M/S -MAITY.",
       "Job Completion Date": "UP",
       "PRIORITY": 19,
       "rowNumber": 33
@@ -592,7 +592,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B B BEHERA",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 12,
       "rowNumber": 34
@@ -610,7 +610,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B.MURMU",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "RACK LOC-V0/E",
       "Job Completion Date": "NS",
       "PRIORITY": 11,
       "rowNumber": 35
@@ -628,7 +628,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M BARIK",
-      "Motor Location\nUpdate On": "LOW",
+      "Motor Location\nUpdate On": "SHAFT SHEARED , TRMINAL BOX NOT AVAILABLE.",
       "Job Completion Date": "NS",
       "PRIORITY": 21,
       "rowNumber": 36
@@ -646,7 +646,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "LOW",
+      "Motor Location\nUpdate On": "RACK LOC-Y3/R",
       "Job Completion Date": "NS",
       "PRIORITY": 23,
       "rowNumber": 37
@@ -664,7 +664,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B.B.BEHERA",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "RACK LOC-Y3/R",
       "Job Completion Date": "NS",
       "PRIORITY": 26,
       "rowNumber": 38
@@ -682,7 +682,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "R.C.SETHY",
-      "Motor Location\nUpdate On": "URGENT",
+      "Motor Location\nUpdate On": "RACK LOC-W0/O.BOTH  ENDSHIELDS WORN OUT(17.03.26)6319C3.",
       "Job Completion Date": "PENDING",
       "PRIORITY": 3,
       "rowNumber": 39
@@ -700,7 +700,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "NS",
       "PRIORITY": "",
       "rowNumber": 40
@@ -718,7 +718,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B.MURMU",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "Y0/M",
       "Job Completion Date": "NS",
       "PRIORITY": 2,
       "rowNumber": 41
@@ -736,7 +736,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M. BARIK",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "NS",
       "PRIORITY": 1,
       "rowNumber": 42
@@ -754,7 +754,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M. BARIK",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "NS",
       "PRIORITY": 2,
       "rowNumber": 43
@@ -772,7 +772,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M. BARIK",
-      "Motor Location\nUpdate On": "HIGH",
+      "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 1,
       "rowNumber": 44
@@ -790,7 +790,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "SURAJ JAISWAL",
-      "Motor Location\nUpdate On": "LOW",
+      "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 1,
       "rowNumber": 45
@@ -808,7 +808,7 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M BARIK",
-      "Motor Location\nUpdate On": "LOW",
+      "Motor Location\nUpdate On": "08.07.26 SWG 18 NA(13.07.26)",
       "Job Completion Date": "PENDING",
       "PRIORITY": 1,
       "rowNumber": 46
