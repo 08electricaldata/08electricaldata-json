@@ -1,1 +1,44 @@
-{123456789}
+{
+  "gallery": "08 AREA PHOTOS",
+  "folderId": "10Q1QRHbnpSdqyyQzact1e42_ndHO4Lo_",
+  "updated": "2026-08-02T06:24:20.525Z",
+  "total": 3,
+  "photos": [
+    {
+      "id": "1zgsH8u6NH51_3H-tjEXZeqim8fCHGJVM",
+      "title": "IMG_0308",
+      "filename": "IMG_0308.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1zgsH8u6NH51_3H-tjEXZeqim8fCHGJVM=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1zgsH8u6NH51_3H-tjEXZeqim8fCHGJVM=w700",
+      "created": "2026-07-30T14:53:02.835Z",
+      "modified": "2026-07-30T14:53:02.835Z",
+      "size": 2870918,
+      "type": "image/heif"
+    },
+    {
+      "id": "17K-DxhgK_mgIMfLG6KdE9VgSZvINd5OG",
+      "title": "IMG_0301",
+      "filename": "IMG_0301.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/17K-DxhgK_mgIMfLG6KdE9VgSZvINd5OG=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/17K-DxhgK_mgIMfLG6KdE9VgSZvINd5OG=w700",
+      "created": "2026-07-30T14:53:02.535Z",
+      "modified": "2026-07-30T14:53:02.535Z",
+      "size": 3055933,
+      "type": "image/heif"
+    },
+    {
+      "id": "1KsJ_r3tFvJklff-0RDDBzAmsM4Xhz8uj",
+      "title": "IMG_0303",
+      "filename": "IMG_0303.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1KsJ_r3tFvJklff-0RDDBzAmsM4Xhz8uj=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1KsJ_r3tFvJklff-0RDDBzAmsM4Xhz8uj=w700",
+      "created": "2026-07-30T14:53:02.274Z",
+      "modified": "2026-07-30T14:53:02.274Z",
+      "size": 2914827,
+      "type": "image/heif"
+    }
+  ]
+}
