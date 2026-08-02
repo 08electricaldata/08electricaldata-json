@@ -1,0 +1,61 @@
+{
+  "updated": "2026-08-02T16:34:43.536Z",
+  "total": 5,
+  "relays": [
+    {
+      "relay": "LS IMP",
+      "folderId": "1_t6qIjsy0ymCsl8OnQb4y5musR2yotys",
+      "pdf": {
+        "name": "DMPR Settings -LS.pdf",
+        "fileId": "1mkodtXKoM0f3n5zk48VGyU_M4PNfUynP",
+        "preview": "https://drive.google.com/file/d/1mkodtXKoM0f3n5zk48VGyU_M4PNfUynP/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1mkodtXKoM0f3n5zk48VGyU_M4PNfUynP",
+        "updated": "2026-08-02T16:19:37.000Z"
+      }
+    },
+    {
+      "relay": "Schneider EOCR",
+      "folderId": "1cnnfIrgQZx9Stk5j5Vlxs4VF57vYtWzl",
+      "pdf": {
+        "name": "DMPR Settings - Schnider.pdf",
+        "fileId": "1bzt1vZf_YINA9W-B_d7K6p_cEet8XZHs",
+        "preview": "https://drive.google.com/file/d/1bzt1vZf_YINA9W-B_d7K6p_cEet8XZHs/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1bzt1vZf_YINA9W-B_d7K6p_cEet8XZHs",
+        "updated": "2026-08-02T16:22:57.000Z"
+      }
+    },
+    {
+      "relay": "CSE DMP OLD",
+      "folderId": "1DalDz48pA_WhdWLVrpBqHXqjqh9aFYXa",
+      "pdf": {
+        "name": "DMPR Settings .pdf",
+        "fileId": "1sbuMI6TXIaWydERpXy52U0N6KIbN-s41",
+        "preview": "https://drive.google.com/file/d/1sbuMI6TXIaWydERpXy52U0N6KIbN-s41/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1sbuMI6TXIaWydERpXy52U0N6KIbN-s41",
+        "updated": "2026-08-02T16:25:29.000Z"
+      }
+    },
+    {
+      "relay": "BOCR",
+      "folderId": "1qSKS-uXbePJ1mAtYEtbZwx4AhkSSNleH",
+      "pdf": {
+        "name": "DMPR Settings.pdf",
+        "fileId": "1uRWwq3sL0wr1VBTPaeZGPVuQaozCt_Z4",
+        "preview": "https://drive.google.com/file/d/1uRWwq3sL0wr1VBTPaeZGPVuQaozCt_Z4/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1uRWwq3sL0wr1VBTPaeZGPVuQaozCt_Z4",
+        "updated": "2026-08-02T16:27:52.000Z"
+      }
+    },
+    {
+      "relay": "BCH",
+      "folderId": "1q1A7JhhDwl8cyBXQoIpngwdfgSHFbPlU",
+      "pdf": {
+        "name": "Copy of DMPR Settings -LS.pdf",
+        "fileId": "1BPNsr6NIbotPeAFcAnG3htMmDgfnNUVi",
+        "preview": "https://drive.google.com/file/d/1BPNsr6NIbotPeAFcAnG3htMmDgfnNUVi/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1BPNsr6NIbotPeAFcAnG3htMmDgfnNUVi",
+        "updated": "2026-08-02T16:28:56.596Z"
+      }
+    }
+  ]
+}
