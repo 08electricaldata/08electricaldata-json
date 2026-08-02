@@ -1,1 +1,44 @@
-
+{
+  "gallery": "SAFETY PHOTOS",
+  "folderId": "1nESERIqfv6Qx623ewtSbAo6s2alQzBLw",
+  "updated": "2026-08-02T06:24:21.610Z",
+  "total": 3,
+  "photos": [
+    {
+      "id": "1z6AOd3eRUWsEzlWYtVX7vahtUFMA7EoR",
+      "title": "IMG_0179",
+      "filename": "IMG_0179.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1z6AOd3eRUWsEzlWYtVX7vahtUFMA7EoR=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1z6AOd3eRUWsEzlWYtVX7vahtUFMA7EoR=w700",
+      "created": "2026-07-30T14:54:03.817Z",
+      "modified": "2026-07-30T14:54:03.817Z",
+      "size": 2654895,
+      "type": "image/heif"
+    },
+    {
+      "id": "1ZvyAoE77uQoanvRkwi0v7rvNG3wPUsae",
+      "title": "IMG_0181",
+      "filename": "IMG_0181.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1ZvyAoE77uQoanvRkwi0v7rvNG3wPUsae=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1ZvyAoE77uQoanvRkwi0v7rvNG3wPUsae=w700",
+      "created": "2026-07-30T14:54:03.673Z",
+      "modified": "2026-07-30T14:54:03.673Z",
+      "size": 2605885,
+      "type": "image/heif"
+    },
+    {
+      "id": "1sTv7d7pCoGFPu_3pcTcZqqq8RTJsve1X",
+      "title": "IMG_0174",
+      "filename": "IMG_0174.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1sTv7d7pCoGFPu_3pcTcZqqq8RTJsve1X=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1sTv7d7pCoGFPu_3pcTcZqqq8RTJsve1X=w700",
+      "created": "2026-07-30T14:54:03.416Z",
+      "modified": "2026-07-30T14:54:03.416Z",
+      "size": 2909650,
+      "type": "image/heif"
+    }
+  ]
+}
