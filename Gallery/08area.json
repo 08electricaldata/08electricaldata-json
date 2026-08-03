@@ -1,9 +1,57 @@
 {
   "gallery": "08 AREA PHOTOS",
   "folderId": "10Q1QRHbnpSdqyyQzact1e42_ndHO4Lo_",
-  "updated": "2026-08-03T10:53:44.872Z",
-  "total": 3,
+  "updated": "2026-08-03T14:58:22.148Z",
+  "total": 7,
   "photos": [
+    {
+      "id": "1ieW8b22ulS73hrFKVxYZtx7AcKwudTqQ",
+      "title": "PHOTO-2026-04-30-11-29-16",
+      "filename": "PHOTO-2026-04-30-11-29-16.jpg",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1ieW8b22ulS73hrFKVxYZtx7AcKwudTqQ=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1ieW8b22ulS73hrFKVxYZtx7AcKwudTqQ=w700",
+      "created": "2026-08-03T14:48:36.073Z",
+      "modified": "2026-08-03T14:48:36.073Z",
+      "size": 179317,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1CVB3p3ulKR94rNy-1ofScfo_EskmJ13g",
+      "title": "PHOTO-2026-04-30-11-29-17",
+      "filename": "PHOTO-2026-04-30-11-29-17.jpg",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1CVB3p3ulKR94rNy-1ofScfo_EskmJ13g=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1CVB3p3ulKR94rNy-1ofScfo_EskmJ13g=w700",
+      "created": "2026-08-03T14:48:08.972Z",
+      "modified": "2026-08-03T14:48:08.972Z",
+      "size": 165077,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1zufwsqphuBQcCjY5QdTa14_ZJoci5G1q",
+      "title": "PHOTO-2025-12-13-21-35-14",
+      "filename": "PHOTO-2025-12-13-21-35-14.jpg",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1zufwsqphuBQcCjY5QdTa14_ZJoci5G1q=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1zufwsqphuBQcCjY5QdTa14_ZJoci5G1q=w700",
+      "created": "2026-08-03T14:46:26.902Z",
+      "modified": "2026-08-03T14:46:26.902Z",
+      "size": 210181,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1QBKM8BSpV09fjW2sj_sTZFzbfduQuGGA",
+      "title": "PHOTO-2026-07-11-13-32-10",
+      "filename": "PHOTO-2026-07-11-13-32-10.jpg",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1QBKM8BSpV09fjW2sj_sTZFzbfduQuGGA=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1QBKM8BSpV09fjW2sj_sTZFzbfduQuGGA=w700",
+      "created": "2026-08-03T14:45:08.950Z",
+      "modified": "2026-08-03T14:45:08.950Z",
+      "size": 366400,
+      "type": "image/jpeg"
+    },
     {
       "id": "1zgsH8u6NH51_3H-tjEXZeqim8fCHGJVM",
       "title": "IMG_0308",
