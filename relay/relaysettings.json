@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T03:05:15.735Z",
+  "updated": "2026-08-03T10:54:08.219Z",
   "total": 5,
   "relays": [
     {
@@ -50,11 +50,11 @@
       "relay": "BCH",
       "folderId": "1q1A7JhhDwl8cyBXQoIpngwdfgSHFbPlU",
       "pdf": {
-        "name": "Copy of DMPR Settings -LS.pdf",
-        "fileId": "1BPNsr6NIbotPeAFcAnG3htMmDgfnNUVi",
-        "preview": "https://drive.google.com/file/d/1BPNsr6NIbotPeAFcAnG3htMmDgfnNUVi/preview",
-        "download": "https://drive.google.com/uc?export=download&id=1BPNsr6NIbotPeAFcAnG3htMmDgfnNUVi",
-        "updated": "2026-08-02T16:28:56.596Z"
+        "name": "BCH RELAY.pdf",
+        "fileId": "15x-eNinfogHPptTkrWyn4NSKB1Q_-XLM",
+        "preview": "https://drive.google.com/file/d/15x-eNinfogHPptTkrWyn4NSKB1Q_-XLM/preview",
+        "download": "https://drive.google.com/uc?export=download&id=15x-eNinfogHPptTkrWyn4NSKB1Q_-XLM",
+        "updated": "2026-08-03T04:46:44.000Z"
       }
     }
   ]
