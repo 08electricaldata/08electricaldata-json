@@ -1,0 +1,6339 @@
+{
+  "sheetName": "SPARE LIST",
+  "updated": "2026-08-04T02:36:14.135Z",
+  "totalRecords": 1583,
+  "data": [
+    {
+      "SPARE MOTOR LIST": "Motor Location",
+      "rowNumber": 2
+    },
+    {
+      "SPARE MOTOR LIST": "D, I",
+      "rowNumber": 3
+    },
+    {
+      "SPARE MOTOR LIST": "F",
+      "rowNumber": 4
+    },
+    {
+      "SPARE MOTOR LIST": "B,C,B1,B2,B3,B4,B5,B6,C1,C2,C3,C4,C5,C6,C7,C8,J,K",
+      "rowNumber": 5
+    },
+    {
+      "SPARE MOTOR LIST": "U0/A?U2/R, V0/A?V2/R, W0/A?W2/R, X0/A?X2/R, Y0/A?Y2/R, Z0/A?Z2/R",
+      "rowNumber": 6
+    },
+    {
+      "SPARE MOTOR LIST": "X",
+      "rowNumber": 7
+    },
+    {
+      "SPARE MOTOR LIST": "Y",
+      "rowNumber": 8
+    },
+    {
+      "SPARE MOTOR LIST": "ZEO-1, ZEO-2,?..ZEO-7",
+      "rowNumber": 9
+    },
+    {
+      "SPARE MOTOR LIST": "R",
+      "rowNumber": 10
+    },
+    {
+      "SPARE MOTOR LIST": "W.O No",
+      "rowNumber": 11
+    },
+    {
+      "SPARE MOTOR LIST": "140/03.06.25",
+      "rowNumber": 12
+    },
+    {
+      "SPARE MOTOR LIST": "481/16.10.23",
+      "rowNumber": 13
+    },
+    {
+      "SPARE MOTOR LIST": "863/09.03.22",
+      "rowNumber": 14
+    },
+    {
+      "SPARE MOTOR LIST": "234/08.07.23",
+      "rowNumber": 15
+    },
+    {
+      "SPARE MOTOR LIST": "243/04.08.21",
+      "rowNumber": 16
+    },
+    {
+      "SPARE MOTOR LIST": "045/22.04.25",
+      "rowNumber": 17
+    },
+    {
+      "SPARE MOTOR LIST": "860/09.03.22",
+      "rowNumber": 18
+    },
+    {
+      "SPARE MOTOR LIST": "069/06.05.22",
+      "rowNumber": 19
+    },
+    {
+      "SPARE MOTOR LIST": "445/27.09.23",
+      "rowNumber": 20
+    },
+    {
+      "SPARE MOTOR LIST": "386/22.08.14",
+      "rowNumber": 21
+    },
+    {
+      "SPARE MOTOR LIST": "647/07.11.18",
+      "rowNumber": 22
+    },
+    {
+      "SPARE MOTOR LIST": "368/24.08.20",
+      "rowNumber": 23
+    },
+    {
+      "SPARE MOTOR LIST": "022/12.04.22",
+      "rowNumber": 24
+    },
+    {
+      "SPARE MOTOR LIST": "608/06.12.23",
+      "rowNumber": 25
+    },
+    {
+      "SPARE MOTOR LIST": "858/15.02.25",
+      "rowNumber": 26
+    },
+    {
+      "SPARE MOTOR LIST": "224/08.07.23",
+      "rowNumber": 27
+    },
+    {
+      "SPARE MOTOR LIST": "913/31.03.25",
+      "rowNumber": 28
+    },
+    {
+      "SPARE MOTOR LIST": "157/02.06.20",
+      "rowNumber": 29
+    },
+    {
+      "SPARE MOTOR LIST": "386/06.09.17",
+      "rowNumber": 30
+    },
+    {
+      "SPARE MOTOR LIST": "433/23.09.21",
+      "rowNumber": 31
+    },
+    {
+      "SPARE MOTOR LIST": "759/08.01.25",
+      "rowNumber": 32
+    },
+    {
+      "SPARE MOTOR LIST": "572/21.11.23",
+      "rowNumber": 33
+    },
+    {
+      "SPARE MOTOR LIST": "008/04.04.23",
+      "rowNumber": 34
+    },
+    {
+      "SPARE MOTOR LIST": "834/28.02.22",
+      "rowNumber": 35
+    },
+    {
+      "SPARE MOTOR LIST": "683/16.12.20",
+      "rowNumber": 36
+    },
+    {
+      "SPARE MOTOR LIST": "044/22.04.25",
+      "rowNumber": 37
+    },
+    {
+      "SPARE MOTOR LIST": "838/24.02.21",
+      "rowNumber": 38
+    },
+    {
+      "SPARE MOTOR LIST": "199/19.07.21",
+      "rowNumber": 39
+    },
+    {
+      "SPARE MOTOR LIST": "040/11.04.24",
+      "rowNumber": 40
+    },
+    {
+      "SPARE MOTOR LIST": "691/30.12.21",
+      "rowNumber": 41
+    },
+    {
+      "SPARE MOTOR LIST": "799/21.02.14",
+      "rowNumber": 42
+    },
+    {
+      "SPARE MOTOR LIST": "686/09.12.24",
+      "rowNumber": 43
+    },
+    {
+      "SPARE MOTOR LIST": "510/23.10.24",
+      "rowNumber": 44
+    },
+    {
+      "SPARE MOTOR LIST": "496/03.11.22",
+      "rowNumber": 45
+    },
+    {
+      "SPARE MOTOR LIST": "536/23.11.22",
+      "rowNumber": 46
+    },
+    {
+      "SPARE MOTOR LIST": "004/03.04.25",
+      "rowNumber": 47
+    },
+    {
+      "SPARE MOTOR LIST": "682/30.01.23",
+      "rowNumber": 48
+    },
+    {
+      "SPARE MOTOR LIST": "783/10.02.22",
+      "rowNumber": 49
+    },
+    {
+      "SPARE MOTOR LIST": "713/17.12.24",
+      "rowNumber": 50
+    },
+    {
+      "SPARE MOTOR LIST": "757/08.01.21",
+      "rowNumber": 51
+    },
+    {
+      "SPARE MOTOR LIST": "603/30.12.22",
+      "rowNumber": 52
+    },
+    {
+      "SPARE MOTOR LIST": "910/26.03.25",
+      "rowNumber": 53
+    },
+    {
+      "SPARE MOTOR LIST": "979/14.03.19",
+      "rowNumber": 54
+    },
+    {
+      "SPARE MOTOR LIST": "589/15.11.19",
+      "rowNumber": 55
+    },
+    {
+      "SPARE MOTOR LIST": "588/15.11.19",
+      "rowNumber": 56
+    },
+    {
+      "SPARE MOTOR LIST": "423/28.08.15",
+      "rowNumber": 57
+    },
+    {
+      "SPARE MOTOR LIST": "779/14.02.14",
+      "rowNumber": 58
+    },
+    {
+      "SPARE MOTOR LIST": "409/16.09.21",
+      "rowNumber": 59
+    },
+    {
+      "SPARE MOTOR LIST": "873/05.02.19",
+      "rowNumber": 60
+    },
+    {
+      "SPARE MOTOR LIST": "1000/25.03.17",
+      "rowNumber": 61
+    },
+    {
+      "SPARE MOTOR LIST": "102/18.05.22",
+      "rowNumber": 62
+    },
+    {
+      "SPARE MOTOR LIST": "170/03.06.17",
+      "rowNumber": 63
+    },
+    {
+      "SPARE MOTOR LIST": "623/20.11.24",
+      "rowNumber": 64
+    },
+    {
+      "SPARE MOTOR LIST": "599/28.12.22",
+      "rowNumber": 65
+    },
+    {
+      "SPARE MOTOR LIST": "734/18.12.15",
+      "rowNumber": 66
+    },
+    {
+      "SPARE MOTOR LIST": "166/01.06.24",
+      "rowNumber": 67
+    },
+    {
+      "SPARE MOTOR LIST": "580/14.11.24",
+      "rowNumber": 68
+    },
+    {
+      "SPARE MOTOR LIST": "616/11.12.23",
+      "rowNumber": 69
+    },
+    {
+      "SPARE MOTOR LIST": "592/16.11.24",
+      "rowNumber": 70
+    },
+    {
+      "SPARE MOTOR LIST": "511/23.10.24",
+      "rowNumber": 71
+    },
+    {
+      "SPARE MOTOR LIST": "412/02.09.24",
+      "rowNumber": 72
+    },
+    {
+      "SPARE MOTOR LIST": "833/30.03.23",
+      "rowNumber": 73
+    },
+    {
+      "SPARE MOTOR LIST": "494/20.10.23",
+      "rowNumber": 74
+    },
+    {
+      "SPARE MOTOR LIST": "057/30.04.22",
+      "rowNumber": 75
+    },
+    {
+      "SPARE MOTOR LIST": "113/17.05.25",
+      "rowNumber": 76
+    },
+    {
+      "SPARE MOTOR LIST": "197/30.06.25",
+      "rowNumber": 77
+    },
+    {
+      "SPARE MOTOR LIST": "128/26.05.23",
+      "rowNumber": 78
+    },
+    {
+      "SPARE MOTOR LIST": "877/26.02.25",
+      "rowNumber": 79
+    },
+    {
+      "SPARE MOTOR LIST": "784/16.01.25",
+      "rowNumber": 80
+    },
+    {
+      "SPARE MOTOR LIST": "250/05.07.24",
+      "rowNumber": 81
+    },
+    {
+      "SPARE MOTOR LIST": "638/25.11.24",
+      "rowNumber": 82
+    },
+    {
+      "SPARE MOTOR LIST": "440/18.09.24",
+      "rowNumber": 83
+    },
+    {
+      "SPARE MOTOR LIST": "717/11.02.23",
+      "rowNumber": 84
+    },
+    {
+      "SPARE MOTOR LIST": "301/07.08.23",
+      "rowNumber": 85
+    },
+    {
+      "SPARE MOTOR LIST": "640/25.11.24",
+      "rowNumber": 86
+    },
+    {
+      "SPARE MOTOR LIST": "165/31.05.24",
+      "rowNumber": 87
+    },
+    {
+      "SPARE MOTOR LIST": "215/06.07.23",
+      "rowNumber": 88
+    },
+    {
+      "SPARE MOTOR LIST": "321/20.08.25",
+      "rowNumber": 89
+    },
+    {
+      "SPARE MOTOR LIST": "474/27.10.25",
+      "rowNumber": 90
+    },
+    {
+      "SPARE MOTOR LIST": "153/13.06.25",
+      "rowNumber": 91
+    },
+    {
+      "SPARE MOTOR LIST": "003/02.04.24",
+      "rowNumber": 92
+    },
+    {
+      "SPARE MOTOR LIST": "554/13.12.11",
+      "rowNumber": 93
+    },
+    {
+      "SPARE MOTOR LIST": "072/17.04.24",
+      "rowNumber": 94
+    },
+    {
+      "SPARE MOTOR LIST": "729/24.12.24",
+      "rowNumber": 95
+    },
+    {
+      "SPARE MOTOR LIST": "593/18.11.24",
+      "rowNumber": 96
+    },
+    {
+      "SPARE MOTOR LIST": "416/03.09.24",
+      "rowNumber": 97
+    },
+    {
+      "SPARE MOTOR LIST": "365/12.08.24",
+      "rowNumber": 98
+    },
+    {
+      "SPARE MOTOR LIST": "731/27.12.24",
+      "rowNumber": 99
+    },
+    {
+      "SPARE MOTOR LIST": "325/30.07.24",
+      "rowNumber": 100
+    },
+    {
+      "SPARE MOTOR LIST": "001/01.04.24",
+      "rowNumber": 101
+    },
+    {
+      "SPARE MOTOR LIST": "167/01.06.24",
+      "rowNumber": 102
+    },
+    {
+      "SPARE MOTOR LIST": "756/17.01.20",
+      "rowNumber": 103
+    },
+    {
+      "SPARE MOTOR LIST": "873/22.02.20",
+      "rowNumber": 104
+    },
+    {
+      "SPARE MOTOR LIST": "087/06.05.25",
+      "rowNumber": 105
+    },
+    {
+      "SPARE MOTOR LIST": "162/16.06.25",
+      "rowNumber": 106
+    },
+    {
+      "SPARE MOTOR LIST": "158/14.06.25",
+      "rowNumber": 107
+    },
+    {
+      "SPARE MOTOR LIST": "243/23.07.25",
+      "rowNumber": 108
+    },
+    {
+      "SPARE MOTOR LIST": "384/18.09.25",
+      "rowNumber": 109
+    },
+    {
+      "SPARE MOTOR LIST": "530/30.10.21",
+      "rowNumber": 110
+    },
+    {
+      "SPARE MOTOR LIST": "071/28.04.25",
+      "rowNumber": 111
+    },
+    {
+      "SPARE MOTOR LIST": "592/16.10.18",
+      "rowNumber": 112
+    },
+    {
+      "SPARE MOTOR LIST": "232/18.07.25",
+      "rowNumber": 113
+    },
+    {
+      "SPARE MOTOR LIST": "258/26.07.25",
+      "rowNumber": 114
+    },
+    {
+      "SPARE MOTOR LIST": "450/10.09.14",
+      "rowNumber": 115
+    },
+    {
+      "SPARE MOTOR LIST": "143/28.05.20",
+      "rowNumber": 116
+    },
+    {
+      "SPARE MOTOR LIST": "849/13.02.25",
+      "rowNumber": 117
+    },
+    {
+      "SPARE MOTOR LIST": "801/27.01.25",
+      "rowNumber": 118
+    },
+    {
+      "SPARE MOTOR LIST": "312/24.07.24",
+      "rowNumber": 119
+    },
+    {
+      "SPARE MOTOR LIST": "514/23.10.24",
+      "rowNumber": 120
+    },
+    {
+      "SPARE MOTOR LIST": "288/02.08.22",
+      "rowNumber": 121
+    },
+    {
+      "SPARE MOTOR LIST": "178/05.06.14",
+      "rowNumber": 122
+    },
+    {
+      "SPARE MOTOR LIST": "634/02.12.21",
+      "rowNumber": 123
+    },
+    {
+      "SPARE MOTOR LIST": "849/24.02.09",
+      "rowNumber": 124
+    },
+    {
+      "SPARE MOTOR LIST": "096/09.05.23",
+      "rowNumber": 125
+    },
+    {
+      "SPARE MOTOR LIST": "101/10.05.25",
+      "rowNumber": 126
+    },
+    {
+      "SPARE MOTOR LIST": "194/30.06.25",
+      "rowNumber": 127
+    },
+    {
+      "SPARE MOTOR LIST": "257/25.07.25",
+      "rowNumber": 128
+    },
+    {
+      "SPARE MOTOR LIST": "255/25.07.25",
+      "rowNumber": 129
+    },
+    {
+      "SPARE MOTOR LIST": "301/09.08.25",
+      "rowNumber": 130
+    },
+    {
+      "SPARE MOTOR LIST": "358/05.09.25",
+      "rowNumber": 131
+    },
+    {
+      "SPARE MOTOR LIST": "338/26.08.25",
+      "rowNumber": 132
+    },
+    {
+      "SPARE MOTOR LIST": "388/22.09.25",
+      "rowNumber": 133
+    },
+    {
+      "SPARE MOTOR LIST": "485/30.10.25",
+      "rowNumber": 134
+    },
+    {
+      "SPARE MOTOR LIST": "506/12.11.25",
+      "rowNumber": 135
+    },
+    {
+      "SPARE MOTOR LIST": "404/03.10.25",
+      "rowNumber": 136
+    },
+    {
+      "SPARE MOTOR LIST": "509/07.11.22",
+      "rowNumber": 137
+    },
+    {
+      "SPARE MOTOR LIST": "897/24.03.22",
+      "rowNumber": 138
+    },
+    {
+      "SPARE MOTOR LIST": "782/25.01.21",
+      "rowNumber": 139
+    },
+    {
+      "SPARE MOTOR LIST": "399/12.09.22",
+      "rowNumber": 140
+    },
+    {
+      "SPARE MOTOR LIST": "352/30.08.25",
+      "rowNumber": 141
+    },
+    {
+      "SPARE MOTOR LIST": "723/05.02.24",
+      "rowNumber": 142
+    },
+    {
+      "SPARE MOTOR LIST": "830/01.02.25",
+      "rowNumber": 143
+    },
+    {
+      "SPARE MOTOR LIST": "200/18.06.24",
+      "rowNumber": 144
+    },
+    {
+      "SPARE MOTOR LIST": "685/09.12.24",
+      "rowNumber": 145
+    },
+    {
+      "SPARE MOTOR LIST": "654/27.12.23",
+      "rowNumber": 146
+    },
+    {
+      "SPARE MOTOR LIST": "741/22.02.23",
+      "rowNumber": 147
+    },
+    {
+      "SPARE MOTOR LIST": "492/19.10.23",
+      "rowNumber": 148
+    },
+    {
+      "SPARE MOTOR LIST": "494/25.10.13",
+      "rowNumber": 149
+    },
+    {
+      "SPARE MOTOR LIST": "050/25.01.02",
+      "rowNumber": 150
+    },
+    {
+      "SPARE MOTOR LIST": "776/09.02.22",
+      "rowNumber": 151
+    },
+    {
+      "SPARE MOTOR LIST": "633/28.11.19",
+      "rowNumber": 152
+    },
+    {
+      "SPARE MOTOR LIST": "778/09.02.22",
+      "rowNumber": 153
+    },
+    {
+      "SPARE MOTOR LIST": "558/01.12.22",
+      "rowNumber": 154
+    },
+    {
+      "SPARE MOTOR LIST": "352/24.07.18",
+      "rowNumber": 155
+    },
+    {
+      "SPARE MOTOR LIST": "808/20.03.23",
+      "rowNumber": 156
+    },
+    {
+      "SPARE MOTOR LIST": "140/01.06.22",
+      "rowNumber": 157
+    },
+    {
+      "SPARE MOTOR LIST": "620/26.10.18",
+      "rowNumber": 158
+    },
+    {
+      "SPARE MOTOR LIST": "269/27.07.22",
+      "rowNumber": 159
+    },
+    {
+      "SPARE MOTOR LIST": "117/20.05.25",
+      "rowNumber": 160
+    },
+    {
+      "SPARE MOTOR LIST": "130/29.05.25",
+      "rowNumber": 161
+    },
+    {
+      "SPARE MOTOR LIST": "156/14.06.25",
+      "rowNumber": 162
+    },
+    {
+      "SPARE MOTOR LIST": "219/10.07.25",
+      "rowNumber": 163
+    },
+    {
+      "SPARE MOTOR LIST": "231/16.07.25",
+      "rowNumber": 164
+    },
+    {
+      "SPARE MOTOR LIST": "248/10.07.20",
+      "rowNumber": 165
+    },
+    {
+      "SPARE MOTOR LIST": "108/16.05.23",
+      "rowNumber": 166
+    },
+    {
+      "SPARE MOTOR LIST": "778/14.01.25",
+      "rowNumber": 167
+    },
+    {
+      "SPARE MOTOR LIST": "859/15.02.25",
+      "rowNumber": 168
+    },
+    {
+      "SPARE MOTOR LIST": "602/18.11.24",
+      "rowNumber": 169
+    },
+    {
+      "SPARE MOTOR LIST": "185/10.06.24",
+      "rowNumber": 170
+    },
+    {
+      "SPARE MOTOR LIST": "636/25.11.24",
+      "rowNumber": 171
+    },
+    {
+      "SPARE MOTOR LIST": "388/19.09.23",
+      "rowNumber": 172
+    },
+    {
+      "SPARE MOTOR LIST": "540/05.11.07",
+      "rowNumber": 173
+    },
+    {
+      "SPARE MOTOR LIST": "394/20.08.07",
+      "rowNumber": 174
+    },
+    {
+      "SPARE MOTOR LIST": "326/06.08.20",
+      "rowNumber": 175
+    },
+    {
+      "SPARE MOTOR LIST": "777/09.02.22",
+      "rowNumber": 176
+    },
+    {
+      "SPARE MOTOR LIST": "845/05.03.14",
+      "rowNumber": 177
+    },
+    {
+      "SPARE MOTOR LIST": "101/03.05.24",
+      "rowNumber": 178
+    },
+    {
+      "SPARE MOTOR LIST": "163/11.06.22",
+      "rowNumber": 179
+    },
+    {
+      "SPARE MOTOR LIST": "668/23.01.23",
+      "rowNumber": 180
+    },
+    {
+      "SPARE MOTOR LIST": "676/22.01.13",
+      "rowNumber": 181
+    },
+    {
+      "SPARE MOTOR LIST": "411/18.08.16",
+      "rowNumber": 182
+    },
+    {
+      "SPARE MOTOR LIST": "110/08.05.24",
+      "rowNumber": 183
+    },
+    {
+      "SPARE MOTOR LIST": "217/11.06.16",
+      "rowNumber": 184
+    },
+    {
+      "SPARE MOTOR LIST": "633/01.12.17",
+      "rowNumber": 185
+    },
+    {
+      "SPARE MOTOR LIST": "751/28.01.22",
+      "rowNumber": 186
+    },
+    {
+      "SPARE MOTOR LIST": "650/16.01.23",
+      "rowNumber": 187
+    },
+    {
+      "SPARE MOTOR LIST": "898/26.03.14",
+      "rowNumber": 188
+    },
+    {
+      "SPARE MOTOR LIST": "084/02.05.25",
+      "rowNumber": 189
+    },
+    {
+      "SPARE MOTOR LIST": "132/29.05.25",
+      "rowNumber": 190
+    },
+    {
+      "SPARE MOTOR LIST": "119/20.05.25",
+      "rowNumber": 191
+    },
+    {
+      "SPARE MOTOR LIST": "139/03.06.25",
+      "rowNumber": 192
+    },
+    {
+      "SPARE MOTOR LIST": "183/26.06.25",
+      "rowNumber": 193
+    },
+    {
+      "SPARE MOTOR LIST": "247/25.07.25",
+      "rowNumber": 194
+    },
+    {
+      "SPARE MOTOR LIST": "005/02.04.24",
+      "rowNumber": 195
+    },
+    {
+      "SPARE MOTOR LIST": "563/07.11.24",
+      "rowNumber": 196
+    },
+    {
+      "SPARE MOTOR LIST": "406/03.10.25",
+      "rowNumber": 197
+    },
+    {
+      "SPARE MOTOR LIST": "405/03.10.25",
+      "rowNumber": 198
+    },
+    {
+      "SPARE MOTOR LIST": "487/31.10.25",
+      "rowNumber": 199
+    },
+    {
+      "SPARE MOTOR LIST": "526/22.11.25",
+      "rowNumber": 200
+    },
+    {
+      "SPARE MOTOR LIST": "605/02.12.25",
+      "rowNumber": 201
+    },
+    {
+      "SPARE MOTOR LIST": "236/15.07.22",
+      "rowNumber": 202
+    },
+    {
+      "SPARE MOTOR LIST": "398/28.08.24",
+      "rowNumber": 203
+    },
+    {
+      "SPARE MOTOR LIST": "121/15.05.24",
+      "rowNumber": 204
+    },
+    {
+      "SPARE MOTOR LIST": "802/03.02.20",
+      "rowNumber": 205
+    },
+    {
+      "SPARE MOTOR LIST": "298/30.07.11",
+      "rowNumber": 206
+    },
+    {
+      "SPARE MOTOR LIST": "875/24.03.08",
+      "rowNumber": 207
+    },
+    {
+      "SPARE MOTOR LIST": "297/22.07.24",
+      "rowNumber": 208
+    },
+    {
+      "SPARE MOTOR LIST": "022/11.04.17",
+      "rowNumber": 209
+    },
+    {
+      "SPARE MOTOR LIST": "724/15.02.23",
+      "rowNumber": 210
+    },
+    {
+      "SPARE MOTOR LIST": "791/21.01.25",
+      "rowNumber": 211
+    },
+    {
+      "SPARE MOTOR LIST": "364/12.08.24",
+      "rowNumber": 212
+    },
+    {
+      "SPARE MOTOR LIST": "373/20.08.24",
+      "rowNumber": 213
+    },
+    {
+      "SPARE MOTOR LIST": "154/27.05.24",
+      "rowNumber": 214
+    },
+    {
+      "SPARE MOTOR LIST": "880/03.03.25",
+      "rowNumber": 215
+    },
+    {
+      "SPARE MOTOR LIST": "861/17.02.25",
+      "rowNumber": 216
+    },
+    {
+      "SPARE MOTOR LIST": "670/07.12.24",
+      "rowNumber": 217
+    },
+    {
+      "SPARE MOTOR LIST": "588/16.11.24",
+      "rowNumber": 218
+    },
+    {
+      "SPARE MOTOR LIST": "656/03.12.24",
+      "rowNumber": 219
+    },
+    {
+      "SPARE MOTOR LIST": "318/10.08.23",
+      "rowNumber": 220
+    },
+    {
+      "SPARE MOTOR LIST": "202/01.07.23",
+      "rowNumber": 221
+    },
+    {
+      "SPARE MOTOR LIST": "051/20.04.18",
+      "rowNumber": 222
+    },
+    {
+      "SPARE MOTOR LIST": "334/07.08.20",
+      "rowNumber": 223
+    },
+    {
+      "SPARE MOTOR LIST": "961/07.03.19",
+      "rowNumber": 224
+    },
+    {
+      "SPARE MOTOR LIST": "391/07.09.17",
+      "rowNumber": 225
+    },
+    {
+      "SPARE MOTOR LIST": "384/11.08.16",
+      "rowNumber": 226
+    },
+    {
+      "SPARE MOTOR LIST": "105/16.05.20",
+      "rowNumber": 227
+    },
+    {
+      "SPARE MOTOR LIST": "275/26.07.23",
+      "rowNumber": 228
+    },
+    {
+      "SPARE MOTOR LIST": "334/23.08.23",
+      "rowNumber": 229
+    },
+    {
+      "SPARE MOTOR LIST": "126/24.05.23",
+      "rowNumber": 230
+    },
+    {
+      "SPARE MOTOR LIST": "286/31.07.23",
+      "rowNumber": 231
+    },
+    {
+      "SPARE MOTOR LIST": "226/29.06.20",
+      "rowNumber": 232
+    },
+    {
+      "SPARE MOTOR LIST": "188/21.06.23",
+      "rowNumber": 233
+    },
+    {
+      "SPARE MOTOR LIST": "544/10.12.11",
+      "rowNumber": 234
+    },
+    {
+      "SPARE MOTOR LIST": "323/13.08.19",
+      "rowNumber": 235
+    },
+    {
+      "SPARE MOTOR LIST": "588/25.11.23",
+      "rowNumber": 236
+    },
+    {
+      "SPARE MOTOR LIST": "492/11.09.18",
+      "rowNumber": 237
+    },
+    {
+      "SPARE MOTOR LIST": "202/29.05.18",
+      "rowNumber": 238
+    },
+    {
+      "SPARE MOTOR LIST": "700/14.12.24",
+      "rowNumber": 239
+    },
+    {
+      "SPARE MOTOR LIST": "723/15.02.23",
+      "rowNumber": 240
+    },
+    {
+      "SPARE MOTOR LIST": "925/19.02.19",
+      "rowNumber": 241
+    },
+    {
+      "SPARE MOTOR LIST": "765/20.01.18",
+      "rowNumber": 242
+    },
+    {
+      "SPARE MOTOR LIST": "356/17.08.20",
+      "rowNumber": 243
+    },
+    {
+      "SPARE MOTOR LIST": "370/01.09.21",
+      "rowNumber": 244
+    },
+    {
+      "SPARE MOTOR LIST": "135/21.06.21",
+      "rowNumber": 245
+    },
+    {
+      "SPARE MOTOR LIST": "254/05.08.21",
+      "rowNumber": 246
+    },
+    {
+      "SPARE MOTOR LIST": "743/05.01.21",
+      "rowNumber": 247
+    },
+    {
+      "SPARE MOTOR LIST": "607/06.12.23",
+      "rowNumber": 248
+    },
+    {
+      "SPARE MOTOR LIST": "033/18.04.22",
+      "rowNumber": 249
+    },
+    {
+      "SPARE MOTOR LIST": "290/28.07.17",
+      "rowNumber": 250
+    },
+    {
+      "SPARE MOTOR LIST": "758/30.12.16",
+      "rowNumber": 251
+    },
+    {
+      "SPARE MOTOR LIST": "389/07.09.21",
+      "rowNumber": 252
+    },
+    {
+      "SPARE MOTOR LIST": "",
+      "rowNumber": 253
+    },
+    {
+      "SPARE MOTOR LIST": "480/07.10.24",
+      "rowNumber": 254
+    },
+    {
+      "SPARE MOTOR LIST": "059/25.04.25",
+      "rowNumber": 255
+    },
+    {
+      "SPARE MOTOR LIST": "088/06.05.25",
+      "rowNumber": 256
+    },
+    {
+      "SPARE MOTOR LIST": "222/14.07.25",
+      "rowNumber": 257
+    },
+    {
+      "SPARE MOTOR LIST": "268/30.07.25",
+      "rowNumber": 258
+    },
+    {
+      "SPARE MOTOR LIST": "377/12.09.25",
+      "rowNumber": 259
+    },
+    {
+      "SPARE MOTOR LIST": "297/04.08.23",
+      "rowNumber": 260
+    },
+    {
+      "SPARE MOTOR LIST": "440/13.10.25",
+      "rowNumber": 261
+    },
+    {
+      "SPARE MOTOR LIST": "464/22.10.25",
+      "rowNumber": 262
+    },
+    {
+      "SPARE MOTOR LIST": "661/06.12.24",
+      "rowNumber": 263
+    },
+    {
+      "SPARE MOTOR LIST": "391/25.09.25",
+      "rowNumber": 264
+    },
+    {
+      "SPARE MOTOR LIST": "539/25.11.25",
+      "rowNumber": 265
+    },
+    {
+      "SPARE MOTOR LIST": "618/09.12.25",
+      "rowNumber": 266
+    },
+    {
+      "SPARE MOTOR LIST": "565/17.11.23",
+      "rowNumber": 267
+    },
+    {
+      "SPARE MOTOR LIST": "525/28.10.23",
+      "rowNumber": 268
+    },
+    {
+      "SPARE MOTOR LIST": "427/23.09.23",
+      "rowNumber": 269
+    },
+    {
+      "SPARE MOTOR LIST": "329/02.08.24",
+      "rowNumber": 270
+    },
+    {
+      "SPARE MOTOR LIST": "131/16.06.21",
+      "rowNumber": 271
+    },
+    {
+      "SPARE MOTOR LIST": "078/11.02.03",
+      "rowNumber": 272
+    },
+    {
+      "SPARE MOTOR LIST": "667/16.01.13",
+      "rowNumber": 273
+    },
+    {
+      "SPARE MOTOR LIST": "617/03.01.23",
+      "rowNumber": 274
+    },
+    {
+      "SPARE MOTOR LIST": "789/11.03.24",
+      "rowNumber": 275
+    },
+    {
+      "SPARE MOTOR LIST": "176/05.06.19",
+      "rowNumber": 276
+    },
+    {
+      "SPARE MOTOR LIST": "678/28.01.23",
+      "rowNumber": 277
+    },
+    {
+      "SPARE MOTOR LIST": "102/07.05.19",
+      "rowNumber": 278
+    },
+    {
+      "SPARE MOTOR LIST": "834/22.02.18",
+      "rowNumber": 279
+    },
+    {
+      "SPARE MOTOR LIST": "674/24.11.15",
+      "rowNumber": 280
+    },
+    {
+      "SPARE MOTOR LIST": "582/31.10.16",
+      "rowNumber": 281
+    },
+    {
+      "SPARE MOTOR LIST": "800/16.01.17",
+      "rowNumber": 282
+    },
+    {
+      "SPARE MOTOR LIST": "836/22.02.18",
+      "rowNumber": 283
+    },
+    {
+      "SPARE MOTOR LIST": "307/02.08.17",
+      "rowNumber": 284
+    },
+    {
+      "SPARE MOTOR LIST": "002/04.04.17",
+      "rowNumber": 285
+    },
+    {
+      "SPARE MOTOR LIST": "840/28.01.17",
+      "rowNumber": 286
+    },
+    {
+      "SPARE MOTOR LIST": "434/23.09.21",
+      "rowNumber": 287
+    },
+    {
+      "SPARE MOTOR LIST": "835/22.02.18",
+      "rowNumber": 288
+    },
+    {
+      "SPARE MOTOR LIST": "512/24.11.11",
+      "rowNumber": 289
+    },
+    {
+      "SPARE MOTOR LIST": "083/10.05.12",
+      "rowNumber": 290
+    },
+    {
+      "SPARE MOTOR LIST": "396/21.08.07",
+      "rowNumber": 291
+    },
+    {
+      "SPARE MOTOR LIST": "136/20.06.01",
+      "rowNumber": 292
+    },
+    {
+      "SPARE MOTOR LIST": "445/21.09.24",
+      "rowNumber": 293
+    },
+    {
+      "SPARE MOTOR LIST": "269/30.07.25",
+      "rowNumber": 294
+    },
+    {
+      "SPARE MOTOR LIST": "273/01.08.25",
+      "rowNumber": 295
+    },
+    {
+      "SPARE MOTOR LIST": "311/13.08.25",
+      "rowNumber": 296
+    },
+    {
+      "SPARE MOTOR LIST": "277/01.08.25",
+      "rowNumber": 297
+    },
+    {
+      "SPARE MOTOR LIST": "283/06.08.25",
+      "rowNumber": 298
+    },
+    {
+      "SPARE MOTOR LIST": "207/05.07.25",
+      "rowNumber": 299
+    },
+    {
+      "SPARE MOTOR LIST": "659/05.12.24",
+      "rowNumber": 300
+    },
+    {
+      "SPARE MOTOR LIST": "066/28.04.25",
+      "rowNumber": 301
+    },
+    {
+      "SPARE MOTOR LIST": "339/26.08.25",
+      "rowNumber": 302
+    },
+    {
+      "SPARE MOTOR LIST": "193/29.06.25",
+      "rowNumber": 303
+    },
+    {
+      "SPARE MOTOR LIST": "567/27.11.25",
+      "rowNumber": 304
+    },
+    {
+      "SPARE MOTOR LIST": "904/21.03.25",
+      "rowNumber": 305
+    },
+    {
+      "SPARE MOTOR LIST": "372/18.08.24",
+      "rowNumber": 306
+    },
+    {
+      "SPARE MOTOR LIST": "423/04.09.24",
+      "rowNumber": 307
+    },
+    {
+      "SPARE MOTOR LIST": "671/07.12.24",
+      "rowNumber": 308
+    },
+    {
+      "SPARE MOTOR LIST": "638/21.12.23",
+      "rowNumber": 309
+    },
+    {
+      "SPARE MOTOR LIST": "189/21.06.23",
+      "rowNumber": 310
+    },
+    {
+      "SPARE MOTOR LIST": "1000/21.03.19",
+      "rowNumber": 311
+    },
+    {
+      "SPARE MOTOR LIST": "1019/26.03.19",
+      "rowNumber": 312
+    },
+    {
+      "SPARE MOTOR LIST": "315/24.07.24",
+      "rowNumber": 313
+    },
+    {
+      "SPARE MOTOR LIST": "027/09.04.24",
+      "rowNumber": 314
+    },
+    {
+      "SPARE MOTOR LIST": "796/31.01.20",
+      "rowNumber": 315
+    },
+    {
+      "SPARE MOTOR LIST": "928/13.03.15",
+      "rowNumber": 316
+    },
+    {
+      "SPARE MOTOR LIST": "902/28.03.14",
+      "rowNumber": 317
+    },
+    {
+      "SPARE MOTOR LIST": "1010/6.02.04",
+      "rowNumber": 318
+    },
+    {
+      "SPARE MOTOR LIST": "369/06.09.23",
+      "rowNumber": 319
+    },
+    {
+      "SPARE MOTOR LIST": "907/17.03.20",
+      "rowNumber": 320
+    },
+    {
+      "SPARE MOTOR LIST": "506/05.11.22",
+      "rowNumber": 321
+    },
+    {
+      "SPARE MOTOR LIST": "791/14.02.22",
+      "rowNumber": 322
+    },
+    {
+      "SPARE MOTOR LIST": "759/17.01.18",
+      "rowNumber": 323
+    },
+    {
+      "SPARE MOTOR LIST": "532/30.10.21",
+      "rowNumber": 324
+    },
+    {
+      "SPARE MOTOR LIST": "862/07.03.18",
+      "rowNumber": 325
+    },
+    {
+      "SPARE MOTOR LIST": "491/20.09.16",
+      "rowNumber": 326
+    },
+    {
+      "SPARE MOTOR LIST": "465/12.10.23",
+      "rowNumber": 327
+    },
+    {
+      "SPARE MOTOR LIST": "646/21.12.13",
+      "rowNumber": 328
+    },
+    {
+      "SPARE MOTOR LIST": "386/05.09.22",
+      "rowNumber": 329
+    },
+    {
+      "SPARE MOTOR LIST": "096/06.05.19",
+      "rowNumber": 330
+    },
+    {
+      "SPARE MOTOR LIST": "805/03.02.20",
+      "rowNumber": 331
+    },
+    {
+      "SPARE MOTOR LIST": "732/11.12.18",
+      "rowNumber": 332
+    },
+    {
+      "SPARE MOTOR LIST": "318/06.08.15",
+      "rowNumber": 333
+    },
+    {
+      "SPARE MOTOR LIST": "194/26.05.18",
+      "rowNumber": 334
+    },
+    {
+      "SPARE MOTOR LIST": "595/07.12.12",
+      "rowNumber": 335
+    },
+    {
+      "SPARE MOTOR LIST": "181/28.05.13",
+      "rowNumber": 336
+    },
+    {
+      "SPARE MOTOR LIST": "444/24.09.09",
+      "rowNumber": 337
+    },
+    {
+      "SPARE MOTOR LIST": "760/19.01.15",
+      "rowNumber": 338
+    },
+    {
+      "SPARE MOTOR LIST": "647/02.12.19",
+      "rowNumber": 339
+    },
+    {
+      "SPARE MOTOR LIST": "255/28.06.13",
+      "rowNumber": 340
+    },
+    {
+      "SPARE MOTOR LIST": "667/13.12.06",
+      "rowNumber": 341
+    },
+    {
+      "SPARE MOTOR LIST": "493/13.10.17",
+      "rowNumber": 342
+    },
+    {
+      "SPARE MOTOR LIST": "551/24.10.20",
+      "rowNumber": 343
+    },
+    {
+      "SPARE MOTOR LIST": "745/23.02.23",
+      "rowNumber": 344
+    },
+    {
+      "SPARE MOTOR LIST": "109/16.05.25",
+      "rowNumber": 345
+    },
+    {
+      "SPARE MOTOR LIST": "494/03.11.25",
+      "rowNumber": 346
+    },
+    {
+      "SPARE MOTOR LIST": "518/25.10.23",
+      "rowNumber": 347
+    },
+    {
+      "SPARE MOTOR LIST": "395/27.09.25",
+      "rowNumber": 348
+    },
+    {
+      "SPARE MOTOR LIST": "556/26.11.25",
+      "rowNumber": 349
+    },
+    {
+      "SPARE MOTOR LIST": "555/26.11.25",
+      "rowNumber": 350
+    },
+    {
+      "SPARE MOTOR LIST": "082/02.05.25",
+      "rowNumber": 351
+    },
+    {
+      "SPARE MOTOR LIST": "831/01.02.25",
+      "rowNumber": 352
+    },
+    {
+      "SPARE MOTOR LIST": "672/07.12.24",
+      "rowNumber": 353
+    },
+    {
+      "SPARE MOTOR LIST": "704/24.01.24",
+      "rowNumber": 354
+    },
+    {
+      "SPARE MOTOR LIST": "733/09.02.24",
+      "rowNumber": 355
+    },
+    {
+      "SPARE MOTOR LIST": "821/06.02.20",
+      "rowNumber": 356
+    },
+    {
+      "SPARE MOTOR LIST": "834/30.03.23",
+      "rowNumber": 357
+    },
+    {
+      "SPARE MOTOR LIST": "482/03.10.14",
+      "rowNumber": 358
+    },
+    {
+      "SPARE MOTOR LIST": "032/16.04.18",
+      "rowNumber": 359
+    },
+    {
+      "SPARE MOTOR LIST": "337/10.08.20",
+      "rowNumber": 360
+    },
+    {
+      "SPARE MOTOR LIST": "542/27.10.17",
+      "rowNumber": 361
+    },
+    {
+      "SPARE MOTOR LIST": "369/25.08.20",
+      "rowNumber": 362
+    },
+    {
+      "SPARE MOTOR LIST": "325/06.08.20",
+      "rowNumber": 363
+    },
+    {
+      "SPARE MOTOR LIST": "616/19.11.24",
+      "rowNumber": 364
+    },
+    {
+      "SPARE MOTOR LIST": "560/13.11.23",
+      "rowNumber": 365
+    },
+    {
+      "SPARE MOTOR LIST": "535/30.10.21",
+      "rowNumber": 366
+    },
+    {
+      "SPARE MOTOR LIST": "533/30.10.21",
+      "rowNumber": 367
+    },
+    {
+      "SPARE MOTOR LIST": "",
+      "rowNumber": 368
+    },
+    {
+      "SPARE MOTOR LIST": "593/16.11.21",
+      "rowNumber": 369
+    },
+    {
+      "SPARE MOTOR LIST": "739/10.01.07",
+      "rowNumber": 370
+    },
+    {
+      "SPARE MOTOR LIST": "267/02.07.16",
+      "rowNumber": 371
+    },
+    {
+      "SPARE MOTOR LIST": "809/08.02.21",
+      "rowNumber": 372
+    },
+    {
+      "SPARE MOTOR LIST": "650/13.12.14",
+      "rowNumber": 373
+    },
+    {
+      "SPARE MOTOR LIST": "251/28.06.13",
+      "rowNumber": 374
+    },
+    {
+      "SPARE MOTOR LIST": "656/26.12.13",
+      "rowNumber": 375
+    },
+    {
+      "SPARE MOTOR LIST": "005/03.04.18",
+      "rowNumber": 376
+    },
+    {
+      "SPARE MOTOR LIST": "566/25.11.09",
+      "rowNumber": 377
+    },
+    {
+      "SPARE MOTOR LIST": "089/06.05.25",
+      "rowNumber": 378
+    },
+    {
+      "SPARE MOTOR LIST": "375/12.09.25",
+      "rowNumber": 379
+    },
+    {
+      "SPARE MOTOR LIST": "374/12.09.25",
+      "rowNumber": 380
+    },
+    {
+      "SPARE MOTOR LIST": "305/23.07.24",
+      "rowNumber": 381
+    },
+    {
+      "SPARE MOTOR LIST": "156/17.05.08",
+      "rowNumber": 382
+    },
+    {
+      "SPARE MOTOR LIST": "906/22.03.25",
+      "rowNumber": 383
+    },
+    {
+      "SPARE MOTOR LIST": "775/14.01.25",
+      "rowNumber": 384
+    },
+    {
+      "SPARE MOTOR LIST": "184/19.06.23",
+      "rowNumber": 385
+    },
+    {
+      "SPARE MOTOR LIST": "826/31.01.25",
+      "rowNumber": 386
+    },
+    {
+      "SPARE MOTOR LIST": "498/18.10.24",
+      "rowNumber": 387
+    },
+    {
+      "SPARE MOTOR LIST": "107/07.05.24",
+      "rowNumber": 388
+    },
+    {
+      "SPARE MOTOR LIST": "004/02.04.24",
+      "rowNumber": 389
+    },
+    {
+      "SPARE MOTOR LIST": "048/12.04.24",
+      "rowNumber": 390
+    },
+    {
+      "SPARE MOTOR LIST": "526/19.10.20",
+      "rowNumber": 391
+    },
+    {
+      "SPARE MOTOR LIST": "722/19.01.22",
+      "rowNumber": 392
+    },
+    {
+      "SPARE MOTOR LIST": "034/18.04.22",
+      "rowNumber": 393
+    },
+    {
+      "SPARE MOTOR LIST": "721/31.12.20",
+      "rowNumber": 394
+    },
+    {
+      "SPARE MOTOR LIST": "598/18.11.24",
+      "rowNumber": 395
+    },
+    {
+      "SPARE MOTOR LIST": "477/05.10.07",
+      "rowNumber": 396
+    },
+    {
+      "SPARE MOTOR LIST": "210/04.08.10",
+      "rowNumber": 397
+    },
+    {
+      "SPARE MOTOR LIST": "876/22.02.20",
+      "rowNumber": 398
+    },
+    {
+      "SPARE MOTOR LIST": "875/22.02.20",
+      "rowNumber": 399
+    },
+    {
+      "SPARE MOTOR LIST": "818/12.02.21",
+      "rowNumber": 400
+    },
+    {
+      "SPARE MOTOR LIST": "277/27.07.23",
+      "rowNumber": 401
+    },
+    {
+      "SPARE MOTOR LIST": "730/21.01.22",
+      "rowNumber": 402
+    },
+    {
+      "SPARE MOTOR LIST": "121/22.05.23",
+      "rowNumber": 403
+    },
+    {
+      "SPARE MOTOR LIST": "746/16.10.03",
+      "rowNumber": 404
+    },
+    {
+      "SPARE MOTOR LIST": "906/29.03.22",
+      "rowNumber": 405
+    },
+    {
+      "SPARE MOTOR LIST": "754/12.01.18",
+      "rowNumber": 406
+    },
+    {
+      "SPARE MOTOR LIST": "729/20.12.16",
+      "rowNumber": 407
+    },
+    {
+      "SPARE MOTOR LIST": "747/13.01.20",
+      "rowNumber": 408
+    },
+    {
+      "SPARE MOTOR LIST": "218/24.06.14",
+      "rowNumber": 409
+    },
+    {
+      "SPARE MOTOR LIST": "067/28.04.25",
+      "rowNumber": 410
+    },
+    {
+      "SPARE MOTOR LIST": "086/02.05.25",
+      "rowNumber": 411
+    },
+    {
+      "SPARE MOTOR LIST": "095/10.05.25",
+      "rowNumber": 412
+    },
+    {
+      "SPARE MOTOR LIST": "202/04.07.25",
+      "rowNumber": 413
+    },
+    {
+      "SPARE MOTOR LIST": "319/19.08.25",
+      "rowNumber": 414
+    },
+    {
+      "SPARE MOTOR LIST": "431/09.10.25",
+      "rowNumber": 415
+    },
+    {
+      "SPARE MOTOR LIST": "553/26.11.25",
+      "rowNumber": 416
+    },
+    {
+      "SPARE MOTOR LIST": "554/26.11.25",
+      "rowNumber": 417
+    },
+    {
+      "SPARE MOTOR LIST": "596/01.12.25",
+      "rowNumber": 418
+    },
+    {
+      "SPARE MOTOR LIST": "041/11.04.24",
+      "rowNumber": 419
+    },
+    {
+      "SPARE MOTOR LIST": "633/22.11.08",
+      "rowNumber": 420
+    },
+    {
+      "SPARE MOTOR LIST": "360/22.08.20",
+      "rowNumber": 421
+    },
+    {
+      "SPARE MOTOR LIST": "166/18.06.25",
+      "rowNumber": 422
+    },
+    {
+      "SPARE MOTOR LIST": "381/18.08.15",
+      "rowNumber": 423
+    },
+    {
+      "SPARE MOTOR LIST": "964/31.12.03",
+      "rowNumber": 424
+    },
+    {
+      "SPARE MOTOR LIST": "018/05.04.24",
+      "rowNumber": 425
+    },
+    {
+      "SPARE MOTOR LIST": "733/28.12.24",
+      "rowNumber": 426
+    },
+    {
+      "SPARE MOTOR LIST": "571/12.11.24",
+      "rowNumber": 427
+    },
+    {
+      "SPARE MOTOR LIST": "614/08.11.16",
+      "rowNumber": 428
+    },
+    {
+      "SPARE MOTOR LIST": "248/04.08.21",
+      "rowNumber": 429
+    },
+    {
+      "SPARE MOTOR LIST": "085/02.05.19",
+      "rowNumber": 430
+    },
+    {
+      "SPARE MOTOR LIST": "602/18.11.19",
+      "rowNumber": 431
+    },
+    {
+      "SPARE MOTOR LIST": "376/09.09.23",
+      "rowNumber": 432
+    },
+    {
+      "SPARE MOTOR LIST": "489/14.10.24",
+      "rowNumber": 433
+    },
+    {
+      "SPARE MOTOR LIST": "456/07.10.21",
+      "rowNumber": 434
+    },
+    {
+      "SPARE MOTOR LIST": "345/12.08.13",
+      "rowNumber": 435
+    },
+    {
+      "SPARE MOTOR LIST": "406/15.09.21",
+      "rowNumber": 436
+    },
+    {
+      "SPARE MOTOR LIST": "342/12.08.15",
+      "rowNumber": 437
+    },
+    {
+      "SPARE MOTOR LIST": "351/16.08.13",
+      "rowNumber": 438
+    },
+    {
+      "SPARE MOTOR LIST": "116/08.05.18",
+      "rowNumber": 439
+    },
+    {
+      "SPARE MOTOR LIST": "417/18.11.10",
+      "rowNumber": 440
+    },
+    {
+      "SPARE MOTOR LIST": "258/31.07.06",
+      "rowNumber": 441
+    },
+    {
+      "SPARE MOTOR LIST": "078/26.04.18",
+      "rowNumber": 442
+    },
+    {
+      "SPARE MOTOR LIST": "060/25.04.17",
+      "rowNumber": 443
+    },
+    {
+      "SPARE MOTOR LIST": "1027/30.03.16",
+      "rowNumber": 444
+    },
+    {
+      "SPARE MOTOR LIST": "734/25.02.13",
+      "rowNumber": 445
+    },
+    {
+      "SPARE MOTOR LIST": "665/14.12.17",
+      "rowNumber": 446
+    },
+    {
+      "SPARE MOTOR LIST": "803/16.01.17",
+      "rowNumber": 447
+    },
+    {
+      "SPARE MOTOR LIST": "979/16.03.17",
+      "rowNumber": 448
+    },
+    {
+      "SPARE MOTOR LIST": "757/06.02.14",
+      "rowNumber": 449
+    },
+    {
+      "SPARE MOTOR LIST": "630/11.11.15",
+      "rowNumber": 450
+    },
+    {
+      "SPARE MOTOR LIST": "631/11.11.15",
+      "rowNumber": 451
+    },
+    {
+      "SPARE MOTOR LIST": "913/26.03.07",
+      "rowNumber": 452
+    },
+    {
+      "SPARE MOTOR LIST": "754/27.02.23",
+      "rowNumber": 453
+    },
+    {
+      "SPARE MOTOR LIST": "633/15.11.16",
+      "rowNumber": 454
+    },
+    {
+      "SPARE MOTOR LIST": "529/30.10.24",
+      "rowNumber": 455
+    },
+    {
+      "SPARE MOTOR LIST": "129/16.05.18",
+      "rowNumber": 456
+    },
+    {
+      "SPARE MOTOR LIST": "294/31.07.12",
+      "rowNumber": 457
+    },
+    {
+      "SPARE MOTOR LIST": "393/07.08.18",
+      "rowNumber": 458
+    },
+    {
+      "SPARE MOTOR LIST": "282/23.06.18",
+      "rowNumber": 459
+    },
+    {
+      "SPARE MOTOR LIST": "1024/13.02.04",
+      "rowNumber": 460
+    },
+    {
+      "SPARE MOTOR LIST": "084/12.05.06",
+      "rowNumber": 461
+    },
+    {
+      "SPARE MOTOR LIST": "535/31.10.23",
+      "rowNumber": 462
+    },
+    {
+      "SPARE MOTOR LIST": "455/06.10.23",
+      "rowNumber": 463
+    },
+    {
+      "SPARE MOTOR LIST": "602/30.12.22",
+      "rowNumber": 464
+    },
+    {
+      "SPARE MOTOR LIST": "041/17.04.18",
+      "rowNumber": 465
+    },
+    {
+      "SPARE MOTOR LIST": "312/13.08.25",
+      "rowNumber": 466
+    },
+    {
+      "SPARE MOTOR LIST": "535/24.11.25",
+      "rowNumber": 467
+    },
+    {
+      "SPARE MOTOR LIST": "346/12.08.13",
+      "rowNumber": 468
+    },
+    {
+      "SPARE MOTOR LIST": "347/12.08.13",
+      "rowNumber": 469
+    },
+    {
+      "SPARE MOTOR LIST": "188/30.05.16",
+      "rowNumber": 470
+    },
+    {
+      "SPARE MOTOR LIST": "452/05.10.23",
+      "rowNumber": 471
+    },
+    {
+      "SPARE MOTOR LIST": "897/17.03.25",
+      "rowNumber": 472
+    },
+    {
+      "SPARE MOTOR LIST": "867/20.02.25",
+      "rowNumber": 473
+    },
+    {
+      "SPARE MOTOR LIST": "035/09.04.24",
+      "rowNumber": 474
+    },
+    {
+      "SPARE MOTOR LIST": "137/21.05.24",
+      "rowNumber": 475
+    },
+    {
+      "SPARE MOTOR LIST": "479/07.10.24",
+      "rowNumber": 476
+    },
+    {
+      "SPARE MOTOR LIST": "734/28.12.24",
+      "rowNumber": 477
+    },
+    {
+      "SPARE MOTOR LIST": "718/30.01.24",
+      "rowNumber": 478
+    },
+    {
+      "SPARE MOTOR LIST": "635/25.11.24",
+      "rowNumber": 479
+    },
+    {
+      "SPARE MOTOR LIST": "405/29.08.24",
+      "rowNumber": 480
+    },
+    {
+      "SPARE MOTOR LIST": "311/08.08.19",
+      "rowNumber": 481
+    },
+    {
+      "SPARE MOTOR LIST": "964/08.03.16",
+      "rowNumber": 482
+    },
+    {
+      "SPARE MOTOR LIST": "472/05.10.24",
+      "rowNumber": 483
+    },
+    {
+      "SPARE MOTOR LIST": "028/10.04.04",
+      "rowNumber": 484
+    },
+    {
+      "SPARE MOTOR LIST": "504/13.10.14",
+      "rowNumber": 485
+    },
+    {
+      "SPARE MOTOR LIST": "436/14.09.20",
+      "rowNumber": 486
+    },
+    {
+      "SPARE MOTOR LIST": "293/01.08.23",
+      "rowNumber": 487
+    },
+    {
+      "SPARE MOTOR LIST": "357/13.08.15",
+      "rowNumber": 488
+    },
+    {
+      "SPARE MOTOR LIST": "263/09.07.24",
+      "rowNumber": 489
+    },
+    {
+      "SPARE MOTOR LIST": "648/08.11.18",
+      "rowNumber": 490
+    },
+    {
+      "SPARE MOTOR LIST": "653/17.01.23",
+      "rowNumber": 491
+    },
+    {
+      "SPARE MOTOR LIST": "145/05.06.12",
+      "rowNumber": 492
+    },
+    {
+      "SPARE MOTOR LIST": "023/11.04.17",
+      "rowNumber": 493
+    },
+    {
+      "SPARE MOTOR LIST": "359/26.08.11",
+      "rowNumber": 494
+    },
+    {
+      "SPARE MOTOR LIST": "797/14.03.23",
+      "rowNumber": 495
+    },
+    {
+      "SPARE MOTOR LIST": "774/04.01.17",
+      "rowNumber": 496
+    },
+    {
+      "SPARE MOTOR LIST": "801/28.01.15",
+      "rowNumber": 497
+    },
+    {
+      "SPARE MOTOR LIST": "517/07.01.11",
+      "rowNumber": 498
+    },
+    {
+      "SPARE MOTOR LIST": "376/02.09.19",
+      "rowNumber": 499
+    },
+    {
+      "SPARE MOTOR LIST": "580/29.10.16",
+      "rowNumber": 500
+    },
+    {
+      "SPARE MOTOR LIST": "773/04.01.17",
+      "rowNumber": 501
+    },
+    {
+      "SPARE MOTOR LIST": "775/04.01.17",
+      "rowNumber": 502
+    },
+    {
+      "SPARE MOTOR LIST": "776/04.01.17",
+      "rowNumber": 503
+    },
+    {
+      "SPARE MOTOR LIST": "305/18.07.16",
+      "rowNumber": 504
+    },
+    {
+      "SPARE MOTOR LIST": "404/17.08.16",
+      "rowNumber": 505
+    },
+    {
+      "SPARE MOTOR LIST": "033/21.04.20",
+      "rowNumber": 506
+    },
+    {
+      "SPARE MOTOR LIST": "158/23.06.15",
+      "rowNumber": 507
+    },
+    {
+      "SPARE MOTOR LIST": "353/18.08.20",
+      "rowNumber": 508
+    },
+    {
+      "SPARE MOTOR LIST": "347/20.08.22",
+      "rowNumber": 509
+    },
+    {
+      "SPARE MOTOR LIST": "445/28.09.21",
+      "rowNumber": 510
+    },
+    {
+      "SPARE MOTOR LIST": "273/05.07.16",
+      "rowNumber": 511
+    },
+    {
+      "SPARE MOTOR LIST": "373/01.09.21",
+      "rowNumber": 512
+    },
+    {
+      "SPARE MOTOR LIST": "045/17.04.18",
+      "rowNumber": 513
+    },
+    {
+      "SPARE MOTOR LIST": "042/20.04.19",
+      "rowNumber": 514
+    },
+    {
+      "SPARE MOTOR LIST": "186/20.06.22",
+      "rowNumber": 515
+    },
+    {
+      "SPARE MOTOR LIST": "313/04.08.15",
+      "rowNumber": 516
+    },
+    {
+      "SPARE MOTOR LIST": "558/29.10.20",
+      "rowNumber": 517
+    },
+    {
+      "SPARE MOTOR LIST": "145/01.06.22",
+      "rowNumber": 518
+    },
+    {
+      "SPARE MOTOR LIST": "257/08.07.04",
+      "rowNumber": 519
+    },
+    {
+      "SPARE MOTOR LIST": "959/07.03.19",
+      "rowNumber": 520
+    },
+    {
+      "SPARE MOTOR LIST": "882/06.03.07",
+      "rowNumber": 521
+    },
+    {
+      "SPARE MOTOR LIST": "048/23.04.25",
+      "rowNumber": 522
+    },
+    {
+      "SPARE MOTOR LIST": "058/25.04.25",
+      "rowNumber": 523
+    },
+    {
+      "SPARE MOTOR LIST": "779/09.02.22",
+      "rowNumber": 524
+    },
+    {
+      "SPARE MOTOR LIST": "185/28.06.25",
+      "rowNumber": 525
+    },
+    {
+      "SPARE MOTOR LIST": "161/16.06.25",
+      "rowNumber": 526
+    },
+    {
+      "SPARE MOTOR LIST": "279/01.08.25",
+      "rowNumber": 527
+    },
+    {
+      "SPARE MOTOR LIST": "272/31.07.25",
+      "rowNumber": 528
+    },
+    {
+      "SPARE MOTOR LIST": "436/11.10.25",
+      "rowNumber": 529
+    },
+    {
+      "SPARE MOTOR LIST": "826/28.03.23",
+      "rowNumber": 530
+    },
+    {
+      "SPARE MOTOR LIST": "331/22.08.25",
+      "rowNumber": 531
+    },
+    {
+      "SPARE MOTOR LIST": "111/08.05.24",
+      "rowNumber": 532
+    },
+    {
+      "SPARE MOTOR LIST": "473/27.10.25",
+      "rowNumber": 533
+    },
+    {
+      "SPARE MOTOR LIST": "598/01.12.25",
+      "rowNumber": 534
+    },
+    {
+      "SPARE MOTOR LIST": "623/13.12.25",
+      "rowNumber": 535
+    },
+    {
+      "SPARE MOTOR LIST": "109/18.05.23",
+      "rowNumber": 536
+    },
+    {
+      "SPARE MOTOR LIST": "016/05.04.24",
+      "rowNumber": 537
+    },
+    {
+      "SPARE MOTOR LIST": "776/14.01.25",
+      "rowNumber": 538
+    },
+    {
+      "SPARE MOTOR LIST": "410/30.08.24",
+      "rowNumber": 539
+    },
+    {
+      "SPARE MOTOR LIST": "769/27.02.24",
+      "rowNumber": 540
+    },
+    {
+      "SPARE MOTOR LIST": "013/05.04.24",
+      "rowNumber": 541
+    },
+    {
+      "SPARE MOTOR LIST": "696/17.01.24",
+      "rowNumber": 542
+    },
+    {
+      "SPARE MOTOR LIST": "340/26.08.23",
+      "rowNumber": 543
+    },
+    {
+      "SPARE MOTOR LIST": "499/14.10.17",
+      "rowNumber": 544
+    },
+    {
+      "SPARE MOTOR LIST": "392/27.08.13",
+      "rowNumber": 545
+    },
+    {
+      "SPARE MOTOR LIST": "498/14.10.17",
+      "rowNumber": 546
+    },
+    {
+      "SPARE MOTOR LIST": "899/03.03.15",
+      "rowNumber": 547
+    },
+    {
+      "SPARE MOTOR LIST": "806/28.01.15",
+      "rowNumber": 548
+    },
+    {
+      "SPARE MOTOR LIST": "869/22.02.05",
+      "rowNumber": 549
+    },
+    {
+      "SPARE MOTOR LIST": "166/02.07.21",
+      "rowNumber": 550
+    },
+    {
+      "SPARE MOTOR LIST": "585/31.10.15",
+      "rowNumber": 551
+    },
+    {
+      "SPARE MOTOR LIST": "652/08.11.18",
+      "rowNumber": 552
+    },
+    {
+      "SPARE MOTOR LIST": "017/07.04.05",
+      "rowNumber": 553
+    },
+    {
+      "SPARE MOTOR LIST": "090/24.05.21",
+      "rowNumber": 554
+    },
+    {
+      "SPARE MOTOR LIST": "566/09.11.21",
+      "rowNumber": 555
+    },
+    {
+      "SPARE MOTOR LIST": "054/17.04.15",
+      "rowNumber": 556
+    },
+    {
+      "SPARE MOTOR LIST": "829/01.03.14",
+      "rowNumber": 557
+    },
+    {
+      "SPARE MOTOR LIST": "772/07.02.22",
+      "rowNumber": 558
+    },
+    {
+      "SPARE MOTOR LIST": "694/04.01.10",
+      "rowNumber": 559
+    },
+    {
+      "SPARE MOTOR LIST": "380/03.09.22",
+      "rowNumber": 560
+    },
+    {
+      "SPARE MOTOR LIST": "125/27.05.22",
+      "rowNumber": 561
+    },
+    {
+      "SPARE MOTOR LIST": "126/15.05.18",
+      "rowNumber": 562
+    },
+    {
+      "SPARE MOTOR LIST": "267/19.07.17",
+      "rowNumber": 563
+    },
+    {
+      "SPARE MOTOR LIST": "335/26.07.16",
+      "rowNumber": 564
+    },
+    {
+      "SPARE MOTOR LIST": "148/23.05.14",
+      "rowNumber": 565
+    },
+    {
+      "SPARE MOTOR LIST": "496/06.10.20",
+      "rowNumber": 566
+    },
+    {
+      "SPARE MOTOR LIST": "005/01.04.22",
+      "rowNumber": 567
+    },
+    {
+      "SPARE MOTOR LIST": "608/23.11.17",
+      "rowNumber": 568
+    },
+    {
+      "SPARE MOTOR LIST": "550/24.10.20",
+      "rowNumber": 569
+    },
+    {
+      "SPARE MOTOR LIST": "495/20.10.23",
+      "rowNumber": 570
+    },
+    {
+      "SPARE MOTOR LIST": "869/22.02.20",
+      "rowNumber": 571
+    },
+    {
+      "SPARE MOTOR LIST": "293/13.08.21",
+      "rowNumber": 572
+    },
+    {
+      "SPARE MOTOR LIST": "586/13.11.19",
+      "rowNumber": 573
+    },
+    {
+      "SPARE MOTOR LIST": "666/29.11.16",
+      "rowNumber": 574
+    },
+    {
+      "SPARE MOTOR LIST": "139/12.05.13",
+      "rowNumber": 575
+    },
+    {
+      "SPARE MOTOR LIST": "265/25.07.22",
+      "rowNumber": 576
+    },
+    {
+      "SPARE MOTOR LIST": "157/24.05.18",
+      "rowNumber": 577
+    },
+    {
+      "SPARE MOTOR LIST": "342/20.08.22",
+      "rowNumber": 578
+    },
+    {
+      "SPARE MOTOR LIST": "",
+      "rowNumber": 579
+    },
+    {
+      "SPARE MOTOR LIST": "171/04.06.19",
+      "rowNumber": 580
+    },
+    {
+      "SPARE MOTOR LIST": "976/14.03.17",
+      "rowNumber": 581
+    },
+    {
+      "SPARE MOTOR LIST": "483/21.09.15",
+      "rowNumber": 582
+    },
+    {
+      "SPARE MOTOR LIST": "808/16.01.19",
+      "rowNumber": 583
+    },
+    {
+      "SPARE MOTOR LIST": "235/02.07.19",
+      "rowNumber": 584
+    },
+    {
+      "SPARE MOTOR LIST": "571/09.11.17",
+      "rowNumber": 585
+    },
+    {
+      "SPARE MOTOR LIST": "497/25.10.13",
+      "rowNumber": 586
+    },
+    {
+      "SPARE MOTOR LIST": "539/02.11.24",
+      "rowNumber": 587
+    },
+    {
+      "SPARE MOTOR LIST": "149/02.06.22",
+      "rowNumber": 588
+    },
+    {
+      "SPARE MOTOR LIST": "017/05.04.24",
+      "rowNumber": 589
+    },
+    {
+      "SPARE MOTOR LIST": "131/29.05.25",
+      "rowNumber": 590
+    },
+    {
+      "SPARE MOTOR LIST": "190/28.06.25",
+      "rowNumber": 591
+    },
+    {
+      "SPARE MOTOR LIST": "510/12.11.25",
+      "rowNumber": 592
+    },
+    {
+      "SPARE MOTOR LIST": "592/20.12.22",
+      "rowNumber": 593
+    },
+    {
+      "SPARE MOTOR LIST": "755/09.01.21",
+      "rowNumber": 594
+    },
+    {
+      "SPARE MOTOR LIST": "641/25.11.08",
+      "rowNumber": 595
+    },
+    {
+      "SPARE MOTOR LIST": "863/19.02.25",
+      "rowNumber": 596
+    },
+    {
+      "SPARE MOTOR LIST": "556/07.11.24",
+      "rowNumber": 597
+    },
+    {
+      "SPARE MOTOR LIST": "195/14.06.24",
+      "rowNumber": 598
+    },
+    {
+      "SPARE MOTOR LIST": "281/18.07.24",
+      "rowNumber": 599
+    },
+    {
+      "SPARE MOTOR LIST": "603/21.08.03",
+      "rowNumber": 600
+    },
+    {
+      "SPARE MOTOR LIST": "184/09.07.21",
+      "rowNumber": 601
+    },
+    {
+      "SPARE MOTOR LIST": "",
+      "rowNumber": 602
+    },
+    {
+      "SPARE MOTOR LIST": "762/07.02.08",
+      "rowNumber": 603
+    },
+    {
+      "SPARE MOTOR LIST": "148/09.07.21",
+      "rowNumber": 604
+    },
+    {
+      "SPARE MOTOR LIST": "814/20.03.13",
+      "rowNumber": 605
+    },
+    {
+      "SPARE MOTOR LIST": "839/28.01.17",
+      "rowNumber": 606
+    },
+    {
+      "SPARE MOTOR LIST": "236/30.06.14",
+      "rowNumber": 607
+    },
+    {
+      "SPARE MOTOR LIST": "245/21.07.22",
+      "rowNumber": 608
+    },
+    {
+      "SPARE MOTOR LIST": "805/22.02.14",
+      "rowNumber": 609
+    },
+    {
+      "SPARE MOTOR LIST": "622/12.12.23",
+      "rowNumber": 610
+    },
+    {
+      "SPARE MOTOR LIST": "068/29.04.20",
+      "rowNumber": 611
+    },
+    {
+      "SPARE MOTOR LIST": "207/19.06.20",
+      "rowNumber": 612
+    },
+    {
+      "SPARE MOTOR LIST": "907/22.03.25",
+      "rowNumber": 613
+    },
+    {
+      "SPARE MOTOR LIST": "392/27.08.24",
+      "rowNumber": 614
+    },
+    {
+      "SPARE MOTOR LIST": "877/06.02.17",
+      "rowNumber": 615
+    },
+    {
+      "SPARE MOTOR LIST": "871/02.02.17",
+      "rowNumber": 616
+    },
+    {
+      "SPARE MOTOR LIST": "870/02.02.17",
+      "rowNumber": 617
+    },
+    {
+      "SPARE MOTOR LIST": "869/02.02.17",
+      "rowNumber": 618
+    },
+    {
+      "SPARE MOTOR LIST": "868/02.02.17",
+      "rowNumber": 619
+    },
+    {
+      "SPARE MOTOR LIST": "873/04.02.17",
+      "rowNumber": 620
+    },
+    {
+      "SPARE MOTOR LIST": "874/04.02.17",
+      "rowNumber": 621
+    },
+    {
+      "SPARE MOTOR LIST": "378/18.08.15",
+      "rowNumber": 622
+    },
+    {
+      "SPARE MOTOR LIST": "822/06.02.20",
+      "rowNumber": 623
+    },
+    {
+      "SPARE MOTOR LIST": "670/19.12.15",
+      "rowNumber": 624
+    },
+    {
+      "SPARE MOTOR LIST": "038/19.04.25",
+      "rowNumber": 625
+    },
+    {
+      "SPARE MOTOR LIST": "894/14.03.25",
+      "rowNumber": 626
+    },
+    {
+      "SPARE MOTOR LIST": "892/14.03.25",
+      "rowNumber": 627
+    },
+    {
+      "SPARE MOTOR LIST": "751/06.01.25",
+      "rowNumber": 628
+    },
+    {
+      "SPARE MOTOR LIST": "252/05.07.24",
+      "rowNumber": 629
+    },
+    {
+      "SPARE MOTOR LIST": "407/29.08.24",
+      "rowNumber": 630
+    },
+    {
+      "SPARE MOTOR LIST": "406/29.08.24",
+      "rowNumber": 631
+    },
+    {
+      "SPARE MOTOR LIST": "145/24.05.24",
+      "rowNumber": 632
+    },
+    {
+      "SPARE MOTOR LIST": "237/29.06.24",
+      "rowNumber": 633
+    },
+    {
+      "SPARE MOTOR LIST": "144/24.05.24",
+      "rowNumber": 634
+    },
+    {
+      "SPARE MOTOR LIST": "465/30.09.24",
+      "rowNumber": 635
+    },
+    {
+      "SPARE MOTOR LIST": "720/20.12.24",
+      "rowNumber": 636
+    },
+    {
+      "SPARE MOTOR LIST": "719/20.12.24",
+      "rowNumber": 637
+    },
+    {
+      "SPARE MOTOR LIST": "681/07.12.24",
+      "rowNumber": 638
+    },
+    {
+      "SPARE MOTOR LIST": "578/14.11.24",
+      "rowNumber": 639
+    },
+    {
+      "SPARE MOTOR LIST": "316/24.07.24",
+      "rowNumber": 640
+    },
+    {
+      "SPARE MOTOR LIST": "453/24.09.24",
+      "rowNumber": 641
+    },
+    {
+      "SPARE MOTOR LIST": "134/21.05.24",
+      "rowNumber": 642
+    },
+    {
+      "SPARE MOTOR LIST": "155/27.05.24",
+      "rowNumber": 643
+    },
+    {
+      "SPARE MOTOR LIST": "060/16.04.24",
+      "rowNumber": 644
+    },
+    {
+      "SPARE MOTOR LIST": "823/28.03.24",
+      "rowNumber": 645
+    },
+    {
+      "SPARE MOTOR LIST": "705/27.01.24",
+      "rowNumber": 646
+    },
+    {
+      "SPARE MOTOR LIST": "674/07.12.24",
+      "rowNumber": 647
+    },
+    {
+      "SPARE MOTOR LIST": "542/03.11.23",
+      "rowNumber": 648
+    },
+    {
+      "SPARE MOTOR LIST": "201/18.06.24",
+      "rowNumber": 649
+    },
+    {
+      "SPARE MOTOR LIST": "536/31.10.23",
+      "rowNumber": 650
+    },
+    {
+      "SPARE MOTOR LIST": "879/14.03.18",
+      "rowNumber": 651
+    },
+    {
+      "SPARE MOTOR LIST": "818/27.03.23",
+      "rowNumber": 652
+    },
+    {
+      "SPARE MOTOR LIST": "462/09.10.23",
+      "rowNumber": 653
+    },
+    {
+      "SPARE MOTOR LIST": "704/06.02.23",
+      "rowNumber": 654
+    },
+    {
+      "SPARE MOTOR LIST": "264/21.07.23",
+      "rowNumber": 655
+    },
+    {
+      "SPARE MOTOR LIST": "814/19.02.22",
+      "rowNumber": 656
+    },
+    {
+      "SPARE MOTOR LIST": "787/09.03.24",
+      "rowNumber": 657
+    },
+    {
+      "SPARE MOTOR LIST": "261/13.07.19",
+      "rowNumber": 658
+    },
+    {
+      "SPARE MOTOR LIST": "151/28.05.19",
+      "rowNumber": 659
+    },
+    {
+      "SPARE MOTOR LIST": "287/31.07.23",
+      "rowNumber": 660
+    },
+    {
+      "SPARE MOTOR LIST": "760/18.03.06",
+      "rowNumber": 661
+    },
+    {
+      "SPARE MOTOR LIST": "343/19.08.11",
+      "rowNumber": 662
+    },
+    {
+      "SPARE MOTOR LIST": "295/28.07.20",
+      "rowNumber": 663
+    },
+    {
+      "SPARE MOTOR LIST": "587/04.11.20",
+      "rowNumber": 664
+    },
+    {
+      "SPARE MOTOR LIST": "133/21.05.24",
+      "rowNumber": 665
+    },
+    {
+      "SPARE MOTOR LIST": "379/18.08.15",
+      "rowNumber": 666
+    },
+    {
+      "SPARE MOTOR LIST": "422/10.09.20",
+      "rowNumber": 667
+    },
+    {
+      "SPARE MOTOR LIST": "343/20.08.22",
+      "rowNumber": 668
+    },
+    {
+      "SPARE MOTOR LIST": "756/05.02.08",
+      "rowNumber": 669
+    },
+    {
+      "SPARE MOTOR LIST": "024/12.04.21",
+      "rowNumber": 670
+    },
+    {
+      "SPARE MOTOR LIST": "788/14.02.08",
+      "rowNumber": 671
+    },
+    {
+      "SPARE MOTOR LIST": "789/14.02.08",
+      "rowNumber": 672
+    },
+    {
+      "SPARE MOTOR LIST": "497/11.10.19",
+      "rowNumber": 673
+    },
+    {
+      "SPARE MOTOR LIST": "057/25.04.20",
+      "rowNumber": 674
+    },
+    {
+      "SPARE MOTOR LIST": "889/04.03.20",
+      "rowNumber": 675
+    },
+    {
+      "SPARE MOTOR LIST": "786/03.01.19",
+      "rowNumber": 676
+    },
+    {
+      "SPARE MOTOR LIST": "465/29.08.18",
+      "rowNumber": 677
+    },
+    {
+      "SPARE MOTOR LIST": "498/03.11.22",
+      "rowNumber": 678
+    },
+    {
+      "SPARE MOTOR LIST": "280/24.07.17",
+      "rowNumber": 679
+    },
+    {
+      "SPARE MOTOR LIST": "266/25.05.02",
+      "rowNumber": 680
+    },
+    {
+      "SPARE MOTOR LIST": "730/16.02.12",
+      "rowNumber": 681
+    },
+    {
+      "SPARE MOTOR LIST": "597/26.12.22",
+      "rowNumber": 682
+    },
+    {
+      "SPARE MOTOR LIST": "483/09.10.17",
+      "rowNumber": 683
+    },
+    {
+      "SPARE MOTOR LIST": "736/22.12.16",
+      "rowNumber": 684
+    },
+    {
+      "SPARE MOTOR LIST": "295/12.07.16",
+      "rowNumber": 685
+    },
+    {
+      "SPARE MOTOR LIST": "729/16.02.12",
+      "rowNumber": 686
+    },
+    {
+      "SPARE MOTOR LIST": "237/11.05.02",
+      "rowNumber": 687
+    },
+    {
+      "SPARE MOTOR LIST": "786/29.10.03",
+      "rowNumber": 688
+    },
+    {
+      "SPARE MOTOR LIST": "590/08.12.05",
+      "rowNumber": 689
+    },
+    {
+      "SPARE MOTOR LIST": "688/26.12.06",
+      "rowNumber": 690
+    },
+    {
+      "SPARE MOTOR LIST": "827/16.02.07",
+      "rowNumber": 691
+    },
+    {
+      "SPARE MOTOR LIST": "525/18.11.22",
+      "rowNumber": 692
+    },
+    {
+      "SPARE MOTOR LIST": "648/26.11.08",
+      "rowNumber": 693
+    },
+    {
+      "SPARE MOTOR LIST": "433/15.09.07",
+      "rowNumber": 694
+    },
+    {
+      "SPARE MOTOR LIST": "832/08.03.08",
+      "rowNumber": 695
+    },
+    {
+      "SPARE MOTOR LIST": "307/06.08.19",
+      "rowNumber": 696
+    },
+    {
+      "SPARE MOTOR LIST": "887/26.03.21",
+      "rowNumber": 697
+    },
+    {
+      "SPARE MOTOR LIST": "764/07.02.08",
+      "rowNumber": 698
+    },
+    {
+      "SPARE MOTOR LIST": "559/01.11.04",
+      "rowNumber": 699
+    },
+    {
+      "SPARE MOTOR LIST": "278/24.07.17",
+      "rowNumber": 700
+    },
+    {
+      "SPARE MOTOR LIST": "263/11.07.14",
+      "rowNumber": 701
+    },
+    {
+      "SPARE MOTOR LIST": "947/19.03.15",
+      "rowNumber": 702
+    },
+    {
+      "SPARE MOTOR LIST": "300/06.08.22",
+      "rowNumber": 703
+    },
+    {
+      "SPARE MOTOR LIST": "416/21.09.21",
+      "rowNumber": 704
+    },
+    {
+      "SPARE MOTOR LIST": "601/29.12.22",
+      "rowNumber": 705
+    },
+    {
+      "SPARE MOTOR LIST": "700/21.12.20",
+      "rowNumber": 706
+    },
+    {
+      "SPARE MOTOR LIST": "643/30.11.19",
+      "rowNumber": 707
+    },
+    {
+      "SPARE MOTOR LIST": "926/15.02.17",
+      "rowNumber": 708
+    },
+    {
+      "SPARE MOTOR LIST": "885/07.02.19",
+      "rowNumber": 709
+    },
+    {
+      "SPARE MOTOR LIST": "279/23.07.19",
+      "rowNumber": 710
+    },
+    {
+      "SPARE MOTOR LIST": "546/04.11.21",
+      "rowNumber": 711
+    },
+    {
+      "SPARE MOTOR LIST": "724/03.01.18",
+      "rowNumber": 712
+    },
+    {
+      "SPARE MOTOR LIST": "062/27.04.20",
+      "rowNumber": 713
+    },
+    {
+      "SPARE MOTOR LIST": "333/07.08.13",
+      "rowNumber": 714
+    },
+    {
+      "SPARE MOTOR LIST": "378/01.09.22",
+      "rowNumber": 715
+    },
+    {
+      "SPARE MOTOR LIST": "166/24.06.15",
+      "rowNumber": 716
+    },
+    {
+      "SPARE MOTOR LIST": "430/25.09.23",
+      "rowNumber": 717
+    },
+    {
+      "SPARE MOTOR LIST": "312/05.08.17",
+      "rowNumber": 718
+    },
+    {
+      "SPARE MOTOR LIST": "694/31.01.13",
+      "rowNumber": 719
+    },
+    {
+      "SPARE MOTOR LIST": "580/14.11.06",
+      "rowNumber": 720
+    },
+    {
+      "SPARE MOTOR LIST": "044/25.04.22",
+      "rowNumber": 721
+    },
+    {
+      "SPARE MOTOR LIST": "463/25.09.20",
+      "rowNumber": 722
+    },
+    {
+      "SPARE MOTOR LIST": "304/10.06.02",
+      "rowNumber": 723
+    },
+    {
+      "SPARE MOTOR LIST": "662/28.11.16",
+      "rowNumber": 724
+    },
+    {
+      "SPARE MOTOR LIST": "350/18.08.20",
+      "rowNumber": 725
+    },
+    {
+      "SPARE MOTOR LIST": "793/18.02.14",
+      "rowNumber": 726
+    },
+    {
+      "SPARE MOTOR LIST": "770/30.12.15",
+      "rowNumber": 727
+    },
+    {
+      "SPARE MOTOR LIST": "926/18.03.05",
+      "rowNumber": 728
+    },
+    {
+      "SPARE MOTOR LIST": "198/07.06.13",
+      "rowNumber": 729
+    },
+    {
+      "SPARE MOTOR LIST": "199/07.06.13",
+      "rowNumber": 730
+    },
+    {
+      "SPARE MOTOR LIST": "303/23.07.24",
+      "rowNumber": 731
+    },
+    {
+      "SPARE MOTOR LIST": "298/23.07.24",
+      "rowNumber": 732
+    },
+    {
+      "SPARE MOTOR LIST": "276/16.07.24",
+      "rowNumber": 733
+    },
+    {
+      "SPARE MOTOR LIST": "203/04.07.25",
+      "rowNumber": 734
+    },
+    {
+      "SPARE MOTOR LIST": "289/07.08.25",
+      "rowNumber": 735
+    },
+    {
+      "SPARE MOTOR LIST": "364/10.09.25",
+      "rowNumber": 736
+    },
+    {
+      "SPARE MOTOR LIST": "386/18.09.25",
+      "rowNumber": 737
+    },
+    {
+      "SPARE MOTOR LIST": "604/04.12.23",
+      "rowNumber": 738
+    },
+    {
+      "SPARE MOTOR LIST": "380/22.08.24",
+      "rowNumber": 739
+    },
+    {
+      "SPARE MOTOR LIST": "447/14.10.25",
+      "rowNumber": 740
+    },
+    {
+      "SPARE MOTOR LIST": "537/26.10.19",
+      "rowNumber": 741
+    },
+    {
+      "SPARE MOTOR LIST": "492/20.09.16",
+      "rowNumber": 742
+    },
+    {
+      "SPARE MOTOR LIST": "930/30.03.20",
+      "rowNumber": 743
+    },
+    {
+      "SPARE MOTOR LIST": "779/05.01.17",
+      "rowNumber": 744
+    },
+    {
+      "SPARE MOTOR LIST": "905/22.03.25",
+      "rowNumber": 745
+    },
+    {
+      "SPARE MOTOR LIST": "779/22.03.06",
+      "rowNumber": 746
+    },
+    {
+      "SPARE MOTOR LIST": "822/28.02.08",
+      "rowNumber": 747
+    },
+    {
+      "SPARE MOTOR LIST": "489/16.07.03",
+      "rowNumber": 748
+    },
+    {
+      "SPARE MOTOR LIST": "019/05.04.24",
+      "rowNumber": 749
+    },
+    {
+      "SPARE MOTOR LIST": "143/24.05.24",
+      "rowNumber": 750
+    },
+    {
+      "SPARE MOTOR LIST": "693/11.12.24",
+      "rowNumber": 751
+    },
+    {
+      "SPARE MOTOR LIST": "604/18.11.24",
+      "rowNumber": 752
+    },
+    {
+      "SPARE MOTOR LIST": "507/22.10.24",
+      "rowNumber": 753
+    },
+    {
+      "SPARE MOTOR LIST": "483/10.10.24",
+      "rowNumber": 754
+    },
+    {
+      "SPARE MOTOR LIST": "517/24.10.24",
+      "rowNumber": 755
+    },
+    {
+      "SPARE MOTOR LIST": "272/23.07.15",
+      "rowNumber": 756
+    },
+    {
+      "SPARE MOTOR LIST": "717/23.12.04",
+      "rowNumber": 757
+    },
+    {
+      "SPARE MOTOR LIST": "926/27.03.18",
+      "rowNumber": 758
+    },
+    {
+      "SPARE MOTOR LIST": "838/10.03.08",
+      "rowNumber": 759
+    },
+    {
+      "SPARE MOTOR LIST": "458/25.09.24",
+      "rowNumber": 760
+    },
+    {
+      "SPARE MOTOR LIST": "177/06.06.24",
+      "rowNumber": 761
+    },
+    {
+      "SPARE MOTOR LIST": "176/05.06.24",
+      "rowNumber": 762
+    },
+    {
+      "SPARE MOTOR LIST": "064/16.04.24",
+      "rowNumber": 763
+    },
+    {
+      "SPARE MOTOR LIST": "065/16.04.24",
+      "rowNumber": 764
+    },
+    {
+      "SPARE MOTOR LIST": "049/12.04.24",
+      "rowNumber": 765
+    },
+    {
+      "SPARE MOTOR LIST": "470/14.10.23",
+      "rowNumber": 766
+    },
+    {
+      "SPARE MOTOR LIST": "113/18.05.23",
+      "rowNumber": 767
+    },
+    {
+      "SPARE MOTOR LIST": "719/13.02.23",
+      "rowNumber": 768
+    },
+    {
+      "SPARE MOTOR LIST": "143/24.05.19",
+      "rowNumber": 769
+    },
+    {
+      "SPARE MOTOR LIST": "843/30.01.17",
+      "rowNumber": 770
+    },
+    {
+      "SPARE MOTOR LIST": "097/14.05.20",
+      "rowNumber": 771
+    },
+    {
+      "SPARE MOTOR LIST": "312/16.08.21",
+      "rowNumber": 772
+    },
+    {
+      "SPARE MOTOR LIST": "610/24.10.18",
+      "rowNumber": 773
+    },
+    {
+      "SPARE MOTOR LIST": "611/24.10.18",
+      "rowNumber": 774
+    },
+    {
+      "SPARE MOTOR LIST": "704/08.01.22",
+      "rowNumber": 775
+    },
+    {
+      "SPARE MOTOR LIST": "824/06.02.20",
+      "rowNumber": 776
+    },
+    {
+      "SPARE MOTOR LIST": "823/06.02.20",
+      "rowNumber": 777
+    },
+    {
+      "SPARE MOTOR LIST": "842/28.01.19",
+      "rowNumber": 778
+    },
+    {
+      "SPARE MOTOR LIST": "841/28.01.19",
+      "rowNumber": 779
+    },
+    {
+      "SPARE MOTOR LIST": "840/28.01.19",
+      "rowNumber": 780
+    },
+    {
+      "SPARE MOTOR LIST": "977/14.03.17",
+      "rowNumber": 781
+    },
+    {
+      "SPARE MOTOR LIST": "657/29.12.23",
+      "rowNumber": 782
+    },
+    {
+      "SPARE MOTOR LIST": "599/30.11.23",
+      "rowNumber": 783
+    },
+    {
+      "SPARE MOTOR LIST": "366/13.08.24",
+      "rowNumber": 784
+    },
+    {
+      "SPARE MOTOR LIST": "235/01.07.20",
+      "rowNumber": 785
+    },
+    {
+      "SPARE MOTOR LIST": "837/01.03.22",
+      "rowNumber": 786
+    },
+    {
+      "SPARE MOTOR LIST": "816/22.02.22",
+      "rowNumber": 787
+    },
+    {
+      "SPARE MOTOR LIST": "760/07.02.08",
+      "rowNumber": 788
+    },
+    {
+      "SPARE MOTOR LIST": "761/07.02.08",
+      "rowNumber": 789
+    },
+    {
+      "SPARE MOTOR LIST": "037/21.04.07",
+      "rowNumber": 790
+    },
+    {
+      "SPARE MOTOR LIST": "397/09.09.19",
+      "rowNumber": 791
+    },
+    {
+      "SPARE MOTOR LIST": "236/22.07.06",
+      "rowNumber": 792
+    },
+    {
+      "SPARE MOTOR LIST": "134/04.03.02",
+      "rowNumber": 793
+    },
+    {
+      "SPARE MOTOR LIST": "362/23.08.22",
+      "rowNumber": 794
+    },
+    {
+      "SPARE MOTOR LIST": "799/15.03.23",
+      "rowNumber": 795
+    },
+    {
+      "SPARE MOTOR LIST": "392/11.09.12",
+      "rowNumber": 796
+    },
+    {
+      "SPARE MOTOR LIST": "886/07.02.19",
+      "rowNumber": 797
+    },
+    {
+      "SPARE MOTOR LIST": "439/25.09.17",
+      "rowNumber": 798
+    },
+    {
+      "SPARE MOTOR LIST": "438/25.09.17",
+      "rowNumber": 799
+    },
+    {
+      "SPARE MOTOR LIST": "521/12.11.12",
+      "rowNumber": 800
+    },
+    {
+      "SPARE MOTOR LIST": "253/11.07.19",
+      "rowNumber": 801
+    },
+    {
+      "SPARE MOTOR LIST": "001/01.04.19",
+      "rowNumber": 802
+    },
+    {
+      "SPARE MOTOR LIST": "172/31.05.14",
+      "rowNumber": 803
+    },
+    {
+      "SPARE MOTOR LIST": "330/17.08.21",
+      "rowNumber": 804
+    },
+    {
+      "SPARE MOTOR LIST": "282/25.07.12",
+      "rowNumber": 805
+    },
+    {
+      "SPARE MOTOR LIST": "732/16.02.12",
+      "rowNumber": 806
+    },
+    {
+      "SPARE MOTOR LIST": "742/07.01.09",
+      "rowNumber": 807
+    },
+    {
+      "SPARE MOTOR LIST": "075/04.05.20",
+      "rowNumber": 808
+    },
+    {
+      "SPARE MOTOR LIST": "263/09.08.21",
+      "rowNumber": 809
+    },
+    {
+      "SPARE MOTOR LIST": "104/16.05.20",
+      "rowNumber": 810
+    },
+    {
+      "SPARE MOTOR LIST": "284/03.09.10",
+      "rowNumber": 811
+    },
+    {
+      "SPARE MOTOR LIST": "674/13.12.19",
+      "rowNumber": 812
+    },
+    {
+      "SPARE MOTOR LIST": "550/01.11.17",
+      "rowNumber": 813
+    },
+    {
+      "SPARE MOTOR LIST": "280/01.08.22",
+      "rowNumber": 814
+    },
+    {
+      "SPARE MOTOR LIST": "370/08.08.16",
+      "rowNumber": 815
+    },
+    {
+      "SPARE MOTOR LIST": "304/31.07.15",
+      "rowNumber": 816
+    },
+    {
+      "SPARE MOTOR LIST": "272/23.07.05",
+      "rowNumber": 817
+    },
+    {
+      "SPARE MOTOR LIST": "205/20.06.17",
+      "rowNumber": 818
+    },
+    {
+      "SPARE MOTOR LIST": "221/08.07.23",
+      "rowNumber": 819
+    },
+    {
+      "SPARE MOTOR LIST": "033/13.04.16",
+      "rowNumber": 820
+    },
+    {
+      "SPARE MOTOR LIST": "034/13.04.16",
+      "rowNumber": 821
+    },
+    {
+      "SPARE MOTOR LIST": "035/13.04.16",
+      "rowNumber": 822
+    },
+    {
+      "SPARE MOTOR LIST": "067/21.04.18",
+      "rowNumber": 823
+    },
+    {
+      "SPARE MOTOR LIST": "763/18.03.06",
+      "rowNumber": 824
+    },
+    {
+      "SPARE MOTOR LIST": "839/22.01.16",
+      "rowNumber": 825
+    },
+    {
+      "SPARE MOTOR LIST": "440/17.09.20",
+      "rowNumber": 826
+    },
+    {
+      "SPARE MOTOR LIST": "061/25.04.25",
+      "rowNumber": 827
+    },
+    {
+      "SPARE MOTOR LIST": "823/28.03.23",
+      "rowNumber": 828
+    },
+    {
+      "SPARE MOTOR LIST": "175/21.06.25",
+      "rowNumber": 829
+    },
+    {
+      "SPARE MOTOR LIST": "319/10.08.23",
+      "rowNumber": 830
+    },
+    {
+      "SPARE MOTOR LIST": "188/28.06.25",
+      "rowNumber": 831
+    },
+    {
+      "SPARE MOTOR LIST": "191/28.06.25",
+      "rowNumber": 832
+    },
+    {
+      "SPARE MOTOR LIST": "182/26.06.25",
+      "rowNumber": 833
+    },
+    {
+      "SPARE MOTOR LIST": "303/06.08.22",
+      "rowNumber": 834
+    },
+    {
+      "SPARE MOTOR LIST": "058/29.04.06",
+      "rowNumber": 835
+    },
+    {
+      "SPARE MOTOR LIST": "596/18.11.06",
+      "rowNumber": 836
+    },
+    {
+      "SPARE MOTOR LIST": "378/08.08.07",
+      "rowNumber": 837
+    },
+    {
+      "SPARE MOTOR LIST": "329/13.08.19",
+      "rowNumber": 838
+    },
+    {
+      "SPARE MOTOR LIST": "630/27.11.19",
+      "rowNumber": 839
+    },
+    {
+      "SPARE MOTOR LIST": "114/23.05.22",
+      "rowNumber": 840
+    },
+    {
+      "SPARE MOTOR LIST": "823/28.02.08",
+      "rowNumber": 841
+    },
+    {
+      "SPARE MOTOR LIST": "858/01.02.17",
+      "rowNumber": 842
+    },
+    {
+      "SPARE MOTOR LIST": "137/08.03.03",
+      "rowNumber": 843
+    },
+    {
+      "SPARE MOTOR LIST": "557/10.11.23",
+      "rowNumber": 844
+    },
+    {
+      "SPARE MOTOR LIST": "556/10.11.23",
+      "rowNumber": 845
+    },
+    {
+      "SPARE MOTOR LIST": "669/23.01.23",
+      "rowNumber": 846
+    },
+    {
+      "SPARE MOTOR LIST": "012/08.04.21",
+      "rowNumber": 847
+    },
+    {
+      "SPARE MOTOR LIST": "094/25.05.21",
+      "rowNumber": 848
+    },
+    {
+      "SPARE MOTOR LIST": "375/31.07.18",
+      "rowNumber": 849
+    },
+    {
+      "SPARE MOTOR LIST": "078/29.04.25",
+      "rowNumber": 850
+    },
+    {
+      "SPARE MOTOR LIST": "090/06.05.25",
+      "rowNumber": 851
+    },
+    {
+      "SPARE MOTOR LIST": "496/18.10.24",
+      "rowNumber": 852
+    },
+    {
+      "SPARE MOTOR LIST": "136/28.05.22",
+      "rowNumber": 853
+    },
+    {
+      "SPARE MOTOR LIST": "685/27.12.14",
+      "rowNumber": 854
+    },
+    {
+      "SPARE MOTOR LIST": "888/10.03.25",
+      "rowNumber": 855
+    },
+    {
+      "SPARE MOTOR LIST": "866/20.02.25",
+      "rowNumber": 856
+    },
+    {
+      "SPARE MOTOR LIST": "772/14.01.25",
+      "rowNumber": 857
+    },
+    {
+      "SPARE MOTOR LIST": "676/07.12.24",
+      "rowNumber": 858
+    },
+    {
+      "SPARE MOTOR LIST": "280/18.07.24",
+      "rowNumber": 859
+    },
+    {
+      "SPARE MOTOR LIST": "495/17.10.24",
+      "rowNumber": 860
+    },
+    {
+      "SPARE MOTOR LIST": "448/24.09.24",
+      "rowNumber": 861
+    },
+    {
+      "SPARE MOTOR LIST": "403/29.08.24",
+      "rowNumber": 862
+    },
+    {
+      "SPARE MOTOR LIST": "047/15.04.23",
+      "rowNumber": 863
+    },
+    {
+      "SPARE MOTOR LIST": "493/20.10.23",
+      "rowNumber": 864
+    },
+    {
+      "SPARE MOTOR LIST": "130/27.05.23",
+      "rowNumber": 865
+    },
+    {
+      "SPARE MOTOR LIST": "061/24.04.23",
+      "rowNumber": 866
+    },
+    {
+      "SPARE MOTOR LIST": "490/18.10.23",
+      "rowNumber": 867
+    },
+    {
+      "SPARE MOTOR LIST": "631/19.12.23",
+      "rowNumber": 868
+    },
+    {
+      "SPARE MOTOR LIST": "187/01.07.15",
+      "rowNumber": 869
+    },
+    {
+      "SPARE MOTOR LIST": "198/04.07.15",
+      "rowNumber": 870
+    },
+    {
+      "SPARE MOTOR LIST": "797/28.01.15",
+      "rowNumber": 871
+    },
+    {
+      "SPARE MOTOR LIST": "1005/23.03.19",
+      "rowNumber": 872
+    },
+    {
+      "SPARE MOTOR LIST": "700/20.12.04",
+      "rowNumber": 873
+    },
+    {
+      "SPARE MOTOR LIST": "264/11.07.14",
+      "rowNumber": 874
+    },
+    {
+      "SPARE MOTOR LIST": "210/30.06.22",
+      "rowNumber": 875
+    },
+    {
+      "SPARE MOTOR LIST": "821/20.01.17",
+      "rowNumber": 876
+    },
+    {
+      "SPARE MOTOR LIST": "191/11.06.04",
+      "rowNumber": 877
+    },
+    {
+      "SPARE MOTOR LIST": "486/17.12.10",
+      "rowNumber": 878
+    },
+    {
+      "SPARE MOTOR LIST": "806/08.02.21",
+      "rowNumber": 879
+    },
+    {
+      "SPARE MOTOR LIST": "807/08.02.21",
+      "rowNumber": 880
+    },
+    {
+      "SPARE MOTOR LIST": "834/01.03.14",
+      "rowNumber": 881
+    },
+    {
+      "SPARE MOTOR LIST": "276/03.08.06",
+      "rowNumber": 882
+    },
+    {
+      "SPARE MOTOR LIST": "556/06.11.19",
+      "rowNumber": 883
+    },
+    {
+      "SPARE MOTOR LIST": "204/20.06.17",
+      "rowNumber": 884
+    },
+    {
+      "SPARE MOTOR LIST": "741/19.01.10",
+      "rowNumber": 885
+    },
+    {
+      "SPARE MOTOR LIST": "821/21.01.19",
+      "rowNumber": 886
+    },
+    {
+      "SPARE MOTOR LIST": "641/04.12.21",
+      "rowNumber": 887
+    },
+    {
+      "SPARE MOTOR LIST": "752/07.01.21",
+      "rowNumber": 888
+    },
+    {
+      "SPARE MOTOR LIST": "632/16.11.20",
+      "rowNumber": 889
+    },
+    {
+      "SPARE MOTOR LIST": "056/27.04.21",
+      "rowNumber": 890
+    },
+    {
+      "SPARE MOTOR LIST": "747/28.02.13",
+      "rowNumber": 891
+    },
+    {
+      "SPARE MOTOR LIST": "455/08.09.15",
+      "rowNumber": 892
+    },
+    {
+      "SPARE MOTOR LIST": "485/09.10.17",
+      "rowNumber": 893
+    },
+    {
+      "SPARE MOTOR LIST": "700/07.02.12",
+      "rowNumber": 894
+    },
+    {
+      "SPARE MOTOR LIST": "081/29.04.08",
+      "rowNumber": 895
+    },
+    {
+      "SPARE MOTOR LIST": "631/27.11.19",
+      "rowNumber": 896
+    },
+    {
+      "SPARE MOTOR LIST": "238/22.07.06",
+      "rowNumber": 897
+    },
+    {
+      "SPARE MOTOR LIST": "825/30.01.15",
+      "rowNumber": 898
+    },
+    {
+      "SPARE MOTOR LIST": "268/26.07.22",
+      "rowNumber": 899
+    },
+    {
+      "SPARE MOTOR LIST": "538/30.10.21",
+      "rowNumber": 900
+    },
+    {
+      "SPARE MOTOR LIST": "056/25.04.20",
+      "rowNumber": 901
+    },
+    {
+      "SPARE MOTOR LIST": "749/18.03.06",
+      "rowNumber": 902
+    },
+    {
+      "SPARE MOTOR LIST": "549/01.11.17",
+      "rowNumber": 903
+    },
+    {
+      "SPARE MOTOR LIST": "664/14.11.18",
+      "rowNumber": 904
+    },
+    {
+      "SPARE MOTOR LIST": "375/02.09.19",
+      "rowNumber": 905
+    },
+    {
+      "SPARE MOTOR LIST": "666/14.12.07",
+      "rowNumber": 906
+    },
+    {
+      "SPARE MOTOR LIST": "223/08.07.23",
+      "rowNumber": 907
+    },
+    {
+      "SPARE MOTOR LIST": "219/08.07.23",
+      "rowNumber": 908
+    },
+    {
+      "SPARE MOTOR LIST": "418/09.09.20",
+      "rowNumber": 909
+    },
+    {
+      "SPARE MOTOR LIST": "011/06.04.07",
+      "rowNumber": 910
+    },
+    {
+      "SPARE MOTOR LIST": "821/28.02.08",
+      "rowNumber": 911
+    },
+    {
+      "SPARE MOTOR LIST": "163/23.05.13",
+      "rowNumber": 912
+    },
+    {
+      "SPARE MOTOR LIST": "862/09.03.22",
+      "rowNumber": 913
+    },
+    {
+      "SPARE MOTOR LIST": "023/16.04.19",
+      "rowNumber": 914
+    },
+    {
+      "SPARE MOTOR LIST": "780/22.03.06",
+      "rowNumber": 915
+    },
+    {
+      "SPARE MOTOR LIST": "100/05.05.08",
+      "rowNumber": 916
+    },
+    {
+      "SPARE MOTOR LIST": "593/21.10.02",
+      "rowNumber": 917
+    },
+    {
+      "SPARE MOTOR LIST": "803/16.03.24",
+      "rowNumber": 918
+    },
+    {
+      "SPARE MOTOR LIST": "040/20.04.19",
+      "rowNumber": 919
+    },
+    {
+      "SPARE MOTOR LIST": "740/02.01.25",
+      "rowNumber": 920
+    },
+    {
+      "SPARE MOTOR LIST": "126/26.05.25",
+      "rowNumber": 921
+    },
+    {
+      "SPARE MOTOR LIST": "203/20.07.21",
+      "rowNumber": 922
+    },
+    {
+      "SPARE MOTOR LIST": "227/27.06.24",
+      "rowNumber": 923
+    },
+    {
+      "SPARE MOTOR LIST": "037/10.04.24",
+      "rowNumber": 924
+    },
+    {
+      "SPARE MOTOR LIST": "133/30.05.25",
+      "rowNumber": 925
+    },
+    {
+      "SPARE MOTOR LIST": "134/29.05.23",
+      "rowNumber": 926
+    },
+    {
+      "SPARE MOTOR LIST": "262/28.07.25",
+      "rowNumber": 927
+    },
+    {
+      "SPARE MOTOR LIST": "310/13.08.25",
+      "rowNumber": 928
+    },
+    {
+      "SPARE MOTOR LIST": "324/20.08.25",
+      "rowNumber": 929
+    },
+    {
+      "SPARE MOTOR LIST": "401/30.09.25",
+      "rowNumber": 930
+    },
+    {
+      "SPARE MOTOR LIST": "518/14.11.25",
+      "rowNumber": 931
+    },
+    {
+      "SPARE MOTOR LIST": "549/26.11.25",
+      "rowNumber": 932
+    },
+    {
+      "SPARE MOTOR LIST": "577/01.12.25",
+      "rowNumber": 933
+    },
+    {
+      "SPARE MOTOR LIST": "602/01.12.25",
+      "rowNumber": 934
+    },
+    {
+      "SPARE MOTOR LIST": "603/01.12.25",
+      "rowNumber": 935
+    },
+    {
+      "SPARE MOTOR LIST": "583/01.12.25",
+      "rowNumber": 936
+    },
+    {
+      "SPARE MOTOR LIST": "716/23.12.04",
+      "rowNumber": 937
+    },
+    {
+      "SPARE MOTOR LIST": "345/12.08.15",
+      "rowNumber": 938
+    },
+    {
+      "SPARE MOTOR LIST": "472/14.10.23",
+      "rowNumber": 939
+    },
+    {
+      "SPARE MOTOR LIST": "468/14.10.23",
+      "rowNumber": 940
+    },
+    {
+      "SPARE MOTOR LIST": "852/14.02.25",
+      "rowNumber": 941
+    },
+    {
+      "SPARE MOTOR LIST": "854/15.02.25",
+      "rowNumber": 942
+    },
+    {
+      "SPARE MOTOR LIST": "703/16.12.24",
+      "rowNumber": 943
+    },
+    {
+      "SPARE MOTOR LIST": "393/02.09.20",
+      "rowNumber": 944
+    },
+    {
+      "SPARE MOTOR LIST": "173/07.06.17",
+      "rowNumber": 945
+    },
+    {
+      "SPARE MOTOR LIST": "847/29.01.19",
+      "rowNumber": 946
+    },
+    {
+      "SPARE MOTOR LIST": "129/17.05.19",
+      "rowNumber": 947
+    },
+    {
+      "SPARE MOTOR LIST": "593/29.11.13",
+      "rowNumber": 948
+    },
+    {
+      "SPARE MOTOR LIST": "169/25.05.13",
+      "rowNumber": 949
+    },
+    {
+      "SPARE MOTOR LIST": "022/16.04.19",
+      "rowNumber": 950
+    },
+    {
+      "SPARE MOTOR LIST": "740/05.01.21",
+      "rowNumber": 951
+    },
+    {
+      "SPARE MOTOR LIST": "273/10.08.21",
+      "rowNumber": 952
+    },
+    {
+      "SPARE MOTOR LIST": "735/25.02.13",
+      "rowNumber": 953
+    },
+    {
+      "SPARE MOTOR LIST": "970/10.03.17",
+      "rowNumber": 954
+    },
+    {
+      "SPARE MOTOR LIST": "359/26.07.18",
+      "rowNumber": 955
+    },
+    {
+      "SPARE MOTOR LIST": "228/16.07.25",
+      "rowNumber": 956
+    },
+    {
+      "SPARE MOTOR LIST": "227/16.07.25",
+      "rowNumber": 957
+    },
+    {
+      "SPARE MOTOR LIST": "367/11.09.25",
+      "rowNumber": 958
+    },
+    {
+      "SPARE MOTOR LIST": "225/25.06.24",
+      "rowNumber": 959
+    },
+    {
+      "SPARE MOTOR LIST": "269/23.07.15",
+      "rowNumber": 960
+    },
+    {
+      "SPARE MOTOR LIST": "776/24.01.20",
+      "rowNumber": 961
+    },
+    {
+      "SPARE MOTOR LIST": "475/26.09.14",
+      "rowNumber": 962
+    },
+    {
+      "SPARE MOTOR LIST": "766/11.01.25",
+      "rowNumber": 963
+    },
+    {
+      "SPARE MOTOR LIST": "032/09.04.24",
+      "rowNumber": 964
+    },
+    {
+      "SPARE MOTOR LIST": "157/27.05.24",
+      "rowNumber": 965
+    },
+    {
+      "SPARE MOTOR LIST": "267/10.07.24",
+      "rowNumber": 966
+    },
+    {
+      "SPARE MOTOR LIST": "505/21.10.24",
+      "rowNumber": 967
+    },
+    {
+      "SPARE MOTOR LIST": "641/26.11.24",
+      "rowNumber": 968
+    },
+    {
+      "SPARE MOTOR LIST": "318/05.08.24",
+      "rowNumber": 969
+    },
+    {
+      "SPARE MOTOR LIST": "371/17.08.24",
+      "rowNumber": 970
+    },
+    {
+      "SPARE MOTOR LIST": "779/05.03.24",
+      "rowNumber": 971
+    },
+    {
+      "SPARE MOTOR LIST": "775/02.03.24",
+      "rowNumber": 972
+    },
+    {
+      "SPARE MOTOR LIST": "611/07.12.23",
+      "rowNumber": 973
+    },
+    {
+      "SPARE MOTOR LIST": "610/07.12.23",
+      "rowNumber": 974
+    },
+    {
+      "SPARE MOTOR LIST": "758/12.01.09",
+      "rowNumber": 975
+    },
+    {
+      "SPARE MOTOR LIST": "368/27.07.18",
+      "rowNumber": 976
+    },
+    {
+      "SPARE MOTOR LIST": "632/27.11.19",
+      "rowNumber": 977
+    },
+    {
+      "SPARE MOTOR LIST": "769/03.01.17",
+      "rowNumber": 978
+    },
+    {
+      "SPARE MOTOR LIST": "278/25.07.12",
+      "rowNumber": 979
+    },
+    {
+      "SPARE MOTOR LIST": "234/19.07.06",
+      "rowNumber": 980
+    },
+    {
+      "SPARE MOTOR LIST": "270/14.07.05",
+      "rowNumber": 981
+    },
+    {
+      "SPARE MOTOR LIST": "840/07.02.15",
+      "rowNumber": 982
+    },
+    {
+      "SPARE MOTOR LIST": "952/02.03.16",
+      "rowNumber": 983
+    },
+    {
+      "SPARE MOTOR LIST": "951/02.03.16",
+      "rowNumber": 984
+    },
+    {
+      "SPARE MOTOR LIST": "509/15.11.11",
+      "rowNumber": 985
+    },
+    {
+      "SPARE MOTOR LIST": "797/09.01.16",
+      "rowNumber": 986
+    },
+    {
+      "SPARE MOTOR LIST": "375/20.08.24",
+      "rowNumber": 987
+    },
+    {
+      "SPARE MOTOR LIST": "187/06.06.07",
+      "rowNumber": 988
+    },
+    {
+      "SPARE MOTOR LIST": "761/28.02.23",
+      "rowNumber": 989
+    },
+    {
+      "SPARE MOTOR LIST": "570/31.10.20",
+      "rowNumber": 990
+    },
+    {
+      "SPARE MOTOR LIST": "843/28.01.19",
+      "rowNumber": 991
+    },
+    {
+      "SPARE MOTOR LIST": "293/29.07.17",
+      "rowNumber": 992
+    },
+    {
+      "SPARE MOTOR LIST": "294/29.07.17",
+      "rowNumber": 993
+    },
+    {
+      "SPARE MOTOR LIST": "633/03.12.14",
+      "rowNumber": 994
+    },
+    {
+      "SPARE MOTOR LIST": "479/04.10.19",
+      "rowNumber": 995
+    },
+    {
+      "SPARE MOTOR LIST": "365/13.08.15",
+      "rowNumber": 996
+    },
+    {
+      "SPARE MOTOR LIST": "450/08.10.05",
+      "rowNumber": 997
+    },
+    {
+      "SPARE MOTOR LIST": "635/30.10.18",
+      "rowNumber": 998
+    },
+    {
+      "SPARE MOTOR LIST": "437/02.09.15",
+      "rowNumber": 999
+    },
+    {
+      "SPARE MOTOR LIST": "726/16.02.12",
+      "rowNumber": 1000
+    },
+    {
+      "SPARE MOTOR LIST": "607/30.12.11",
+      "rowNumber": 1001
+    },
+    {
+      "SPARE MOTOR LIST": "075/27.04.19",
+      "rowNumber": 1002
+    },
+    {
+      "SPARE MOTOR LIST": "446/25.09.17",
+      "rowNumber": 1003
+    },
+    {
+      "SPARE MOTOR LIST": "904/21.03.18",
+      "rowNumber": 1004
+    },
+    {
+      "SPARE MOTOR LIST": "169/03.07.21",
+      "rowNumber": 1005
+    },
+    {
+      "SPARE MOTOR LIST": "367/14.08.15",
+      "rowNumber": 1006
+    },
+    {
+      "SPARE MOTOR LIST": "280/25.07.12",
+      "rowNumber": 1007
+    },
+    {
+      "SPARE MOTOR LIST": "597/18.10.18",
+      "rowNumber": 1008
+    },
+    {
+      "SPARE MOTOR LIST": "186/30.05.13",
+      "rowNumber": 1009
+    },
+    {
+      "SPARE MOTOR LIST": "721/24.02.06",
+      "rowNumber": 1010
+    },
+    {
+      "SPARE MOTOR LIST": "781/22.03.06",
+      "rowNumber": 1011
+    },
+    {
+      "SPARE MOTOR LIST": "763/07.02.08",
+      "rowNumber": 1012
+    },
+    {
+      "SPARE MOTOR LIST": "246/07.07.12",
+      "rowNumber": 1013
+    },
+    {
+      "SPARE MOTOR LIST": "537/02.11.24",
+      "rowNumber": 1014
+    },
+    {
+      "SPARE MOTOR LIST": "506/21.10.23",
+      "rowNumber": 1015
+    },
+    {
+      "SPARE MOTOR LIST": "536/02.11.24",
+      "rowNumber": 1016
+    },
+    {
+      "SPARE MOTOR LIST": "321/25.07.24",
+      "rowNumber": 1017
+    },
+    {
+      "SPARE MOTOR LIST": "486/10.10.24",
+      "rowNumber": 1018
+    },
+    {
+      "SPARE MOTOR LIST": "352/31.08.23",
+      "rowNumber": 1019
+    },
+    {
+      "SPARE MOTOR LIST": "106/15.05.23",
+      "rowNumber": 1020
+    },
+    {
+      "SPARE MOTOR LIST": "740/22.02.23",
+      "rowNumber": 1021
+    },
+    {
+      "SPARE MOTOR LIST": "562/15.11.23",
+      "rowNumber": 1022
+    },
+    {
+      "SPARE MOTOR LIST": "208/05.07.23",
+      "rowNumber": 1023
+    },
+    {
+      "SPARE MOTOR LIST": "652/17.01.23",
+      "rowNumber": 1024
+    },
+    {
+      "SPARE MOTOR LIST": "388/07.09.21",
+      "rowNumber": 1025
+    },
+    {
+      "SPARE MOTOR LIST": "137/03.06.25",
+      "rowNumber": 1026
+    },
+    {
+      "SPARE MOTOR LIST": "149/09.06.25",
+      "rowNumber": 1027
+    },
+    {
+      "SPARE MOTOR LIST": "152/13.06.25",
+      "rowNumber": 1028
+    },
+    {
+      "SPARE MOTOR LIST": "253/25.07.25",
+      "rowNumber": 1029
+    },
+    {
+      "SPARE MOTOR LIST": "249/25.07.25",
+      "rowNumber": 1030
+    },
+    {
+      "SPARE MOTOR LIST": "383/03.09.22",
+      "rowNumber": 1031
+    },
+    {
+      "SPARE MOTOR LIST": "148/06.06.25",
+      "rowNumber": 1032
+    },
+    {
+      "SPARE MOTOR LIST": "122/21.05.25",
+      "rowNumber": 1033
+    },
+    {
+      "SPARE MOTOR LIST": "380/13.09.25",
+      "rowNumber": 1034
+    },
+    {
+      "SPARE MOTOR LIST": "381/13.09.25",
+      "rowNumber": 1035
+    },
+    {
+      "SPARE MOTOR LIST": "685/10.01.24",
+      "rowNumber": 1036
+    },
+    {
+      "SPARE MOTOR LIST": "601/01.12.25",
+      "rowNumber": 1037
+    },
+    {
+      "SPARE MOTOR LIST": "600/01.12.25",
+      "rowNumber": 1038
+    },
+    {
+      "SPARE MOTOR LIST": "835/08.03.08",
+      "rowNumber": 1039
+    },
+    {
+      "SPARE MOTOR LIST": "527/23.10.17",
+      "rowNumber": 1040
+    },
+    {
+      "SPARE MOTOR LIST": "594/18.11.24",
+      "rowNumber": 1041
+    },
+    {
+      "SPARE MOTOR LIST": "167/06.06.20",
+      "rowNumber": 1042
+    },
+    {
+      "SPARE MOTOR LIST": "544/10.10.15",
+      "rowNumber": 1043
+    },
+    {
+      "SPARE MOTOR LIST": "898/25.03.22",
+      "rowNumber": 1044
+    },
+    {
+      "SPARE MOTOR LIST": "348/31.08.23",
+      "rowNumber": 1045
+    },
+    {
+      "SPARE MOTOR LIST": "006/06.04.07",
+      "rowNumber": 1046
+    },
+    {
+      "SPARE MOTOR LIST": "003/02.04.25",
+      "rowNumber": 1047
+    },
+    {
+      "SPARE MOTOR LIST": "570/11.11.24",
+      "rowNumber": 1048
+    },
+    {
+      "SPARE MOTOR LIST": "358/09.08.24",
+      "rowNumber": 1049
+    },
+    {
+      "SPARE MOTOR LIST": "033/09.04.24",
+      "rowNumber": 1050
+    },
+    {
+      "SPARE MOTOR LIST": "050/12.04.24",
+      "rowNumber": 1051
+    },
+    {
+      "SPARE MOTOR LIST": "566/06.12.22",
+      "rowNumber": 1052
+    },
+    {
+      "SPARE MOTOR LIST": "362/22.08.20",
+      "rowNumber": 1053
+    },
+    {
+      "SPARE MOTOR LIST": "600/20.10.18",
+      "rowNumber": 1054
+    },
+    {
+      "SPARE MOTOR LIST": "601/20.10.18",
+      "rowNumber": 1055
+    },
+    {
+      "SPARE MOTOR LIST": "411/05.09.20",
+      "rowNumber": 1056
+    },
+    {
+      "SPARE MOTOR LIST": "111/23.05.22",
+      "rowNumber": 1057
+    },
+    {
+      "SPARE MOTOR LIST": "790/12.02.10",
+      "rowNumber": 1058
+    },
+    {
+      "SPARE MOTOR LIST": "178/10.06.20",
+      "rowNumber": 1059
+    },
+    {
+      "SPARE MOTOR LIST": "478/04.10.19",
+      "rowNumber": 1060
+    },
+    {
+      "SPARE MOTOR LIST": "475/07.10.17",
+      "rowNumber": 1061
+    },
+    {
+      "SPARE MOTOR LIST": "820/06.02.20",
+      "rowNumber": 1062
+    },
+    {
+      "SPARE MOTOR LIST": "399/20.08.15",
+      "rowNumber": 1063
+    },
+    {
+      "SPARE MOTOR LIST": "117/13.05.17",
+      "rowNumber": 1064
+    },
+    {
+      "SPARE MOTOR LIST": "116/13.05.17",
+      "rowNumber": 1065
+    },
+    {
+      "SPARE MOTOR LIST": "865/10.03.22",
+      "rowNumber": 1066
+    },
+    {
+      "SPARE MOTOR LIST": "625/11.11.15",
+      "rowNumber": 1067
+    },
+    {
+      "SPARE MOTOR LIST": "624/26.11.19",
+      "rowNumber": 1068
+    },
+    {
+      "SPARE MOTOR LIST": "268/10.08.21",
+      "rowNumber": 1069
+    },
+    {
+      "SPARE MOTOR LIST": "945/27.02.16",
+      "rowNumber": 1070
+    },
+    {
+      "SPARE MOTOR LIST": "161/01.07.21",
+      "rowNumber": 1071
+    },
+    {
+      "SPARE MOTOR LIST": "499/21.12.10",
+      "rowNumber": 1072
+    },
+    {
+      "SPARE MOTOR LIST": "223/18.06.05",
+      "rowNumber": 1073
+    },
+    {
+      "SPARE MOTOR LIST": "649/08.11.18",
+      "rowNumber": 1074
+    },
+    {
+      "SPARE MOTOR LIST": "535/02.11.24",
+      "rowNumber": 1075
+    },
+    {
+      "SPARE MOTOR LIST": "346/31.08.23",
+      "rowNumber": 1076
+    },
+    {
+      "SPARE MOTOR LIST": "803/16.03.23",
+      "rowNumber": 1077
+    },
+    {
+      "SPARE MOTOR LIST": "351/31.08.23",
+      "rowNumber": 1078
+    },
+    {
+      "SPARE MOTOR LIST": "469/14.10.23",
+      "rowNumber": 1079
+    },
+    {
+      "SPARE MOTOR LIST": "187/28.06.25",
+      "rowNumber": 1080
+    },
+    {
+      "SPARE MOTOR LIST": "223/14.07.25",
+      "rowNumber": 1081
+    },
+    {
+      "SPARE MOTOR LIST": "254/25.07.25",
+      "rowNumber": 1082
+    },
+    {
+      "SPARE MOTOR LIST": "248/25.07.25",
+      "rowNumber": 1083
+    },
+    {
+      "SPARE MOTOR LIST": "493/31.10.25",
+      "rowNumber": 1084
+    },
+    {
+      "SPARE MOTOR LIST": "566/18.11.23",
+      "rowNumber": 1085
+    },
+    {
+      "SPARE MOTOR LIST": "548/26.11.25",
+      "rowNumber": 1086
+    },
+    {
+      "SPARE MOTOR LIST": "589/01.12.25",
+      "rowNumber": 1087
+    },
+    {
+      "SPARE MOTOR LIST": "588/01.12.25",
+      "rowNumber": 1088
+    },
+    {
+      "SPARE MOTOR LIST": "587/01.12.25",
+      "rowNumber": 1089
+    },
+    {
+      "SPARE MOTOR LIST": "590/01.12.25",
+      "rowNumber": 1090
+    },
+    {
+      "SPARE MOTOR LIST": "714/29.12.08",
+      "rowNumber": 1091
+    },
+    {
+      "SPARE MOTOR LIST": "714/29.01.24",
+      "rowNumber": 1092
+    },
+    {
+      "SPARE MOTOR LIST": "464/26.09.20",
+      "rowNumber": 1093
+    },
+    {
+      "SPARE MOTOR LIST": "563/15.12.11",
+      "rowNumber": 1094
+    },
+    {
+      "SPARE MOTOR LIST": "753/28.02.13",
+      "rowNumber": 1095
+    },
+    {
+      "SPARE MOTOR LIST": "434/21.09.19",
+      "rowNumber": 1096
+    },
+    {
+      "SPARE MOTOR LIST": "381/22.08.24",
+      "rowNumber": 1097
+    },
+    {
+      "SPARE MOTOR LIST": "019/05.04.25",
+      "rowNumber": 1098
+    },
+    {
+      "SPARE MOTOR LIST": "018/05.04.25",
+      "rowNumber": 1099
+    },
+    {
+      "SPARE MOTOR LIST": "764/11.01.25",
+      "rowNumber": 1100
+    },
+    {
+      "SPARE MOTOR LIST": "677/07.12.24",
+      "rowNumber": 1101
+    },
+    {
+      "SPARE MOTOR LIST": "466/01.10.24",
+      "rowNumber": 1102
+    },
+    {
+      "SPARE MOTOR LIST": "650/30.11.24",
+      "rowNumber": 1103
+    },
+    {
+      "SPARE MOTOR LIST": "684/10.01.24",
+      "rowNumber": 1104
+    },
+    {
+      "SPARE MOTOR LIST": "923/19.02.16",
+      "rowNumber": 1105
+    },
+    {
+      "SPARE MOTOR LIST": "879/06.02.17",
+      "rowNumber": 1106
+    },
+    {
+      "SPARE MOTOR LIST": "922/19.02.16",
+      "rowNumber": 1107
+    },
+    {
+      "SPARE MOTOR LIST": "181/18.06.22",
+      "rowNumber": 1108
+    },
+    {
+      "SPARE MOTOR LIST": "500/21.12.10",
+      "rowNumber": 1109
+    },
+    {
+      "SPARE MOTOR LIST": "355/22.08.09",
+      "rowNumber": 1110
+    },
+    {
+      "SPARE MOTOR LIST": "497/18.10.24",
+      "rowNumber": 1111
+    },
+    {
+      "SPARE MOTOR LIST": "252/25.07.25",
+      "rowNumber": 1112
+    },
+    {
+      "SPARE MOTOR LIST": "578/01.12.25",
+      "rowNumber": 1113
+    },
+    {
+      "SPARE MOTOR LIST": "322/27.07.24",
+      "rowNumber": 1114
+    },
+    {
+      "SPARE MOTOR LIST": "596/18.11.24",
+      "rowNumber": 1115
+    },
+    {
+      "SPARE MOTOR LIST": "489/09.10.19",
+      "rowNumber": 1116
+    },
+    {
+      "SPARE MOTOR LIST": "599/18.11.19",
+      "rowNumber": 1117
+    },
+    {
+      "SPARE MOTOR LIST": "902/20.03.25",
+      "rowNumber": 1118
+    },
+    {
+      "SPARE MOTOR LIST": "901/19.03.25",
+      "rowNumber": 1119
+    },
+    {
+      "SPARE MOTOR LIST": "882/06.03.25",
+      "rowNumber": 1120
+    },
+    {
+      "SPARE MOTOR LIST": "812/28.01.25",
+      "rowNumber": 1121
+    },
+    {
+      "SPARE MOTOR LIST": "817/30.01.25",
+      "rowNumber": 1122
+    },
+    {
+      "SPARE MOTOR LIST": "765/11.01.25",
+      "rowNumber": 1123
+    },
+    {
+      "SPARE MOTOR LIST": "531/30.10.24",
+      "rowNumber": 1124
+    },
+    {
+      "SPARE MOTOR LIST": "528/30.10.24",
+      "rowNumber": 1125
+    },
+    {
+      "SPARE MOTOR LIST": "559/07.11.24",
+      "rowNumber": 1126
+    },
+    {
+      "SPARE MOTOR LIST": "543/02.11.24",
+      "rowNumber": 1127
+    },
+    {
+      "SPARE MOTOR LIST": "542/02.11.24",
+      "rowNumber": 1128
+    },
+    {
+      "SPARE MOTOR LIST": "560/07.11.24",
+      "rowNumber": 1129
+    },
+    {
+      "SPARE MOTOR LIST": "558/07.11.24",
+      "rowNumber": 1130
+    },
+    {
+      "SPARE MOTOR LIST": "817/23.03.24",
+      "rowNumber": 1131
+    },
+    {
+      "SPARE MOTOR LIST": "507/21.10.23",
+      "rowNumber": 1132
+    },
+    {
+      "SPARE MOTOR LIST": "823/21.01.19",
+      "rowNumber": 1133
+    },
+    {
+      "SPARE MOTOR LIST": "440/24.09.19",
+      "rowNumber": 1134
+    },
+    {
+      "SPARE MOTOR LIST": "067/22.04.16",
+      "rowNumber": 1135
+    },
+    {
+      "SPARE MOTOR LIST": "472/11.09.15",
+      "rowNumber": 1136
+    },
+    {
+      "SPARE MOTOR LIST": "749/19.12.15",
+      "rowNumber": 1137
+    },
+    {
+      "SPARE MOTOR LIST": "261/07.07.05",
+      "rowNumber": 1138
+    },
+    {
+      "SPARE MOTOR LIST": "809/16.01.19",
+      "rowNumber": 1139
+    },
+    {
+      "SPARE MOTOR LIST": "636/13.11.15",
+      "rowNumber": 1140
+    },
+    {
+      "SPARE MOTOR LIST": "036/13.04.16",
+      "rowNumber": 1141
+    },
+    {
+      "SPARE MOTOR LIST": "037/13.04.16",
+      "rowNumber": 1142
+    },
+    {
+      "SPARE MOTOR LIST": "038/13.04.16",
+      "rowNumber": 1143
+    },
+    {
+      "SPARE MOTOR LIST": "392/08.09.09",
+      "rowNumber": 1144
+    },
+    {
+      "SPARE MOTOR LIST": "811/19.02.22",
+      "rowNumber": 1145
+    },
+    {
+      "SPARE MOTOR LIST": "812/19.02.22",
+      "rowNumber": 1146
+    },
+    {
+      "SPARE MOTOR LIST": "783/06.03.24",
+      "rowNumber": 1147
+    },
+    {
+      "SPARE MOTOR LIST": "444/25.09.08",
+      "rowNumber": 1148
+    },
+    {
+      "SPARE MOTOR LIST": "860/17.02.25",
+      "rowNumber": 1149
+    },
+    {
+      "SPARE MOTOR LIST": "858/08.03.14",
+      "rowNumber": 1150
+    },
+    {
+      "SPARE MOTOR LIST": "465/26.09.20",
+      "rowNumber": 1151
+    },
+    {
+      "SPARE MOTOR LIST": "098/07.05.11",
+      "rowNumber": 1152
+    },
+    {
+      "SPARE MOTOR LIST": "097/07.05.11",
+      "rowNumber": 1153
+    },
+    {
+      "SPARE MOTOR LIST": "736/31.12.24",
+      "rowNumber": 1154
+    },
+    {
+      "SPARE MOTOR LIST": "052/25.04.25",
+      "rowNumber": 1155
+    },
+    {
+      "SPARE MOTOR LIST": "710/29.01.24",
+      "rowNumber": 1156
+    },
+    {
+      "SPARE MOTOR LIST": "159/08.06.23",
+      "rowNumber": 1157
+    },
+    {
+      "SPARE MOTOR LIST": "215/08.07.25",
+      "rowNumber": 1158
+    },
+    {
+      "SPARE MOTOR LIST": "537/31.10.23",
+      "rowNumber": 1159
+    },
+    {
+      "SPARE MOTOR LIST": "276/01.08.25",
+      "rowNumber": 1160
+    },
+    {
+      "SPARE MOTOR LIST": "623/04.01.23",
+      "rowNumber": 1161
+    },
+    {
+      "SPARE MOTOR LIST": "580/01.12.25",
+      "rowNumber": 1162
+    },
+    {
+      "SPARE MOTOR LIST": "582/01.12.25",
+      "rowNumber": 1163
+    },
+    {
+      "SPARE MOTOR LIST": "545/17.10.16",
+      "rowNumber": 1164
+    },
+    {
+      "SPARE MOTOR LIST": "394/07.09.22",
+      "rowNumber": 1165
+    },
+    {
+      "SPARE MOTOR LIST": "059/16.04.24",
+      "rowNumber": 1166
+    },
+    {
+      "SPARE MOTOR LIST": "015/05.04.25",
+      "rowNumber": 1167
+    },
+    {
+      "SPARE MOTOR LIST": "572/10.11.21",
+      "rowNumber": 1168
+    },
+    {
+      "SPARE MOTOR LIST": "258/13.07.19",
+      "rowNumber": 1169
+    },
+    {
+      "SPARE MOTOR LIST": "484/22.09.15",
+      "rowNumber": 1170
+    },
+    {
+      "SPARE MOTOR LIST": "551/29.10.14",
+      "rowNumber": 1171
+    },
+    {
+      "SPARE MOTOR LIST": "755/18.03.06",
+      "rowNumber": 1172
+    },
+    {
+      "SPARE MOTOR LIST": "758/18.03.06",
+      "rowNumber": 1173
+    },
+    {
+      "SPARE MOTOR LIST": "765/30.01.10",
+      "rowNumber": 1174
+    },
+    {
+      "SPARE MOTOR LIST": "815/19.01.19",
+      "rowNumber": 1175
+    },
+    {
+      "SPARE MOTOR LIST": "377/08.11.10",
+      "rowNumber": 1176
+    },
+    {
+      "SPARE MOTOR LIST": "813/28.01.25",
+      "rowNumber": 1177
+    },
+    {
+      "SPARE MOTOR LIST": "763/11.01.25",
+      "rowNumber": 1178
+    },
+    {
+      "SPARE MOTOR LIST": "339/26.08.23",
+      "rowNumber": 1179
+    },
+    {
+      "SPARE MOTOR LIST": "401/04.09.20",
+      "rowNumber": 1180
+    },
+    {
+      "SPARE MOTOR LIST": "014/10.04.20",
+      "rowNumber": 1181
+    },
+    {
+      "SPARE MOTOR LIST": "714/23.12.04",
+      "rowNumber": 1182
+    },
+    {
+      "SPARE MOTOR LIST": "792/21.01.15",
+      "rowNumber": 1183
+    },
+    {
+      "SPARE MOTOR LIST": "793/26.01.15",
+      "rowNumber": 1184
+    },
+    {
+      "SPARE MOTOR LIST": "791/26.01.15",
+      "rowNumber": 1185
+    },
+    {
+      "SPARE MOTOR LIST": "751/18.03.06",
+      "rowNumber": 1186
+    },
+    {
+      "SPARE MOTOR LIST": "872/12.03.22",
+      "rowNumber": 1187
+    },
+    {
+      "SPARE MOTOR LIST": "804/16.03.23",
+      "rowNumber": 1188
+    },
+    {
+      "SPARE MOTOR LIST": "349/31.08.23",
+      "rowNumber": 1189
+    },
+    {
+      "SPARE MOTOR LIST": "142/31.05.23",
+      "rowNumber": 1190
+    },
+    {
+      "SPARE MOTOR LIST": "259/26.07.25",
+      "rowNumber": 1191
+    },
+    {
+      "SPARE MOTOR LIST": "474/11.09.15",
+      "rowNumber": 1192
+    },
+    {
+      "SPARE MOTOR LIST": "473/11.09.15",
+      "rowNumber": 1193
+    },
+    {
+      "SPARE MOTOR LIST": "394/08.09.09",
+      "rowNumber": 1194
+    },
+    {
+      "SPARE MOTOR LIST": "402/04.09.20",
+      "rowNumber": 1195
+    },
+    {
+      "SPARE MOTOR LIST": "407/08.09.09",
+      "rowNumber": 1196
+    },
+    {
+      "SPARE MOTOR LIST": "408/08.09.09",
+      "rowNumber": 1197
+    },
+    {
+      "SPARE MOTOR LIST": "571/25.11.09",
+      "rowNumber": 1198
+    },
+    {
+      "SPARE MOTOR LIST": "311/24.07.24",
+      "rowNumber": 1199
+    },
+    {
+      "SPARE MOTOR LIST": "690/17.12.20",
+      "rowNumber": 1200
+    },
+    {
+      "SPARE MOTOR LIST": "707/04.01.07",
+      "rowNumber": 1201
+    },
+    {
+      "SPARE MOTOR LIST": "649/30.11.24",
+      "rowNumber": 1202
+    },
+    {
+      "SPARE MOTOR LIST": "648/30.11.24",
+      "rowNumber": 1203
+    },
+    {
+      "SPARE MOTOR LIST": "887/06.02.17",
+      "rowNumber": 1204
+    },
+    {
+      "SPARE MOTOR LIST": "635/21.12.23",
+      "rowNumber": 1205
+    },
+    {
+      "SPARE MOTOR LIST": "020/08.04.23",
+      "rowNumber": 1206
+    },
+    {
+      "SPARE MOTOR LIST": "163/20.05.08",
+      "rowNumber": 1207
+    },
+    {
+      "SPARE MOTOR LIST": "881/06.02.17",
+      "rowNumber": 1208
+    },
+    {
+      "SPARE MOTOR LIST": "882/06.02.17",
+      "rowNumber": 1209
+    },
+    {
+      "SPARE MOTOR LIST": "040/19.04.08",
+      "rowNumber": 1210
+    },
+    {
+      "SPARE MOTOR LIST": "551/15.02.01",
+      "rowNumber": 1211
+    },
+    {
+      "SPARE MOTOR LIST": "850/13.03.08",
+      "rowNumber": 1212
+    },
+    {
+      "SPARE MOTOR LIST": "400/29.08.13",
+      "rowNumber": 1213
+    },
+    {
+      "SPARE MOTOR LIST": "396/08.09.09",
+      "rowNumber": 1214
+    },
+    {
+      "SPARE MOTOR LIST": "625/04.01.23",
+      "rowNumber": 1215
+    },
+    {
+      "SPARE MOTOR LIST": "626/04.01.23",
+      "rowNumber": 1216
+    },
+    {
+      "SPARE MOTOR LIST": "009/04.01.02",
+      "rowNumber": 1217
+    },
+    {
+      "SPARE MOTOR LIST": "010/04.01.02",
+      "rowNumber": 1218
+    },
+    {
+      "SPARE MOTOR LIST": "012/04.01.02",
+      "rowNumber": 1219
+    },
+    {
+      "SPARE MOTOR LIST": "849/13.03.08",
+      "rowNumber": 1220
+    },
+    {
+      "SPARE MOTOR LIST": "958/29.12.03",
+      "rowNumber": 1221
+    },
+    {
+      "SPARE MOTOR LIST": "848/13.03.08",
+      "rowNumber": 1222
+    },
+    {
+      "SPARE MOTOR LIST": "851/13.03.08",
+      "rowNumber": 1223
+    },
+    {
+      "SPARE MOTOR LIST": "480/15.10.22",
+      "rowNumber": 1224
+    },
+    {
+      "SPARE MOTOR LIST": "291/22.09.10",
+      "rowNumber": 1225
+    },
+    {
+      "SPARE MOTOR LIST": "595/18.11.06",
+      "rowNumber": 1226
+    },
+    {
+      "SPARE MOTOR LIST": "301/23.07.24",
+      "rowNumber": 1227
+    },
+    {
+      "SPARE MOTOR LIST": "328/21.08.25",
+      "rowNumber": 1228
+    },
+    {
+      "SPARE MOTOR LIST": "452/17.10.25",
+      "rowNumber": 1229
+    },
+    {
+      "SPARE MOTOR LIST": "467/25.10.25",
+      "rowNumber": 1230
+    },
+    {
+      "SPARE MOTOR LIST": "538/25.11.25",
+      "rowNumber": 1231
+    },
+    {
+      "SPARE MOTOR LIST": "486/31.10.25",
+      "rowNumber": 1232
+    },
+    {
+      "SPARE MOTOR LIST": "549/14.06.21",
+      "rowNumber": 1233
+    },
+    {
+      "SPARE MOTOR LIST": "682/27.11.15",
+      "rowNumber": 1234
+    },
+    {
+      "SPARE MOTOR LIST": "592/15.11.14",
+      "rowNumber": 1235
+    },
+    {
+      "SPARE MOTOR LIST": "500/02.11.12",
+      "rowNumber": 1236
+    },
+    {
+      "SPARE MOTOR LIST": "699/06.01.10",
+      "rowNumber": 1237
+    },
+    {
+      "SPARE MOTOR LIST": "798/27.01.15",
+      "rowNumber": 1238
+    },
+    {
+      "SPARE MOTOR LIST": "913/14.02.19",
+      "rowNumber": 1239
+    },
+    {
+      "SPARE MOTOR LIST": "328/07.08.15",
+      "rowNumber": 1240
+    },
+    {
+      "SPARE MOTOR LIST": "731/16.12.15",
+      "rowNumber": 1241
+    },
+    {
+      "SPARE MOTOR LIST": "549/24.10.20",
+      "rowNumber": 1242
+    },
+    {
+      "SPARE MOTOR LIST": "777/21.01.21",
+      "rowNumber": 1243
+    },
+    {
+      "SPARE MOTOR LIST": "548/24.10.20",
+      "rowNumber": 1244
+    },
+    {
+      "SPARE MOTOR LIST": "595/04.11.15",
+      "rowNumber": 1245
+    },
+    {
+      "SPARE MOTOR LIST": "135/31.05.25",
+      "rowNumber": 1246
+    },
+    {
+      "SPARE MOTOR LIST": "327/21.08.25",
+      "rowNumber": 1247
+    },
+    {
+      "SPARE MOTOR LIST": "537/10.11.09",
+      "rowNumber": 1248
+    },
+    {
+      "SPARE MOTOR LIST": "300/23.07.24",
+      "rowNumber": 1249
+    },
+    {
+      "SPARE MOTOR LIST": "299/23.07.24",
+      "rowNumber": 1250
+    },
+    {
+      "SPARE MOTOR LIST": "678/07.12.24",
+      "rowNumber": 1251
+    },
+    {
+      "SPARE MOTOR LIST": "679/07.12.24",
+      "rowNumber": 1252
+    },
+    {
+      "SPARE MOTOR LIST": "636/21.12.23",
+      "rowNumber": 1253
+    },
+    {
+      "SPARE MOTOR LIST": "541/25.10.14",
+      "rowNumber": 1254
+    },
+    {
+      "SPARE MOTOR LIST": "113/23.05.22",
+      "rowNumber": 1255
+    },
+    {
+      "SPARE MOTOR LIST": "362/02.09.23",
+      "rowNumber": 1256
+    },
+    {
+      "SPARE MOTOR LIST": "559/15.11.13",
+      "rowNumber": 1257
+    },
+    {
+      "SPARE MOTOR LIST": "561/07.11.24",
+      "rowNumber": 1258
+    },
+    {
+      "SPARE MOTOR LIST": "557/07.11.24",
+      "rowNumber": 1259
+    },
+    {
+      "SPARE MOTOR LIST": "155/02.06.20",
+      "rowNumber": 1260
+    },
+    {
+      "SPARE MOTOR LIST": "810/26.02.08",
+      "rowNumber": 1261
+    },
+    {
+      "SPARE MOTOR LIST": "014/08.04.19",
+      "rowNumber": 1262
+    },
+    {
+      "SPARE MOTOR LIST": "266/07.07.11",
+      "rowNumber": 1263
+    },
+    {
+      "SPARE MOTOR LIST": "834/08.03.08",
+      "rowNumber": 1264
+    },
+    {
+      "SPARE MOTOR LIST": "353/14.08.14",
+      "rowNumber": 1265
+    },
+    {
+      "SPARE MOTOR LIST": "305/08.08.23",
+      "rowNumber": 1266
+    },
+    {
+      "SPARE MOTOR LIST": "711/29.01.24",
+      "rowNumber": 1267
+    },
+    {
+      "SPARE MOTOR LIST": "306/08.08.23",
+      "rowNumber": 1268
+    },
+    {
+      "SPARE MOTOR LIST": "534/23.11.22",
+      "rowNumber": 1269
+    },
+    {
+      "SPARE MOTOR LIST": "529/09.10.15",
+      "rowNumber": 1270
+    },
+    {
+      "SPARE MOTOR LIST": "475/11.09.15",
+      "rowNumber": 1271
+    },
+    {
+      "SPARE MOTOR LIST": "967/09.03.19",
+      "rowNumber": 1272
+    },
+    {
+      "SPARE MOTOR LIST": "334/13.10.10",
+      "rowNumber": 1273
+    },
+    {
+      "SPARE MOTOR LIST": "116/11.05.24",
+      "rowNumber": 1274
+    },
+    {
+      "SPARE MOTOR LIST": "866/12.03.21",
+      "rowNumber": 1275
+    },
+    {
+      "SPARE MOTOR LIST": "657/01.12.08",
+      "rowNumber": 1276
+    },
+    {
+      "SPARE MOTOR LIST": "05/03.04.23",
+      "rowNumber": 1277
+    },
+    {
+      "SPARE MOTOR LIST": "074/23.04.15",
+      "rowNumber": 1278
+    },
+    {
+      "SPARE MOTOR LIST": "893/07.02.17",
+      "rowNumber": 1279
+    },
+    {
+      "SPARE MOTOR LIST": "894/07.02.17",
+      "rowNumber": 1280
+    },
+    {
+      "SPARE MOTOR LIST": "895/07.02.17",
+      "rowNumber": 1281
+    },
+    {
+      "SPARE MOTOR LIST": "896/07.02.17",
+      "rowNumber": 1282
+    },
+    {
+      "SPARE MOTOR LIST": "668/14.12.06",
+      "rowNumber": 1283
+    },
+    {
+      "SPARE MOTOR LIST": "607/18.11.24",
+      "rowNumber": 1284
+    },
+    {
+      "SPARE MOTOR LIST": "606/18.11.24",
+      "rowNumber": 1285
+    },
+    {
+      "SPARE MOTOR LIST": "610/18.11.24",
+      "rowNumber": 1286
+    },
+    {
+      "SPARE MOTOR LIST": "611/18.11.24",
+      "rowNumber": 1287
+    },
+    {
+      "SPARE MOTOR LIST": "324/17.08.21",
+      "rowNumber": 1288
+    },
+    {
+      "SPARE MOTOR LIST": "316/16.08.21",
+      "rowNumber": 1289
+    },
+    {
+      "SPARE MOTOR LIST": "756/28.02.13",
+      "rowNumber": 1290
+    },
+    {
+      "SPARE MOTOR LIST": "092/17.05.22",
+      "rowNumber": 1291
+    },
+    {
+      "SPARE MOTOR LIST": "908/30.03.22",
+      "rowNumber": 1292
+    },
+    {
+      "SPARE MOTOR LIST": "325/17.08.21",
+      "rowNumber": 1293
+    },
+    {
+      "SPARE MOTOR LIST": "326/17.08.21",
+      "rowNumber": 1294
+    },
+    {
+      "SPARE MOTOR LIST": "793/16.02.08",
+      "rowNumber": 1295
+    },
+    {
+      "SPARE MOTOR LIST": "376/01.09.21",
+      "rowNumber": 1296
+    },
+    {
+      "SPARE MOTOR LIST": "069/18.04.09",
+      "rowNumber": 1297
+    },
+    {
+      "SPARE MOTOR LIST": "644/06.12.06",
+      "rowNumber": 1298
+    },
+    {
+      "SPARE MOTOR LIST": "133/24.05.11",
+      "rowNumber": 1299
+    },
+    {
+      "SPARE MOTOR LIST": "692/06.01.14",
+      "rowNumber": 1300
+    },
+    {
+      "SPARE MOTOR LIST": "092/08.05.23",
+      "rowNumber": 1301
+    },
+    {
+      "SPARE MOTOR LIST": "470/19.10.11",
+      "rowNumber": 1302
+    },
+    {
+      "SPARE MOTOR LIST": "922/12.03.15",
+      "rowNumber": 1303
+    },
+    {
+      "SPARE MOTOR LIST": "685/04.02.06",
+      "rowNumber": 1304
+    },
+    {
+      "SPARE MOTOR LIST": "038/10.05.10",
+      "rowNumber": 1305
+    },
+    {
+      "SPARE MOTOR LIST": "603/22.11.06",
+      "rowNumber": 1306
+    },
+    {
+      "SPARE MOTOR LIST": "202/16.06.14",
+      "rowNumber": 1307
+    },
+    {
+      "SPARE MOTOR LIST": "827/30.01.15",
+      "rowNumber": 1308
+    },
+    {
+      "SPARE MOTOR LIST": "680/16.03.11",
+      "rowNumber": 1309
+    },
+    {
+      "SPARE MOTOR LIST": "855/01.02.17",
+      "rowNumber": 1310
+    },
+    {
+      "SPARE MOTOR LIST": "854/01.02.17",
+      "rowNumber": 1311
+    },
+    {
+      "SPARE MOTOR LIST": "878/06.02.17",
+      "rowNumber": 1312
+    },
+    {
+      "SPARE MOTOR LIST": "717/16.12.16",
+      "rowNumber": 1313
+    },
+    {
+      "SPARE MOTOR LIST": "994/06.12.99",
+      "rowNumber": 1314
+    },
+    {
+      "SPARE MOTOR LIST": "614/24.10.18",
+      "rowNumber": 1315
+    },
+    {
+      "SPARE MOTOR LIST": "636/09.01.23",
+      "rowNumber": 1316
+    },
+    {
+      "SPARE MOTOR LIST": "637/09.01.23",
+      "rowNumber": 1317
+    },
+    {
+      "SPARE MOTOR LIST": "371/25.08.22",
+      "rowNumber": 1318
+    },
+    {
+      "SPARE MOTOR LIST": "826/26.02.22",
+      "rowNumber": 1319
+    },
+    {
+      "SPARE MOTOR LIST": "309/10.08.22",
+      "rowNumber": 1320
+    },
+    {
+      "SPARE MOTOR LIST": "758/25.01.10",
+      "rowNumber": 1321
+    },
+    {
+      "SPARE MOTOR LIST": "714/05.12.18",
+      "rowNumber": 1322
+    },
+    {
+      "SPARE MOTOR LIST": "921/12.03.15",
+      "rowNumber": 1323
+    },
+    {
+      "SPARE MOTOR LIST": "824/27.02.14",
+      "rowNumber": 1324
+    },
+    {
+      "SPARE MOTOR LIST": "926/20.02.16",
+      "rowNumber": 1325
+    },
+    {
+      "SPARE MOTOR LIST": "002/02.04.21",
+      "rowNumber": 1326
+    },
+    {
+      "SPARE MOTOR LIST": "118/28.02.03",
+      "rowNumber": 1327
+    },
+    {
+      "SPARE MOTOR LIST": "029/13.04.11",
+      "rowNumber": 1328
+    },
+    {
+      "SPARE MOTOR LIST": "745/06.01.21",
+      "rowNumber": 1329
+    },
+    {
+      "SPARE MOTOR LIST": "489/08.10.14",
+      "rowNumber": 1330
+    },
+    {
+      "SPARE MOTOR LIST": "370/25.08.22",
+      "rowNumber": 1331
+    },
+    {
+      "SPARE MOTOR LIST": "296/04.08.23",
+      "rowNumber": 1332
+    },
+    {
+      "SPARE MOTOR LIST": "444/14.10.25",
+      "rowNumber": 1333
+    },
+    {
+      "SPARE MOTOR LIST": "509/12.11.25",
+      "rowNumber": 1334
+    },
+    {
+      "SPARE MOTOR LIST": "533/24.11.25",
+      "rowNumber": 1335
+    },
+    {
+      "SPARE MOTOR LIST": "155/13.06.25",
+      "rowNumber": 1336
+    },
+    {
+      "SPARE MOTOR LIST": "633/18.12.25",
+      "rowNumber": 1337
+    },
+    {
+      "SPARE MOTOR LIST": "443/14.10.25",
+      "rowNumber": 1338
+    },
+    {
+      "SPARE MOTOR LIST": "620/11.12.25",
+      "rowNumber": 1339
+    },
+    {
+      "SPARE MOTOR LIST": "760/22.02.24",
+      "rowNumber": 1340
+    },
+    {
+      "SPARE MOTOR LIST": "483/17.10.23",
+      "rowNumber": 1341
+    },
+    {
+      "SPARE MOTOR LIST": "634/18.12.25",
+      "rowNumber": 1342
+    },
+    {
+      "SPARE MOTOR LIST": "522/27.10.21",
+      "rowNumber": 1343
+    },
+    {
+      "SPARE MOTOR LIST": "709/16.12.24",
+      "rowNumber": 1344
+    },
+    {
+      "SPARE MOTOR LIST": "639/22.12.25",
+      "rowNumber": 1345
+    },
+    {
+      "SPARE MOTOR LIST": "635/18.12.25",
+      "rowNumber": 1346
+    },
+    {
+      "SPARE MOTOR LIST": "037/20.04.22",
+      "rowNumber": 1347
+    },
+    {
+      "SPARE MOTOR LIST": "111/18.05.23",
+      "rowNumber": 1348
+    },
+    {
+      "SPARE MOTOR LIST": "713/09.02.23",
+      "rowNumber": 1349
+    },
+    {
+      "SPARE MOTOR LIST": "430/09.10.25",
+      "rowNumber": 1350
+    },
+    {
+      "SPARE MOTOR LIST": "368/11.09.25",
+      "rowNumber": 1351
+    },
+    {
+      "SPARE MOTOR LIST": "726/23.12.24",
+      "rowNumber": 1352
+    },
+    {
+      "SPARE MOTOR LIST": "465/23.10.25",
+      "rowNumber": 1353
+    },
+    {
+      "SPARE MOTOR LIST": "186/28.06.25",
+      "rowNumber": 1354
+    },
+    {
+      "SPARE MOTOR LIST": "691/10.12.24",
+      "rowNumber": 1355
+    },
+    {
+      "SPARE MOTOR LIST": "650/02.01.26",
+      "rowNumber": 1356
+    },
+    {
+      "SPARE MOTOR LIST": "482/29.10.25",
+      "rowNumber": 1357
+    },
+    {
+      "SPARE MOTOR LIST": "641/24.12.25",
+      "rowNumber": 1358
+    },
+    {
+      "SPARE MOTOR LIST": "700/06.02.23",
+      "rowNumber": 1359
+    },
+    {
+      "SPARE MOTOR LIST": "655/03.01.26",
+      "rowNumber": 1360
+    },
+    {
+      "SPARE MOTOR LIST": "628/15.12.25",
+      "rowNumber": 1361
+    },
+    {
+      "SPARE MOTOR LIST": "660/06.01.26",
+      "rowNumber": 1362
+    },
+    {
+      "SPARE MOTOR LIST": "656/05.01.26",
+      "rowNumber": 1363
+    },
+    {
+      "SPARE MOTOR LIST": "659/05.01.26",
+      "rowNumber": 1364
+    },
+    {
+      "SPARE MOTOR LIST": "676/10.01.26",
+      "rowNumber": 1365
+    },
+    {
+      "SPARE MOTOR LIST": "128/27.05.25",
+      "rowNumber": 1366
+    },
+    {
+      "SPARE MOTOR LIST": "680/14.01.26",
+      "rowNumber": 1367
+    },
+    {
+      "SPARE MOTOR LIST": "679/14.01.26",
+      "rowNumber": 1368
+    },
+    {
+      "SPARE MOTOR LIST": "629/15.12.23",
+      "rowNumber": 1369
+    },
+    {
+      "SPARE MOTOR LIST": "912/29.03.25",
+      "rowNumber": 1370
+    },
+    {
+      "SPARE MOTOR LIST": "024/08.04.24",
+      "rowNumber": 1371
+    },
+    {
+      "SPARE MOTOR LIST": "693/21.01.26",
+      "rowNumber": 1372
+    },
+    {
+      "SPARE MOTOR LIST": "446/23.09.24",
+      "rowNumber": 1373
+    },
+    {
+      "SPARE MOTOR LIST": "258/20.07.23",
+      "rowNumber": 1374
+    },
+    {
+      "SPARE MOTOR LIST": "697/21.01.26",
+      "rowNumber": 1375
+    },
+    {
+      "SPARE MOTOR LIST": "646/31.12.25",
+      "rowNumber": 1376
+    },
+    {
+      "SPARE MOTOR LIST": "677/12.01.26",
+      "rowNumber": 1377
+    },
+    {
+      "SPARE MOTOR LIST": "396/28.08.24",
+      "rowNumber": 1378
+    },
+    {
+      "SPARE MOTOR LIST": "647/01.01.26",
+      "rowNumber": 1379
+    },
+    {
+      "SPARE MOTOR LIST": "673/10.01.26",
+      "rowNumber": 1380
+    },
+    {
+      "SPARE MOTOR LIST": "692/20.01.26",
+      "rowNumber": 1381
+    },
+    {
+      "SPARE MOTOR LIST": "024/10.04.23",
+      "rowNumber": 1382
+    },
+    {
+      "SPARE MOTOR LIST": "153/27.05.24",
+      "rowNumber": 1383
+    },
+    {
+      "SPARE MOTOR LIST": "025/11.04.25",
+      "rowNumber": 1384
+    },
+    {
+      "SPARE MOTOR LIST": "683/15.01.26",
+      "rowNumber": 1385
+    },
+    {
+      "SPARE MOTOR LIST": "397/29.09.25",
+      "rowNumber": 1386
+    },
+    {
+      "SPARE MOTOR LIST": "706/30.01.26",
+      "rowNumber": 1387
+    },
+    {
+      "SPARE MOTOR LIST": "230/16.07.25",
+      "rowNumber": 1388
+    },
+    {
+      "SPARE MOTOR LIST": "570/29.11.25",
+      "rowNumber": 1389
+    },
+    {
+      "SPARE MOTOR LIST": "423/07.10.25",
+      "rowNumber": 1390
+    },
+    {
+      "SPARE MOTOR LIST": "402/03.10.25",
+      "rowNumber": 1391
+    },
+    {
+      "SPARE MOTOR LIST": "385/18.09.25",
+      "rowNumber": 1392
+    },
+    {
+      "SPARE MOTOR LIST": "718/11.02.26",
+      "rowNumber": 1393
+    },
+    {
+      "SPARE MOTOR LIST": "609/03.12.25",
+      "rowNumber": 1394
+    },
+    {
+      "SPARE MOTOR LIST": "359/08.09.25",
+      "rowNumber": 1395
+    },
+    {
+      "SPARE MOTOR LIST": "713/02.02.26",
+      "rowNumber": 1396
+    },
+    {
+      "SPARE MOTOR LIST": "605/05.12.23",
+      "rowNumber": 1397
+    },
+    {
+      "SPARE MOTOR LIST": "041/13.04.23",
+      "rowNumber": 1398
+    },
+    {
+      "SPARE MOTOR LIST": "607/03.12.25",
+      "rowNumber": 1399
+    },
+    {
+      "SPARE MOTOR LIST": "606/02.12.25",
+      "rowNumber": 1400
+    },
+    {
+      "SPARE MOTOR LIST": "684/31.01.23",
+      "rowNumber": 1401
+    },
+    {
+      "SPARE MOTOR LIST": "728/18.02.26",
+      "rowNumber": 1402
+    },
+    {
+      "SPARE MOTOR LIST": "519/17.11.25",
+      "rowNumber": 1403
+    },
+    {
+      "SPARE MOTOR LIST": "637/20.12.25",
+      "rowNumber": 1404
+    },
+    {
+      "SPARE MOTOR LIST": "733/02.03.26",
+      "rowNumber": 1405
+    },
+    {
+      "SPARE MOTOR LIST": "732/28.02.26",
+      "rowNumber": 1406
+    },
+    {
+      "SPARE MOTOR LIST": "735/03.03.26",
+      "rowNumber": 1407
+    },
+    {
+      "SPARE MOTOR LIST": "736/05.03.26",
+      "rowNumber": 1408
+    },
+    {
+      "SPARE MOTOR LIST": "546/26.11.25",
+      "rowNumber": 1409
+    },
+    {
+      "SPARE MOTOR LIST": "731/28.02.26",
+      "rowNumber": 1410
+    },
+    {
+      "SPARE MOTOR LIST": "520/18.11.25",
+      "rowNumber": 1411
+    },
+    {
+      "SPARE MOTOR LIST": "756/13.03.26",
+      "rowNumber": 1412
+    },
+    {
+      "SPARE MOTOR LIST": "466/12.10.21",
+      "rowNumber": 1413
+    },
+    {
+      "SPARE MOTOR LIST": "475/14.10.23",
+      "rowNumber": 1414
+    },
+    {
+      "SPARE MOTOR LIST": "724/16.02.26",
+      "rowNumber": 1415
+    },
+    {
+      "SPARE MOTOR LIST": "767/17.03.26",
+      "rowNumber": 1416
+    },
+    {
+      "SPARE MOTOR LIST": "757/13.03.26",
+      "rowNumber": 1417
+    },
+    {
+      "SPARE MOTOR LIST": "758/13.03.26",
+      "rowNumber": 1418
+    },
+    {
+      "SPARE MOTOR LIST": "772/21.03.26",
+      "rowNumber": 1419
+    },
+    {
+      "SPARE MOTOR LIST": "771/21.03.26",
+      "rowNumber": 1420
+    },
+    {
+      "SPARE MOTOR LIST": "755/12.03.26",
+      "rowNumber": 1421
+    },
+    {
+      "SPARE MOTOR LIST": "745/09.03.26",
+      "rowNumber": 1422
+    },
+    {
+      "SPARE MOTOR LIST": "776/23.03.26",
+      "rowNumber": 1423
+    },
+    {
+      "SPARE MOTOR LIST": "775/23.03.26",
+      "rowNumber": 1424
+    },
+    {
+      "SPARE MOTOR LIST": "768/19.03.26",
+      "rowNumber": 1425
+    },
+    {
+      "SPARE MOTOR LIST": "522/26.10.24",
+      "rowNumber": 1426
+    },
+    {
+      "SPARE MOTOR LIST": "006/03.04.26",
+      "rowNumber": 1427
+    },
+    {
+      "SPARE MOTOR LIST": "799/27.03.26",
+      "rowNumber": 1428
+    },
+    {
+      "SPARE MOTOR LIST": "710/30.01.26",
+      "rowNumber": 1429
+    },
+    {
+      "SPARE MOTOR LIST": "753/09.03.26",
+      "rowNumber": 1430
+    },
+    {
+      "SPARE MOTOR LIST": "791/26.03.26",
+      "rowNumber": 1431
+    },
+    {
+      "SPARE MOTOR LIST": "780/24.03.26",
+      "rowNumber": 1432
+    },
+    {
+      "SPARE MOTOR LIST": "778/23.03.26",
+      "rowNumber": 1433
+    },
+    {
+      "SPARE MOTOR LIST": "011/06.04.26",
+      "rowNumber": 1434
+    },
+    {
+      "SPARE MOTOR LIST": "010/06.04.26",
+      "rowNumber": 1435
+    },
+    {
+      "SPARE MOTOR LIST": "801/27.03.26",
+      "rowNumber": 1436
+    },
+    {
+      "SPARE MOTOR LIST": "018/07.04.26",
+      "rowNumber": 1437
+    },
+    {
+      "SPARE MOTOR LIST": "001/01.04.26",
+      "rowNumber": 1438
+    },
+    {
+      "SPARE MOTOR LIST": "002/01.04.26",
+      "rowNumber": 1439
+    },
+    {
+      "SPARE MOTOR LIST": "003/01.04.26",
+      "rowNumber": 1440
+    },
+    {
+      "SPARE MOTOR LIST": "032/10.04.26",
+      "rowNumber": 1441
+    },
+    {
+      "SPARE MOTOR LIST": "029/09.04.26",
+      "rowNumber": 1442
+    },
+    {
+      "SPARE MOTOR LIST": "033/11.04.26",
+      "rowNumber": 1443
+    },
+    {
+      "SPARE MOTOR LIST": "030/09.04.26",
+      "rowNumber": 1444
+    },
+    {
+      "SPARE MOTOR LIST": "020/08.04.26",
+      "rowNumber": 1445
+    },
+    {
+      "SPARE MOTOR LIST": "036/15.04.26",
+      "rowNumber": 1446
+    },
+    {
+      "SPARE MOTOR LIST": "037/16.04.26",
+      "rowNumber": 1447
+    },
+    {
+      "SPARE MOTOR LIST": "248/12.07.23",
+      "rowNumber": 1448
+    },
+    {
+      "SPARE MOTOR LIST": "788/25.03.26",
+      "rowNumber": 1449
+    },
+    {
+      "SPARE MOTOR LIST": "493/16.10.24",
+      "rowNumber": 1450
+    },
+    {
+      "SPARE MOTOR LIST": "798/26.03.26",
+      "rowNumber": 1451
+    },
+    {
+      "SPARE MOTOR LIST": "765/16.03.26",
+      "rowNumber": 1452
+    },
+    {
+      "SPARE MOTOR LIST": "074/25.04.26",
+      "rowNumber": 1453
+    },
+    {
+      "SPARE MOTOR LIST": "786/24.03.26",
+      "rowNumber": 1454
+    },
+    {
+      "SPARE MOTOR LIST": "782/24.03.26",
+      "rowNumber": 1455
+    },
+    {
+      "SPARE MOTOR LIST": "034/11.04.26",
+      "rowNumber": 1456
+    },
+    {
+      "SPARE MOTOR LIST": "067/24.04.26",
+      "rowNumber": 1457
+    },
+    {
+      "SPARE MOTOR LIST": "064/24.04.26",
+      "rowNumber": 1458
+    },
+    {
+      "SPARE MOTOR LIST": "063/24.04.26",
+      "rowNumber": 1459
+    },
+    {
+      "SPARE MOTOR LIST": "062/23.04.26",
+      "rowNumber": 1460
+    },
+    {
+      "SPARE MOTOR LIST": "061/23.04.26",
+      "rowNumber": 1461
+    },
+    {
+      "SPARE MOTOR LIST": "060/23.04.26",
+      "rowNumber": 1462
+    },
+    {
+      "SPARE MOTOR LIST": "059/23.04.26",
+      "rowNumber": 1463
+    },
+    {
+      "SPARE MOTOR LIST": "058/23.04.26",
+      "rowNumber": 1464
+    },
+    {
+      "SPARE MOTOR LIST": "057/23.04.26",
+      "rowNumber": 1465
+    },
+    {
+      "SPARE MOTOR LIST": "056/23.04.26",
+      "rowNumber": 1466
+    },
+    {
+      "SPARE MOTOR LIST": "055/23.04.26",
+      "rowNumber": 1467
+    },
+    {
+      "SPARE MOTOR LIST": "708/30.01.26",
+      "rowNumber": 1468
+    },
+    {
+      "SPARE MOTOR LIST": "081/27.04.26",
+      "rowNumber": 1469
+    },
+    {
+      "SPARE MOTOR LIST": "643/24.12.25",
+      "rowNumber": 1470
+    },
+    {
+      "SPARE MOTOR LIST": "106/05.05.26",
+      "rowNumber": 1471
+    },
+    {
+      "SPARE MOTOR LIST": "785/24.03.26",
+      "rowNumber": 1472
+    },
+    {
+      "SPARE MOTOR LIST": "113/08.05.26",
+      "rowNumber": 1473
+    },
+    {
+      "SPARE MOTOR LIST": "069/24.04.26",
+      "rowNumber": 1474
+    },
+    {
+      "SPARE MOTOR LIST": "101/02.05.26",
+      "rowNumber": 1475
+    },
+    {
+      "SPARE MOTOR LIST": "086/28.04.26",
+      "rowNumber": 1476
+    },
+    {
+      "SPARE MOTOR LIST": "102/02.05.26",
+      "rowNumber": 1477
+    },
+    {
+      "SPARE MOTOR LIST": "048/21.04.26",
+      "rowNumber": 1478
+    },
+    {
+      "SPARE MOTOR LIST": "117/09.05.26",
+      "rowNumber": 1479
+    },
+    {
+      "SPARE MOTOR LIST": "460/27.09.24",
+      "rowNumber": 1480
+    },
+    {
+      "SPARE MOTOR LIST": "111/06.05.26",
+      "rowNumber": 1481
+    },
+    {
+      "SPARE MOTOR LIST": "027/11.04.25",
+      "rowNumber": 1482
+    },
+    {
+      "SPARE MOTOR LIST": "103/04.05.26",
+      "rowNumber": 1483
+    },
+    {
+      "SPARE MOTOR LIST": "794/26.03.26",
+      "rowNumber": 1484
+    },
+    {
+      "SPARE MOTOR LIST": "091/29.04.26",
+      "rowNumber": 1485
+    },
+    {
+      "SPARE MOTOR LIST": "119/12.05.26",
+      "rowNumber": 1486
+    },
+    {
+      "SPARE MOTOR LIST": "433/21.09.19",
+      "rowNumber": 1487
+    },
+    {
+      "SPARE MOTOR LIST": "107/06.05.26",
+      "rowNumber": 1488
+    },
+    {
+      "SPARE MOTOR LIST": "120/12.05.26",
+      "rowNumber": 1489
+    },
+    {
+      "SPARE MOTOR LIST": "571/29.11.25",
+      "rowNumber": 1490
+    },
+    {
+      "SPARE MOTOR LIST": "007/03.04.26",
+      "rowNumber": 1491
+    },
+    {
+      "SPARE MOTOR LIST": "083/28.04.26",
+      "rowNumber": 1492
+    },
+    {
+      "SPARE MOTOR LIST": "137/21.05.26",
+      "rowNumber": 1493
+    },
+    {
+      "SPARE MOTOR LIST": "139/21.05.26",
+      "rowNumber": 1494
+    },
+    {
+      "SPARE MOTOR LIST": "118/09.05.26",
+      "rowNumber": 1495
+    },
+    {
+      "SPARE MOTOR LIST": "135/21.05.26",
+      "rowNumber": 1496
+    },
+    {
+      "SPARE MOTOR LIST": "038/16.04.26",
+      "rowNumber": 1497
+    },
+    {
+      "SPARE MOTOR LIST": "040/16.04.26",
+      "rowNumber": 1498
+    },
+    {
+      "SPARE MOTOR LIST": "136/21.05.26",
+      "rowNumber": 1499
+    },
+    {
+      "SPARE MOTOR LIST": "403/03.10.25",
+      "rowNumber": 1500
+    },
+    {
+      "SPARE MOTOR LIST": "046/21.04.26",
+      "rowNumber": 1501
+    },
+    {
+      "SPARE MOTOR LIST": "149/26.05.26",
+      "rowNumber": 1502
+    },
+    {
+      "SPARE MOTOR LIST": "148/26.05.26",
+      "rowNumber": 1503
+    },
+    {
+      "SPARE MOTOR LIST": "153/26.05.26",
+      "rowNumber": 1504
+    },
+    {
+      "SPARE MOTOR LIST": "134/21.05.26",
+      "rowNumber": 1505
+    },
+    {
+      "SPARE MOTOR LIST": "152/26.05.26",
+      "rowNumber": 1506
+    },
+    {
+      "SPARE MOTOR LIST": "150/26.05.26",
+      "rowNumber": 1507
+    },
+    {
+      "SPARE MOTOR LIST": "151/26.05.26",
+      "rowNumber": 1508
+    },
+    {
+      "SPARE MOTOR LIST": "853/14.02.25",
+      "rowNumber": 1509
+    },
+    {
+      "SPARE MOTOR LIST": "147/25.05.26",
+      "rowNumber": 1510
+    },
+    {
+      "SPARE MOTOR LIST": "042/17.04.26",
+      "rowNumber": 1511
+    },
+    {
+      "SPARE MOTOR LIST": "157/30.05.26",
+      "rowNumber": 1512
+    },
+    {
+      "SPARE MOTOR LIST": "160/30.05.26",
+      "rowNumber": 1513
+    },
+    {
+      "SPARE MOTOR LIST": "141/25.05.26",
+      "rowNumber": 1514
+    },
+    {
+      "SPARE MOTOR LIST": "142/25.05.26",
+      "rowNumber": 1515
+    },
+    {
+      "SPARE MOTOR LIST": "143/25.05.26",
+      "rowNumber": 1516
+    },
+    {
+      "SPARE MOTOR LIST": "166/02.06.26",
+      "rowNumber": 1517
+    },
+    {
+      "SPARE MOTOR LIST": "712/31.01.26",
+      "rowNumber": 1518
+    },
+    {
+      "SPARE MOTOR LIST": "124/16.05.26",
+      "rowNumber": 1519
+    },
+    {
+      "SPARE MOTOR LIST": "023/08.04.26",
+      "rowNumber": 1520
+    },
+    {
+      "SPARE MOTOR LIST": "171/05.06.26",
+      "rowNumber": 1521
+    },
+    {
+      "SPARE MOTOR LIST": "175/08.06.26",
+      "rowNumber": 1522
+    },
+    {
+      "SPARE MOTOR LIST": "797/26.03.26",
+      "rowNumber": 1523
+    },
+    {
+      "SPARE MOTOR LIST": "183/12.06.26",
+      "rowNumber": 1524
+    },
+    {
+      "SPARE MOTOR LIST": "184/12.06.26",
+      "rowNumber": 1525
+    },
+    {
+      "SPARE MOTOR LIST": "185/12.06.26",
+      "rowNumber": 1526
+    },
+    {
+      "SPARE MOTOR LIST": "374/08.09.23",
+      "rowNumber": 1527
+    },
+    {
+      "SPARE MOTOR LIST": "188/12.06.26",
+      "rowNumber": 1528
+    },
+    {
+      "SPARE MOTOR LIST": "190/13.06.26",
+      "rowNumber": 1529
+    },
+    {
+      "SPARE MOTOR LIST": "186/12.06.26",
+      "rowNumber": 1530
+    },
+    {
+      "SPARE MOTOR LIST": "187/12.06.26",
+      "rowNumber": 1531
+    },
+    {
+      "SPARE MOTOR LIST": "194/13.06.26",
+      "rowNumber": 1532
+    },
+    {
+      "SPARE MOTOR LIST": "189/13.06.26",
+      "rowNumber": 1533
+    },
+    {
+      "SPARE MOTOR LIST": "796/26.03.26",
+      "rowNumber": 1534
+    },
+    {
+      "SPARE MOTOR LIST": "196/17.06.26",
+      "rowNumber": 1535
+    },
+    {
+      "SPARE MOTOR LIST": "172/05.06.26",
+      "rowNumber": 1536
+    },
+    {
+      "SPARE MOTOR LIST": "848/12.02.25",
+      "rowNumber": 1537
+    },
+    {
+      "SPARE MOTOR LIST": "191/13.06.26",
+      "rowNumber": 1538
+    },
+    {
+      "SPARE MOTOR LIST": "130/20.05.26",
+      "rowNumber": 1539
+    },
+    {
+      "SPARE MOTOR LIST": "215/22.06.26",
+      "rowNumber": 1540
+    },
+    {
+      "SPARE MOTOR LIST": "193/13.06.26",
+      "rowNumber": 1541
+    },
+    {
+      "SPARE MOTOR LIST": "218/23.06.26",
+      "rowNumber": 1542
+    },
+    {
+      "SPARE MOTOR LIST": "226/27.06.26",
+      "rowNumber": 1543
+    },
+    {
+      "SPARE MOTOR LIST": "225/26.06.26",
+      "rowNumber": 1544
+    },
+    {
+      "SPARE MOTOR LIST": "222/24.06.26",
+      "rowNumber": 1545
+    },
+    {
+      "SPARE MOTOR LIST": "207/18.06.26",
+      "rowNumber": 1546
+    },
+    {
+      "SPARE MOTOR LIST": "221/24.06.26",
+      "rowNumber": 1547
+    },
+    {
+      "SPARE MOTOR LIST": "232/30.06.26",
+      "rowNumber": 1548
+    },
+    {
+      "SPARE MOTOR LIST": "223/25.06.26",
+      "rowNumber": 1549
+    },
+    {
+      "SPARE MOTOR LIST": "233/01.07.26",
+      "rowNumber": 1550
+    },
+    {
+      "SPARE MOTOR LIST": "244/03.07.26",
+      "rowNumber": 1551
+    },
+    {
+      "SPARE MOTOR LIST": "798/16.03.24",
+      "rowNumber": 1552
+    },
+    {
+      "SPARE MOTOR LIST": "206/18.06.26",
+      "rowNumber": 1553
+    },
+    {
+      "SPARE MOTOR LIST": "252/07.07.26",
+      "rowNumber": 1554
+    },
+    {
+      "SPARE MOTOR LIST": "254/07.07.26",
+      "rowNumber": 1555
+    },
+    {
+      "SPARE MOTOR LIST": "253/07.07.26",
+      "rowNumber": 1556
+    },
+    {
+      "SPARE MOTOR LIST": "272/11.07.26",
+      "rowNumber": 1557
+    },
+    {
+      "SPARE MOTOR LIST": "267/09.07.26",
+      "rowNumber": 1558
+    },
+    {
+      "SPARE MOTOR LIST": "271/11.07.26",
+      "rowNumber": 1559
+    },
+    {
+      "SPARE MOTOR LIST": "266/09.07.26",
+      "rowNumber": 1560
+    },
+    {
+      "SPARE MOTOR LIST": "250/06.07.26",
+      "rowNumber": 1561
+    },
+    {
+      "SPARE MOTOR LIST": "246/06.07.26",
+      "rowNumber": 1562
+    },
+    {
+      "SPARE MOTOR LIST": "280/21.07.26",
+      "rowNumber": 1563
+    },
+    {
+      "SPARE MOTOR LIST": "278/18.07.26",
+      "rowNumber": 1564
+    },
+    {
+      "SPARE MOTOR LIST": "268/09.07.26",
+      "rowNumber": 1565
+    },
+    {
+      "SPARE MOTOR LIST": "279/18.07.26",
+      "rowNumber": 1566
+    },
+    {
+      "SPARE MOTOR LIST": "276/17.07.26",
+      "rowNumber": 1567
+    },
+    {
+      "SPARE MOTOR LIST": "262/08.07.26",
+      "rowNumber": 1568
+    },
+    {
+      "SPARE MOTOR LIST": "277/18.07.26",
+      "rowNumber": 1569
+    },
+    {
+      "SPARE MOTOR LIST": "198/02.07.25",
+      "rowNumber": 1570
+    },
+    {
+      "SPARE MOTOR LIST": "471/27.10.25",
+      "rowNumber": 1571
+    },
+    {
+      "SPARE MOTOR LIST": "283/23.07.26",
+      "rowNumber": 1572
+    },
+    {
+      "SPARE MOTOR LIST": "284/23.07.26",
+      "rowNumber": 1573
+    },
+    {
+      "SPARE MOTOR LIST": "281/21.07.26",
+      "rowNumber": 1574
+    },
+    {
+      "SPARE MOTOR LIST": "371/07.09.23",
+      "rowNumber": 1575
+    },
+    {
+      "SPARE MOTOR LIST": "287/23.07.26",
+      "rowNumber": 1576
+    },
+    {
+      "SPARE MOTOR LIST": "289/25.07.26",
+      "rowNumber": 1577
+    },
+    {
+      "SPARE MOTOR LIST": "258/07.07.26",
+      "rowNumber": 1578
+    },
+    {
+      "SPARE MOTOR LIST": "292/27.07.26",
+      "rowNumber": 1579
+    },
+    {
+      "SPARE MOTOR LIST": "293/27.07.26",
+      "rowNumber": 1580
+    },
+    {
+      "SPARE MOTOR LIST": "296/29.07.26",
+      "rowNumber": 1581
+    },
+    {
+      "SPARE MOTOR LIST": "288/23.07.26",
+      "rowNumber": 1582
+    },
+    {
+      "SPARE MOTOR LIST": "391/19.09.23",
+      "rowNumber": 1583
+    },
+    {
+      "SPARE MOTOR LIST": "",
+      "rowNumber": 1584
+    }
+  ]
+}
