@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:18:48.997Z",
+  "updated": "2026-08-17T16:48:59.467Z",
   "headers": [
     "CONTACTOR(3)",
     "fuse(202)",
@@ -3023,6 +3023,12 @@
       "8CHANNEL ALARM ANNUNCIATOR-86591408100",
       "8CHANNEL ALARM ANNUNCIATOR",
       86591408100,
+      "misc"
+    ],
+    [
+      "RIBBON CATRIDGE(BLACK)-LQ5235 PRINTER-94807094140",
+      "RIBBON CATRIDGE(BLACK)-LQ5235 PRINTER",
+      94807094140,
       "misc"
     ],
     [
