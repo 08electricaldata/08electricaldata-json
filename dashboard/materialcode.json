@@ -1,10 +1,4829 @@
 {
-  "updated": "2026-08-17T12:49:00.612Z",
+  "updated": "2026-08-17T13:18:30.232Z",
   "headers": [
-    "#ERROR!",
-    "",
-    "",
-    ""
+    "CONTACTOR(3)",
+    "fuse(202)",
+    "Auxilary Contactor(402)",
+    "cable codes-602"
   ],
-  "rows": []
+  "rows": [
+    [
+      "EXHUSTFAN",
+      "MCB,MCCB",
+      "MODULE-2602",
+      "AMMETER-2802"
+    ],
+    [
+      "VACUUM CONTACTOR TYPE MVO630, L&T MAKE-82807052220",
+      "VACUUM CONTACTOR TYPE MVO630, L&T MAKE",
+      82807052220,
+      "CONTACTOR"
+    ],
+    [
+      "VACUUM CONTACTOR TYPE MVO400, L&T MAKE-82807052200",
+      "VACUUM CONTACTOR TYPE MVO400, L&T MAKE",
+      82807052200,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR MNX 550-82806502130",
+      "POWER CONTACTOR MNX 550",
+      82806502130,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR,240 V AC MNX400-82806507040",
+      "POWER CONTACTOR,240 V AC MNX400",
+      82806507040,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR TYPE MNX325, COIL VOLTAG-82806502120",
+      "POWER CONTACTOR TYPE MNX325, COIL VOLTAG",
+      82806502120,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR TYPE MNX225, COIL VOLTAG-82806502110",
+      "POWER CONTACTOR TYPE MNX225, COIL VOLTAG",
+      82806502110,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR TYPE MNX185, COIL VOLTAG-82806502100",
+      "POWER CONTACTOR TYPE MNX185, COIL VOLTAG",
+      82806502100,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR MNX110-82807003130",
+      "POWER CONTACTOR MNX110",
+      82807003130,
+      "CONTACTOR"
+    ],
+    [
+      "L&T MAKE CONTACTOR,TYPE-MNX - 45-40302046030",
+      "L&T MAKE CONTACTOR,TYPE-MNX - 45",
+      40302046030,
+      "CONTACTOR"
+    ],
+    [
+      "Power Contactor 240V AC,MNX32-82806541060",
+      "Power Contactor 240V AC,MNX32",
+      82806541060,
+      "CONTACTOR"
+    ],
+    [
+      "L&T MAKE CONTACTOR TYPE:MN110-40302047080",
+      "L&T MAKE CONTACTOR TYPE:MN110",
+      40302047080,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR 240V AC 65A l&t mn65-82801302020",
+      "POWER CONTACTOR 240V AC 65A l&t mn65",
+      82801302020,
+      "CONTACTOR"
+    ],
+    [
+      "Power Contactor 240V AC,MN12-82806506850",
+      "Power Contactor 240V AC,MN12",
+      82806506850,
+      "CONTACTOR"
+    ],
+    [
+      "L&T  ML12 WITH 240V AC,SS91010-82807050060",
+      "L&T  ML12 WITH 240V AC,SS91010",
+      82807050060,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR ML-10,200A COIL VOLT-220VAC-40302702530",
+      "CONTACTOR ML-10,200A COIL VOLT-220VAC",
+      40302702530,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR 125A,ML-6 L&T-82806730000",
+      "CONTACTOR 125A,ML-6 L&T",
+      82806730000,
+      "CONTACTOR"
+    ],
+    [
+      "COIL VOLTAGE 240V CAT NO SS90901,ML4-82806803830",
+      "COIL VOLTAGE 240V CAT NO SS90901,ML4",
+      82806803830,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR 40A, L&T,ML3 CAT.NO. SS9072-82806430070",
+      "CONTACTOR 40A, L&T,ML3 CAT.NO. SS9072",
+      82806430070,
+      "CONTACTOR"
+    ],
+    [
+      "MNX550 CONTACT KIT-82806502170",
+      "MNX550 CONTACT KIT",
+      82806502170,
+      "CONTACTOR"
+    ],
+    [
+      "MNX325 CONTACT KIT-82806502160",
+      "MNX325 CONTACT KIT",
+      82806502160,
+      "CONTACTOR"
+    ],
+    [
+      "MNX225 CONTACT KIT-82806502150",
+      "MNX225 CONTACT KIT",
+      82806502150,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACT KITS SET FOR MNX 185,L&T-82806502140",
+      "CONTACT KITS SET FOR MNX 185,L&T",
+      82806502140,
+      "CONTACTOR"
+    ],
+    [
+      "SPARE KIT W/O COIL-ML12,CAT NO.SS 95317.-82806727330",
+      "SPARE KIT W/O COIL-ML12,CAT NO.SS 95317.",
+      82806727330,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTS FOR ML10 CONTACTOR,SS 90936-82806722520",
+      "CONTACTS FOR ML10 CONTACTOR,SS 90936",
+      82806722520,
+      "CONTACTOR"
+    ],
+    [
+      "SPARES KIT WITHOUT COIL FOR L&T ML6 CONTACTOR-82807010350",
+      "SPARES KIT WITHOUT COIL FOR L&T ML6 CONTACTOR",
+      82807010350,
+      "CONTACTOR"
+    ],
+    [
+      "MAIN CONTACT KITS-ML4 CONTACTOR,SS 95311-82806725260",
+      "MAIN CONTACT KITS-ML4 CONTACTOR,SS 95311",
+      82806725260,
+      "CONTACTOR"
+    ],
+    [
+      "SIEMENS CONTACTOR-",
+      "SIEMENS CONTACTOR",
+      "",
+      "CONTACTOR"
+    ],
+    [
+      "630A LT VAC.CONTACTOR,TYPE-3TF68-440CM7-82816000000",
+      "630A LT VAC.CONTACTOR,TYPE-3TF68-440CM7",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "500A LT VAC CONTACTOR TY,-3RT1276-6AP36-82816007670",
+      "500A LT VAC CONTACTOR TY,-3RT1276-6AP36",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "400A LT Vacuum contactor-82816007660",
+      "400A LT Vacuum contactor",
+      82816007660,
+      "CONTACTOR"
+    ],
+    [
+      "300A LT vacuum contactor-82816007590",
+      "300A LT vacuum contactor",
+      82816007590,
+      "CONTACTOR"
+    ],
+    [
+      "300A POWER CONTACTOR,300A,240V AC-82816851450",
+      "300A POWER CONTACTOR,300A,240V AC",
+      82816851450,
+      "CONTACTOR"
+    ],
+    [
+      "225A LT vacuum CONTACTOR-82816007730",
+      "225A LT vacuum CONTACTOR",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "200A SIEMENS POWER CONTACTOR 3TF53-02-OA-82816261420",
+      "200A SIEMENS POWER CONTACTOR 3TF53-02-OA",
+      82816261420,
+      "CONTACTOR"
+    ],
+    [
+      "170A SIEMENS POWER CONTACTOR, 170A-82816261350",
+      "170A SIEMENS POWER CONTACTOR, 170A",
+      82816261350,
+      "CONTACTOR"
+    ],
+    [
+      "110A CONTACTOR 240V AC COIL FOR 110A(3TF50)-82816264470",
+      "110A CONTACTOR 240V AC COIL FOR 110A(3TF50)",
+      82816264470,
+      "CONTACTOR"
+    ],
+    [
+      "110A 3TF50 CONTACTOR, SIEMENS, 3TX7 506-1 YA0(Mechanical interlocking kits)-82816301140",
+      "110A 3TF50 CONTACTOR, SIEMENS, 3TX7 506-1 YA0(Mechanical interlocking kits)",
+      82816301140,
+      "CONTACTOR"
+    ],
+    [
+      "70A SIEMENS MAKE CONTACTOR 3TA24,160A,240V AC( 3TF contactor is being procured 70A)-82816231740",
+      "70A SIEMENS MAKE CONTACTOR 3TA24,160A,240V AC( 3TF contactor is being procured 70A)",
+      82816231740,
+      "CONTACTOR"
+    ],
+    [
+      "63A POWER CONTACTOR MDL-3TF4702-OAUOZA01-82816261110",
+      "63A POWER CONTACTOR MDL-3TF4702-OAUOZA01",
+      82816261110,
+      "CONTACTOR"
+    ],
+    [
+      "45A CONTACTOR 110VAC,45A,SIEMENS-3TF4602-OA-82816422540",
+      "45A CONTACTOR 110VAC,45A,SIEMENS-3TF4602-OA",
+      82816422540,
+      "CONTACTOR"
+    ],
+    [
+      "32A CONTACTOR TYPE:3TF3400-OAMO,32A,COIL WI*-82816424540",
+      "32A CONTACTOR TYPE:3TF3400-OAMO,32A,COIL WI*",
+      82816424540,
+      "CONTACTOR"
+    ],
+    [
+      "16A AIR BRAKE CONTACTOR POWER,CAT.NO.3TF3200-82816272020",
+      "16A AIR BRAKE CONTACTOR POWER,CAT.NO.3TF3200",
+      82816272020,
+      "CONTACTOR"
+    ],
+    [
+      "POWER CONTACTOR 16A 3TA2111 OAF-82816203370",
+      "POWER CONTACTOR 16A 3TA2111 OAF",
+      82816203370,
+      "CONTACTOR"
+    ],
+    [
+      "9A SIEMENS POWER CONTACTOR TYPE:3TF30 01-0A-82816420310",
+      "9A SIEMENS POWER CONTACTOR TYPE:3TF30 01-0A",
+      82816420310,
+      "CONTACTOR"
+    ],
+    [
+      "SIEMENS CONTACTOR 3TA22 10-OAF 110VAC-82816422090",
+      "SIEMENS CONTACTOR 3TA22 10-OAF 110VAC",
+      82816422090,
+      "CONTACTOR"
+    ],
+    [
+      "POWER X CONTACTOR OE TYPE 3TA13-10-OAU-82816223710",
+      "POWER X CONTACTOR OE TYPE 3TA13-10-OAU",
+      82816223710,
+      "CONTACTOR"
+    ],
+    [
+      "SPARE CONTACT KIT,300A,TYPE-3TY7550-0YA.-82816632040",
+      "SPARE CONTACT KIT,300A,TYPE-3TY7550-0YA.",
+      82816632040,
+      "CONTACTOR"
+    ],
+    [
+      "SIEMENS-SET OF MAIN CONTACTS,200A,3TF53-82816631300",
+      "SIEMENS-SET OF MAIN CONTACTS,200A,3TF53",
+      82816631300,
+      "CONTACTOR"
+    ],
+    [
+      "SIEM. MAIN CONTACTS SET FOR170A(3TF52)-82816265350",
+      "SIEM. MAIN CONTACTS SET FOR170A(3TF52)",
+      82816265350,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACT KITS FOR 3TF-50 SEIMENS CONTR.-40302706530",
+      "CONTACT KITS FOR 3TF-50 SEIMENS CONTR.",
+      40302706530,
+      "CONTACTOR"
+    ],
+    [
+      "SPARE CONTACTS FOR 3TA24:TYPE 3TY 1240-OA-82850916090",
+      "SPARE CONTACTS FOR 3TA24:TYPE 3TY 1240-OA",
+      82850916090,
+      "CONTACTOR"
+    ],
+    [
+      "COMPL.POWER&CONTROL MODULE ACTUATOR-14322033840",
+      "COMPL.POWER&CONTROL MODULE ACTUATOR",
+      14322033840,
+      "CONTACTOR"
+    ],
+    [
+      "SIEMENS SPARE KIT TYPE 3TY7570-OYA-82850922570",
+      "SIEMENS SPARE KIT TYPE 3TY7570-OYA",
+      82850922570,
+      "CONTACTOR"
+    ],
+    [
+      "3TY1280-OA MAIN CONTACT KIT 170A CONTACTOR-82850920570",
+      "3TY1280-OA MAIN CONTACT KIT 170A CONTACTOR",
+      82850920570,
+      "CONTACTOR"
+    ],
+    [
+      "SIEMENS VCU TYPE 3TL8-82721672529",
+      "SIEMENS VCU TYPE 3TL8",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "SIEMENS AUX SWITCH MODEL 3RH1921-1EA11-82816282050",
+      "SIEMENS AUX SWITCH MODEL 3RH1921-1EA11",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "TC/BCH-",
+      "TC/BCH",
+      "",
+      "CONTACTOR"
+    ],
+    [
+      "Power contactor,200A TYPE LC1FDP115,240V AC-82785073010",
+      "Power contactor,200A TYPE LC1FDP115,240V AC",
+      82785073010,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR TYPE LC-FF-INO 116A-82845655650",
+      "CONTACTOR TYPE LC-FF-INO 116A",
+      82845655650,
+      "CONTACTOR"
+    ],
+    [
+      "Power Conactor,80A,LC1D80 C&S MAKE-82801302050",
+      "Power Conactor,80A,LC1D80 C&S MAKE",
+      82801302050,
+      "CONTACTOR"
+    ],
+    [
+      "Power Contactor,25A,LC1D25C&S MAKE-82801302030",
+      "Power Contactor,25A,LC1D25C&S MAKE",
+      82801302030,
+      "CONTACTOR"
+    ],
+    [
+      "SPARE CONTACT SET FOR LC1-F400 CONTACTOR-82845624470",
+      "SPARE CONTACT SET FOR LC1-F400 CONTACTOR",
+      82845624470,
+      "CONTACTOR"
+    ],
+    [
+      "9A, TC/D0901,110V AC-67490000080",
+      "9A, TC/D0901,110V AC",
+      67490000080,
+      "CONTACTOR"
+    ],
+    [
+      "9A, TC/D0901,110V AC-67490000090",
+      "9A, TC/D0901,110V AC",
+      67490000090,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR 630A MAIN CONTACT 3P+1N10 240V AC-82845630020",
+      "CONTACTOR 630A MAIN CONTACT 3P+1N10 240V AC",
+      82845630020,
+      "CONTACTOR"
+    ],
+    [
+      "400A CONTACTOR TYPE: CK10CE300,COIL VOLTAGE 240V AC-82808010010",
+      "400A CONTACTOR TYPE: CK10CE300,COIL VOLTAGE 240V AC",
+      82808010010,
+      "CONTACTOR"
+    ],
+    [
+      "300A CONTACTOR, TYPE: MCE 15SN3K7,240V AC-82801505090",
+      "300A CONTACTOR, TYPE: MCE 15SN3K7,240V AC",
+      82801505090,
+      "CONTACTOR"
+    ],
+    [
+      "CT CONTACTOR ,EOT,MEEKA-67314000340",
+      "CT CONTACTOR ,EOT,MEEKA",
+      67314000340,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACT ASSEMBLY FOR VD4 VCB-82765000140",
+      "CONTACT ASSEMBLY FOR VD4 VCB",
+      82765000140,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR MOUNT BMR 6-10A L&T SS-91858-82652032040",
+      "CONTACTOR MOUNT BMR 6-10A L&T SS-91858",
+      82652032040,
+      "CONTACTOR"
+    ],
+    [
+      "SPARE KIT-110A POWER CONTACTOR,CAT:6-385-82801509160",
+      "SPARE KIT-110A POWER CONTACTOR,CAT:6-385",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "CONTACTOR 110V DC COIL TY-3TH8262-OBF4-82816303380",
+      "CONTACTOR 110V DC COIL TY-3TH8262-OBF4",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "AUX.CONTACT BLOCK 2NO+ 2NC TYPE-LA1D22-82845657030",
+      "AUX.CONTACT BLOCK 2NO+ 2NC TYPE-LA1D22",
+      null,
+      "CONTACTOR"
+    ],
+    [
+      "THREE POLE POWER CONTACTOR-MNX 12,240VAC-40302047100",
+      "THREE POLE POWER CONTACTOR-MNX 12,240VAC",
+      40302047100,
+      "CONTACTOR"
+    ],
+    [
+      "500A-HRC FUSE  L&T-82618000330",
+      "500A-HRC FUSE  L&T",
+      82618000330,
+      "FUSE"
+    ],
+    [
+      "315 HRC FUSE LINK,L&T HN-315-82618033630",
+      "315 HRC FUSE LINK,L&T HN-315",
+      82618033630,
+      "FUSE"
+    ],
+    [
+      "250A-HRC FUSE, 250A,HN250,CAT NO:SF94334-82618033490",
+      "250A-HRC FUSE, 250A,HN250,CAT NO:SF94334",
+      82618033490,
+      "FUSE"
+    ],
+    [
+      "200A-HRC FUSE 200A L&T-82618000320",
+      "200A-HRC FUSE 200A L&T",
+      82618000320,
+      "FUSE"
+    ],
+    [
+      "160A-L&T HRC FUSE 160A,HN160 CAT.NO.SF 94131-82618033700",
+      "160A-L&T HRC FUSE 160A,HN160 CAT.NO.SF 94131",
+      82618033700,
+      "FUSE"
+    ],
+    [
+      "125A-HRC FUSE LINK,L&T HN-125-82618009880",
+      "125A-HRC FUSE LINK,L&T HN-125",
+      82618009880,
+      "FUSE"
+    ],
+    [
+      "125A-HRC FUSE 125A L&T CAT NO SF95214-82618015050",
+      "125A-HRC FUSE 125A L&T CAT NO SF95214",
+      82618015050,
+      "FUSE"
+    ],
+    [
+      "63A-L&T HRC FUSE 63AMP SF 90159-82618014550",
+      "63A-L&T HRC FUSE 63AMP SF 90159",
+      82618014550,
+      "FUSE"
+    ],
+    [
+      "200A-HRC FUSELINK-MOTOR CIRCUIT TY.K815V 200A-82617070490",
+      "200A-HRC FUSELINK-MOTOR CIRCUIT TY.K815V 200A",
+      82617070490,
+      "FUSE"
+    ],
+    [
+      "200A-6.6 KV HT FUS-82620742500",
+      "200A-6.6 KV HT FUS",
+      82620742500,
+      "FUSE"
+    ],
+    [
+      "125A GE HT fuse-82617070250",
+      "125A GE HT fuse",
+      82617070250,
+      "FUSE"
+    ],
+    [
+      "63A-HRC FUSE,63 AMPS,6,6KV,TYPE:K81S V X 63*-82617071200",
+      "63A-HRC FUSE,63 AMPS,6,6KV,TYPE:K81S V X 63*",
+      82617071200,
+      "FUSE"
+    ],
+    [
+      "400A-HRC FUSE 400A-82617993560",
+      "400A-HRC FUSE 400A",
+      82617993560,
+      "FUSE"
+    ],
+    [
+      "45A-HRC FUSE LINK GSG 1000/45A-82617051790",
+      "45A-HRC FUSE LINK GSG 1000/45A",
+      82617051790,
+      "FUSE"
+    ],
+    [
+      "500A-HRC FUSE  TTM500A415V-82617034610",
+      "500A-HRC FUSE  TTM500A415V",
+      82617034610,
+      "FUSE"
+    ],
+    [
+      "100A-HRC 100AMP TC100-82617020060",
+      "100A-HRC 100AMP TC100",
+      82617020060,
+      "FUSE"
+    ],
+    [
+      "80A-EE HRC FUSE LINK 80A TC 80-82617017080",
+      "80A-EE HRC FUSE LINK 80A TC 80",
+      82617017080,
+      "FUSE"
+    ],
+    [
+      "63A-3 NA 1218 63 A HRC FUSE  SIZE 1-82620021070",
+      "63A-3 NA 1218 63 A HRC FUSE  SIZE 1",
+      82620021070,
+      "FUSE"
+    ],
+    [
+      "50A-3NA 1017  50A HRC FUSE SIZE 0-82620313070",
+      "50A-3NA 1017  50A HRC FUSE SIZE 0",
+      82620313070,
+      "FUSE"
+    ],
+    [
+      "03A-33KV PT FUSE, 03AMP,   LENGTH:500MM, DI*-82617000240",
+      "03A-33KV PT FUSE, 03AMP,   LENGTH:500MM, DI*",
+      82617000240,
+      "FUSE"
+    ],
+    [
+      "63A-HRC FUSE 63A,500VAC,GE VSB63 SFD8310063-82617065410",
+      "63A-HRC FUSE 63A,500VAC,GE VSB63 SFD8310063",
+      82617065410,
+      "FUSE"
+    ],
+    [
+      "16A-SIEMENS FUSE LINK 16AMP,TYPE:3NW NS16-82620149040",
+      "16A-SIEMENS FUSE LINK 16AMP,TYPE:3NW NS16",
+      82620149040,
+      "FUSE"
+    ],
+    [
+      "FUSE TERMINAL BLOCK-82643374180",
+      "FUSE TERMINAL BLOCK",
+      82643374180,
+      "FUSE"
+    ],
+    [
+      "20A L&T Cylendrical Type -",
+      "20A L&T Cylendrical Type",
+      "",
+      "FUSE"
+    ],
+    [
+      "20A BUSSMEN NS TYPE-",
+      "20A BUSSMEN NS TYPE",
+      "",
+      "FUSE"
+    ],
+    [
+      "100A-SITOR FUSE 100A,3NE1021-0-82721804090",
+      "100A-SITOR FUSE 100A,3NE1021-0",
+      82721804090,
+      "FUSE"
+    ],
+    [
+      "160A-SITOR FUSE 160A,3NE1224-0-82721804100",
+      "160A-SITOR FUSE 160A,3NE1224-0",
+      82721804100,
+      "FUSE"
+    ],
+    [
+      "250A-SITOR FUSE 250A,3NE1227-0-82721804110",
+      "250A-SITOR FUSE 250A,3NE1227-0",
+      82721804110,
+      "FUSE"
+    ],
+    [
+      "560A-SITOR FUSE 560A,3NE1435-0-82721804120",
+      "560A-SITOR FUSE 560A,3NE1435-0",
+      82721804120,
+      "FUSE"
+    ],
+    [
+      "25A-FUSE, 25A, EIT-25, SFA 8120025-82617064080",
+      "25A-FUSE, 25A, EIT-25, SFA 8120025",
+      82617064080,
+      "FUSE"
+    ],
+    [
+      "80A-FUSE:80A,660V 75042S 170E 4507 OOT/80-82622619110",
+      "80A-FUSE:80A,660V 75042S 170E 4507 OOT/80",
+      82622619110,
+      "FUSE"
+    ],
+    [
+      "32A-POWER FUSE (32 A)FOR MCC,415V AC,80KA-82617068150",
+      "32A-POWER FUSE (32 A)FOR MCC,415V AC,80KA",
+      82617068150,
+      "FUSE"
+    ],
+    [
+      "50A-HV HRC FUSE LINK TYPE:3GD1 110-2B, 50A-82620741170",
+      "50A-HV HRC FUSE LINK TYPE:3GD1 110-2B, 50A",
+      null,
+      "FUSE"
+    ],
+    [
+      "80A-6.6/72KV MOTOR PROTECT.HIGH HRC FUSE 80A-82617070010",
+      "80A-6.6/72KV MOTOR PROTECT.HIGH HRC FUSE 80A",
+      null,
+      "FUSE"
+    ],
+    [
+      "FUSE TYPE 3 GA 2217/CV 3681,UN 10/12 KV*-82620325000",
+      "FUSE TYPE 3 GA 2217/CV 3681,UN 10/12 KV*",
+      null,
+      "FUSE"
+    ],
+    [
+      "Aux.Contactor MNX550, 240VAC for VFD-86515090290",
+      "Aux.Contactor MNX550, 240VAC for VFD",
+      86515090290,
+      "Auxilary Contactor"
+    ],
+    [
+      "Control Contactor MNO 22E FOR VFD-82806100040",
+      "Control Contactor MNO 22E FOR VFD",
+      82806100040,
+      "Auxilary Contactor"
+    ],
+    [
+      "AUX. CONTACTOR 3TH30 40-OAM0,230V A-82721804080",
+      "AUX. CONTACTOR 3TH30 40-OAM0,230V A",
+      82721804080,
+      "Auxilary Contactor"
+    ],
+    [
+      "AUX. CONTACTOR 3TH30 22,24V DC-82721804070",
+      "AUX. CONTACTOR 3TH30 22,24V DC",
+      82721804070,
+      "Auxilary Contactor"
+    ],
+    [
+      "Aux. contactor type CA2DN 140A,240V AC,-82785073030",
+      "Aux. contactor type CA2DN 140A,240V AC,",
+      82785073030,
+      "Auxilary Contactor"
+    ],
+    [
+      "SIEMEN CONTROL RELAY 3TH80-31-OA,240V AC-82651550530",
+      "SIEMEN CONTROL RELAY 3TH80-31-OA,240V AC",
+      82651550530,
+      "Auxilary Contactor"
+    ],
+    [
+      "SIEMENS AUX.CONTACTOR ,3RH2122-1AF00-82651140570",
+      "SIEMENS AUX.CONTACTOR ,3RH2122-1AF00",
+      82651140570,
+      "Auxilary Contactor"
+    ],
+    [
+      "SIEMENS DC CONTACTOR COIL TYPE-3TY4803-*-82816263590",
+      "SIEMENS DC CONTACTOR COIL TYPE-3TY4803-*",
+      82816263590,
+      "Auxilary Contactor"
+    ],
+    [
+      "SIEMENS CONTACTOR(CONT),3TH30 22-0A-40305602110",
+      "SIEMENS CONTACTOR(CONT),3TH30 22-0A",
+      40305602110,
+      "Auxilary Contactor"
+    ],
+    [
+      "3TA6158-OAF CONTACTOR 5NO+3NC,6A110 V AC-82816107360",
+      "3TA6158-OAF CONTACTOR 5NO+3NC,6A110 V AC",
+      82816107360,
+      "Auxilary Contactor"
+    ],
+    [
+      "3TH8 AUX.CONTACTOR COIL 240V AC MODEL- -82816266090",
+      "3TH8 AUX.CONTACTOR COIL 240V AC MODEL-",
+      null,
+      "Auxilary Contactor"
+    ],
+    [
+      "TIME DELAY CONTACT BLOCK TYPE LA2D22 A65-82655627030",
+      "TIME DELAY CONTACT BLOCK TYPE LA2D22 A65",
+      null,
+      "Auxilary Contactor"
+    ],
+    [
+      "AUX. CONTACTOR 3TH30 31-OAUO,240 VAC-82816300880",
+      "AUX. CONTACTOR 3TH30 31-OAUO,240 VAC",
+      82816300880,
+      "Auxilary Contactor"
+    ],
+    [
+      "1C X 70.0 SQMM 76KV DC PLIC AL CABLE-82001101320",
+      "1C X 70.0 SQMM 76KV DC PLIC AL CABLE",
+      82001101320,
+      "cable"
+    ],
+    [
+      "1CX95 SQ MM AL. XLPE INSU 80KV DC CABLE-82001101610",
+      "1CX95 SQ MM AL. XLPE INSU 80KV DC CABLE",
+      82001101610,
+      "cable"
+    ],
+    [
+      "1C X 1000 SQMM CABLE1.1 KV AL. AROURED -82001068030",
+      "1C X 1000 SQMM CABLE1.1 KV AL. AROURED",
+      82001068030,
+      "cable"
+    ],
+    [
+      "2 C X 4 SQMM ARMOURED  ALUMINIUM CABLE-82001104130",
+      "2 C X 4 SQMM ARMOURED  ALUMINIUM CABLE",
+      82001104130,
+      "cable"
+    ],
+    [
+      "2CX10 SQMM PVC INS./SHEATH ARMD.AL CABLE-82001055500",
+      "2CX10 SQMM PVC INS./SHEATH ARMD.AL CABLE",
+      82001055500,
+      "cable"
+    ],
+    [
+      "2CX16 SQMM PVC INSULARMOURED AL. CABLE-82001080541",
+      "2CX16 SQMM PVC INSULARMOURED AL. CABLE",
+      82001080541,
+      "cable"
+    ],
+    [
+      "2 CORE 25 SQMM ARM-82001081040",
+      "2 CORE 25 SQMM ARM",
+      82001081040,
+      "cable"
+    ],
+    [
+      "3CX2.5 SQMM FLEX.TRS ROUND CU CABLE-82085102420",
+      "3CX2.5 SQMM FLEX.TRS ROUND CU CABLE",
+      null,
+      "cable"
+    ],
+    [
+      "3CX4SQMM PVC INSULATED ARMOURED AL.CABLE-82001061530",
+      "3CX4SQMM PVC INSULATED ARMOURED AL.CABLE",
+      82001061530,
+      "cable"
+    ],
+    [
+      "3CX6MM2 PVC AYFY AL. CABLE-82001064030",
+      "3CX6MM2 PVC AYFY AL. CABLE",
+      82001064030,
+      "cable"
+    ],
+    [
+      "3CX16MM2,1.1KV AL.COND. PVC ARMOUR CABLE-82001091070",
+      "3CX16MM2,1.1KV AL.COND. PVC ARMOUR CABLE",
+      82001091070,
+      "cable"
+    ],
+    [
+      "3CX50SQMM PVC INS. ARMOURED AL.CABLE-82001918690",
+      "3CX50SQMM PVC INS. ARMOURED AL.CABLE",
+      82001918690,
+      "cable"
+    ],
+    [
+      "3CX50SQMM PVC INS. ARMOURED AL.CABLE (6.6 KV)-82015111520",
+      "3CX50SQMM PVC INS. ARMOURED AL.CABLE (6.6 KV)",
+      82015111520,
+      "cable"
+    ],
+    [
+      "6.6KV XLPE AL.CONDUCTOR 3CX50 SQMM-82010053540",
+      "6.6KV XLPE AL.CONDUCTOR 3CX50 SQMM",
+      null,
+      "cable"
+    ],
+    [
+      "3CX95 SQMM PVC INSUL/SHTH ARMRD AL.CABLE-82001095520",
+      "3CX95 SQMM PVC INSUL/SHTH ARMRD AL.CABLE",
+      82001095520,
+      "cable"
+    ],
+    [
+      "3C X 120 SQ.MM. 1.1 KV ARMD. AL. CABLE-82002086060",
+      "3C X 120 SQ.MM. 1.1 KV ARMD. AL. CABLE",
+      82002086060,
+      "cable"
+    ],
+    [
+      "3C X 185 SQMM PVC IN SARMOURED AL. CABLE-82001095070",
+      "3C X 185 SQMM PVC IN SARMOURED AL. CABLE",
+      82001095070,
+      "cable"
+    ],
+    [
+      "3CX240SQMM PVC INS.ARMURED AL.CABLE(1KV)-82002088060",
+      "3CX240SQMM PVC INS.ARMURED AL.CABLE(1KV)",
+      82002088060,
+      "cable"
+    ],
+    [
+      "3C X 300sqmm ,6.6KV Aluminium  Cable-82001090960",
+      "3C X 300sqmm ,6.6KV Aluminium  Cable",
+      82001090960,
+      "cable"
+    ],
+    [
+      "3CX300 SQMM PVC INS/SHEATH ARM AL. CABLE-82001096570",
+      "3CX300 SQMM PVC INS/SHEATH ARM AL. CABLE",
+      82001096570,
+      "cable"
+    ],
+    [
+      "3C X 300 SQMM PVC-82015135580",
+      "3C X 300 SQMM PVC",
+      82015135580,
+      "cable"
+    ],
+    [
+      "1.1 KV 3.1/2 C X 25 SQMM ARM AL CABLE-82002090540",
+      "1.1 KV 3.1/2 C X 25 SQMM ARM AL CABLE",
+      82002090540,
+      "cable"
+    ],
+    [
+      "3.5C X 35 SQMM HR PVC INSULATED/SHEATHE* AL CABLE-82001101010",
+      "3.5C X 35 SQMM HR PVC INSULATED/SHEATHE* AL CABLE",
+      82001101010,
+      "cable"
+    ],
+    [
+      "3.5C X 50 SQ.MM ARMOURED AL. CABLE-82001101560",
+      "3.5C X 50 SQ.MM ARMOURED AL. CABLE",
+      82001101560,
+      "cable"
+    ],
+    [
+      "3.5C X 70 SQMM PVC ARMOURED AL. CABLE-82001102060",
+      "3.5C X 70 SQMM PVC ARMOURED AL. CABLE",
+      82001102060,
+      "cable"
+    ],
+    [
+      "3.5C X 95 SQ.MM ARMOURED AL. CABLE-82001105870",
+      "3.5C X 95 SQ.MM ARMOURED AL. CABLE",
+      82001105870,
+      "cable"
+    ],
+    [
+      "3.5C X 120 SQMM PVC INSULATED/SHEATHED *-82001103010",
+      "3.5C X 120 SQMM PVC INSULATED/SHEATHED *",
+      82001103010,
+      "cable"
+    ],
+    [
+      "3.5C X 150 SQMM PVC INSULATED/SHEATHED *-82001103560",
+      "3.5C X 150 SQMM PVC INSULATED/SHEATHED *",
+      82001103560,
+      "cable"
+    ],
+    [
+      "3.5CX185MM2 PVC INSULD ARMOURED AL CABLE-82001104060",
+      "3.5CX185MM2 PVC INSULD ARMOURED AL CABLE",
+      82001104060,
+      "cable"
+    ],
+    [
+      "3.5CX240 SQMM PVC INS. ARMD.AL.CABLE-82001105010",
+      "3.5CX240 SQMM PVC INS. ARMD.AL.CABLE",
+      82001105010,
+      "cable"
+    ],
+    [
+      "3.5CX400 SQMM PVC INSUL ARM AL. CABLE-82002096090",
+      "3.5CX400 SQMM PVC INSUL ARM AL. CABLE",
+      82002096090,
+      "cable"
+    ],
+    [
+      "4C X 6 SQ.MM PVC ALU. ARMOURED CABLE-82005019560",
+      "4C X 6 SQ.MM PVC ALU. ARMOURED CABLE",
+      82005019560,
+      "cable"
+    ],
+    [
+      "4C X 10 SQ.MM PVC ALU. ARMOURED CABLE-35001039520",
+      "4C X 10 SQ.MM PVC ALU. ARMOURED CABLE",
+      35001039520,
+      "cable"
+    ],
+    [
+      "4X10MMSQ.AL POWER-82002102100",
+      "4X10MMSQ.AL POWER",
+      82002102100,
+      "cable"
+    ],
+    [
+      "4CX16MM SQ PVC AL ARMD CABLE1.1KV GR-82001113040",
+      "4CX16MM SQ PVC AL ARMD CABLE1.1KV GR",
+      82001113040,
+      "cable"
+    ],
+    [
+      "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE-82001114090",
+      "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE",
+      82001114090,
+      "cable"
+    ],
+    [
+      "COPPER CABLE-",
+      "COPPER CABLE",
+      "",
+      "cable"
+    ],
+    [
+      "1.5 SQMM PVC INSUL multi strand cu twin -82088005090",
+      "1.5 SQMM PVC INSUL multi strand cu twin",
+      82088005090,
+      "cable"
+    ],
+    [
+      "POWER CABLE 2CX1.5(Long-3c*1.5 multistrand cu)-82003050590",
+      "POWER CABLE 2CX1.5(Long-3c*1.5 multistrand cu)",
+      82003050590,
+      "cable"
+    ],
+    [
+      "3COREX1.5SQ.MM CU ARMD.PVC CTRL.CABLE-35004014070",
+      "3COREX1.5SQ.MM CU ARMD.PVC CTRL.CABLE",
+      35004014070,
+      "cable"
+    ],
+    [
+      "3CX1.5 SQMM MULTISTD FLEX.CU.CABLE-82007002070",
+      "3CX1.5 SQMM MULTISTD FLEX.CU.CABLE",
+      82007002070,
+      "cable"
+    ],
+    [
+      "3C X 2.5 SQMM MULT ARMD. CU. CABLE-82005013010",
+      "3C X 2.5 SQMM MULT ARMD. CU. CABLE",
+      82005013010,
+      "cable"
+    ],
+    [
+      "3CX4SQMM PVC INSULATED ARMOURED COPPER.CABLE-82007006140",
+      "3CX4SQMM PVC INSULATED ARMOURED COPPER.CABLE",
+      82007006140,
+      "cable"
+    ],
+    [
+      "3CX6 SQMM MULT. STD FLEX. COP. CABLE-82007008380",
+      "3CX6 SQMM MULT. STD FLEX. COP. CABLE",
+      82007008380,
+      "cable"
+    ],
+    [
+      "3CX6 SQ.MM 1100V CU ARMD.POWER CABLE-82007006380",
+      "3CX6 SQ.MM 1100V CU ARMD.POWER CABLE",
+      82007006380,
+      "cable"
+    ],
+    [
+      "3C x 10 SQ MM, COPPER CABLE 1.1 KV GRADE-82003089600",
+      "3C x 10 SQ MM, COPPER CABLE 1.1 KV GRADE",
+      82003089600,
+      "cable"
+    ],
+    [
+      "3CX16 SQMM MULT. STD FLEX. COP. CABLE-82007007020",
+      "3CX16 SQMM MULT. STD FLEX. COP. CABLE",
+      82007007020,
+      "cable"
+    ],
+    [
+      "3CX25 SQMM MULT. STD FLEX. COP. CABLE-82008204500",
+      "3CX25 SQMM MULT. STD FLEX. COP. CABLE",
+      82008204500,
+      "cable"
+    ],
+    [
+      "3CX35 SQMM FLEXIBLE TRS COPPER CABLE-82090010120",
+      "3CX35 SQMM FLEXIBLE TRS COPPER CABLE",
+      82090010120,
+      "cable"
+    ],
+    [
+      "3CX50 SQ.MM,FLEX.CU CABLE,PVC INSULATED-35006025090",
+      "3CX50 SQ.MM,FLEX.CU CABLE,PVC INSULATED",
+      35006025090,
+      "cable"
+    ],
+    [
+      "3CX70 SQ.MM,FLEX.CU CABLE,PVC INSULATED-",
+      "3CX70 SQ.MM,FLEX.CU CABLE,PVC INSULATED",
+      "",
+      "cable"
+    ],
+    [
+      "3CX95 SQ.MM,FLEX.CU CABLE,PVC INSULATED-",
+      "3CX95 SQ.MM,FLEX.CU CABLE,PVC INSULATED",
+      "",
+      "cable"
+    ],
+    [
+      "3.5CX50 SQMM FLEXIBLE TRS COPPER CABLE-82008205700",
+      "3.5CX50 SQMM FLEXIBLE TRS COPPER CABLE",
+      82008205700,
+      "cable"
+    ],
+    [
+      "3.5CX50SQMM ANNEALE TINNED COPPER CABLE*-82008001090",
+      "3.5CX50SQMM ANNEALE TINNED COPPER CABLE*",
+      82008001090,
+      "cable"
+    ],
+    [
+      "3.5CX70 SQMM FLEXIBLE TRS COPPER CABLE-82008205870",
+      "3.5CX70 SQMM FLEXIBLE TRS COPPER CABLE",
+      82008205870,
+      "cable"
+    ],
+    [
+      "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE-82008204370",
+      "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE",
+      82008204370,
+      "cable"
+    ],
+    [
+      "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE-82008207010",
+      "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE",
+      82008207010,
+      "cable"
+    ],
+    [
+      "4CX 2.5 SQMM MULTISTRAND ARMOURED CU CABLE-82013013020",
+      "4CX 2.5 SQMM MULTISTRAND ARMOURED CU CABLE",
+      82013013020,
+      "cable"
+    ],
+    [
+      "4CX4SQ MM PVC ARMORED POWER CABLE 1100V-82040201430",
+      "4CX4SQ MM PVC ARMORED POWER CABLE 1100V",
+      82040201430,
+      "cable"
+    ],
+    [
+      "4CX6 SQ.MM 1100V GR.FLEX. CU CABLE-35011005030",
+      "4CX6 SQ.MM 1100V GR.FLEX. CU CABLE",
+      35011005030,
+      "cable"
+    ],
+    [
+      "4Cx6 sqmm flexible cu.cable-82013017020",
+      "4Cx6 sqmm flexible cu.cable",
+      82013017020,
+      "cable"
+    ],
+    [
+      "4Cx10 sqmm cu.cable-99905001610",
+      "4Cx10 sqmm cu.cable",
+      99905001610,
+      "cable"
+    ],
+    [
+      "4Cx16 sqmm cu.cable-82008205010",
+      "4Cx16 sqmm cu.cable",
+      82008205010,
+      "cable"
+    ],
+    [
+      "4Cx25 sqmm cu.cable-82060244020",
+      "4Cx25 sqmm cu.cable",
+      82060244020,
+      "cable"
+    ],
+    [
+      "4CX35 SQMM FLEXIBLE TRS COPPER CABLE-82060244570",
+      "4CX35 SQMM FLEXIBLE TRS COPPER CABLE",
+      82060244570,
+      "cable"
+    ],
+    [
+      "4CX70 SQMM CU ARMOURED PVC CABLE-82008206510",
+      "4CX70 SQMM CU ARMOURED PVC CABLE",
+      82008206510,
+      "cable"
+    ],
+    [
+      "4C X 95 MM2 POWER CABLE,1100V,COPPER PVC-",
+      "4C X 95 MM2 POWER CABLE,1100V,COPPER PVC",
+      "",
+      "cable"
+    ],
+    [
+      "5Cx2.5 sqmm cu. Armoured pvc cable-82004062590",
+      "5Cx2.5 sqmm cu. Armoured pvc cable",
+      82004062590,
+      "cable"
+    ],
+    [
+      "7CX 2.5 MM PVC ARMOUR COPPER CABLE 1.1KV-82003056040",
+      "7CX 2.5 MM PVC ARMOUR COPPER CABLE 1.1KV",
+      82003056040,
+      "cable"
+    ],
+    [
+      "7COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE-35004005090",
+      "7COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE",
+      35004005090,
+      "cable"
+    ],
+    [
+      "10 COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE-82003066520",
+      "10 COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE",
+      82003066520,
+      "cable"
+    ],
+    [
+      "14 CORE X 2.5 SQMM COPPER CABLE-82003067570",
+      "14 CORE X 2.5 SQMM COPPER CABLE",
+      82003067570,
+      "cable"
+    ],
+    [
+      "15CX2.5MM2 MULTIST CU. CABLE-82003067710",
+      "15CX2.5MM2 MULTIST CU. CABLE",
+      82003067710,
+      "cable"
+    ],
+    [
+      "16C X 2.5SQ.MM1.1KV CU.ARMORD PVC CABLE-35004010070",
+      "16C X 2.5SQ.MM1.1KV CU.ARMORD PVC CABLE",
+      35004010070,
+      "cable"
+    ],
+    [
+      "12PX 1.5SQ.MM1.1KV CU.ARMORD PVC CABLE-82060126050",
+      "12PX 1.5SQ.MM1.1KV CU.ARMORD PVC CABLE",
+      82060126050,
+      "cable"
+    ],
+    [
+      "24C X 2.5 SQ.MM, CONTROL CABLE-35004011570",
+      "24C X 2.5 SQ.MM, CONTROL CABLE",
+      35004011570,
+      "cable"
+    ],
+    [
+      "24CX 2.5  SQ.MM.cu-82003069020",
+      "24CX 2.5  SQ.MM.cu",
+      82003069020,
+      "cable"
+    ],
+    [
+      "16 pairX1.5 sqmm cu. Cable.-35009004080",
+      "16 pairX1.5 sqmm cu. Cable.",
+      35009004080,
+      "cable"
+    ],
+    [
+      "61CX2.5 SQMM CU. CABLE-82004069540",
+      "61CX2.5 SQMM CU. CABLE",
+      82004069540,
+      "cable"
+    ],
+    [
+      "3C X 120 SQMM COPPER WIRE-",
+      "3C X 120 SQMM COPPER WIRE",
+      "",
+      "cable"
+    ],
+    [
+      "3.5C X 120 SQMM COPPER WIRE-82008205630",
+      "3.5C X 120 SQMM COPPER WIRE",
+      82008205630,
+      "cable"
+    ],
+    [
+      "4C X 25MM2 POWER CABLE,1100V,COPPER PVC-82002201090",
+      "4C X 25MM2 POWER CABLE,1100V,COPPER PVC",
+      82002201090,
+      "cable"
+    ],
+    [
+      "25 SQ.MM FLEX.CABLE WITH EPR RUBBER INS.-82060283090",
+      "25 SQ.MM FLEX.CABLE WITH EPR RUBBER INS.",
+      82060283090,
+      "cable"
+    ],
+    [
+      "FLEX.CABLE INS.EITH EPR/SI RUBB.50MM SQ.-82060282040",
+      "FLEX.CABLE INS.EITH EPR/SI RUBB.50MM SQ.",
+      null,
+      "cable"
+    ],
+    [
+      "2.5 SQMM FIBREGLASS COPPER WIRE-82006030160",
+      "2.5 SQMM FIBREGLASS COPPER WIRE",
+      82006030160,
+      "cable"
+    ],
+    [
+      "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE-82001114090",
+      "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE",
+      82001114090,
+      "cable"
+    ],
+    [
+      "720KW,ILA7632-4,1500RPM,6.6KV COMP.MOTOR-75401015019",
+      "720KW,ILA7632-4,1500RPM,6.6KV COMP.MOTOR",
+      75401015019,
+      "motor"
+    ],
+    [
+      "667 kw,6.6 kv,2975,ILA7634-75401015050",
+      "667 kw,6.6 kv,2975,ILA7634",
+      75401015050,
+      "motor"
+    ],
+    [
+      "667KW,6.6KV,2975 RPM,FRAME-ILA7634-75401015059",
+      "667KW,6.6KV,2975 RPM,FRAME-ILA7634",
+      75401015059,
+      "motor"
+    ],
+    [
+      "450KW,6.6KV,F-AVMN 560L4-75515000090",
+      "450KW,6.6KV,F-AVMN 560L4",
+      75515000090,
+      "motor"
+    ],
+    [
+      "421 kw 6.6 kv 710f596rpm comp. motor-74154007590",
+      "421 kw 6.6 kv 710f596rpm comp. motor",
+      74154007590,
+      "motor"
+    ],
+    [
+      "375KW,6.6KV,FR.355,1485RPM,B3 MOTOR-75505030529",
+      "375KW,6.6KV,FR.355,1485RPM,B3 MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "280KW,6.6KV,FR.D355,1480RPM,B3 MOTOR-75402001400",
+      "280KW,6.6KV,FR.D355,1480RPM,B3 MOTOR",
+      75402001400,
+      "motor"
+    ],
+    [
+      "275KW,6.6KV,FR.355,990RPM,B3 MOTOR-75505030519",
+      "275KW,6.6KV,FR.355,990RPM,B3 MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "250 KW, 450L Frame, 4 pole motor-74436002029",
+      "250 KW, 450L Frame, 4 pole motor",
+      74436002029,
+      "motor"
+    ],
+    [
+      "220 KW VFD APPLICATION MOTOR-75601060070",
+      "220 KW VFD APPLICATION MOTOR",
+      75601060070,
+      "motor"
+    ],
+    [
+      "220KW,415V,1486RPM-74449191020",
+      "220KW,415V,1486RPM",
+      74449191020,
+      "motor"
+    ],
+    [
+      "200 KW,315L,1486 RPM,B3 MTG-74144020000",
+      "200 KW,315L,1486 RPM,B3 MTG",
+      74144020000,
+      "motor"
+    ],
+    [
+      "180 KW,315L,1486 RPM,B3 MTG-75415030050",
+      "180 KW,315L,1486 RPM,B3 MTG",
+      75415030050,
+      "motor"
+    ],
+    [
+      "132 KW,1500 RPM,B3 MOUNTING COMP.MOTOR-74136027040",
+      "132 KW,1500 RPM,B3 MOUNTING COMP.MOTOR",
+      74136027040,
+      "motor"
+    ],
+    [
+      "110KW,FR-315ML,RPM- 1480,B3 MOTOR-74447391200",
+      "110KW,FR-315ML,RPM- 1480,B3 MOTOR",
+      74447391200,
+      "motor"
+    ],
+    [
+      "110 KW 315S 1482 RPM MOTOR-74447390040",
+      "110 KW 315S 1482 RPM MOTOR",
+      74447390040,
+      "motor"
+    ],
+    [
+      "100 KW AMW 315S4,-74165006180",
+      "100 KW AMW 315S4,",
+      74165006180,
+      "motor"
+    ],
+    [
+      "90 KW,280 S/M,1486 RPM,B3 MTG-74130000020",
+      "90 KW,280 S/M,1486 RPM,B3 MTG",
+      74130000020,
+      "motor"
+    ],
+    [
+      "90 KW,315S/M,1486 RPM,B3 MTG-74130001060",
+      "90 KW,315S/M,1486 RPM,B3 MTG",
+      74130001060,
+      "motor"
+    ],
+    [
+      "75 KW ,315S/M VSD MOTOR-75601035030",
+      "75 KW ,315S/M VSD MOTOR",
+      75601035030,
+      "motor"
+    ],
+    [
+      "75KW,FS:280SM,1500 RPM,COMPRESSOR MOTOR-74128025030",
+      "75KW,FS:280SM,1500 RPM,COMPRESSOR MOTOR",
+      74128025030,
+      "motor"
+    ],
+    [
+      "75KW FR.M2BA-74128025031",
+      "75KW FR.M2BA",
+      74128025031,
+      "motor"
+    ],
+    [
+      "55KW,1500RPM,3PH.415V INDUCTION MOTOR-74101025040",
+      "55KW,1500RPM,3PH.415V INDUCTION MOTOR",
+      74101025040,
+      "motor"
+    ],
+    [
+      "55 KW 1475 RPM 250M-73542001200",
+      "55 KW 1475 RPM 250M",
+      73542001200,
+      "motor"
+    ],
+    [
+      "45 KW,225S,1480 RPM,B3,415V-74124030030",
+      "45 KW,225S,1480 RPM,B3,415V",
+      74124030030,
+      "motor"
+    ],
+    [
+      "45 KW 78A,3000 RPM-74124012520",
+      "45 KW 78A,3000 RPM",
+      74124012520,
+      "motor"
+    ],
+    [
+      "45KW,250M,1485RPM,-74124035081",
+      "45KW,250M,1485RPM,",
+      74124035081,
+      "motor"
+    ],
+    [
+      "37KW FRAME:2-74316010030",
+      "37KW FRAME:2",
+      74316010030,
+      "motor"
+    ],
+    [
+      "37KW,250M,980 RPM FLAME PROOF MOTOR-73507022000",
+      "37KW,250M,980 RPM FLAME PROOF MOTOR",
+      73507022000,
+      "motor"
+    ],
+    [
+      "37KW,225S,1470 RPM FLAME PROOF MOTOR-73555002000",
+      "37KW,225S,1470 RPM FLAME PROOF MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "37KW,225S FRAME,1500 RPM,LT IND.MOTOR-73555020030",
+      "37KW,225S FRAME,1500 RPM,LT IND.MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "30 kw,200L,1000 RPM-73561000040",
+      "30 kw,200L,1000 RPM",
+      73561000040,
+      "motor"
+    ],
+    [
+      "30KW, 1471RPM, V6,-73538000020",
+      "30KW, 1471RPM, V6,",
+      73538000020,
+      "motor"
+    ],
+    [
+      "30 KW 1470RPM 415V-26504106110",
+      "30 KW 1470RPM 415V",
+      26504106110,
+      "motor"
+    ],
+    [
+      "30KW,200L,1480RPM FLAME PROOF MOTOR-74830012000",
+      "30KW,200L,1480RPM FLAME PROOF MOTOR",
+      74830012000,
+      "motor"
+    ],
+    [
+      "22 KW ,1470rpm, VFD MOTOR,180L-75601003040",
+      "22 KW ,1470rpm, VFD MOTOR,180L",
+      75601003040,
+      "motor"
+    ],
+    [
+      "22KW MOTOR,FR:180L, 4 POLE,B3 MTG-73571000090",
+      "22KW MOTOR,FR:180L, 4 POLE,B3 MTG",
+      null,
+      "motor"
+    ],
+    [
+      "18.5KW,1455RPM,B3,-74415005000",
+      "18.5KW,1455RPM,B3,",
+      74415005000,
+      "motor"
+    ],
+    [
+      "INDUCTION MOTOR 18.5KW,180M/L,4P,V6 MTG-74415015030",
+      "INDUCTION MOTOR 18.5KW,180M/L,4P,V6 MTG",
+      null,
+      "motor"
+    ],
+    [
+      "15KW,415V,1475 RPM,180M FRAME,IMB3 MOTOR-34301122080",
+      "15KW,415V,1475 RPM,180M FRAME,IMB3 MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "3PH,AC,415V,11KW 1450RPM B3 MOUNTING ,F*-74114015070",
+      "3PH,AC,415V,11KW 1450RPM B3 MOUNTING ,F*",
+      null,
+      "motor"
+    ],
+    [
+      "11.5 KM siren-99995005130",
+      "11.5 KM siren",
+      99995005130,
+      "motor"
+    ],
+    [
+      "7.5KW,1500 RPM,132M FRAME,SQL.IND.MOTOR-74442102000",
+      "7.5KW,1500 RPM,132M FRAME,SQL.IND.MOTOR",
+      74442102000,
+      "motor"
+    ],
+    [
+      "7.5 kw -74435000050",
+      "7.5 kw",
+      74435000050,
+      "motor"
+    ],
+    [
+      "5.5KW,FRAME 132SM,-74101010050",
+      "5.5KW,FRAME 132SM,",
+      74101010050,
+      "motor"
+    ],
+    [
+      "5.5 kw 132M, 960 rpm,s3 duty,B3-74406003190",
+      "5.5 kw 132M, 960 rpm,s3 duty,B3",
+      74406003190,
+      "motor"
+    ],
+    [
+      "5.5KW,132M,950 RPM FLAME PROOF MOTOR-74406002000",
+      "5.5KW,132M,950 RPM FLAME PROOF MOTOR",
+      74406002000,
+      "motor"
+    ],
+    [
+      "5.5 KW,1500 RPM,B3 MOUNT.LT IND.MOTOR-74101015010",
+      "5.5 KW,1500 RPM,B3 MOUNT.LT IND.MOTOR",
+      74101015010,
+      "motor"
+    ],
+    [
+      "5.5 KW, FS-132M, 1500 RPM, B3, MOTOR-74406003020",
+      "5.5 KW, FS-132M, 1500 RPM, B3, MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "3PH,AC,415V,5.5KW,1440 RPM,FS:1325SMB4,*-74101010060",
+      "3PH,AC,415V,5.5KW,1440 RPM,FS:1325SMB4,*",
+      null,
+      "motor"
+    ],
+    [
+      "3.7KW,112M,1480RPM FLAME PROOF MOTOR-74422112000",
+      "3.7KW,112M,1480RPM FLAME PROOF MOTOR",
+      74422112000,
+      "motor"
+    ],
+    [
+      "2.2KW 1415RPM MOTOR,FRAME:100L 415V 50HZ-73542001680",
+      "2.2KW 1415RPM MOTOR,FRAME:100L 415V 50HZ",
+      73542001680,
+      "motor"
+    ],
+    [
+      "2.2KW,FRAME-134TC,RPM-2930,B35 MTG-74457000080",
+      "2.2KW,FRAME-134TC,RPM-2930,B35 MTG",
+      74457000080,
+      "motor"
+    ],
+    [
+      "1.5 kw 100L,BBL-74406003710",
+      "1.5 kw 100L,BBL",
+      74406003710,
+      "motor"
+    ],
+    [
+      "TEFC SQ CAGE KEC 3PH.AC IND.MOTOR 1.5KW-74603000020",
+      "TEFC SQ CAGE KEC 3PH.AC IND.MOTOR 1.5KW",
+      74603000020,
+      "motor"
+    ],
+    [
+      "3.DIA INDUCTION MOTOR 1.5KW,415V,1435RPM-74901082560",
+      "3.DIA INDUCTION MOTOR 1.5KW,415V,1435RPM",
+      74901082560,
+      "motor"
+    ],
+    [
+      "LOP Motor Comp-701,702,184 TC-7445700080",
+      "LOP Motor Comp-701,702,184 TC",
+      7445700080,
+      "motor"
+    ],
+    [
+      "Atlas copco 1-ph dryer motor-74124026240",
+      "Atlas copco 1-ph dryer motor",
+      74124026240,
+      "motor"
+    ],
+    [
+      "T/ B COVER FOR NGE-74199037150",
+      "T/ B COVER FOR NGE",
+      74199037150,
+      "motor"
+    ],
+    [
+      "TRMNL.BOX+SCREWS,HFO PUMP:30-PA-GR-849-72962001070",
+      "TRMNL.BOX+SCREWS,HFO PUMP:30-PA-GR-849",
+      72962001070,
+      "motor"
+    ],
+    [
+      "TERMINAL BLOCK FOR MOTOR 280KW     FRAME-75402010340",
+      "TERMINAL BLOCK FOR MOTOR 280KW     FRAME",
+      75402010340,
+      "motor"
+    ],
+    [
+      "CABLE ENTRY PLATE-NGEF MOTOR,FS:AMW 250-74126001960",
+      "CABLE ENTRY PLATE-NGEF MOTOR,FS:AMW 250",
+      74126001960,
+      "motor"
+    ],
+    [
+      "TRMNL.BOX+SCREWS,HFO PUMP-30-PA-GR-851-72962011000",
+      "TRMNL.BOX+SCREWS,HFO PUMP-30-PA-GR-851",
+      72962011000,
+      "motor"
+    ],
+    [
+      "EMERGENCY ALARM SYS.<SIREN>-82422026000",
+      "EMERGENCY ALARM SYS.<SIREN>",
+      82422026000,
+      "motor"
+    ],
+    [
+      "Industrial Siren, 3phase,Range- 11.5KM-99995005130",
+      "Industrial Siren, 3phase,Range- 11.5KM",
+      99995005130,
+      "motor"
+    ],
+    [
+      "15 kw,180L-74422201680",
+      "15 kw,180L",
+      74422201680,
+      "motor"
+    ],
+    [
+      "83kw-74443080100",
+      "83kw",
+      74443080100,
+      "motor"
+    ],
+    [
+      "LT Battery ABCD old-74901060080",
+      "LT Battery ABCD old",
+      74901060080,
+      "motor"
+    ],
+    [
+      "3.7KW,112M,1480RPM-74422111040",
+      "3.7KW,112M,1480RPM",
+      74422111040,
+      "motor"
+    ],
+    [
+      "0.75KW 4P,FRAME80,V1-74429001200",
+      "0.75KW 4P,FRAME80,V1",
+      74429001200,
+      "motor"
+    ],
+    [
+      "0.75KW 4P,80 FRAME,B5-74901061210",
+      "0.75KW 4P,80 FRAME,B5",
+      null,
+      "motor"
+    ],
+    [
+      "0.37 KW FRAME:80 RPM:910 DUTY: S3 B5 MO*-74406003570",
+      "0.37 KW FRAME:80 RPM:910 DUTY: S3 B5 MO*",
+      null,
+      "motor"
+    ],
+    [
+      "22 kw 2 pole-73547000020",
+      "22 kw 2 pole",
+      73547000020,
+      "motor"
+    ],
+    [
+      "3.7 kw-74499450020",
+      "3.7 kw",
+      74499450020,
+      "motor"
+    ],
+    [
+      "Monoblock Pump 1  HP-72893000010",
+      "Monoblock Pump 1  HP",
+      72893000010,
+      "motor"
+    ],
+    [
+      "Hypo transfer pump-15610011230",
+      "Hypo transfer pump",
+      null,
+      "motor"
+    ],
+    [
+      "SLEEVE BEARING  100 DIA FOR COMP. MOTOR-75401001000",
+      "SLEEVE BEARING  100 DIA FOR COMP. MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "SLEEVE BEARING  85 DIA FOR COMP. MOTOR-75401001010",
+      "SLEEVE BEARING  85 DIA FOR COMP. MOTOR",
+      null,
+      "motor"
+    ],
+    [
+      "MONOBLOC PUMP 1 H.P-72893000010",
+      "MONOBLOC PUMP 1 H.P",
+      72893000010,
+      "motor"
+    ],
+    [
+      "FLAME PROOF MONO BLOC PUMP 0.5HP-72893000040",
+      "FLAME PROOF MONO BLOC PUMP 0.5HP",
+      72893000040,
+      "motor"
+    ],
+    [
+      "MATERIAL-CODE",
+      "MATERIAL",
+      "CODE",
+      "QTY"
+    ],
+    [
+      "RELAY MPR300 (16-44A)-35211000110",
+      "RELAY MPR300 (16-44A)",
+      35211000110,
+      "BMR"
+    ],
+    [
+      "MP BASED RELAY, MPR 300, RANG 8-22A-21901864740",
+      "MP BASED RELAY, MPR 300, RANG 8-22A",
+      21901864740,
+      "BMR"
+    ],
+    [
+      "MP BASED  RELAY, MPR 300, RANG.4-11A-21901864670",
+      "MP BASED  RELAY, MPR 300, RANG.4-11A",
+      21901864670,
+      "BMR"
+    ],
+    [
+      "THERMAL OVERLOAD RELAY,TYPE :MN5,66A-110*-82652021200",
+      "THERMAL OVERLOAD RELAY,TYPE :MN5,66A-110*",
+      82652021200,
+      "BMR"
+    ],
+    [
+      "Bimetal overload Relay Range:66-110 Amps-82652114230",
+      "Bimetal overload Relay Range:66-110 Amps",
+      82652114230,
+      "BMR"
+    ],
+    [
+      "O/L RELAY MN-2,L&T ,RATING:14-23A.-82652112850",
+      "O/L RELAY MN-2,L&T ,RATING:14-23A.",
+      82652112850,
+      "BMR"
+    ],
+    [
+      "Contactor mount BMR6-10A L&T-82652032040",
+      "Contactor mount BMR6-10A L&T",
+      82652032040,
+      "BMR"
+    ],
+    [
+      "BM Relay 1A-1.6A,TRD09306-67490000120",
+      "BM Relay 1A-1.6A,TRD09306",
+      67490000120,
+      "BMR"
+    ],
+    [
+      "BMR,TYPE:T 450 DU 400,285-400A,ABB.-82655081500",
+      "BMR,TYPE:T 450 DU 400,285-400A,ABB.",
+      82655081500,
+      "BMR"
+    ],
+    [
+      "BMR,TYPE:T 450 DU 235,165-235A,ABB.-82655081360",
+      "BMR,TYPE:T 450 DU 235,165-235A,ABB.",
+      82655081360,
+      "BMR"
+    ],
+    [
+      "BMR 3UA5200-2B, 12.5-20A, SIEMENS-82651106160",
+      "BMR 3UA5200-2B, 12.5-20A, SIEMENS",
+      82651106160,
+      "BMR"
+    ],
+    [
+      "BMR TYPE 3UA 50001C RANGE 1.6-2.5A-82651161020",
+      "BMR TYPE 3UA 50001C RANGE 1.6-2.5A",
+      82651161020,
+      "BMR"
+    ],
+    [
+      "BIMETAL OVERLOAD RELAY 3UA5200-2B  40-57-82651197631",
+      "BIMETAL OVERLOAD RELAY 3UA5200-2B  40-57",
+      82651197631,
+      "BMR"
+    ],
+    [
+      "BIMETAL RELAY 2.5-4A, SIEMENS 3UA5000-1F-82651166900",
+      "BIMETAL RELAY 2.5-4A, SIEMENS 3UA5000-1F",
+      82651166900,
+      "BMR"
+    ],
+    [
+      "SIEMENS BMR 1-1.6A 3UA50001-A TYPE.-82651102300",
+      "SIEMENS BMR 1-1.6A 3UA50001-A TYPE.",
+      82651102300,
+      "BMR"
+    ],
+    [
+      "BMR , 6.0-9.3A CAT MC305ANA3J,BCH-82650501020",
+      "BMR , 6.0-9.3A CAT MC305ANA3J,BCH",
+      82650501020,
+      "BMR"
+    ],
+    [
+      "T&C THERMAL O/L RELAY  LR1-D09312-82655654070",
+      "T&C THERMAL O/L RELAY  LR1-D09312",
+      82655654070,
+      "BMR"
+    ],
+    [
+      "BMR 8.45-13.45-82650503010",
+      "BMR 8.45-13.45",
+      82650503010,
+      "BMR"
+    ],
+    [
+      "BMR 8-12-82651107040",
+      "BMR 8-12",
+      82651107040,
+      "BMR"
+    ],
+    [
+      "70-110 Bimetallic relay-82651996590",
+      "70-110 Bimetallic relay",
+      82651996590,
+      "BMR"
+    ],
+    [
+      "3UA 1928 OAH 2-3A SPP BIMETALRELAY SZ-40-82651144560",
+      "3UA 1928 OAH 2-3A SPP BIMETALRELAY SZ-40",
+      82651144560,
+      "BMR"
+    ],
+    [
+      "BIMETAL RELAY 3UA1928 OAR 14-20A-82651148560",
+      "BIMETAL RELAY 3UA1928 OAR 14-20A",
+      82651148560,
+      "BMR"
+    ],
+    [
+      "3UA 1928 OAU 25-40A SPP BIMETAL RELAY-82651150590",
+      "3UA 1928 OAU 25-40A SPP BIMETAL RELAY",
+      82651150590,
+      "BMR"
+    ],
+    [
+      "BIMETALLIC RELAY:17.5A-22.0A, CODE:RT1T-82801407220",
+      "BIMETALLIC RELAY:17.5A-22.0A, CODE:RT1T",
+      82801407220,
+      "BMR"
+    ],
+    [
+      "RELAY FOR 45KW CURRENT MEASURING MODULE-82729041360",
+      "RELAY FOR 45KW CURRENT MEASURING MODULE",
+      82729041360,
+      "BMR"
+    ],
+    [
+      "RELAY FOR 45KW EVALUATION MODULE-82729041350",
+      "RELAY FOR 45KW EVALUATION MODULE",
+      82729041350,
+      "BMR"
+    ],
+    [
+      "RELAY FOR 45KW EXPANSION MODULE-82729041220",
+      "RELAY FOR 45KW EXPANSION MODULE",
+      82729041220,
+      "BMR"
+    ],
+    [
+      "SIEMENS BMR 3RU1146-4JB0,45-63A-82651140540",
+      "SIEMENS BMR 3RU1146-4JB0,45-63A",
+      82651140540,
+      "BMR"
+    ],
+    [
+      "BIMETAL RELAY 3.2-5A, SIEMENS 3UA5000-1F-82651167020",
+      "BIMETAL RELAY 3.2-5A, SIEMENS 3UA5000-1F",
+      null,
+      "BMR"
+    ],
+    [
+      "3UA1928-OAP 8-12A BIMETAL RELAY SPP SZ40-82651996110",
+      "3UA1928-OAP 8-12A BIMETAL RELAY SPP SZ40",
+      null,
+      "BMR"
+    ],
+    [
+      "MATERIAL-CODE",
+      "MATERIAL",
+      "CODE",
+      "QTY"
+    ],
+    [
+      "24v AC 22mm LED indication module red-82628280460",
+      "24v AC 22mm LED indication module red",
+      82628280460,
+      "INDICATION LAMP"
+    ],
+    [
+      "24v AC 22mm LED indication module blue-82628281130",
+      "24v AC 22mm LED indication module blue",
+      82628281130,
+      "INDICATION LAMP"
+    ],
+    [
+      "24v AC 22mm LED indication module green-82628280530",
+      "24v AC 22mm LED indication module green",
+      82628280530,
+      "INDICATION LAMP"
+    ],
+    [
+      "24v AC 22mm LED indication module amber-82628280600",
+      "24v AC 22mm LED indication module amber",
+      82628280600,
+      "INDICATION LAMP"
+    ],
+    [
+      "24v AC 22mm LED indication module white-82628281110",
+      "24v AC 22mm LED indication module white",
+      82628281110,
+      "INDICATION LAMP"
+    ],
+    [
+      "240v AC 22mm LED indication module red-82628285270",
+      "240v AC 22mm LED indication module red",
+      82628285270,
+      "INDICATION LAMP"
+    ],
+    [
+      "240v AC 22mm LED indication module amber-82628292250",
+      "240v AC 22mm LED indication module amber",
+      82628292250,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED INDICATION MODULE 240V AC GREEN 22M*-82628285100",
+      "LED INDICATION MODULE 240V AC GREEN 22M*",
+      82628285100,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC  22mm LED indication module red-82628289100",
+      "110V DC  22mm LED indication module red",
+      82628289100,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC  22mm LED indication module green-82628289270",
+      "110V DC  22mm LED indication module green",
+      82628289270,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC  22mm LED indication module amber-82628289340",
+      "110V DC  22mm LED indication module amber",
+      82628289340,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC  22mm LED indication module white-82628288530",
+      "110V DC  22mm LED indication module white",
+      82628288530,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC  22mm LED indication module blue-82628281150",
+      "110V DC  22mm LED indication module blue",
+      82628281150,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC LED MODULE (RED) OF SIZE: 31.5MM-82628217950",
+      "110V DC LED MODULE (RED) OF SIZE: 31.5MM",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V DC LED MODULE (GREEN) OF 31.5MM-82628218070",
+      "110V DC LED MODULE (GREEN) OF 31.5MM",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "110VDC 30 mm DIA,Blue LED Ind Lamp-82628281140",
+      "110VDC 30 mm DIA,Blue LED Ind Lamp",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "240v AC 30 mm LED indication module blue-82628281170",
+      "240v AC 30 mm LED indication module blue",
+      82628281170,
+      "INDICATION LAMP"
+    ],
+    [
+      "240v AC 30 mm LED indication module red-82628218140",
+      "240v AC 30 mm LED indication module red",
+      82628218140,
+      "INDICATION LAMP"
+    ],
+    [
+      "240v AC 30mm LED indication module amber-82628218380",
+      "240v AC 30mm LED indication module amber",
+      82628218380,
+      "INDICATION LAMP"
+    ],
+    [
+      "230V AC LED MODULE 30MM GREEN COLOUR-82628218210",
+      "230V AC LED MODULE 30MM GREEN COLOUR",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED INDICATION LAMP MODULE COMPLETE SIZ*red 25.5-82628282150",
+      "LED INDICATION LAMP MODULE COMPLETE SIZ*red 25.5",
+      82628282150,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED INDICATION LAMP MODULE COMPLETE SIZ* green 25.5-82628282220",
+      "LED INDICATION LAMP MODULE COMPLETE SIZ* green 25.5",
+      82628282220,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED INDICATION LAMP MODULE COMPLETE SIZ*amber 25.5-82628282390",
+      "LED INDICATION LAMP MODULE COMPLETE SIZ*amber 25.5",
+      82628282390,
+      "INDICATION LAMP"
+    ],
+    [
+      "INDICATING LAMP EXTRACTOR-LED TYPE LAMP-82628268020",
+      "INDICATING LAMP EXTRACTOR-LED TYPE LAMP",
+      82628268020,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED INDICATION LAMP AMBER, SIEMENS-82628294750",
+      "LED INDICATION LAMP AMBER, SIEMENS",
+      82628294750,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V AC LED MODULE 27MM RED COLOUR-82628218450",
+      "110V AC LED MODULE 27MM RED COLOUR",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V AC LED MODULE 27MM GREEN COLOUR-82628218520",
+      "110V AC LED MODULE 27MM GREEN COLOUR",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "230V AC 23MM SIZE LED MODULE GREEN COLOR-82628280220",
+      "230V AC 23MM SIZE LED MODULE GREEN COLOR",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED TYPE IND.LAMP MODEL FLUSH TYPE FOR *-82628280390",
+      "LED TYPE IND.LAMP MODEL FLUSH TYPE FOR *",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "230V 25.5 mmDIA White color LED Ind Lamp-37903049020",
+      "230V 25.5 mmDIA White color LED Ind Lamp",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "63.5V AC 22MM DIA LED LAMP BLUE-75760000000",
+      "63.5V AC 22MM DIA LED LAMP BLUE",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "63.5V AC 22MM DIA LED LAMP CLEAR-75760000010",
+      "63.5V AC 22MM DIA LED LAMP CLEAR",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "INDICATING LAMP LED TYPE 63.5V AC FOR DG-75760003510",
+      "INDICATING LAMP LED TYPE 63.5V AC FOR DG",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "110V AC LED MODULE 37MM BLUE COLOUR-82628218690",
+      "110V AC LED MODULE 37MM BLUE COLOUR",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED TYPE IND.LAMP MODULE,FLASH TYPE FOR*-82628280150",
+      "LED TYPE IND.LAMP MODULE,FLASH TYPE FOR*",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "24VAC 22 mm DIA Yellow LED Ind Lamp-82628281120",
+      "24VAC 22 mm DIA Yellow LED Ind Lamp",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED TYPE IND.LAMP MODULE FLUSH TYPE FOR*-82628281270",
+      "LED TYPE IND.LAMP MODULE FLUSH TYPE FOR*",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "LED INDICATING LAMP RED COLOUR TYPE 3SB*-82628294490",
+      "LED INDICATING LAMP RED COLOUR TYPE 3SB*",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "INDICATING LAMP LED TYPE 63.5V AC FOR D-75760003550",
+      "INDICATING LAMP LED TYPE 63.5V AC FOR D",
+      null,
+      "INDICATION LAMP"
+    ],
+    [
+      "MATERIAL-CODE",
+      "MATERIAL",
+      "CODE",
+      "QTY"
+    ],
+    [
+      "LOAD BREAK SWITCH-82641923410",
+      "LOAD BREAK SWITCH",
+      82641923410,
+      "LIC"
+    ],
+    [
+      "25A, 3POLE COMPL.LOAD BREAK ISOLATOR-82641934560",
+      "25A, 3POLE COMPL.LOAD BREAK ISOLATOR",
+      82641934560,
+      "LIC"
+    ],
+    [
+      "LOCAL ISOLATOR WITH AMMETER 36 AMP.-82698005400",
+      "LOCAL ISOLATOR WITH AMMETER 36 AMP.",
+      82698005400,
+      "LIC"
+    ],
+    [
+      "LOAD BREAK ISOLATOR RATING 40 AMPS,-82641921030",
+      "LOAD BREAK ISOLATOR RATING 40 AMPS,",
+      82641921030,
+      "LIC"
+    ],
+    [
+      "SWITCH 50A FOR SOCOMEC ISOLATION CABINET-82622570510",
+      "SWITCH 50A FOR SOCOMEC ISOLATION CABINET",
+      82622570510,
+      "LIC"
+    ],
+    [
+      "63A Load Break isolator-82641943160",
+      "63A Load Break isolator",
+      82641943160,
+      "LIC"
+    ],
+    [
+      "160A socomec Isolator-82698005260",
+      "160A socomec Isolator",
+      82698005260,
+      "LIC"
+    ],
+    [
+      "LOAD BREAK SWITCHES D75627 IM 200 IIIN-82641924081",
+      "LOAD BREAK SWITCHES D75627 IM 200 IIIN",
+      82641924081,
+      "LIC"
+    ],
+    [
+      "LOCAL ISOLATION CABINET RATING 200 AMPS.-82698005020",
+      "LOCAL ISOLATION CABINET RATING 200 AMPS.",
+      82698005020,
+      "LIC"
+    ],
+    [
+      "Load Break Switch-400 A-82724081130",
+      "Load Break Switch-400 A",
+      82724081130,
+      "LIC"
+    ],
+    [
+      "Old type ,1M 501 iiiNLV isi400 IIINLV 400A-82641924530",
+      "Old type ,1M 501 iiiNLV isi400 IIINLV 400A",
+      82641924530,
+      "LIC"
+    ],
+    [
+      "Load Break Switch-630 A-82641934701",
+      "Load Break Switch-630 A",
+      82641934701,
+      "LIC"
+    ],
+    [
+      "630 A FERRAZ MAKE ISOLATOR-82647162280",
+      "630 A FERRAZ MAKE ISOLATOR",
+      82647162280,
+      "LIC"
+    ],
+    [
+      "630A Socomec Isolator-82641940350",
+      "630A Socomec Isolator",
+      82641940350,
+      "LIC"
+    ],
+    [
+      "630A SOCOMEC ISOLTR IN  SHEET STEL ENCL.-82641938941",
+      "630A SOCOMEC ISOLTR IN  SHEET STEL ENCL.",
+      82641938941,
+      "LIC"
+    ],
+    [
+      "ISOLATOR HANDLE FOR OPERATING 630A UNIT*-82729002880",
+      "ISOLATOR HANDLE FOR OPERATING 630A UNIT*",
+      82729002880,
+      "LIC"
+    ],
+    [
+      "Side Handle for Socomec LIC,630 A-82641940351",
+      "Side Handle for Socomec LIC,630 A",
+      82641940351,
+      "LIC"
+    ],
+    [
+      "Side Handle for Socomec LIC,400 A-82641940111",
+      "Side Handle for Socomec LIC,400 A",
+      82641940111,
+      "LIC"
+    ],
+    [
+      "HANDLE-SIDER PNG SIDERURG LAT 50-80 RG-82641938321",
+      "HANDLE-SIDER PNG SIDERURG LAT 50-80 RG",
+      82641938321,
+      "LIC"
+    ],
+    [
+      "HANDLE FOR FN63 SDF MODULE.-82792079110",
+      "HANDLE FOR FN63 SDF MODULE.",
+      82792079110,
+      "LIC"
+    ],
+    [
+      "ISOLATOR HANDLE FOR FVNR 15/30-82729001760",
+      "ISOLATOR HANDLE FOR FVNR 15/30",
+      null,
+      "LIC"
+    ],
+    [
+      "SFU,SDF-",
+      "SFU,SDF",
+      "",
+      "LIC"
+    ],
+    [
+      "MOVING CONTACT CARRIAGE-CMM 630A-82617105200",
+      "MOVING CONTACT CARRIAGE-CMM 630A",
+      82617105200,
+      "LIC"
+    ],
+    [
+      "CMM TYPE SWITCH FUSE UNIT 400AMP,415V AC-82617105060",
+      "CMM TYPE SWITCH FUSE UNIT 400AMP,415V AC",
+      82617105060,
+      "LIC"
+    ],
+    [
+      "MAIN SWITCH CMM 200AMP.-82617013530",
+      "MAIN SWITCH CMM 200AMP.",
+      82617013530,
+      "LIC"
+    ],
+    [
+      "FUSE SWITCH UNIT, 63A, SP63-EIT.-82617107130",
+      "FUSE SWITCH UNIT, 63A, SP63-EIT.",
+      82617107130,
+      "LIC"
+    ],
+    [
+      "FUSE SWITCH UNIT,125A,GEC SP03D-82617107200",
+      "FUSE SWITCH UNIT,125A,GEC SP03D",
+      82617107200,
+      "LIC"
+    ],
+    [
+      "FUSE SWITCH UNIT,MAKE:GEC,250A, SP05D.-82617107370",
+      "FUSE SWITCH UNIT,MAKE:GEC,250A, SP05D.",
+      82617107370,
+      "LIC"
+    ],
+    [
+      "FUSE SWITCH UNIT,MAKE:GEC, 400A, SP 07D-82617107440",
+      "FUSE SWITCH UNIT,MAKE:GEC, 400A, SP 07D",
+      82617107440,
+      "LIC"
+    ],
+    [
+      "SF UNIT TPN COMPLETE WITH HRC FUSES-82617994990",
+      "SF UNIT TPN COMPLETE WITH HRC FUSES",
+      82617994990,
+      "LIC"
+    ],
+    [
+      "125 AMP , 660V SWITCH FUSE UNIT-82620706030",
+      "125 AMP , 660V SWITCH FUSE UNIT",
+      82620706030,
+      "LIC"
+    ],
+    [
+      "SFU, 250A,Type.CSSDF 250D3N, C&S make-82785073040",
+      "SFU, 250A,Type.CSSDF 250D3N, C&S make",
+      82785073040,
+      "LIC"
+    ],
+    [
+      "SWITCH FUSE UNIT TYPE:OESA 00-63.-82647021060",
+      "SWITCH FUSE UNIT TYPE:OESA 00-63.",
+      82647021060,
+      "LIC"
+    ],
+    [
+      "SWITCH DISCONNECTOR FUSE:FN125,SK95001-82641089190",
+      "SWITCH DISCONNECTOR FUSE:FN125,SK95001",
+      82641089190,
+      "LIC"
+    ],
+    [
+      "Switch disconnector fuse FN 200 SK95418-82641089260",
+      "Switch disconnector fuse FN 200 SK95418",
+      82641089260,
+      "LIC"
+    ],
+    [
+      "Switch disconnector fuse FN 250 SK95642-82641089330",
+      "Switch disconnector fuse FN 250 SK95642",
+      82641089330,
+      "LIC"
+    ],
+    [
+      "Switch disconnector fuse FN 400 SK95481-82641089400",
+      "Switch disconnector fuse FN 400 SK95481",
+      82641089400,
+      "LIC"
+    ],
+    [
+      "Switch disconnector,1000A, Type.-82785073080",
+      "Switch disconnector,1000A, Type.",
+      82785073080,
+      "LIC"
+    ],
+    [
+      "THERMOPLASTIC / SMC JUNCTION BOXES SIZE*-83001016090",
+      "THERMOPLASTIC / SMC JUNCTION BOXES SIZE*",
+      83001016090,
+      "LIC"
+    ],
+    [
+      "Junction box-8300103205",
+      "Junction box",
+      8300103205,
+      "LIC"
+    ],
+    [
+      "63A 4-pole MDB with MCCB as incomer-82626345220",
+      "63A 4-pole MDB with MCCB as incomer",
+      82626345220,
+      "LIC"
+    ],
+    [
+      "FLAME PROOF LOCAL ISOLATOR 63A-82343021130",
+      "FLAME PROOF LOCAL ISOLATOR 63A",
+      82343021130,
+      "LIC"
+    ],
+    [
+      "FLAME PROOF LOCAL ISOLATOR 200A-82343022000",
+      "FLAME PROOF LOCAL ISOLATOR 200A",
+      82343022000,
+      "LIC"
+    ],
+    [
+      "SF INTERIOR TYPE-FBC-250  CAT.SS95165-82641086520",
+      "SF INTERIOR TYPE-FBC-250  CAT.SS95165",
+      82641086520,
+      "LIC"
+    ],
+    [
+      "3 POLE BREAK SWITCH   63A, 415V-82620753410",
+      "3 POLE BREAK SWITCH   63A, 415V",
+      null,
+      "LIC"
+    ],
+    [
+      "1M 160 III P91277 LOAD BREAK SWITCH-82641923030",
+      "1M 160 III P91277 LOAD BREAK SWITCH",
+      null,
+      "LIC"
+    ],
+    [
+      "315A ISOLATOR,TYPE:1M315 III,REF.-82641927100",
+      "315A ISOLATOR,TYPE:1M315 III,REF.",
+      null,
+      "LIC"
+    ],
+    [
+      "SS ENCLOSURE FOR 3KL TYPE 125A SDF-82622570450",
+      "SS ENCLOSURE FOR 3KL TYPE 125A SDF",
+      null,
+      "LIC"
+    ],
+    [
+      "ISOLATOR TY:3KL2530-1YAOO 250 AMP-82622570440",
+      "ISOLATOR TY:3KL2530-1YAOO 250 AMP",
+      null,
+      "LIC"
+    ],
+    [
+      "LATERAL HANDLE FOR IM40-160 AMPS LLBS-82651011040",
+      "LATERAL HANDLE FOR IM40-160 AMPS LLBS",
+      82651011040,
+      "LIC"
+    ],
+    [
+      "LATERAL HANDLE FOR IM315-800 AMPSLLBS-82651011050",
+      "LATERAL HANDLE FOR IM315-800 AMPSLLBS",
+      82651011050,
+      "LIC"
+    ],
+    [
+      "MICRO SWITCH IVED537301-001-82715031580",
+      "MICRO SWITCH IVED537301-001",
+      82715031580,
+      "LIC"
+    ],
+    [
+      "MICRO SWITCH IVEB537301-002-82715031650",
+      "MICRO SWITCH IVEB537301-002",
+      82715031650,
+      "LIC"
+    ],
+    [
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 40A-82698000000",
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 40A",
+      82698000000,
+      "LIC"
+    ],
+    [
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 63A-82698000010",
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 63A",
+      82698000010,
+      "LIC"
+    ],
+    [
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 200A-82698000040",
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 200A",
+      82698000040,
+      "LIC"
+    ],
+    [
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 400A-82698000060",
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 400A",
+      82698000060,
+      "LIC"
+    ],
+    [
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 630A-82698000070",
+      "CEFEM/SOCOMEC MAKE LOCAL ISOLATOR 630A",
+      82698000070,
+      "LIC"
+    ],
+    [
+      "MATERIAL-CODE",
+      "MATERIAL",
+      "CODE",
+      "QTY"
+    ],
+    [
+      "16A,3 PIN SWITCH SOCKET COMBINED ANCHOR*-82643085060",
+      "16A,3 PIN SWITCH SOCKET COMBINED ANCHOR*",
+      82643085060,
+      "misc"
+    ],
+    [
+      "3 PIN PLUG & SOCKET -20A INDUSTRIAL TYPE-82643065860",
+      "3 PIN PLUG & SOCKET -20A INDUSTRIAL TYPE",
+      82643065860,
+      "misc"
+    ],
+    [
+      "32 AMPS TPN SWITCH FUSE WITH FIXING BASE-82617100870",
+      "32 AMPS TPN SWITCH FUSE WITH FIXING BASE",
+      82617100870,
+      "misc"
+    ],
+    [
+      "32A,DP,240V,SWITCH FUSE UNIT-82641943610",
+      "32A,DP,240V,SWITCH FUSE UNIT",
+      82641943610,
+      "misc"
+    ],
+    [
+      "400A PLUG ASSEMBLY,Z SMALL-82729041250",
+      "400A PLUG ASSEMBLY,Z SMALL",
+      82729041250,
+      "misc"
+    ],
+    [
+      "50WATT METAL HALIDE WELL GLASS LUMINARIE-82340151530",
+      "50WATT METAL HALIDE WELL GLASS LUMINARIE",
+      82340151530,
+      "misc"
+    ],
+    [
+      "20\"X3MM 150LB GASKET(MED OIL)IS-2712 O/2-87725014020",
+      "20\"X3MM 150LB GASKET(MED OIL)IS-2712 O/2",
+      87725014020,
+      "misc"
+    ],
+    [
+      "200MM LONG TAPERED WOODEN PLUG,30MMX55MM-95308011560",
+      "200MM LONG TAPERED WOODEN PLUG,30MMX55MM",
+      95308011560,
+      "misc"
+    ],
+    [
+      "240V AC RELAY,NO.OF PINS-11,MODEL-3C/0 *-82655707530",
+      "240V AC RELAY,NO.OF PINS-11,MODEL-3C/0 *",
+      82655707530,
+      "misc"
+    ],
+    [
+      "24VDC / 20A POWER SUPPLY FOR DCS-86592175100",
+      "24VDC / 20A POWER SUPPLY FOR DCS",
+      86592175100,
+      "misc"
+    ],
+    [
+      "25 VDC / 16A SMPS TH51190465 FOR DCS-86592175270",
+      "25 VDC / 16A SMPS TH51190465 FOR DCS",
+      86592175270,
+      "misc"
+    ],
+    [
+      "162KW HEATER BUNDLE FOR INDCON AIR DRYER-82527502039",
+      "162KW HEATER BUNDLE FOR INDCON AIR DRYER",
+      null,
+      "misc"
+    ],
+    [
+      "3KW  DRYER HEATING ELEMENT-INDCON-82527502010",
+      "3KW  DRYER HEATING ELEMENT-INDCON",
+      null,
+      "misc"
+    ],
+    [
+      "2KW DRYER HEATING ELEMENT-PURIFLAIR-82527502020",
+      "2KW DRYER HEATING ELEMENT-PURIFLAIR",
+      82527502020,
+      "misc"
+    ],
+    [
+      "HEATER ELEMENT WITH THERMOSTAT FOR 1.5 *-82552010050",
+      "HEATER ELEMENT WITH THERMOSTAT FOR 1.5 *",
+      82552010050,
+      "misc"
+    ],
+    [
+      "HEATING ELEMENT 230 VOLT 2 KW-82527502830",
+      "HEATING ELEMENT 230 VOLT 2 KW",
+      82527502830,
+      "misc"
+    ],
+    [
+      "6.6 KV EXTENSION PANEL 1250 A-82722329140",
+      "6.6 KV EXTENSION PANEL 1250 A",
+      82722329140,
+      "misc"
+    ],
+    [
+      "6.6KV STRAIGHT THROUGH CABLE JOINTING K*-82075271510",
+      "6.6KV STRAIGHT THROUGH CABLE JOINTING K*",
+      82075271510,
+      "misc"
+    ],
+    [
+      "AC/DC DISTRIBUTION BOARD 230VAC-86592175720",
+      "AC/DC DISTRIBUTION BOARD 230VAC",
+      86592175720,
+      "misc"
+    ],
+    [
+      "ALUMINIUM LADDER 4 FEET-96101009590",
+      "ALUMINIUM LADDER 4 FEET",
+      96101009590,
+      "misc"
+    ],
+    [
+      "BLACK TONNER 88A FOR HP SASERJET P1007-94807000160",
+      "BLACK TONNER 88A FOR HP SASERJET P1007",
+      94807000160,
+      "misc"
+    ],
+    [
+      "BUS SUPPORT INSULATOR,6.6KV EPOXY 130H-82729061050",
+      "BUS SUPPORT INSULATOR,6.6KV EPOXY 130H",
+      82729061050,
+      "misc"
+    ],
+    [
+      "BUS SUPPORTING INSULATOR-LT SWITCH BOARD-82721901170",
+      "BUS SUPPORTING INSULATOR-LT SWITCH BOARD",
+      82721901170,
+      "misc"
+    ],
+    [
+      "SMC BS-6 BUS SUPPORT INSULATOR FOR 3000*-82729063050",
+      "SMC BS-6 BUS SUPPORT INSULATOR FOR 3000*",
+      82729063050,
+      "misc"
+    ],
+    [
+      "Cable Assembly - G5 200 KW for VFD-86515090240",
+      "Cable Assembly - G5 200 KW for VFD",
+      86515090240,
+      "misc"
+    ],
+    [
+      "COTTON WASTE IS:5485/1980,TY-1-88100012550",
+      "COTTON WASTE IS:5485/1980,TY-1",
+      88100012550,
+      "misc"
+    ],
+    [
+      "CT Pinion for Electric Hoist-67490000010",
+      "CT Pinion for Electric Hoist",
+      67490000010,
+      "misc"
+    ],
+    [
+      "ELGI HAND OPERATED GREASE PUMP AH-1 CAP*-93472000070",
+      "ELGI HAND OPERATED GREASE PUMP AH-1 CAP*",
+      93472000070,
+      "misc"
+    ],
+    [
+      "FUSE PULLER-82785075550",
+      "FUSE PULLER",
+      82785075550,
+      "misc"
+    ],
+    [
+      "HAND GREAS PUMP BUCKET TYP DRUM CAP 5 KG-93472120040",
+      "HAND GREAS PUMP BUCKET TYP DRUM CAP 5 KG",
+      93472120040,
+      "misc"
+    ],
+    [
+      "HAND OPERATED GREASE PUMP DRUM CPT 10KG*-93472005190",
+      "HAND OPERATED GREASE PUMP DRUM CPT 10KG*",
+      93472005190,
+      "misc"
+    ],
+    [
+      "HR SHEET 3.15X1400X5600-92108004800",
+      "HR SHEET 3.15X1400X5600",
+      92108004800,
+      "misc"
+    ],
+    [
+      "INDOOR END TERMINATION KIT-CABLE 3X50MM2-82072617010",
+      "INDOOR END TERMINATION KIT-CABLE 3X50MM2",
+      82072617010,
+      "misc"
+    ],
+    [
+      "INTAKEJOINTRING,F6060S01, 8/6EEAH WEIRMI-72843000260",
+      "INTAKEJOINTRING,F6060S01, 8/6EEAH WEIRMI",
+      72843000260,
+      "misc"
+    ],
+    [
+      "L&T MAKE MK-1 DOL STARTER(1.0 TO 1.6A )*-82852005060",
+      "L&T MAKE MK-1 DOL STARTER(1.0 TO 1.6A )*",
+      82852005060,
+      "misc"
+    ],
+    [
+      "MOTOR 1 PHASE-DRYER,ATLAS COPCO COMP.-74124026240",
+      "MOTOR 1 PHASE-DRYER,ATLAS COPCO COMP.",
+      74124026240,
+      "misc"
+    ],
+    [
+      "NEOPRENE RUBBER CORD  6MM-87615001510",
+      "NEOPRENE RUBBER CORD  6MM",
+      87615001510,
+      "misc"
+    ],
+    [
+      "NEUTRAL GROUNDING RESISTOR OF 6.6 KV-82672140080",
+      "NEUTRAL GROUNDING RESISTOR OF 6.6 KV",
+      82672140080,
+      "misc"
+    ],
+    [
+      "OUTDOOR  END TRMN KIT FOR 6.6KV/11KVCBL*-82072920260",
+      "OUTDOOR  END TRMN KIT FOR 6.6KV/11KVCBL*",
+      82072920260,
+      "misc"
+    ],
+    [
+      "POLE TOP BOX.-82643065790",
+      "POLE TOP BOX.",
+      82643065790,
+      "misc"
+    ],
+    [
+      "POST INSULATOR HT127MM ,6.6KV AREVA-82765004500",
+      "POST INSULATOR HT127MM ,6.6KV AREVA",
+      82765004500,
+      "misc"
+    ],
+    [
+      "POWER SUPPLY MODULE SIMATIC S-7 MODEL N*-86592028330",
+      "POWER SUPPLY MODULE SIMATIC S-7 MODEL N*",
+      86592028330,
+      "misc"
+    ],
+    [
+      "PROTECTIVE CABLE SLEEVE WITH CABLE TIE-82908204580",
+      "PROTECTIVE CABLE SLEEVE WITH CABLE TIE",
+      82908204580,
+      "misc"
+    ],
+    [
+      "PS MODULE 10A,CAT.NO.307-1KA00-OAAO-86592094270",
+      "PS MODULE 10A,CAT.NO.307-1KA00-OAAO",
+      86592094270,
+      "misc"
+    ],
+    [
+      "Richet handle Adapter,Pt No.PGA 0130363-82765120550",
+      "Richet handle Adapter,Pt No.PGA 0130363",
+      82765120550,
+      "misc"
+    ],
+    [
+      "SL-8 Jointing kit-82075063050",
+      "SL-8 Jointing kit",
+      82075063050,
+      "misc"
+    ],
+    [
+      "Soft bag-95095072590",
+      "Soft bag",
+      95095072590,
+      "misc"
+    ],
+    [
+      "SPACE HEATER  FOR 640 KW KEC MOTOR-74441002330",
+      "SPACE HEATER  FOR 640 KW KEC MOTOR",
+      74441002330,
+      "misc"
+    ],
+    [
+      "SURGE ABSORBER TYPE:3EF1-072-OA,7.2KV-82816290220",
+      "SURGE ABSORBER TYPE:3EF1-072-OA,7.2KV",
+      82816290220,
+      "misc"
+    ],
+    [
+      "VIP BRIEF CASE-87501011650",
+      "VIP BRIEF CASE",
+      87501011650,
+      "misc"
+    ],
+    [
+      "WIRE ROPE 12MM,6X37 FIBRE CORE-81802002980",
+      "WIRE ROPE 12MM,6X37 FIBRE CORE",
+      81802002980,
+      "misc"
+    ],
+    [
+      "HEAVY DUTY PLATFORM TROLLEY,CAPACITY:2 M-70001160050",
+      "HEAVY DUTY PLATFORM TROLLEY,CAPACITY:2 M",
+      null,
+      "misc"
+    ],
+    [
+      "DOUBLE WHEEL BARROW:6CFT TYRE SZ12X12X1\"-70002000340",
+      "DOUBLE WHEEL BARROW:6CFT TYRE SZ12X12X1\"",
+      null,
+      "misc"
+    ],
+    [
+      "PAINTING BRUSHES OF 4\"-80501026040",
+      "PAINTING BRUSHES OF 4\"",
+      null,
+      "misc"
+    ],
+    [
+      "WIRE BRUSH 70MM-80501040000",
+      "WIRE BRUSH 70MM",
+      null,
+      "misc"
+    ],
+    [
+      "THINNER-205-93605005590",
+      "THINNER-205",
+      null,
+      "misc"
+    ],
+    [
+      "THINNER FOR SYNTHETIC ENAMEL-93501026660",
+      "THINNER FOR SYNTHETIC ENAMEL",
+      null,
+      "misc"
+    ],
+    [
+      "ORION 77-93602011820",
+      "ORION 77",
+      null,
+      "misc"
+    ],
+    [
+      "RIBBON CARTRIDGE BLACK - EPSON LQ 2090-94807000360",
+      "RIBBON CARTRIDGE BLACK - EPSON LQ 2090",
+      null,
+      "misc"
+    ],
+    [
+      "TEFLON TAPE 12 MM WIDE 12 MTR. ROLL-81608028070",
+      "TEFLON TAPE 12 MM WIDE 12 MTR. ROLL",
+      null,
+      "misc"
+    ],
+    [
+      "TEFLON TAPE  SIZE 25MM-81608028210",
+      "TEFLON TAPE  SIZE 25MM",
+      null,
+      "misc"
+    ],
+    [
+      "Electrode for Electrochlorinator-15610011200",
+      "Electrode for Electrochlorinator",
+      null,
+      "misc"
+    ],
+    [
+      "Control card 60volts/250 A (CHLORINATOR)-15610011240",
+      "Control card 60volts/250 A (CHLORINATOR)",
+      null,
+      "misc"
+    ],
+    [
+      "Card SMPS 12 V/5 Amp (CHLORINATOR)-15610011250",
+      "Card SMPS 12 V/5 Amp (CHLORINATOR)",
+      null,
+      "misc"
+    ],
+    [
+      "Thirstier Firing Card (CHLORINATOR)-15610011260",
+      "Thirstier Firing Card (CHLORINATOR)",
+      null,
+      "misc"
+    ],
+    [
+      "Thirstier 1 RKT 230/12 (CHLORINATOR)-15610011270",
+      "Thirstier 1 RKT 230/12 (CHLORINATOR)",
+      null,
+      "misc"
+    ],
+    [
+      "SPLIT TYPE AIRCONDITIONER OF 1.5T CAP.-82560020160",
+      "SPLIT TYPE AIRCONDITIONER OF 1.5T CAP.",
+      null,
+      "misc"
+    ],
+    [
+      "6.6 KV SWBD-240 FOR CW PUMP AT US-10-82722320019",
+      "6.6 KV SWBD-240 FOR CW PUMP AT US-10",
+      null,
+      "misc"
+    ],
+    [
+      "COMPUTOR PAPER 10\"X12\"X3 EZR 60 GSM-94807001810",
+      "COMPUTOR PAPER 10\"X12\"X3 EZR 60 GSM",
+      null,
+      "misc"
+    ],
+    [
+      "SMOKE GREY PAINT-93501015060",
+      "SMOKE GREY PAINT",
+      null,
+      "misc"
+    ],
+    [
+      "Non-contact type voltage detector-82334012110",
+      "Non-contact type voltage detector",
+      null,
+      "misc"
+    ],
+    [
+      "INSULATED FUSE PULLER-40109013570",
+      "INSULATED FUSE PULLER",
+      null,
+      "misc"
+    ],
+    [
+      "H.T. EARTHING & DISCHARGE ROD WITH COPP*-83002020540",
+      "H.T. EARTHING & DISCHARGE ROD WITH COPP*",
+      null,
+      "misc"
+    ],
+    [
+      "DIGITAL TIMER-15610011570",
+      "DIGITAL TIMER",
+      null,
+      "misc"
+    ],
+    [
+      "CS SEAMLESS PIPE A53 GRB 1/2\" SCH 80 PE-93314110570",
+      "CS SEAMLESS PIPE A53 GRB 1/2\" SCH 80 PE",
+      null,
+      "misc"
+    ],
+    [
+      "PROCESSOR RACK (C200) 10 SLOTS TK-FSS102-86592176220",
+      "PROCESSOR RACK (C200) 10 SLOTS TK-FSS102",
+      null,
+      "misc"
+    ],
+    [
+      "LIFTER END MOUNTED IN TROLLEY-82729041240",
+      "LIFTER END MOUNTED IN TROLLEY",
+      null,
+      "misc"
+    ],
+    [
+      "105A 3 TA 16 TYPE ETY1243 OU-82816021860",
+      "105A 3 TA 16 TYPE ETY1243 OU",
+      null,
+      "misc"
+    ],
+    [
+      "MAIN PCB-ROTORK ACTUATOR TYP.IQ 35F 16B4-14322085270",
+      "MAIN PCB-ROTORK ACTUATOR TYP.IQ 35F 16B4",
+      null,
+      "misc"
+    ],
+    [
+      "POLYTHENE SHEET GAUGE 175 WIDTH 48\"-87507003950",
+      "POLYTHENE SHEET GAUGE 175 WIDTH 48\"",
+      87507003950,
+      "misc"
+    ],
+    [
+      "VIBRATION LIMIT SWITCH+BRACKETS-CT-3-15610063840",
+      "VIBRATION LIMIT SWITCH+BRACKETS-CT-3",
+      15610063840,
+      "misc"
+    ],
+    [
+      "12-WINDOW ALARM ANNUNCIATOR-86036035270",
+      "12-WINDOW ALARM ANNUNCIATOR",
+      86036035270,
+      "misc"
+    ],
+    [
+      "8CHANNEL ALARM ANNUNCIATOR-86591408100",
+      "8CHANNEL ALARM ANNUNCIATOR",
+      86591408100,
+      "misc"
+    ],
+    [
+      "LCS for 415V, 220KW VFD-86515162200",
+      "LCS for 415V, 220KW VFD",
+      86515162200,
+      "LCS"
+    ],
+    [
+      "LOCAL PUSH BUTTON STATION TYPE T-2-82909021540",
+      "LOCAL PUSH BUTTON STATION TYPE T-2",
+      82909021540,
+      "LCS"
+    ],
+    [
+      "OUTDOOR TYPE PUSH BUTTON STATION-82605502060",
+      "OUTDOOR TYPE PUSH BUTTON STATION",
+      82605502060,
+      "LCS"
+    ],
+    [
+      "PENDANT PB STATION FOR EOT CRANE-82908155020",
+      "PENDANT PB STATION FOR EOT CRANE",
+      82908155020,
+      "LCS"
+    ],
+    [
+      "PUSH BUTTON STATIONS TY:3SA 1329-1YZ-82908159640",
+      "PUSH BUTTON STATIONS TY:3SA 1329-1YZ",
+      82908159640,
+      "LCS"
+    ],
+    [
+      "PUSH BUTTON STN 3SA1769-1YZ-82908160000",
+      "PUSH BUTTON STN 3SA1769-1YZ",
+      82908160000,
+      "LCS"
+    ],
+    [
+      "RADIO REMOTE SYSTEM WITH HAND HELD PUSH*-26504140060",
+      "RADIO REMOTE SYSTEM WITH HAND HELD PUSH*",
+      26504140060,
+      "LCS"
+    ],
+    [
+      "START/STOP PUSH BUTTON, GREEN/RED-82901002330",
+      "START/STOP PUSH BUTTON, GREEN/RED",
+      82901002330,
+      "LCS"
+    ],
+    [
+      "PENDANT CTRL.STATION TYP.XAC-B XAC-B881-82908203150",
+      "PENDANT CTRL.STATION TYP.XAC-B XAC-B881",
+      82908203150,
+      "LCS"
+    ],
+    [
+      "CONTROL STATION WITH START STOP P.BUTTON-82635502560",
+      "CONTROL STATION WITH START STOP P.BUTTON",
+      82635502560,
+      "LCS"
+    ],
+    [
+      "RADIO REMOTE FOR 10T X11.6 M SPAN EOT-82908151040",
+      "RADIO REMOTE FOR 10T X11.6 M SPAN EOT",
+      null,
+      "LCS"
+    ],
+    [
+      "FLAME PROOF START STOP P.BUTTON STATION-82343025470",
+      "FLAME PROOF START STOP P.BUTTON STATION",
+      null,
+      "LCS"
+    ],
+    [
+      "OUTDOOR TYPE PUSH BUTTON STATION-82635502010",
+      "OUTDOOR TYPE PUSH BUTTON STATION",
+      82635502010,
+      "LCS"
+    ],
+    [
+      "LOCAL PUSH BUTTON STATION TYPE T-7-82909024040",
+      "LOCAL PUSH BUTTON STATION TYPE T-7",
+      82909024040,
+      "LCS"
+    ],
+    [
+      "ACB  3WL1 ,4000A SIEMENS MAKE-82729041009",
+      "ACB  3WL1 ,4000A SIEMENS MAKE",
+      82729041009,
+      "ACB"
+    ],
+    [
+      "1000A M-PACT ACB GE MAKE 415V 50KA-82735120750",
+      "1000A M-PACT ACB GE MAKE 415V 50KA",
+      82735120750,
+      "ACB"
+    ],
+    [
+      "M-PACT ACB TYPE-M812,-35501001030",
+      "M-PACT ACB TYPE-M812,",
+      35501001030,
+      "ACB"
+    ],
+    [
+      "AUX.SWITCH-3AH5 VCB TY:3SV9273, 6NO+6NC-82721670410",
+      "AUX.SWITCH-3AH5 VCB TY:3SV9273, 6NO+6NC",
+      82721670410,
+      "ACB"
+    ],
+    [
+      "CLOSING COIL - ACB 3WT8 110V DC SIEMENS-82785105480",
+      "CLOSING COIL - ACB 3WT8 110V DC SIEMENS",
+      82785105480,
+      "ACB"
+    ],
+    [
+      "CLOSING COIL 225/250V AC,P/N.SSA 0100036-82736222110",
+      "CLOSING COIL 225/250V AC,P/N.SSA 0100036",
+      82736222110,
+      "ACB"
+    ],
+    [
+      "SPRING CHARG.MOTOR 110V DC-M-PACT BRKR.-82736271730",
+      "SPRING CHARG.MOTOR 110V DC-M-PACT BRKR.",
+      82736271730,
+      "ACB"
+    ],
+    [
+      "SPRING CHARGING MOTOR,110V DC/AC , TYPE*-82721707150",
+      "SPRING CHARGING MOTOR,110V DC/AC , TYPE*",
+      82721707150,
+      "ACB"
+    ],
+    [
+      "SPRING CHARGING MOTOR-ACB 3WT98 110V DC-82740114030",
+      "SPRING CHARGING MOTOR-ACB 3WT98 110V DC",
+      82740114030,
+      "ACB"
+    ],
+    [
+      "SPRING CHARGING MOTOR-VCB,TY:3AF 1762-3E-82721705390",
+      "SPRING CHARGING MOTOR-VCB,TY:3AF 1762-3E",
+      82721705390,
+      "ACB"
+    ],
+    [
+      "TRIPPING COIL - ACB 3WT8 110V DC,SIEMENS-82765105620",
+      "TRIPPING COIL - ACB 3WT8 110V DC,SIEMENS",
+      82765105620,
+      "ACB"
+    ],
+    [
+      "MALE AUXILIARY CONTACT OF ACB 3WT8 630A-82735103120",
+      "MALE AUXILIARY CONTACT OF ACB 3WT8 630A",
+      82735103120,
+      "ACB"
+    ],
+    [
+      "MALE MAIN CONTACT OF ACB 3WT8 630A-82735103050",
+      "MALE MAIN CONTACT OF ACB 3WT8 630A",
+      82735103050,
+      "ACB"
+    ],
+    [
+      "300MM SWEEP,220/250V,50HZ EXHAUST FAN-82310004020",
+      "300MM SWEEP,220/250V,50HZ EXHAUST FAN",
+      82310004020,
+      "exhaust fan"
+    ],
+    [
+      "450MM ? 1 PHASE WALL MOUNT EXHAUST FAN-35311001570",
+      "450MM ? 1 PHASE WALL MOUNT EXHAUST FAN",
+      35311001570,
+      "exhaust fan"
+    ],
+    [
+      "CEILING FAN 1400 mm-35311006070",
+      "CEILING FAN 1400 mm",
+      35311006070,
+      "exhaust fan"
+    ],
+    [
+      "FAN REGULATOR (RESISTANCE TYPE)-82311800520",
+      "FAN REGULATOR (RESISTANCE TYPE)",
+      82311800520,
+      "exhaust fan"
+    ],
+    [
+      "pedestal fan-826741089070",
+      "pedestal fan",
+      826741089070,
+      "exhaust fan"
+    ],
+    [
+      "HEAVY DUTY WALL MOUNTED FAN 450MM  1440*-82311432570",
+      "HEAVY DUTY WALL MOUNTED FAN 450MM  1440*",
+      82311432570,
+      "exhaust fan"
+    ],
+    [
+      "FAN SET, MODEL: 30-PA-GR-851, HFO UNLOA*-72962010980",
+      "FAN SET, MODEL: 30-PA-GR-851, HFO UNLOA*",
+      null,
+      "exhaust fan"
+    ],
+    [
+      "3 Pole MCB,C4-67490000100",
+      "3 Pole MCB,C4",
+      67490000100,
+      "MCB/MCCB"
+    ],
+    [
+      "3 Pole MCB,16A-67490000110",
+      "3 Pole MCB,16A",
+      67490000110,
+      "MCB/MCCB"
+    ],
+    [
+      "DIN RAIL MOUNTING, 16A,10KA, SP MCB 230V-82702003840",
+      "DIN RAIL MOUNTING, 16A,10KA, SP MCB 230V",
+      82702003840,
+      "MCB/MCCB"
+    ],
+    [
+      "MCB 3P, 4A TYPE 5SX43047RC-82721804040",
+      "MCB 3P, 4A TYPE 5SX43047RC",
+      82721804040,
+      "MCB/MCCB"
+    ],
+    [
+      "MCB TPN 63A Industrial type SH-82703005050",
+      "MCB TPN 63A Industrial type SH",
+      82703005050,
+      "MCB/MCCB"
+    ],
+    [
+      "MCB 2P, 6A TYPE 5SX42067RC-82721804050",
+      "MCB 2P, 6A TYPE 5SX42067RC",
+      82721804050,
+      "MCB/MCCB"
+    ],
+    [
+      "MCB 2P, 4A TYPE 5SX45047RC-82721804060",
+      "MCB 2P, 4A TYPE 5SX45047RC",
+      82721804060,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB-",
+      "MCCB",
+      "",
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB 630A,TYPE 3VL5763-82721804030",
+      "MCCB 630A,TYPE 3VL5763",
+      82721804030,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB 315A,TYPE 3VL4371-82721804020",
+      "MCCB 315A,TYPE 3VL4371",
+      82721804020,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB 200A,TYPE 3VL3720-82721804010",
+      "MCCB 200A,TYPE 3VL3720",
+      82721804010,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB 63A, 3POLE 415V, SCHNEIDER-82713039920",
+      "MCCB 63A, 3POLE 415V, SCHNEIDER",
+      82713039920,
+      "MCB/MCCB"
+    ],
+    [
+      "63A, 4 POLE , MDB WITH MCCB AS INCOMER.-82626345220",
+      "63A, 4 POLE , MDB WITH MCCB AS INCOMER.",
+      82626345220,
+      "MCB/MCCB"
+    ],
+    [
+      "16A MCCB TYPE-3VU1640-1CJ00,SIEMENS MAKE-82713013030",
+      "16A MCCB TYPE-3VU1640-1CJ00,SIEMENS MAKE",
+      82713013030,
+      "MCB/MCCB"
+    ],
+    [
+      "MOTOR CIRCUIT BREAKER TYPE:3VU1340-1MF0-82721704580",
+      "MOTOR CIRCUIT BREAKER TYPE:3VU1340-1MF0",
+      82721704580,
+      "MCB/MCCB"
+    ],
+    [
+      "L&T MAKE 160A MCCB-82713040210",
+      "L&T MAKE 160A MCCB",
+      82713040210,
+      "MCB/MCCB"
+    ],
+    [
+      "L&T MCCB DM16 12A/144 TYPE SL97590.-82713062030",
+      "L&T MCCB DM16 12A/144 TYPE SL97590.",
+      82713062030,
+      "MCB/MCCB"
+    ],
+    [
+      "L&T MCCB DM16 16A/192 TYPE SL97591.-82713062100",
+      "L&T MCCB DM16 16A/192 TYPE SL97591.",
+      82713062100,
+      "MCB/MCCB"
+    ],
+    [
+      "L&T MCCB-400A,3P, TYPE-DN3-RT3-82723071250",
+      "L&T MCCB-400A,3P, TYPE-DN3-RT3",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "L&T make MCCB,3 Poles, 400 A,400V ,-82723010150",
+      "L&T make MCCB,3 Poles, 400 A,400V ,",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB MTX 2.0,DN2 250N, 250A L&T MAKE-82723071200",
+      "MCCB MTX 2.0,DN2 250N, 250A L&T MAKE",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB MTX 2.0,DN2 250N, 63A L&T MAKE-82723071210",
+      "MCCB MTX 2.0,DN2 250N, 63A L&T MAKE",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB MTX 2.0,DN3 630N, 630A L&T MAKE-82723071220",
+      "MCCB MTX 2.0,DN3 630N, 630A L&T MAKE",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB MTX2.0 DN2 250N 160A L&T MAKE-82723071230",
+      "MCCB MTX2.0 DN2 250N 160A L&T MAKE",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "MCCB DN0-100M 100A TM RELEASE L&T MAKE-82723071240",
+      "MCCB DN0-100M 100A TM RELEASE L&T MAKE",
+      null,
+      "MCB/MCCB"
+    ],
+    [
+      "MPCB-",
+      "MPCB",
+      "",
+      "MCB/MCCB"
+    ],
+    [
+      "MPCB 16A,TYPE 3VU1340-IMM00-82721804000",
+      "MPCB 16A,TYPE 3VU1340-IMM00",
+      82721804000,
+      "MCB/MCCB"
+    ],
+    [
+      "MPCB RANGE:16A-25A, TYPE:3VU1640 MN00 O*-82721800800",
+      "MPCB RANGE:16A-25A, TYPE:3VU1640 MN00 O*",
+      82721800800,
+      "MCB/MCCB"
+    ],
+    [
+      "10 WAY CONTROL PLUG IN CONTACT, BCH MAKE-82730015020",
+      "10 WAY CONTROL PLUG IN CONTACT, BCH MAKE",
+      82730015020,
+      "MODULE"
+    ],
+    [
+      "CABLE  ASSEMBLY FOR  662KW VFD L&T-86515071020",
+      "CABLE  ASSEMBLY FOR  662KW VFD L&T",
+      86515071020,
+      "MODULE"
+    ],
+    [
+      "Cable Assembly - G5 200 KW for VFD-86515090250",
+      "Cable Assembly - G5 200 KW for VFD",
+      86515090250,
+      "MODULE"
+    ],
+    [
+      "Extended draw out TY.panel+motor module-82729001380",
+      "Extended draw out TY.panel+motor module",
+      82729001380,
+      "MODULE"
+    ],
+    [
+      "INCOMER 400A MODULE L&T MAKE-82729041010",
+      "INCOMER 400A MODULE L&T MAKE",
+      82729041010,
+      "MODULE"
+    ],
+    [
+      "Incoming Male & Female module contact L&T-82806502180",
+      "Incoming Male & Female module contact L&T",
+      82806502180,
+      "MODULE"
+    ],
+    [
+      "Incoming male and female contact 250A module-82792081140",
+      "Incoming male and female contact 250A module",
+      82792081140,
+      "MODULE"
+    ],
+    [
+      "Incoming male and female contact 400A module-82792081210",
+      "Incoming male and female contact 400A module",
+      82792081210,
+      "MODULE"
+    ],
+    [
+      "Incoming male and female contact FVNR 200 TQ3 L&T-82792081270",
+      "Incoming male and female contact FVNR 200 TQ3 L&T",
+      82792081270,
+      "MODULE"
+    ],
+    [
+      "Incoming male and female contact FVNR 400 TQ3 L&T-82792081290",
+      "Incoming male and female contact FVNR 400 TQ3 L&T",
+      82792081290,
+      "MODULE"
+    ],
+    [
+      "Incoming male female contact FVNR 100 TQ2 L&T-82792081220",
+      "Incoming male female contact FVNR 100 TQ2 L&T",
+      82792081220,
+      "MODULE"
+    ],
+    [
+      "Incoming male female contact FVNR 100 TQ3 L&T-82792081250",
+      "Incoming male female contact FVNR 100 TQ3 L&T",
+      82792081250,
+      "MODULE"
+    ],
+    [
+      "Male bus bar power terminal(BBT),TPN,C&S-82785073090",
+      "Male bus bar power terminal(BBT),TPN,C&S",
+      82785073090,
+      "MODULE"
+    ],
+    [
+      "Male female control contact TQ2 L&T-82792081310",
+      "Male female control contact TQ2 L&T",
+      82792081310,
+      "MODULE"
+    ],
+    [
+      "Male female control contact TQ3 L&T-82792081320",
+      "Male female control contact TQ3 L&T",
+      82792081320,
+      "MODULE"
+    ],
+    [
+      "MODULE FOR 7.5 KW DRIVE.-86515070150",
+      "MODULE FOR 7.5 KW DRIVE.",
+      86515070150,
+      "MODULE"
+    ],
+    [
+      "Motor cable terminal bus bar in mcc(B/A NGEF)-82785081960",
+      "Motor cable terminal bus bar in mcc(B/A NGEF)",
+      82785081960,
+      "MODULE"
+    ],
+    [
+      "MOTOR MODULE 45KW L&T MAKE-82729041000",
+      "MOTOR MODULE 45KW L&T MAKE",
+      82729041000,
+      "MODULE"
+    ],
+    [
+      "Motor module FVNR 300-82729041180",
+      "Motor module FVNR 300",
+      82729041180,
+      "MODULE"
+    ],
+    [
+      "Motor Module FVNR-300 complete , Siemens-82729041189",
+      "Motor Module FVNR-300 complete , Siemens",
+      82729041189,
+      "MODULE"
+    ],
+    [
+      "OUT GOING MODULE ASSEMBLY-82729041260",
+      "OUT GOING MODULE ASSEMBLY",
+      82729041260,
+      "MODULE"
+    ],
+    [
+      "OUT GOING POWER PLUG IN CONTACT (FEMALE*-82730006280",
+      "OUT GOING POWER PLUG IN CONTACT (FEMALE*",
+      82730006280,
+      "MODULE"
+    ],
+    [
+      "Outgoing Female  power terminal contacts-82785073140",
+      "Outgoing Female  power terminal contacts",
+      82785073140,
+      "MODULE"
+    ],
+    [
+      "Outgoing male  power terminal contacts-82785073150",
+      "Outgoing male  power terminal contacts",
+      82785073150,
+      "MODULE"
+    ],
+    [
+      "Outgoing Male & Female module contact L&T-82806502190",
+      "Outgoing Male & Female module contact L&T",
+      82806502190,
+      "MODULE"
+    ],
+    [
+      "Outgoing male and female contact 250A module-82792075800",
+      "Outgoing male and female contact 250A module",
+      82792075800,
+      "MODULE"
+    ],
+    [
+      "Outgoing male and female contact 400A module-82792081240",
+      "Outgoing male and female contact 400A module",
+      82792081240,
+      "MODULE"
+    ],
+    [
+      "Outgoing male and female contact FVNR 200 TQ3 L&T-82792081280",
+      "Outgoing male and female contact FVNR 200 TQ3 L&T",
+      82792081280,
+      "MODULE"
+    ],
+    [
+      "Outgoing male and female contact FVNR 400 TQ3 L&T-82792081300",
+      "Outgoing male and female contact FVNR 400 TQ3 L&T",
+      82792081300,
+      "MODULE"
+    ],
+    [
+      "Outgoing male female contact FVNR 100 TQ2 L&T-82792081230",
+      "Outgoing male female contact FVNR 100 TQ2 L&T",
+      82792081230,
+      "MODULE"
+    ],
+    [
+      "Outgoing male female contact FVNR 100 TQ3 L&T-82792081260",
+      "Outgoing male female contact FVNR 100 TQ3 L&T",
+      82792081260,
+      "MODULE"
+    ],
+    [
+      "POWER PLUG-IN-CONTACT 3POLE,MALE-63A-82617141080",
+      "POWER PLUG-IN-CONTACT 3POLE,MALE-63A",
+      82617141080,
+      "MODULE"
+    ],
+    [
+      "POWER PLUG-IN-CONTACT(3POLE),FEMALE-125A-82617142100",
+      "POWER PLUG-IN-CONTACT(3POLE),FEMALE-125A",
+      82617142100,
+      "MODULE"
+    ],
+    [
+      "POWER PLUG-IN-CONTACT(3POLE),FEMALE-250A-82617143150",
+      "POWER PLUG-IN-CONTACT(3POLE),FEMALE-250A",
+      82617143150,
+      "MODULE"
+    ],
+    [
+      "POWER PLUG-IN-CONTACT(3-POLE),MALE-125A-82617142030",
+      "POWER PLUG-IN-CONTACT(3-POLE),MALE-125A",
+      82617142030,
+      "MODULE"
+    ],
+    [
+      "POWER PLUG-IN-CONTACT(3-POLE),MALE-250A-82617143080",
+      "POWER PLUG-IN-CONTACT(3-POLE),MALE-250A",
+      82617143080,
+      "MODULE"
+    ],
+    [
+      "POWER PLUG-IN-CONTACT,3POLE,FEMALE-63A-82617141150",
+      "POWER PLUG-IN-CONTACT,3POLE,FEMALE-63A",
+      82617141150,
+      "MODULE"
+    ],
+    [
+      "RYB CU BUS BAR FOR 660HWX AREVA-82765004550",
+      "RYB CU BUS BAR FOR 660HWX AREVA",
+      82765004550,
+      "MODULE"
+    ],
+    [
+      "STUD FOR BB CONNECTION HWX AREVA-82765004540",
+      "STUD FOR BB CONNECTION HWX AREVA",
+      82765004540,
+      "MODULE"
+    ],
+    [
+      "T TY.MALE CONTACT(BIG)-NGEF AEG/GE PANEL-82785025120",
+      "T TY.MALE CONTACT(BIG)-NGEF AEG/GE PANEL",
+      82785025120,
+      "MODULE"
+    ],
+    [
+      "TTY Male contact (big)-NGEF AEG/GE Panel-82785025050",
+      "TTY Male contact (big)-NGEF AEG/GE Panel",
+      82785025050,
+      "MODULE"
+    ],
+    [
+      "TTY Male contact -NGEF AEG/GE power Panel-35311001570",
+      "TTY Male contact -NGEF AEG/GE power Panel",
+      35311001570,
+      "MODULE"
+    ],
+    [
+      "0-600A ammeter 96*96-86013856320",
+      "0-600A ammeter 96*96",
+      86013856320,
+      "AMMETER/volt"
+    ],
+    [
+      "0-300A Ammeter 96*96-86012072570",
+      "0-300A Ammeter 96*96",
+      86012072570,
+      "AMMETER/volt"
+    ],
+    [
+      "Ammeter 200/1 (72x72)-86012101450",
+      "Ammeter 200/1 (72x72)",
+      86012101450,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETER SC 0-300/1800 AMP.-86012081170",
+      "AC AMMETER SC 0-300/1800 AMP.",
+      86012081170,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETER SELECTOR SWITCH 4POSTN.90DEG.-82642759760",
+      "AC AMMETER SELECTOR SWITCH 4POSTN.90DEG.",
+      82642759760,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETER, 0-400A, CTR-400/1A-86012073070",
+      "AC AMMETER, 0-400A, CTR-400/1A",
+      86012073070,
+      "AMMETER/volt"
+    ],
+    [
+      "AC SQ.CAGE INDUC. MOTOR 7.5KW,1450 RPM-74421006190",
+      "AC SQ.CAGE INDUC. MOTOR 7.5KW,1450 RPM",
+      74421006190,
+      "AMMETER/volt"
+    ],
+    [
+      "AC VOLTAMETER, 0-500V-86012081620",
+      "AC VOLTAMETER, 0-500V",
+      86012081620,
+      "AMMETER/volt"
+    ],
+    [
+      "AMMETER AC.MI.S 96 0-100/600A CTR 100/1A-86012041080",
+      "AMMETER AC.MI.S 96 0-100/600A CTR 100/1A",
+      86012041080,
+      "AMMETER/volt"
+    ],
+    [
+      "AMMETER CTR 600/5 A 96X96 RANGE 0-600A-86012084120",
+      "AMMETER CTR 600/5 A 96X96 RANGE 0-600A",
+      86012084120,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETER SC 0-400/2400AMP-86012081240",
+      "AC AMMETER SC 0-400/2400AMP",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "ANALOG AMMETER M72,0-100%,FSD-4-20 MA-86012053490",
+      "ANALOG AMMETER M72,0-100%,FSD-4-20 MA",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "RPM METER - 1500-0-1500 RPM FSD 750-75V-86018032570",
+      "RPM METER - 1500-0-1500 RPM FSD 750-75V",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "AMMETER,96X96MM FLUSH,0-100%,4-20MA INPU-86013832050",
+      "AMMETER,96X96MM FLUSH,0-100%,4-20MA INPU",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "RPM METER - DC 0-1250 RPM FSD 10V-86018036020",
+      "RPM METER - DC 0-1250 RPM FSD 10V",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETERS,CL 1.0,0-240A CT RATIO 40/1-86012072260",
+      "AC AMMETERS,CL 1.0,0-240A CT RATIO 40/1",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "A.C SAMMETER, CTR:40/1A, 72 X 72 MM-86012101140",
+      "A.C SAMMETER, CTR:40/1A, 72 X 72 MM",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "A.C. AMMETER, CTR:150/1A, SIZE: 72 X 72*-86012101520",
+      "A.C. AMMETER, CTR:150/1A, SIZE: 72 X 72*",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETER, 0-150A,CTR 150/1A size 96 x 96-86012071520",
+      "AC AMMETER, 0-150A,CTR 150/1A size 96 x 96",
+      86012071520,
+      "AMMETER/volt"
+    ],
+    [
+      "AC AMMETER 0-300 AMP.-86012081480",
+      "AC AMMETER 0-300 AMP.",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "DC Amp Meter 0 to 1000 A-15610011290",
+      "DC Amp Meter 0 to 1000 A",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "DC voltmeter 0 to 300 A-15610011280",
+      "DC voltmeter 0 to 300 A",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "DC voltmeter 0 to 300 A-15610011280",
+      "DC voltmeter 0 to 300 A",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "DC Amp Meter 0 to 1000 A-15610011290",
+      "DC Amp Meter 0 to 1000 A",
+      null,
+      "AMMETER/volt"
+    ],
+    [
+      "Unshrouded PB actuator green-82910013770",
+      "Unshrouded PB actuator green",
+      82910013770,
+      "PB"
+    ],
+    [
+      "Unshrouded PB actuator red-82910014030",
+      "Unshrouded PB actuator red",
+      82910014030,
+      "PB"
+    ],
+    [
+      "PB contact element L&T-82905007050",
+      "PB contact element L&T",
+      82905007050,
+      "PB"
+    ],
+    [
+      "EMERGENCY STOP PUSH BUTTON STATION-82908151020",
+      "EMERGENCY STOP PUSH BUTTON STATION",
+      82908151020,
+      "PB"
+    ],
+    [
+      "PUSH BUTTON CODE 0210204451-95938011590",
+      "PUSH BUTTON CODE 0210204451",
+      null,
+      "PB"
+    ],
+    [
+      "STOP PUSH BUTTON ACTUATOR WITH ELEMENT  22.5MM DIA RED-82910097020",
+      "STOP PUSH BUTTON ACTUATOR WITH ELEMENT  22.5MM DIA RED",
+      82910097020,
+      "PB"
+    ],
+    [
+      "PUSH BUTTON WITH ELEMENT 22.5MM DIA GREEN-82910052050",
+      "PUSH BUTTON WITH ELEMENT 22.5MM DIA GREEN",
+      82910052050,
+      "PB"
+    ],
+    [
+      "MUSHROOM HEAD PUSH BUTTON 12314870 22.5MM DIA RED-76502024310",
+      "MUSHROOM HEAD PUSH BUTTON 12314870 22.5MM DIA RED",
+      76502024310,
+      "PB"
+    ],
+    [
+      "PUSH BUTTON STD ACTUATOR WITH CONTACT 30.5 MM DIA RED-82908111000",
+      "PUSH BUTTON STD ACTUATOR WITH CONTACT 30.5 MM DIA RED",
+      82908111000,
+      "PB"
+    ],
+    [
+      "PUSH BUTTON 30.5 MM DIA GREEN-70899221110",
+      "PUSH BUTTON 30.5 MM DIA GREEN",
+      70899221110,
+      "PB"
+    ],
+    [
+      "MUSHROOM HEAD PUSH BUTTON 12314870  30.5 MM DIA RED-76502070120",
+      "MUSHROOM HEAD PUSH BUTTON 12314870  30.5 MM DIA RED",
+      76502070120,
+      "PB"
+    ],
+    [
+      "Transducer 0-1A AC,4-20ma signal-76170021280",
+      "Transducer 0-1A AC,4-20ma signal",
+      76170021280,
+      "CT"
+    ],
+    [
+      "CURRENT TRANSFORMER RATIO 30/1 AMPS.-76170018060",
+      "CURRENT TRANSFORMER RATIO 30/1 AMPS.",
+      76170018060,
+      "CT"
+    ],
+    [
+      "EPOXY RESINCAST CTR:30/5-1A,CL:5P10,15VA-76170377260",
+      "EPOXY RESINCAST CTR:30/5-1A,CL:5P10,15VA",
+      76170377260,
+      "CT"
+    ],
+    [
+      "EPOXY RESINCAST CTR:40/5-1A,CL:5P10,15VA-76170377330",
+      "EPOXY RESINCAST CTR:40/5-1A,CL:5P10,15VA",
+      76170377330,
+      "CT"
+    ],
+    [
+      "EPOXY RESINCAST CTR 75/5-1A,CL:5P10,15VA-76170377400",
+      "EPOXY RESINCAST CTR 75/5-1A,CL:5P10,15VA",
+      76170377400,
+      "CT"
+    ],
+    [
+      "7.5VA,100/1A CURRENT TRANSFORMER-76170373330",
+      "7.5VA,100/1A CURRENT TRANSFORMER",
+      76170373330,
+      "CT"
+    ],
+    [
+      "EPOXY RESIN CAST CTR:300/1 A,CL:PS 5VA-76170377020",
+      "EPOXY RESIN CAST CTR:300/1 A,CL:PS 5VA",
+      76170377020,
+      "CT"
+    ],
+    [
+      "EPOXY RESIN CAST CTR:300/5-1A,CL:10,15VA-76170377190",
+      "EPOXY RESIN CAST CTR:300/5-1A,CL:10,15VA",
+      76170377190,
+      "CT"
+    ],
+    [
+      "CURRENT TRANSFORMER 1000/1 AMP.-76170816040",
+      "CURRENT TRANSFORMER 1000/1 AMP.",
+      76170816040,
+      "CT"
+    ],
+    [
+      "CURRENT TRANSFORMER 1800/1 CLASS PS IN *-76171030540",
+      "CURRENT TRANSFORMER 1800/1 CLASS PS IN *",
+      76171030540,
+      "CT"
+    ],
+    [
+      "EPOXY RESIN CAST 6.6 KV CT CTR501,5/1 A-76170377570",
+      "EPOXY RESIN CAST 6.6 KV CT CTR501,5/1 A",
+      76170377570,
+      "CT"
+    ],
+    [
+      "WPL RESIN CAST WOUND PRI CT TO DRG KE/4*-76170024540",
+      "WPL RESIN CAST WOUND PRI CT TO DRG KE/4*",
+      76170024540,
+      "CT"
+    ],
+    [
+      "WPL RESIN CAST WOUND PRI CT TO DRG KE/4*-76170022540",
+      "WPL RESIN CAST WOUND PRI CT TO DRG KE/4*",
+      76170022540,
+      "CT"
+    ],
+    [
+      "C.T RATIO 200/5-76170001530",
+      "C.T RATIO 200/5",
+      76170001530,
+      "CT"
+    ],
+    [
+      "NEUTRAL CT.-76013001200",
+      "NEUTRAL CT.",
+      76013001200,
+      "CT"
+    ],
+    [
+      "NEUTRAL CT-1600KVA,11/0.433KV TRANSFMR.-76106001050",
+      "NEUTRAL CT-1600KVA,11/0.433KV TRANSFMR.",
+      76106001050,
+      "CT"
+    ],
+    [
+      "D.C.CABLE GLAND 3CX10  MM2 CBW03-82065990920",
+      "D.C.CABLE GLAND 3CX10  MM2 CBW03",
+      82065990920,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CABLE GLAND:3X16 SQ.MM,CBW 04-82065034260",
+      "DBL.COMP.CABLE GLAND:3X16 SQ.MM,CBW 04",
+      82065034260,
+      "GLAND"
+    ],
+    [
+      "DOUBLE COMP. CABLE GLAND 3CX50 MM2 CBW05-82065033140",
+      "DOUBLE COMP. CABLE GLAND 3CX50 MM2 CBW05",
+      82065033140,
+      "GLAND"
+    ],
+    [
+      "CBW6,70 sqmm-82065034140",
+      "CBW6,70 sqmm",
+      82065034140,
+      "GLAND"
+    ],
+    [
+      "D.C.CABLE GLANDS 37.5 TO 41.5 MM -82065077090",
+      "D.C.CABLE GLANDS 37.5 TO 41.5 MM",
+      82065077090,
+      "GLAND"
+    ],
+    [
+      "D.C.CABLE GLANDS 37.5 TO 41.5 MM-82065031070",
+      "D.C.CABLE GLANDS 37.5 TO 41.5 MM",
+      82065031070,
+      "GLAND"
+    ],
+    [
+      "CABLE GLANDS  CBW 08-82065031060",
+      "CABLE GLANDS  CBW 08",
+      82065031060,
+      "GLAND"
+    ],
+    [
+      "CABLE GLAND FOR 31/2 C X 35MM2 CABLE-82065031070",
+      "CABLE GLAND FOR 31/2 C X 35MM2 CABLE",
+      82065031070,
+      "GLAND"
+    ],
+    [
+      "3.1/2 X  120 SQMM CABLE GLAND-82065025040",
+      "3.1/2 X  120 SQMM CABLE GLAND",
+      82065025040,
+      "GLAND"
+    ],
+    [
+      "AL.CABLE GLAND  MODEL CBW 10-82065031010",
+      "AL.CABLE GLAND  MODEL CBW 10",
+      82065031010,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CAB.GLAND 3COREX185 S.MMCBW 010-82065033380",
+      "DBL.COMP.CAB.GLAND 3COREX185 S.MMCBW 010",
+      82065033380,
+      "GLAND"
+    ],
+    [
+      "CABLE GLANDS  CBW 11-82065031050",
+      "CABLE GLANDS  CBW 11",
+      82065031050,
+      "GLAND"
+    ],
+    [
+      "D.C.CABLE GLAND 3CX240 MM2 CBW 012-82065041550",
+      "D.C.CABLE GLAND 3CX240 MM2 CBW 012",
+      82065041550,
+      "GLAND"
+    ],
+    [
+      "CABLE GLAND 8 PAIR 0.5 SQMM ARMORED-82065037210",
+      "CABLE GLAND 8 PAIR 0.5 SQMM ARMORED",
+      82065037210,
+      "GLAND"
+    ],
+    [
+      "CABLE GLAND 5 CORE 1.5SQMM ARMOURED-82065038190",
+      "CABLE GLAND 5 CORE 1.5SQMM ARMOURED",
+      82065038190,
+      "GLAND"
+    ],
+    [
+      "ABLE GLAND FOR 3X1/2X120S/MM-82065990610",
+      "ABLE GLAND FOR 3X1/2X120S/MM",
+      82065990610,
+      "GLAND"
+    ],
+    [
+      "DOUBLE COMP GLAND 3 1/2 X 300 SQMM-82065035900",
+      "DOUBLE COMP GLAND 3 1/2 X 300 SQMM",
+      82065035900,
+      "GLAND"
+    ],
+    [
+      "CABLE GLANDS  CBW 11-82065031050",
+      "CABLE GLANDS  CBW 11",
+      82065031050,
+      "GLAND"
+    ],
+    [
+      "CABLE GLANDS  CBW 08-82065031060",
+      "CABLE GLANDS  CBW 08",
+      82065031060,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CABLE GLAND 3COREX2.5S.MMCBW 01-82065032880",
+      "DBL.COMP.CABLE GLAND 3COREX2.5S.MMCBW 01",
+      82065032880,
+      "GLAND"
+    ],
+    [
+      "DOUBLE COMP. CABLE GLAND 3CX50 MM2 CBW05-82065033140",
+      "DOUBLE COMP. CABLE GLAND 3CX50 MM2 CBW05",
+      82065033140,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CAB.GLAND 3COREX185 S.MMCBW 010-82065033380",
+      "DBL.COMP.CAB.GLAND 3COREX185 S.MMCBW 010",
+      82065033380,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CABLE GLAND 2COREX1.5S.MMCBW 01-82065033450",
+      "DBL.COMP.CABLE GLAND 2COREX1.5S.MMCBW 01",
+      82065033450,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CABLE GLAND:3X16 SQ.MM,CBW 04-82065034260",
+      "DBL.COMP.CABLE GLAND:3X16 SQ.MM,CBW 04",
+      82065034260,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CABLE GLAND:3X25 SQ.MM,CBW 06-82065034400",
+      "DBL.COMP.CABLE GLAND:3X25 SQ.MM,CBW 06",
+      82065034400,
+      "GLAND"
+    ],
+    [
+      "D.C.CABLE GLAND 3CX240 MM2 CBW 012-82065041550",
+      "D.C.CABLE GLAND 3CX240 MM2 CBW 012",
+      82065041550,
+      "GLAND"
+    ],
+    [
+      "D.C.CABLE GLAND 3CX10  MM2 CBW03-82065990920",
+      "D.C.CABLE GLAND 3CX10  MM2 CBW03",
+      82065990920,
+      "GLAND"
+    ],
+    [
+      "CABLE GLAND-82065020610",
+      "CABLE GLAND",
+      82065020610,
+      "GLAND"
+    ],
+    [
+      "CABLE GLAND FOR 4CX2.5MM2 CABLE-82065032020",
+      "CABLE GLAND FOR 4CX2.5MM2 CABLE",
+      82065032020,
+      "GLAND"
+    ],
+    [
+      "DBL.COMP.CABLE GLAND 3COREX2.5S.MMCBW 01-82065032880",
+      "DBL.COMP.CABLE GLAND 3COREX2.5S.MMCBW 01",
+      82065032880,
+      "GLAND"
+    ],
+    [
+      "AL. CABLE LUGS MODEL NO: CCUS 27-82065031000",
+      "AL. CABLE LUGS MODEL NO: CCUS 27",
+      82065031000,
+      "LUG"
+    ],
+    [
+      "AL.CABLE LUGS MODEL NO: CCUS 20-82065031030",
+      "AL.CABLE LUGS MODEL NO: CCUS 20",
+      82065031030,
+      "LUG"
+    ],
+    [
+      "CU TUBULAR TRMNL.END 50SQ.MM CAT.CUS-357-82072294060",
+      "CU TUBULAR TRMNL.END 50SQ.MM CAT.CUS-357",
+      82072294060,
+      "LUG"
+    ],
+    [
+      "COPPER TUBULAR TERMINAL ENDS SIZE:300 M*-82072999150",
+      "COPPER TUBULAR TERMINAL ENDS SIZE:300 M*",
+      82072999150,
+      "LUG"
+    ],
+    [
+      "95 SQMM TUBULAR CU HD LUG CATNO :CUS359-82072305500",
+      "95 SQMM TUBULAR CU HD LUG CATNO :CUS359",
+      82072305500,
+      "LUG"
+    ],
+    [
+      "120 SQMM RING COPPER LUGS SH 12.7 MM-82072215520",
+      "120 SQMM RING COPPER LUGS SH 12.7 MM",
+      82072215520,
+      "LUG"
+    ],
+    [
+      "70 SQMM RING COPPER LUGS STUD HOLE 12.7*-82072215690",
+      "70 SQMM RING COPPER LUGS STUD HOLE 12.7*",
+      82072215690,
+      "LUG"
+    ],
+    [
+      "35 SQMM TUBULAR CU HD LUG CAT.NO:CUS283-82072146000",
+      "35 SQMM TUBULAR CU HD LUG CAT.NO:CUS283",
+      82072146000,
+      "LUG"
+    ],
+    [
+      "25 SQMM RING COPPER LUGS-",
+      "25 SQMM RING COPPER LUGS",
+      "",
+      "LUG"
+    ],
+    [
+      "120 SQMM ALUMINUM LUGS-",
+      "120 SQMM ALUMINUM LUGS",
+      "",
+      "LUG"
+    ],
+    [
+      "2.5SQMM PIN TYPE COPPER LUGS CAT.CPD27-82072145430",
+      "2.5SQMM PIN TYPE COPPER LUGS CAT.CPD27",
+      82072145430,
+      "LUG"
+    ],
+    [
+      "2.5 SQ MM PIN TYPE LUGS PRE INSULATED-82072145440",
+      "2.5 SQ MM PIN TYPE LUGS PRE INSULATED",
+      82072145440,
+      "LUG"
+    ],
+    [
+      "ANGLE 35X35X5 MM-92101003240",
+      "ANGLE 35X35X5 MM",
+      92101003240,
+      "MS Angle-channel"
+    ],
+    [
+      "ISA 50X50X6MM MS ANGLE-92101020180",
+      "ISA 50X50X6MM MS ANGLE",
+      92101020180,
+      "MS Angle-channel"
+    ],
+    [
+      "M.S ANGLE ISA 65X65X6MM-92101016080",
+      "M.S ANGLE ISA 65X65X6MM",
+      92101016080,
+      "MS Angle-channel"
+    ],
+    [
+      "M.S.PLATE 2MM THK.900MM W X 2500MM L-92108000280",
+      "M.S.PLATE 2MM THK.900MM W X 2500MM L",
+      92108000280,
+      "MS Angle-channel"
+    ],
+    [
+      "GI SHEET  THICK1.0 MM-92408004030",
+      "GI SHEET  THICK1.0 MM",
+      92408004030,
+      "MS Angle-channel"
+    ],
+    [
+      "PLAIN GI SHEET SIZE:3000 X 1000 X 1 MM-92128003090",
+      "PLAIN GI SHEET SIZE:3000 X 1000 X 1 MM",
+      92128003090,
+      "MS Angle-channel"
+    ],
+    [
+      "ISMC 150 X 75-92105008030",
+      "ISMC 150 X 75",
+      92105008030,
+      "MS Angle-channel"
+    ],
+    [
+      "I.S.M.C. 100X50 MM.-92105003080",
+      "I.S.M.C. 100X50 MM.",
+      92105003080,
+      "MS Angle-channel"
+    ],
+    [
+      "CADM.COAT.HEX.NUT&BOLT+WASHER,M4X30MM,FT-90720127060",
+      "CADM.COAT.HEX.NUT&BOLT+WASHER,M4X30MM,FT",
+      90720127060,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.SCREW&NUT,M4X50MM-90720127510",
+      "CADMIUM COATED HEX.SCREW&NUT,M4X50MM",
+      90720127510,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COAT.HEX.SLOT.SCREW&NUT M4X70 MM-90720126630",
+      "CADMIUM COAT.HEX.SLOT.SCREW&NUT M4X70 MM",
+      90720126630,
+      "Fastner"
+    ],
+    [
+      "CD COATED HEX.SLOTTED SCREW&NUT M5X10MM-90720126700",
+      "CD COATED HEX.SLOTTED SCREW&NUT M5X10MM",
+      90720126700,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COAT.HEX.SLOT.SCREW&NUT M5X15 MM-90720126870",
+      "CADMIUM COAT.HEX.SLOT.SCREW&NUT M5X15 MM",
+      90720126870,
+      "Fastner"
+    ],
+    [
+      "CADIUM COATED HEXAGONAL SCREW & NUT M5X*-90720130040",
+      "CADIUM COATED HEXAGONAL SCREW & NUT M5X*",
+      90720130040,
+      "Fastner"
+    ],
+    [
+      "CADIUM COATED HEXAGONAL SCREW & NUT M5X*-90720130590",
+      "CADIUM COATED HEXAGONAL SCREW & NUT M5X*",
+      90720130590,
+      "Fastner"
+    ],
+    [
+      "CADIUM COATED HEXAGON SCREW & NUT M6X30*-90720131090",
+      "CADIUM COATED HEXAGON SCREW & NUT M6X30*",
+      90720131090,
+      "Fastner"
+    ],
+    [
+      "CADIUM COATED HEXAGON SCREW & NUT M6X50*-90720131540",
+      "CADIUM COATED HEXAGON SCREW & NUT M6X50*",
+      90720131540,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.SCREW&NUT,M8X40MM-90720132110",
+      "CADMIUM COATED HEX.SCREW&NUT,M8X40MM",
+      90720132110,
+      "Fastner"
+    ],
+    [
+      "CADIUM COATED HEXAGON SCREW & NUT M8X50-90720132590",
+      "CADIUM COATED HEXAGON SCREW & NUT M8X50",
+      90720132590,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.SCREW&NUT,M8X60MM-90720132660",
+      "CADMIUM COATED HEX.SCREW&NUT,M8X60MM",
+      90720132660,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.SCREW&NUT,M10X40MM-90720133160",
+      "CADMIUM COATED HEX.SCREW&NUT,M10X40MM",
+      90720133160,
+      "Fastner"
+    ],
+    [
+      "M.S PLAIN PUNCHED WASHER, M12-62401003080",
+      "M.S PLAIN PUNCHED WASHER, M12",
+      62401003080,
+      "Fastner"
+    ],
+    [
+      "MS NUT 5/8\"-90601006080",
+      "MS NUT 5/8\"",
+      90601006080,
+      "Fastner"
+    ],
+    [
+      "HEX NUT 3/8\" UNC-014936900-71645302990",
+      "HEX NUT 3/8\" UNC-014936900",
+      71645302990,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*-90151009270",
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*",
+      90151009270,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*-90151009890",
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*",
+      90151009890,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*-90151010870",
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*",
+      90151010870,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*-90720126010",
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*",
+      90720126010,
+      "Fastner"
+    ],
+    [
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*-90720126560",
+      "CADMIUM COATED HEX.NUT & BOLT WITH SPRI*",
+      90720126560,
+      "Fastner"
+    ],
+    [
+      "HEX.NUT-TERMINAL STUD,90KW MOTOR-74130003060",
+      "HEX.NUT-TERMINAL STUD,90KW MOTOR",
+      74130003060,
+      "Fastner"
+    ],
+    [
+      "HT HEX HD BOLT M6X40 GR 8.8-90104071000",
+      "HT HEX HD BOLT M6X40 GR 8.8",
+      90104071000,
+      "Fastner"
+    ],
+    [
+      "HT HEX HEAD BOLT+DOUBLE NUT M-16X60 F/T-90104035770",
+      "HT HEX HEAD BOLT+DOUBLE NUT M-16X60 F/T",
+      90104035770,
+      "Fastner"
+    ],
+    [
+      "HT STUD+NUT&SPRING WSHR.M16X74.5-LP CYL.-90718013100",
+      "HT STUD+NUT&SPRING WSHR.M16X74.5-LP CYL.",
+      90718013100,
+      "Fastner"
+    ],
+    [
+      "MS HEX HD BOLT WITH NUT SZ:M6X20-90101002030",
+      "MS HEX HD BOLT WITH NUT SZ:M6X20",
+      90101002030,
+      "Fastner"
+    ],
+    [
+      "LIGHT GRAY PAINT .-93504022290",
+      "LIGHT GRAY PAINT .",
+      93504022290,
+      "paint"
+    ],
+    [
+      "RED OXIDE (ZINC CHROMATE) PRIMER-93501991780",
+      "RED OXIDE (ZINC CHROMATE) PRIMER",
+      93501991780,
+      "paint"
+    ],
+    [
+      "6300KVA  11/6.9KV TRANSFORMER-76026000380",
+      "6300KVA  11/6.9KV TRANSFORMER",
+      76026000380,
+      "Transformer"
+    ],
+    [
+      "THERMOMETER DIAL TYPE 0 - 100 DEC.CENT-86005012000",
+      "THERMOMETER DIAL TYPE 0 - 100 DEC.CENT",
+      86005012000,
+      "Transformer"
+    ],
+    [
+      "TRANSFORMER OIL (IS-335)-93914001010",
+      "TRANSFORMER OIL (IS-335)",
+      93914001010,
+      "Transformer"
+    ],
+    [
+      "WINDING TEMPERATURE INDICATOR-86505837110",
+      "WINDING TEMPERATURE INDICATOR",
+      86505837110,
+      "Transformer"
+    ],
+    [
+      "BUCHHLOZ RELAY.-76104000510",
+      "BUCHHLOZ RELAY.",
+      76104000510,
+      "Transformer"
+    ],
+    [
+      "BUCHHOLZ RELAY SPARE-11.6 KV 3150 KVA-82657004000",
+      "BUCHHOLZ RELAY SPARE-11.6 KV 3150 KVA",
+      82657004000,
+      "Transformer"
+    ],
+    [
+      "BUCHHOLZ RELAY5000KVA-82657002000",
+      "BUCHHOLZ RELAY5000KVA",
+      82657002000,
+      "Transformer"
+    ],
+    [
+      "BUCHOLZ RELAY,3\" FD=215MM,5A,220V A.C.-34718009020",
+      "BUCHOLZ RELAY,3\" FD=215MM,5A,220V A.C.",
+      null,
+      "Transformer"
+    ],
+    [
+      "Control transformer 250 VA,415V/120-0-120 V-76193127510",
+      "Control transformer 250 VA,415V/120-0-120 V",
+      76193127510,
+      "Transformer"
+    ],
+    [
+      "500 VA TRANSFORMER 415 V AC / 230 V AC-76193021120",
+      "500 VA TRANSFORMER 415 V AC / 230 V AC",
+      76193021120,
+      "Transformer"
+    ],
+    [
+      "350VA,415V/220-110V CONTROL TRANSFORMER-76193021420",
+      "350VA,415V/220-110V CONTROL TRANSFORMER",
+      76193021420,
+      "Transformer"
+    ],
+    [
+      "CONTROL TRANSFORMER 250VA,415/110-0-110-76193062640",
+      "CONTROL TRANSFORMER 250VA,415/110-0-110",
+      76193062640,
+      "Transformer"
+    ],
+    [
+      "CONTROL TRANSFORMER 990VA,415/230V, SIN-76193147020",
+      "CONTROL TRANSFORMER 990VA,415/230V, SIN",
+      76193147020,
+      "Transformer"
+    ],
+    [
+      "CONTROL TRANSFORMER 440/240/110/84/24V-76193030100",
+      "CONTROL TRANSFORMER 440/240/110/84/24V",
+      76193030100,
+      "Transformer"
+    ],
+    [
+      "CONTROL TRANSFORMER 415/230V 3.0 KVA-76193028000",
+      "CONTROL TRANSFORMER 415/230V 3.0 KVA",
+      76193028000,
+      "Transformer"
+    ],
+    [
+      "5KVA 415V/120-0-120V CONTROL TRANSFORME-76193021400",
+      "5KVA 415V/120-0-120V CONTROL TRANSFORME",
+      76193021400,
+      "Transformer"
+    ],
+    [
+      "7.5KVA 415V/120-0-120V LIGHTING TRANSFO-76193021410",
+      "7.5KVA 415V/120-0-120V LIGHTING TRANSFO",
+      76193021410,
+      "Transformer"
+    ],
+    [
+      "AIR COOLED TRANSFORMER 415/415V,15KVA-76076030010",
+      "AIR COOLED TRANSFORMER 415/415V,15KVA",
+      76076030010,
+      "Transformer"
+    ],
+    [
+      "CONTROL TRANSFORMER-67314002180",
+      "CONTROL TRANSFORMER",
+      67314002180,
+      "Transformer"
+    ],
+    [
+      "SINGLE PHASE CONTROL TRANSFORMER 415/240-76193136040",
+      "SINGLE PHASE CONTROL TRANSFORMER 415/240",
+      76193136040,
+      "Transformer"
+    ],
+    [
+      "NGEF 1250KVA GOR-76011022410",
+      "NGEF 1250KVA GOR",
+      76011022410,
+      "Transformer"
+    ],
+    [
+      "SILICA GEL BLUE: SIZE:10MM TO 12MM-94126000710",
+      "SILICA GEL BLUE: SIZE:10MM TO 12MM",
+      null,
+      "Transformer"
+    ],
+    [
+      "WINDING TEMPERATURE INDICATOR.-76107002520",
+      "WINDING TEMPERATURE INDICATOR.",
+      76107002520,
+      "Transformer"
+    ],
+    [
+      "OIL TEMP.INDICATOR- 11/0.433 KV TRANSFMR.-76106000620",
+      "OIL TEMP.INDICATOR- 11/0.433 KV TRANSFMR.",
+      76106000620,
+      "Transformer"
+    ],
+    [
+      "MOG for ONAN type Transformer-76104000270",
+      "MOG for ONAN type Transformer",
+      76104000270,
+      "Transformer"
+    ],
+    [
+      "AUX. CONTACT,SIEMENS MODEL 3TX4 001 -2A-82816302020",
+      "AUX. CONTACT,SIEMENS MODEL 3TX4 001 -2A",
+      82816302020,
+      "Aux contact"
+    ],
+    [
+      "ADD ON BLOCK,TYPE:3TX4001-4A-82903001560",
+      "ADD ON BLOCK,TYPE:3TX4001-4A",
+      82903001560,
+      "Aux contact"
+    ],
+    [
+      "AUX. CONTACT,SIEMENS,MODEL 3TX4 010 - 2A-82816301900",
+      "AUX. CONTACT,SIEMENS,MODEL 3TX4 010 - 2A",
+      82816301900,
+      "Aux contact"
+    ],
+    [
+      "ADD ON EXTRA BLOCK,TYPE:3TX4010-4A-82903001010",
+      "ADD ON EXTRA BLOCK,TYPE:3TX4010-4A",
+      82903001010,
+      "Aux contact"
+    ],
+    [
+      "AUX.CONTACT BLOCK-82850018550",
+      "AUX.CONTACT BLOCK",
+      82850018550,
+      "Aux contact"
+    ],
+    [
+      "AUX.CONTACT SET 3TY7561-1A/1B FOR CONTA*-82816265800",
+      "AUX.CONTACT SET 3TY7561-1A/1B FOR CONTA*",
+      82816265800,
+      "Aux contact"
+    ],
+    [
+      "AUX.CONTACT SET 3TY7561-1A/1B FOR CONTA*-82816265970",
+      "AUX.CONTACT SET 3TY7561-1A/1B FOR CONTA*",
+      82816265970,
+      "Aux contact"
+    ],
+    [
+      "Add on block for aux. contact of MN series-82806107170",
+      "Add on block for aux. contact of MN series",
+      82806107170,
+      "Aux contact"
+    ],
+    [
+      "ADD ON BLOCK FOR ML10/12 CONTACTOR, L&T-82806100060",
+      "ADD ON BLOCK FOR ML10/12 CONTACTOR, L&T",
+      82806100060,
+      "Aux contact"
+    ],
+    [
+      "L&T aux. contact block-82817010470",
+      "L&T aux. contact block",
+      82817010470,
+      "Aux contact"
+    ],
+    [
+      "Auxiliary Switch-82736221720",
+      "Auxiliary Switch",
+      82736221720,
+      "Aux contact"
+    ],
+    [
+      "I/C MALE FEMALE CONTACT FVNR100 TQ2 L&T-82792081220",
+      "I/C MALE FEMALE CONTACT FVNR100 TQ2 L&T",
+      null,
+      "Switch Board"
+    ],
+    [
+      "O/G MALE FEMALE CONTACT FVNR100 TQ2 L&T-82792081230",
+      "O/G MALE FEMALE CONTACT FVNR100 TQ2 L&T",
+      null,
+      "Switch Board"
+    ],
+    [
+      "O/G MALE FEMALE CONTACT FVNR400 TQ2 L&T-82792081240",
+      "O/G MALE FEMALE CONTACT FVNR400 TQ2 L&T",
+      null,
+      "Switch Board"
+    ],
+    [
+      "INCOMING MALE & FEM.CONTACT-400A MODULE-82792081210",
+      "INCOMING MALE & FEM.CONTACT-400A MODULE",
+      null,
+      "Switch Board"
+    ],
+    [
+      "400A LYRA CONTACT Z TYPE-82729041040",
+      "400A LYRA CONTACT Z TYPE",
+      null,
+      "Switch Board"
+    ],
+    [
+      "400A LYRA CONTACT L TYPE-82729041070",
+      "400A LYRA CONTACT L TYPE",
+      null,
+      "Switch Board"
+    ],
+    [
+      "TROUGH ASSEMBLY FOR 110KW FDR-82729041110",
+      "TROUGH ASSEMBLY FOR 110KW FDR",
+      null,
+      "Switch Board"
+    ],
+    [
+      "BIG FRP GUARD FOR TROUGH-82729041120",
+      "BIG FRP GUARD FOR TROUGH",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SMALL FRP GUARD FOR TROUGH-82729041130",
+      "SMALL FRP GUARD FOR TROUGH",
+      null,
+      "Switch Board"
+    ],
+    [
+      "MIDDLE TRAY WITH GUIDE LATCH-82729041140",
+      "MIDDLE TRAY WITH GUIDE LATCH",
+      null,
+      "Switch Board"
+    ],
+    [
+      "BOTTOM SUPPORT FOR TROUGH-82729041150",
+      "BOTTOM SUPPORT FOR TROUGH",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SHUTTER ASSEMBLY-82729041020",
+      "SHUTTER ASSEMBLY",
+      null,
+      "Switch Board"
+    ],
+    [
+      "U CLIP FOR FRP GUARD-82729041030",
+      "U CLIP FOR FRP GUARD",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SLIDING CONTACT PANEL SIDE-82729041270",
+      "SLIDING CONTACT PANEL SIDE",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SLIDING CONTACT   TEST & SERVICE PANEL S-82729041280",
+      "SLIDING CONTACT   TEST & SERVICE PANEL S",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SLIDING CONTACT MODULE SIDE-82729041290",
+      "SLIDING CONTACT MODULE SIDE",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SLIDING CONTACT   TEST & SERVICE MODULE-82729041380",
+      "SLIDING CONTACT   TEST & SERVICE MODULE",
+      null,
+      "Switch Board"
+    ],
+    [
+      "PMCC FOR EVAPORATION BATTERY A,B,C,D-82641000009",
+      "PMCC FOR EVAPORATION BATTERY A,B,C,D",
+      null,
+      "Switch Board"
+    ],
+    [
+      "Main distribution board-35312026010",
+      "Main distribution board",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SURGE SUPRESSOR 3TX7 462 3JYI-25583061000",
+      "SURGE SUPRESSOR 3TX7 462 3JYI",
+      null,
+      "Switch Board"
+    ],
+    [
+      "SURGE SUPPRESSOR 3TX7402-3JY1-25583062650",
+      "SURGE SUPPRESSOR 3TX7402-3JY1",
+      null,
+      "Switch Board"
+    ],
+    [
+      "OUTGOING COPPER BUS BAR-82729041050",
+      "OUTGOING COPPER BUS BAR",
+      null,
+      "Switch Board"
+    ],
+    [
+      "OUT GOING MODULE ASSEMBLY-82729041260",
+      "OUT GOING MODULE ASSEMBLY",
+      null,
+      "Switch Board"
+    ],
+    [
+      "CLOSING COIL - 415V PCC CIRCUIT BREAKER-82737001530",
+      "CLOSING COIL - 415V PCC CIRCUIT BREAKER",
+      null,
+      "CB"
+    ],
+    [
+      "DSL CU BUSBAR  SYSTEM FOR EOT CRANE-30809060100",
+      "DSL CU BUSBAR  SYSTEM FOR EOT CRANE",
+      null,
+      "CRANE_HOIST"
+    ],
+    [
+      "DSL CU BUSBAR  SYSTEM FOR EOT CRANE-30809060100",
+      "DSL CU BUSBAR  SYSTEM FOR EOT CRANE",
+      null,
+      "CRANE_HOIST"
+    ],
+    [
+      "Limit Switch  for 1.0x10M Elect. Hoist-67399121210",
+      "Limit Switch  for 1.0x10M Elect. Hoist",
+      null,
+      "CRANE_HOIST"
+    ],
+    [
+      "Change Over Switch, Rating:63 Amps-82667120340",
+      "Change Over Switch, Rating:63 Amps",
+      82667120340,
+      "changeover switch"
+    ],
+    [
+      "Change Over Switch, Rating:250 Amps-82618113520",
+      "Change Over Switch, Rating:250 Amps",
+      82618113520,
+      "changeover switch"
+    ],
+    [
+      "3 PH. CHANGE OVER SWITCH 400A,750V,ACC-82642759070",
+      "3 PH. CHANGE OVER SWITCH 400A,750V,ACC",
+      82642759070,
+      "changeover switch"
+    ],
+    [
+      "CHANGE OVER SWITCH IN:630A,1000V AC,415V-82622573011",
+      "CHANGE OVER SWITCH IN:630A,1000V AC,415V",
+      82622573011,
+      "changeover switch"
+    ]
+  ]
 }
