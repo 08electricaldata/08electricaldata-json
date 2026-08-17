@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-17T12:18:44.486Z",
+  "updated": "2026-08-17T12:48:55.956Z",
   "metrics": [
     {
       "key": "overdue_motors_oh",
-      "installed": 399,
-      "due": 116
+      "installed": 0,
+      "due": 0
     },
     {
       "key": "overdue_motors_pm",
-      "installed": 365,
-      "due": 83
+      "installed": 0,
+      "due": 0
     },
     {
       "key": "overdue_modules_pm",
-      "installed": 365,
-      "due": 182
+      "installed": 0,
+      "due": 0
     },
     {
       "key": "overdue_transformers_pm",
-      "installed": 54,
-      "due": 27
+      "installed": 0,
+      "due": 0
     },
     {
       "key": "overdue_breaker_pm",
-      "installed": 157,
-      "due": 130
+      "installed": 0,
+      "due": 0
     },
     {
       "key": "updated_at",
