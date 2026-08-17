@@ -1,9 +1,57 @@
 {
   "gallery": "SAFETY PHOTOS",
   "folderId": "1nESERIqfv6Qx623ewtSbAo6s2alQzBLw",
-  "updated": "2026-08-17T03:05:25.343Z",
-  "total": 6,
+  "updated": "2026-08-17T07:05:12.540Z",
+  "total": 10,
   "photos": [
+    {
+      "id": "1vuuWF4kOh2lS5bYJfamQFEhgcJVrEVSz",
+      "title": "17-08-2026(COMP-50 CDS PERMIT)",
+      "filename": "17-08-2026(COMP-50 CDS PERMIT).jpeg",
+      "extension": "jpeg",
+      "image": "https://lh3.googleusercontent.com/d/1vuuWF4kOh2lS5bYJfamQFEhgcJVrEVSz=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1vuuWF4kOh2lS5bYJfamQFEhgcJVrEVSz=w700",
+      "created": "2026-08-17T05:17:13.674Z",
+      "modified": "2026-08-17T06:37:02.404Z",
+      "size": 100487,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "10PWH2GaQJRYm-WcE6lJEzqCDVbQadHJj",
+      "title": "17-08-2026(COMP-50 CDS PERMIT)",
+      "filename": "17-08-2026(COMP-50 CDS PERMIT).jpeg",
+      "extension": "jpeg",
+      "image": "https://lh3.googleusercontent.com/d/10PWH2GaQJRYm-WcE6lJEzqCDVbQadHJj=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/10PWH2GaQJRYm-WcE6lJEzqCDVbQadHJj=w700",
+      "created": "2026-08-17T05:17:13.455Z",
+      "modified": "2026-08-17T06:36:49.597Z",
+      "size": 104738,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "14SYJnW2InY4Rn4EuKSvwhGABwGTSG7ok",
+      "title": "17-08-2026-HT-002-CDS PERMIT",
+      "filename": "17-08-2026-HT-002-CDS PERMIT.jpeg",
+      "extension": "jpeg",
+      "image": "https://lh3.googleusercontent.com/d/14SYJnW2InY4Rn4EuKSvwhGABwGTSG7ok=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/14SYJnW2InY4Rn4EuKSvwhGABwGTSG7ok=w700",
+      "created": "2026-08-17T06:35:28.285Z",
+      "modified": "2026-08-17T06:36:31.578Z",
+      "size": 98549,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1NF0yV4zdTIxCwRXyWCoEIEkfBa2RSP-_",
+      "title": "17-08-2026-HT-002 CDS PERMIT",
+      "filename": "17-08-2026-HT-002 CDS PERMIT.jpeg",
+      "extension": "jpeg",
+      "image": "https://lh3.googleusercontent.com/d/1NF0yV4zdTIxCwRXyWCoEIEkfBa2RSP-_=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1NF0yV4zdTIxCwRXyWCoEIEkfBa2RSP-_=w700",
+      "created": "2026-08-17T06:35:28.138Z",
+      "modified": "2026-08-17T06:36:16.859Z",
+      "size": 93516,
+      "type": "image/jpeg"
+    },
     {
       "id": "1p1jJlWSr9F22vJtzQwPUbeJvDh6Zc4uI",
       "title": "PHOTO-2025-09-19-16-32-27",
