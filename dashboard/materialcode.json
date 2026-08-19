@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:18:49.982Z",
+  "updated": "2026-08-19T06:48:59.924Z",
   "headers": [
     "CONTACTOR(3)",
     "fuse(202)",
@@ -788,24 +788,6 @@
       "CABLE"
     ],
     [
-      "4C X 6 SQ MM AL CABLE-82001064500",
-      "4C X 6 SQ MM AL CABLE",
-      82001064500,
-      "CABLE"
-    ],
-    [
-      "4C X 25 SQ MM AL CABLE-82001106000",
-      "4C X 25 SQ MM AL CABLE",
-      82001106000,
-      "CABLE"
-    ],
-    [
-      "4C X 95 SQ MM AL CABLE-82001105900",
-      "4C X 95 SQ MM AL CABLE",
-      82001105900,
-      "CABLE"
-    ],
-    [
       "1C X 70.0 SQMM 76KV DC PLIC AL CABLE-82001101320",
       "1C X 70.0 SQMM 76KV DC PLIC AL CABLE",
       82001101320,
@@ -992,6 +974,12 @@
       "CABLE"
     ],
     [
+      "4C X 6 SQ MM AL CABLE-82001064500",
+      "4C X 6 SQ MM AL CABLE",
+      82001064500,
+      "CABLE"
+    ],
+    [
       "4C X 6 SQ.MM PVC ALU. ARMOURED CABLE-82005019560",
       "4C X 6 SQ.MM PVC ALU. ARMOURED CABLE",
       82005019560,
@@ -1016,9 +1004,21 @@
       "CABLE"
     ],
     [
+      "4C X 25 SQ MM AL CABLE-82001106000",
+      "4C X 25 SQ MM AL CABLE",
+      82001106000,
+      "CABLE"
+    ],
+    [
       "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE-82001114090",
       "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE",
       82001114090,
+      "CABLE"
+    ],
+    [
+      "4C X 95 SQ MM AL CABLE-82001105900",
+      "4C X 95 SQ MM AL CABLE",
+      82001105900,
       "CABLE"
     ],
     [
