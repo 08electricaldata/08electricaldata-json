@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T05:49:00.294Z",
+  "updated": "2026-08-19T06:18:40.520Z",
   "headers": [
     "CONTACTOR(3)",
     "fuse(202)",
@@ -749,997 +749,991 @@
       "1C X 70.0 SQMM 76KV DC PLIC AL CABLE-82001101320",
       "1C X 70.0 SQMM 76KV DC PLIC AL CABLE",
       82001101320,
-      "cable"
+      "CABLE"
     ],
     [
       "1CX95 SQ MM AL. XLPE INSU 80KV DC CABLE-82001101610",
       "1CX95 SQ MM AL. XLPE INSU 80KV DC CABLE",
       82001101610,
-      "cable"
+      "CABLE"
     ],
     [
       "1C X 1000 SQMM CABLE1.1 KV AL. AROURED -82001068030",
       "1C X 1000 SQMM CABLE1.1 KV AL. AROURED",
       82001068030,
-      "cable"
+      "CABLE"
     ],
     [
       "2 C X 4 SQMM ARMOURED  ALUMINIUM CABLE-82001104130",
       "2 C X 4 SQMM ARMOURED  ALUMINIUM CABLE",
       82001104130,
-      "cable"
+      "CABLE"
     ],
     [
       "2CX10 SQMM PVC INS./SHEATH ARMD.AL CABLE-82001055500",
       "2CX10 SQMM PVC INS./SHEATH ARMD.AL CABLE",
       82001055500,
-      "cable"
+      "CABLE"
     ],
     [
       "2CX16 SQMM PVC INSULARMOURED AL. CABLE-82001080541",
       "2CX16 SQMM PVC INSULARMOURED AL. CABLE",
       82001080541,
-      "cable"
+      "CABLE"
     ],
     [
       "2 CORE 25 SQMM ARM-82001081040",
       "2 CORE 25 SQMM ARM",
       82001081040,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX2.5 SQMM FLEX.TRS ROUND CU CABLE-82085102420",
       "3CX2.5 SQMM FLEX.TRS ROUND CU CABLE",
       null,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX4SQMM PVC INSULATED ARMOURED AL.CABLE-82001061530",
       "3CX4SQMM PVC INSULATED ARMOURED AL.CABLE",
       82001061530,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX6MM2 PVC AYFY AL. CABLE-82001064030",
       "3CX6MM2 PVC AYFY AL. CABLE",
       82001064030,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX16MM2,1.1KV AL.COND. PVC ARMOUR CABLE-82001091070",
       "3CX16MM2,1.1KV AL.COND. PVC ARMOUR CABLE",
       82001091070,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX50SQMM PVC INS. ARMOURED AL.CABLE-82001918690",
       "3CX50SQMM PVC INS. ARMOURED AL.CABLE",
       82001918690,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX50SQMM PVC INS. ARMOURED AL.CABLE (6.6 KV)-82015111520",
       "3CX50SQMM PVC INS. ARMOURED AL.CABLE (6.6 KV)",
       82015111520,
-      "cable"
+      "CABLE"
     ],
     [
       "6.6KV XLPE AL.CONDUCTOR 3CX50 SQMM-82010053540",
       "6.6KV XLPE AL.CONDUCTOR 3CX50 SQMM",
       null,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX95 SQMM PVC INSUL/SHTH ARMRD AL.CABLE-82001095520",
       "3CX95 SQMM PVC INSUL/SHTH ARMRD AL.CABLE",
       82001095520,
-      "cable"
+      "CABLE"
     ],
     [
       "3C X 120 SQ.MM. 1.1 KV ARMD. AL. CABLE-82002086060",
       "3C X 120 SQ.MM. 1.1 KV ARMD. AL. CABLE",
       82002086060,
-      "cable"
+      "CABLE"
     ],
     [
       "3C X 185 SQMM PVC IN SARMOURED AL. CABLE-82001095070",
       "3C X 185 SQMM PVC IN SARMOURED AL. CABLE",
       82001095070,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX240SQMM PVC INS.ARMURED AL.CABLE(1KV)-82002088060",
       "3CX240SQMM PVC INS.ARMURED AL.CABLE(1KV)",
       82002088060,
-      "cable"
+      "CABLE"
     ],
     [
       "3C X 300sqmm ,6.6KV Aluminium  Cable-82001090960",
       "3C X 300sqmm ,6.6KV Aluminium  Cable",
       82001090960,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX300 SQMM PVC INS/SHEATH ARM AL. CABLE-82001096570",
       "3CX300 SQMM PVC INS/SHEATH ARM AL. CABLE",
       82001096570,
-      "cable"
+      "CABLE"
     ],
     [
       "3C X 300 SQMM PVC-82015135580",
       "3C X 300 SQMM PVC",
       82015135580,
-      "cable"
+      "CABLE"
     ],
     [
       "1.1 KV 3.1/2 C X 25 SQMM ARM AL CABLE-82002090540",
       "1.1 KV 3.1/2 C X 25 SQMM ARM AL CABLE",
       82002090540,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 35 SQMM HR PVC INSULATED/SHEATHE* AL CABLE-82001101010",
       "3.5C X 35 SQMM HR PVC INSULATED/SHEATHE* AL CABLE",
       82001101010,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 50 SQ.MM ARMOURED AL. CABLE-82001101560",
       "3.5C X 50 SQ.MM ARMOURED AL. CABLE",
       82001101560,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 70 SQMM PVC ARMOURED AL. CABLE-82001102060",
       "3.5C X 70 SQMM PVC ARMOURED AL. CABLE",
       82001102060,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 95 SQ.MM ARMOURED AL. CABLE-82001105870",
       "3.5C X 95 SQ.MM ARMOURED AL. CABLE",
       82001105870,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 120 SQMM PVC INSULATED/SHEATHED *-82001103010",
       "3.5C X 120 SQMM PVC INSULATED/SHEATHED *",
       82001103010,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 150 SQMM PVC INSULATED/SHEATHED *-82001103560",
       "3.5C X 150 SQMM PVC INSULATED/SHEATHED *",
       82001103560,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX185MM2 PVC INSULD ARMOURED AL CABLE-82001104060",
       "3.5CX185MM2 PVC INSULD ARMOURED AL CABLE",
       82001104060,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX240 SQMM PVC INS. ARMD.AL.CABLE-82001105010",
       "3.5CX240 SQMM PVC INS. ARMD.AL.CABLE",
       82001105010,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX400 SQMM PVC INSUL ARM AL. CABLE-82002096090",
       "3.5CX400 SQMM PVC INSUL ARM AL. CABLE",
       82002096090,
-      "cable"
+      "CABLE"
     ],
     [
       "4C X 6 SQ.MM PVC ALU. ARMOURED CABLE-82005019560",
       "4C X 6 SQ.MM PVC ALU. ARMOURED CABLE",
       82005019560,
-      "cable"
+      "CABLE"
     ],
     [
       "4C X 10 SQ.MM PVC ALU. ARMOURED CABLE-35001039520",
       "4C X 10 SQ.MM PVC ALU. ARMOURED CABLE",
       35001039520,
-      "cable"
+      "CABLE"
     ],
     [
       "4X10MMSQ.AL POWER-82002102100",
       "4X10MMSQ.AL POWER",
       82002102100,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX16MM SQ PVC AL ARMD CABLE1.1KV GR-82001113040",
       "4CX16MM SQ PVC AL ARMD CABLE1.1KV GR",
       82001113040,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE-82001114090",
       "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE",
       82001114090,
-      "cable"
+      "CABLE"
     ],
     [
       "COPPER CABLE-",
       "COPPER CABLE",
       "",
-      "cable"
+      "CABLE"
     ],
     [
       "1.5 SQMM PVC INSUL multi strand cu twin -82088005090",
       "1.5 SQMM PVC INSUL multi strand cu twin",
       82088005090,
-      "cable"
+      "CABLE"
     ],
     [
       "POWER CABLE 2CX1.5(Long-3c*1.5 multistrand cu)-82003050590",
       "POWER CABLE 2CX1.5(Long-3c*1.5 multistrand cu)",
       82003050590,
-      "cable"
+      "CABLE"
     ],
     [
       "3COREX1.5SQ.MM CU ARMD.PVC CTRL.CABLE-35004014070",
       "3COREX1.5SQ.MM CU ARMD.PVC CTRL.CABLE",
       35004014070,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX1.5 SQMM MULTISTD FLEX.CU.CABLE-82007002070",
       "3CX1.5 SQMM MULTISTD FLEX.CU.CABLE",
       82007002070,
-      "cable"
+      "CABLE"
     ],
     [
       "3C X 2.5 SQMM MULT ARMD. CU. CABLE-82005013010",
       "3C X 2.5 SQMM MULT ARMD. CU. CABLE",
       82005013010,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX4SQMM PVC INSULATED ARMOURED COPPER.CABLE-82007006140",
       "3CX4SQMM PVC INSULATED ARMOURED COPPER.CABLE",
       82007006140,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX6 SQMM MULT. STD FLEX. COP. CABLE-82007008380",
       "3CX6 SQMM MULT. STD FLEX. COP. CABLE",
       82007008380,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX6 SQ.MM 1100V CU ARMD.POWER CABLE-82007006380",
       "3CX6 SQ.MM 1100V CU ARMD.POWER CABLE",
       82007006380,
-      "cable"
+      "CABLE"
     ],
     [
       "3C x 10 SQ MM, COPPER CABLE 1.1 KV GRADE-82003089600",
       "3C x 10 SQ MM, COPPER CABLE 1.1 KV GRADE",
       82003089600,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX16 SQMM MULT. STD FLEX. COP. CABLE-82007007020",
       "3CX16 SQMM MULT. STD FLEX. COP. CABLE",
       82007007020,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX25 SQMM MULT. STD FLEX. COP. CABLE-82008204500",
       "3CX25 SQMM MULT. STD FLEX. COP. CABLE",
       82008204500,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX35 SQMM FLEXIBLE TRS COPPER CABLE-82090010120",
       "3CX35 SQMM FLEXIBLE TRS COPPER CABLE",
       82090010120,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX50 SQ.MM,FLEX.CU CABLE,PVC INSULATED-35006025090",
       "3CX50 SQ.MM,FLEX.CU CABLE,PVC INSULATED",
       35006025090,
-      "cable"
+      "CABLE"
     ],
     [
       "3CX70 SQ.MM,FLEX.CU CABLE,PVC INSULATED-",
       "3CX70 SQ.MM,FLEX.CU CABLE,PVC INSULATED",
       "",
-      "cable"
+      "CABLE"
     ],
     [
       "3CX95 SQ.MM,FLEX.CU CABLE,PVC INSULATED-",
       "3CX95 SQ.MM,FLEX.CU CABLE,PVC INSULATED",
       "",
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX50 SQMM FLEXIBLE TRS COPPER CABLE-82008205700",
       "3.5CX50 SQMM FLEXIBLE TRS COPPER CABLE",
       82008205700,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX50SQMM ANNEALE TINNED COPPER CABLE*-82008001090",
       "3.5CX50SQMM ANNEALE TINNED COPPER CABLE*",
       82008001090,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX70 SQMM FLEXIBLE TRS COPPER CABLE-82008205870",
       "3.5CX70 SQMM FLEXIBLE TRS COPPER CABLE",
       82008205870,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE-82008204370",
       "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE",
       82008204370,
-      "cable"
+      "CABLE"
     ],
     [
       "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE-82008207010",
       "3.5CX95 SQMM FLEXIBLE PVC COPPER CABLE",
       82008207010,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX 2.5 SQMM MULTISTRAND ARMOURED CU CABLE-82013013020",
       "4CX 2.5 SQMM MULTISTRAND ARMOURED CU CABLE",
       82013013020,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX4SQ MM PVC ARMORED POWER CABLE 1100V-82040201430",
       "4CX4SQ MM PVC ARMORED POWER CABLE 1100V",
       82040201430,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX6 SQ.MM 1100V GR.FLEX. CU CABLE-35011005030",
       "4CX6 SQ.MM 1100V GR.FLEX. CU CABLE",
       35011005030,
-      "cable"
+      "CABLE"
     ],
     [
       "4Cx6 sqmm flexible cu.cable-82013017020",
       "4Cx6 sqmm flexible cu.cable",
       82013017020,
-      "cable"
+      "CABLE"
     ],
     [
       "4Cx10 sqmm cu.cable-99905001610",
       "4Cx10 sqmm cu.cable",
       99905001610,
-      "cable"
+      "CABLE"
     ],
     [
       "4Cx16 sqmm cu.cable-82008205010",
       "4Cx16 sqmm cu.cable",
       82008205010,
-      "cable"
+      "CABLE"
     ],
     [
       "4Cx25 sqmm cu.cable-82060244020",
       "4Cx25 sqmm cu.cable",
       82060244020,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX35 SQMM FLEXIBLE TRS COPPER CABLE-82060244570",
       "4CX35 SQMM FLEXIBLE TRS COPPER CABLE",
       82060244570,
-      "cable"
+      "CABLE"
     ],
     [
       "4CX70 SQMM CU ARMOURED PVC CABLE-82008206510",
       "4CX70 SQMM CU ARMOURED PVC CABLE",
       82008206510,
-      "cable"
+      "CABLE"
     ],
     [
       "4C X 95 MM2 POWER CABLE,1100V,COPPER PVC-",
       "4C X 95 MM2 POWER CABLE,1100V,COPPER PVC",
       "",
-      "cable"
+      "CABLE"
     ],
     [
       "5Cx2.5 sqmm cu. Armoured pvc cable-82004062590",
       "5Cx2.5 sqmm cu. Armoured pvc cable",
       82004062590,
-      "cable"
+      "CABLE"
     ],
     [
       "7CX 2.5 MM PVC ARMOUR COPPER CABLE 1.1KV-82003056040",
       "7CX 2.5 MM PVC ARMOUR COPPER CABLE 1.1KV",
       82003056040,
-      "cable"
+      "CABLE"
     ],
     [
       "7COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE-35004005090",
       "7COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE",
       35004005090,
-      "cable"
+      "CABLE"
     ],
     [
       "10 COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE-82003066520",
       "10 COREX2.5SQ.MMCU ARMD.PVC CTRL.CABLE",
       82003066520,
-      "cable"
+      "CABLE"
     ],
     [
       "14 CORE X 2.5 SQMM COPPER CABLE-82003067570",
       "14 CORE X 2.5 SQMM COPPER CABLE",
       82003067570,
-      "cable"
+      "CABLE"
     ],
     [
       "15CX2.5MM2 MULTIST CU. CABLE-82003067710",
       "15CX2.5MM2 MULTIST CU. CABLE",
       82003067710,
-      "cable"
+      "CABLE"
     ],
     [
       "16C X 2.5SQ.MM1.1KV CU.ARMORD PVC CABLE-35004010070",
       "16C X 2.5SQ.MM1.1KV CU.ARMORD PVC CABLE",
       35004010070,
-      "cable"
+      "CABLE"
     ],
     [
       "12PX 1.5SQ.MM1.1KV CU.ARMORD PVC CABLE-82060126050",
       "12PX 1.5SQ.MM1.1KV CU.ARMORD PVC CABLE",
       82060126050,
-      "cable"
+      "CABLE"
     ],
     [
       "24C X 2.5 SQ.MM, CONTROL CABLE-35004011570",
       "24C X 2.5 SQ.MM, CONTROL CABLE",
       35004011570,
-      "cable"
+      "CABLE"
     ],
     [
       "24CX 2.5  SQ.MM.cu-82003069020",
       "24CX 2.5  SQ.MM.cu",
       82003069020,
-      "cable"
+      "CABLE"
     ],
     [
       "16 pairX1.5 sqmm cu. Cable.-35009004080",
       "16 pairX1.5 sqmm cu. Cable.",
       35009004080,
-      "cable"
+      "CABLE"
     ],
     [
       "61CX2.5 SQMM CU. CABLE-82004069540",
       "61CX2.5 SQMM CU. CABLE",
       82004069540,
-      "cable"
+      "CABLE"
     ],
     [
       "3C X 120 SQMM COPPER WIRE-",
       "3C X 120 SQMM COPPER WIRE",
       "",
-      "cable"
+      "CABLE"
     ],
     [
       "3.5C X 120 SQMM COPPER WIRE-82008205630",
       "3.5C X 120 SQMM COPPER WIRE",
       82008205630,
-      "cable"
+      "CABLE"
     ],
     [
       "4C X 25MM2 POWER CABLE,1100V,COPPER PVC-82002201090",
       "4C X 25MM2 POWER CABLE,1100V,COPPER PVC",
       82002201090,
-      "cable"
+      "CABLE"
     ],
     [
       "25 SQ.MM FLEX.CABLE WITH EPR RUBBER INS.-82060283090",
       "25 SQ.MM FLEX.CABLE WITH EPR RUBBER INS.",
       82060283090,
-      "cable"
+      "CABLE"
     ],
     [
       "FLEX.CABLE INS.EITH EPR/SI RUBB.50MM SQ.-82060282040",
       "FLEX.CABLE INS.EITH EPR/SI RUBB.50MM SQ.",
       null,
-      "cable"
+      "CABLE"
     ],
     [
       "2.5 SQMM FIBREGLASS COPPER WIRE-82006030160",
       "2.5 SQMM FIBREGLASS COPPER WIRE",
       82006030160,
-      "cable"
-    ],
-    [
-      "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE-82001114090",
-      "4CX35 SQMM PVC INS./SHEATH ARMD.AL.CABLE",
-      82001114090,
-      "cable"
+      "CABLE"
     ],
     [
       "720KW,ILA7632-4,1500RPM,6.6KV COMP.MOTOR-75401015019",
       "720KW,ILA7632-4,1500RPM,6.6KV COMP.MOTOR",
       75401015019,
-      "motor"
+      "MOTOR"
     ],
     [
       "667 kw,6.6 kv,2975,ILA7634-75401015050",
       "667 kw,6.6 kv,2975,ILA7634",
       75401015050,
-      "motor"
+      "MOTOR"
     ],
     [
       "667KW,6.6KV,2975 RPM,FRAME-ILA7634-75401015059",
       "667KW,6.6KV,2975 RPM,FRAME-ILA7634",
       75401015059,
-      "motor"
+      "MOTOR"
     ],
     [
       "450KW,6.6KV,F-AVMN 560L4-75515000090",
       "450KW,6.6KV,F-AVMN 560L4",
       75515000090,
-      "motor"
+      "MOTOR"
     ],
     [
       "421 kw 6.6 kv 710f596rpm comp. motor-74154007590",
       "421 kw 6.6 kv 710f596rpm comp. motor",
       74154007590,
-      "motor"
+      "MOTOR"
     ],
     [
       "375KW,6.6KV,FR.355,1485RPM,B3 MOTOR-75505030529",
       "375KW,6.6KV,FR.355,1485RPM,B3 MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "280KW,6.6KV,FR.D355,1480RPM,B3 MOTOR-75402001400",
       "280KW,6.6KV,FR.D355,1480RPM,B3 MOTOR",
       75402001400,
-      "motor"
+      "MOTOR"
     ],
     [
       "275KW,6.6KV,FR.355,990RPM,B3 MOTOR-75505030519",
       "275KW,6.6KV,FR.355,990RPM,B3 MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "250 KW, 450L Frame, 4 pole motor-74436002029",
       "250 KW, 450L Frame, 4 pole motor",
       74436002029,
-      "motor"
+      "MOTOR"
     ],
     [
       "220 KW VFD APPLICATION MOTOR-75601060070",
       "220 KW VFD APPLICATION MOTOR",
       75601060070,
-      "motor"
+      "MOTOR"
     ],
     [
       "220KW,415V,1486RPM-74449191020",
       "220KW,415V,1486RPM",
       74449191020,
-      "motor"
+      "MOTOR"
     ],
     [
       "200 KW,315L,1486 RPM,B3 MTG-74144020000",
       "200 KW,315L,1486 RPM,B3 MTG",
       74144020000,
-      "motor"
+      "MOTOR"
     ],
     [
       "180 KW,315L,1486 RPM,B3 MTG-75415030050",
       "180 KW,315L,1486 RPM,B3 MTG",
       75415030050,
-      "motor"
+      "MOTOR"
     ],
     [
       "132 KW,1500 RPM,B3 MOUNTING COMP.MOTOR-74136027040",
       "132 KW,1500 RPM,B3 MOUNTING COMP.MOTOR",
       74136027040,
-      "motor"
+      "MOTOR"
     ],
     [
       "110KW,FR-315ML,RPM- 1480,B3 MOTOR-74447391200",
       "110KW,FR-315ML,RPM- 1480,B3 MOTOR",
       74447391200,
-      "motor"
+      "MOTOR"
     ],
     [
       "110 KW 315S 1482 RPM MOTOR-74447390040",
       "110 KW 315S 1482 RPM MOTOR",
       74447390040,
-      "motor"
+      "MOTOR"
     ],
     [
       "100 KW AMW 315S4,-74165006180",
       "100 KW AMW 315S4,",
       74165006180,
-      "motor"
+      "MOTOR"
     ],
     [
       "90 KW,280 S/M,1486 RPM,B3 MTG-74130000020",
       "90 KW,280 S/M,1486 RPM,B3 MTG",
       74130000020,
-      "motor"
+      "MOTOR"
     ],
     [
       "90 KW,315S/M,1486 RPM,B3 MTG-74130001060",
       "90 KW,315S/M,1486 RPM,B3 MTG",
       74130001060,
-      "motor"
+      "MOTOR"
     ],
     [
       "75 KW ,315S/M VSD MOTOR-75601035030",
       "75 KW ,315S/M VSD MOTOR",
       75601035030,
-      "motor"
+      "MOTOR"
     ],
     [
       "75KW,FS:280SM,1500 RPM,COMPRESSOR MOTOR-74128025030",
       "75KW,FS:280SM,1500 RPM,COMPRESSOR MOTOR",
       74128025030,
-      "motor"
+      "MOTOR"
     ],
     [
       "75KW FR.M2BA-74128025031",
       "75KW FR.M2BA",
       74128025031,
-      "motor"
+      "MOTOR"
     ],
     [
       "55KW,1500RPM,3PH.415V INDUCTION MOTOR-74101025040",
       "55KW,1500RPM,3PH.415V INDUCTION MOTOR",
       74101025040,
-      "motor"
+      "MOTOR"
     ],
     [
       "55 KW 1475 RPM 250M-73542001200",
       "55 KW 1475 RPM 250M",
       73542001200,
-      "motor"
+      "MOTOR"
     ],
     [
       "45 KW,225S,1480 RPM,B3,415V-74124030030",
       "45 KW,225S,1480 RPM,B3,415V",
       74124030030,
-      "motor"
+      "MOTOR"
     ],
     [
       "45 KW 78A,3000 RPM-74124012520",
       "45 KW 78A,3000 RPM",
       74124012520,
-      "motor"
+      "MOTOR"
     ],
     [
       "45KW,250M,1485RPM,-74124035081",
       "45KW,250M,1485RPM,",
       74124035081,
-      "motor"
+      "MOTOR"
     ],
     [
       "37KW FRAME:2-74316010030",
       "37KW FRAME:2",
       74316010030,
-      "motor"
+      "MOTOR"
     ],
     [
       "37KW,250M,980 RPM FLAME PROOF MOTOR-73507022000",
       "37KW,250M,980 RPM FLAME PROOF MOTOR",
       73507022000,
-      "motor"
+      "MOTOR"
     ],
     [
       "37KW,225S,1470 RPM FLAME PROOF MOTOR-73555002000",
       "37KW,225S,1470 RPM FLAME PROOF MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "37KW,225S FRAME,1500 RPM,LT IND.MOTOR-73555020030",
       "37KW,225S FRAME,1500 RPM,LT IND.MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "30 kw,200L,1000 RPM-73561000040",
       "30 kw,200L,1000 RPM",
       73561000040,
-      "motor"
+      "MOTOR"
     ],
     [
       "30KW, 1471RPM, V6,-73538000020",
       "30KW, 1471RPM, V6,",
       73538000020,
-      "motor"
+      "MOTOR"
     ],
     [
       "30 KW 1470RPM 415V-26504106110",
       "30 KW 1470RPM 415V",
       26504106110,
-      "motor"
+      "MOTOR"
     ],
     [
       "30KW,200L,1480RPM FLAME PROOF MOTOR-74830012000",
       "30KW,200L,1480RPM FLAME PROOF MOTOR",
       74830012000,
-      "motor"
+      "MOTOR"
     ],
     [
       "22 KW ,1470rpm, VFD MOTOR,180L-75601003040",
       "22 KW ,1470rpm, VFD MOTOR,180L",
       75601003040,
-      "motor"
+      "MOTOR"
     ],
     [
       "22KW MOTOR,FR:180L, 4 POLE,B3 MTG-73571000090",
       "22KW MOTOR,FR:180L, 4 POLE,B3 MTG",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "18.5KW,1455RPM,B3,-74415005000",
       "18.5KW,1455RPM,B3,",
       74415005000,
-      "motor"
+      "MOTOR"
     ],
     [
       "INDUCTION MOTOR 18.5KW,180M/L,4P,V6 MTG-74415015030",
       "INDUCTION MOTOR 18.5KW,180M/L,4P,V6 MTG",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "15KW,415V,1475 RPM,180M FRAME,IMB3 MOTOR-34301122080",
       "15KW,415V,1475 RPM,180M FRAME,IMB3 MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "3PH,AC,415V,11KW 1450RPM B3 MOUNTING ,F*-74114015070",
       "3PH,AC,415V,11KW 1450RPM B3 MOUNTING ,F*",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "11.5 KM siren-99995005130",
       "11.5 KM siren",
       99995005130,
-      "motor"
+      "MOTOR"
     ],
     [
       "7.5KW,1500 RPM,132M FRAME,SQL.IND.MOTOR-74442102000",
       "7.5KW,1500 RPM,132M FRAME,SQL.IND.MOTOR",
       74442102000,
-      "motor"
+      "MOTOR"
     ],
     [
       "7.5 kw -74435000050",
       "7.5 kw",
       74435000050,
-      "motor"
+      "MOTOR"
     ],
     [
       "5.5KW,FRAME 132SM,-74101010050",
       "5.5KW,FRAME 132SM,",
       74101010050,
-      "motor"
+      "MOTOR"
     ],
     [
       "5.5 kw 132M, 960 rpm,s3 duty,B3-74406003190",
       "5.5 kw 132M, 960 rpm,s3 duty,B3",
       74406003190,
-      "motor"
+      "MOTOR"
     ],
     [
       "5.5KW,132M,950 RPM FLAME PROOF MOTOR-74406002000",
       "5.5KW,132M,950 RPM FLAME PROOF MOTOR",
       74406002000,
-      "motor"
+      "MOTOR"
     ],
     [
       "5.5 KW,1500 RPM,B3 MOUNT.LT IND.MOTOR-74101015010",
       "5.5 KW,1500 RPM,B3 MOUNT.LT IND.MOTOR",
       74101015010,
-      "motor"
+      "MOTOR"
     ],
     [
       "5.5 KW, FS-132M, 1500 RPM, B3, MOTOR-74406003020",
       "5.5 KW, FS-132M, 1500 RPM, B3, MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "3PH,AC,415V,5.5KW,1440 RPM,FS:1325SMB4,*-74101010060",
       "3PH,AC,415V,5.5KW,1440 RPM,FS:1325SMB4,*",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "3.7KW,112M,1480RPM FLAME PROOF MOTOR-74422112000",
       "3.7KW,112M,1480RPM FLAME PROOF MOTOR",
       74422112000,
-      "motor"
+      "MOTOR"
     ],
     [
       "2.2KW 1415RPM MOTOR,FRAME:100L 415V 50HZ-73542001680",
       "2.2KW 1415RPM MOTOR,FRAME:100L 415V 50HZ",
       73542001680,
-      "motor"
+      "MOTOR"
     ],
     [
       "2.2KW,FRAME-134TC,RPM-2930,B35 MTG-74457000080",
       "2.2KW,FRAME-134TC,RPM-2930,B35 MTG",
       74457000080,
-      "motor"
+      "MOTOR"
     ],
     [
       "1.5 kw 100L,BBL-74406003710",
       "1.5 kw 100L,BBL",
       74406003710,
-      "motor"
+      "MOTOR"
     ],
     [
       "TEFC SQ CAGE KEC 3PH.AC IND.MOTOR 1.5KW-74603000020",
       "TEFC SQ CAGE KEC 3PH.AC IND.MOTOR 1.5KW",
       74603000020,
-      "motor"
+      "MOTOR"
     ],
     [
       "3.DIA INDUCTION MOTOR 1.5KW,415V,1435RPM-74901082560",
       "3.DIA INDUCTION MOTOR 1.5KW,415V,1435RPM",
       74901082560,
-      "motor"
+      "MOTOR"
     ],
     [
       "LOP Motor Comp-701,702,184 TC-7445700080",
       "LOP Motor Comp-701,702,184 TC",
       7445700080,
-      "motor"
+      "MOTOR"
     ],
     [
       "Atlas copco 1-ph dryer motor-74124026240",
       "Atlas copco 1-ph dryer motor",
       74124026240,
-      "motor"
+      "MOTOR"
     ],
     [
       "T/ B COVER FOR NGE-74199037150",
       "T/ B COVER FOR NGE",
       74199037150,
-      "motor"
+      "MOTOR"
     ],
     [
       "TRMNL.BOX+SCREWS,HFO PUMP:30-PA-GR-849-72962001070",
       "TRMNL.BOX+SCREWS,HFO PUMP:30-PA-GR-849",
       72962001070,
-      "motor"
+      "MOTOR"
     ],
     [
       "TERMINAL BLOCK FOR MOTOR 280KW     FRAME-75402010340",
       "TERMINAL BLOCK FOR MOTOR 280KW     FRAME",
       75402010340,
-      "motor"
+      "MOTOR"
     ],
     [
       "CABLE ENTRY PLATE-NGEF MOTOR,FS:AMW 250-74126001960",
       "CABLE ENTRY PLATE-NGEF MOTOR,FS:AMW 250",
       74126001960,
-      "motor"
+      "MOTOR"
     ],
     [
       "TRMNL.BOX+SCREWS,HFO PUMP-30-PA-GR-851-72962011000",
       "TRMNL.BOX+SCREWS,HFO PUMP-30-PA-GR-851",
       72962011000,
-      "motor"
+      "MOTOR"
     ],
     [
       "EMERGENCY ALARM SYS.<SIREN>-82422026000",
       "EMERGENCY ALARM SYS.<SIREN>",
       82422026000,
-      "motor"
+      "MOTOR"
     ],
     [
       "Industrial Siren, 3phase,Range- 11.5KM-99995005130",
       "Industrial Siren, 3phase,Range- 11.5KM",
       99995005130,
-      "motor"
+      "MOTOR"
     ],
     [
       "15 kw,180L-74422201680",
       "15 kw,180L",
       74422201680,
-      "motor"
+      "MOTOR"
     ],
     [
       "83kw-74443080100",
       "83kw",
       74443080100,
-      "motor"
+      "MOTOR"
     ],
     [
       "LT Battery ABCD old-74901060080",
       "LT Battery ABCD old",
       74901060080,
-      "motor"
+      "MOTOR"
     ],
     [
       "3.7KW,112M,1480RPM-74422111040",
       "3.7KW,112M,1480RPM",
       74422111040,
-      "motor"
+      "MOTOR"
     ],
     [
       "0.75KW 4P,FRAME80,V1-74429001200",
       "0.75KW 4P,FRAME80,V1",
       74429001200,
-      "motor"
+      "MOTOR"
     ],
     [
       "0.75KW 4P,80 FRAME,B5-74901061210",
       "0.75KW 4P,80 FRAME,B5",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "0.37 KW FRAME:80 RPM:910 DUTY: S3 B5 MO*-74406003570",
       "0.37 KW FRAME:80 RPM:910 DUTY: S3 B5 MO*",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "22 kw 2 pole-73547000020",
       "22 kw 2 pole",
       73547000020,
-      "motor"
+      "MOTOR"
     ],
     [
       "3.7 kw-74499450020",
       "3.7 kw",
       74499450020,
-      "motor"
+      "MOTOR"
     ],
     [
       "Monoblock Pump 1  HP-72893000010",
       "Monoblock Pump 1  HP",
       72893000010,
-      "motor"
+      "MOTOR"
     ],
     [
       "Hypo transfer pump-15610011230",
       "Hypo transfer pump",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "SLEEVE BEARING  100 DIA FOR COMP. MOTOR-75401001000",
       "SLEEVE BEARING  100 DIA FOR COMP. MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "SLEEVE BEARING  85 DIA FOR COMP. MOTOR-75401001010",
       "SLEEVE BEARING  85 DIA FOR COMP. MOTOR",
       null,
-      "motor"
+      "MOTOR"
     ],
     [
       "MONOBLOC PUMP 1 H.P-72893000010",
       "MONOBLOC PUMP 1 H.P",
       72893000010,
-      "motor"
+      "MOTOR"
     ],
     [
       "FLAME PROOF MONO BLOC PUMP 0.5HP-72893000040",
       "FLAME PROOF MONO BLOC PUMP 0.5HP",
       72893000040,
-      "motor"
+      "MOTOR"
     ],
     [
       "MATERIAL-CODE",
