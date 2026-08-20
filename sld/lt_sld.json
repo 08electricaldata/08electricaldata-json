@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:01:42.782Z",
+  "updated": "2026-08-20T07:03:37.784Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -1979,8 +1979,8 @@
             "section": "2",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "TANKAGE-A-148",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
@@ -2168,8 +2168,8 @@
           "section": "2",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "TANKAGE-A-148",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
