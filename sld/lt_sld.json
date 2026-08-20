@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:59:27.848Z",
+  "updated": "2026-08-20T07:01:28.282Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -1941,7 +1941,7 @@
             "section": "1",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "",
+            "driveid": "TANKAGE-A-147",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -1966,7 +1966,7 @@
             "level": "C",
             "feederType": "INCOMER",
             "driveid": "",
-            "DriveType": "",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
@@ -1984,7 +1984,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "2B",
@@ -2118,7 +2118,7 @@
             "level": "B",
             "feederType": "INCOMER",
             "driveid": "",
-            "DriveType": "",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
@@ -2132,7 +2132,7 @@
           "section": "1",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "",
+          "driveid": "TANKAGE-A-147",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2157,7 +2157,7 @@
           "level": "C",
           "feederType": "INCOMER",
           "driveid": "",
-          "DriveType": "",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
@@ -2173,7 +2173,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "2B",
@@ -2301,7 +2301,7 @@
           "level": "B",
           "feederType": "INCOMER",
           "driveid": "",
-          "DriveType": "",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
