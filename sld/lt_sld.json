@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T02:29:30.630Z",
+  "updated": "2026-08-21T02:34:22.307Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -1995,7 +1995,7 @@
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "BUS",
             "status": "OFF"
           },
           {
@@ -2007,7 +2007,7 @@
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "BUS",
             "status": "OFF"
           }
         ],
@@ -2017,36 +2017,36 @@
             "section": "3",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "SPARE DOL  OF AGI-147/148",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "3B",
             "section": "3",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "SPARE DOL OF SP-217",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "3C",
             "section": "3",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "",
+            "driveid": "CONTROL TRANSFORMER",
             "DriveType": "CONTROL-TRANSFORMER",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           }
         ],
         "4": [
@@ -2055,48 +2055,48 @@
             "section": "4",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "SPARE 63A SFU",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "4B",
             "section": "4",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "Dilute Acid Tank agitator 150",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "4C",
             "section": "4",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "SPARE DOL 3.7KW",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "4D",
             "section": "4",
             "level": "D",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "TANKAGE-SP-217",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           }
         ],
         "5": [
@@ -2105,24 +2105,24 @@
             "section": "5",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "SPARE DOL",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "5B",
             "section": "5",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "",
+            "driveid": "Breaker-US-10-MCC2-358-PMCC-313",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "Breaker-US-10-MCC2-358-PMCC-313",
+            "status": "OFF"
           }
         ]
       },
@@ -2184,7 +2184,7 @@
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "BUS",
           "status": "OFF"
         },
         {
@@ -2196,7 +2196,7 @@
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "BUS",
           "status": "OFF"
         },
         {
@@ -2204,108 +2204,108 @@
           "section": "3",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "SPARE DOL  OF AGI-147/148",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "3B",
           "section": "3",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "SPARE DOL OF SP-217",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "3C",
           "section": "3",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "",
+          "driveid": "CONTROL TRANSFORMER",
           "DriveType": "CONTROL-TRANSFORMER",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "4A",
           "section": "4",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "SPARE 63A SFU",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "4B",
           "section": "4",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "Dilute Acid Tank agitator 150",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "4C",
           "section": "4",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "SPARE DOL 3.7KW",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "4D",
           "section": "4",
           "level": "D",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "TANKAGE-SP-217",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "5A",
           "section": "5",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "SPARE DOL",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "5B",
           "section": "5",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "",
+          "driveid": "Breaker-US-10-MCC2-358-PMCC-313",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "Breaker-US-10-MCC2-358-PMCC-313",
+          "status": "OFF"
         }
       ]
     },
