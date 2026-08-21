@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T02:24:53.509Z",
+  "updated": "2026-08-21T02:26:45.556Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -1970,7 +1970,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "Breaker-US-10-MCC1-358-PMCC-313",
-            "status": ""
+            "status": "ON"
           }
         ],
         "2": [
@@ -1991,24 +1991,24 @@
             "section": "2",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "Dilute Acid Tank agitator 149",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "2C",
             "section": "2",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "TANKAGE-P-202",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "3": [
@@ -2161,7 +2161,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "Breaker-US-10-MCC1-358-PMCC-313",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "2A",
@@ -2180,24 +2180,24 @@
           "section": "2",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "Dilute Acid Tank agitator 149",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "2C",
           "section": "2",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "TANKAGE-P-202",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "3A",
