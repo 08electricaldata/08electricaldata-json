@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:48:59.444Z",
+  "updated": "2026-08-21T12:18:38.650Z",
   "headers": [
     "CONTACTOR(3)",
     "fuse(202)",
@@ -1028,6 +1028,24 @@
       "CABLE"
     ],
     [
+      "PVC INSULATED 1CX1.5MM2 COPPER WIRE-82006004000",
+      "PVC INSULATED 1CX1.5MM2 COPPER WIRE",
+      82006004000,
+      "CABLE"
+    ],
+    [
+      "1C X 1.5 SQMM MULTISTRAND COPPER CABLE-82006003050",
+      "1C X 1.5 SQMM MULTISTRAND COPPER CABLE",
+      82006003050,
+      "CABLE"
+    ],
+    [
+      "1.5 SQMM FIBREGLASS-82089203220",
+      "1.5 SQMM FIBREGLASS",
+      82089203220,
+      "CABLE"
+    ],
+    [
       "1.5 SQMM PVC INSUL multi strand cu twin -82088005090",
       "1.5 SQMM PVC INSUL multi strand cu twin",
       82088005090,
@@ -1313,24 +1331,6 @@
       "2.5 SQMM FIBREGLASS COPPER WIRE-82006030160",
       "2.5 SQMM FIBREGLASS COPPER WIRE",
       82006030160,
-      "CABLE"
-    ],
-    [
-      "PVC INSULATED 1CX1.5MM2 COPPER WIRE-82006004000",
-      "PVC INSULATED 1CX1.5MM2 COPPER WIRE",
-      82006004000,
-      "CABLE"
-    ],
-    [
-      "1C X 1.5 SQMM MULTISTRAND COPPER CABLE-82006003050",
-      "1C X 1.5 SQMM MULTISTRAND COPPER CABLE",
-      82006003050,
-      "CABLE"
-    ],
-    [
-      "1.5 SQMM FIBREGLASS-82089203220",
-      "1.5 SQMM FIBREGLASS",
-      82089203220,
       "CABLE"
     ],
     [
