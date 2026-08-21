@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:03:54.582Z",
+  "updated": "2026-08-21T02:24:53.509Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -1953,23 +1953,23 @@
             "section": "1",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "",
-            "DriveType": "",
+            "driveid": "SPARE 250A SFU ",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "OFF"
           },
           {
             "position": "1C",
             "section": "1",
             "level": "C",
             "feederType": "INCOMER",
-            "driveid": "",
+            "driveid": "INCOMER-1",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "Breaker-US-10-MCC1-358-PMCC-313",
             "status": ""
           }
         ],
@@ -1983,7 +1983,7 @@
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "BUS",
             "status": "ON"
           },
           {
@@ -2144,23 +2144,23 @@
           "section": "1",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "",
-          "DriveType": "",
+          "driveid": "SPARE 250A SFU ",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "OFF"
         },
         {
           "position": "1C",
           "section": "1",
           "level": "C",
           "feederType": "INCOMER",
-          "driveid": "",
+          "driveid": "INCOMER-1",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "Breaker-US-10-MCC1-358-PMCC-313",
           "status": ""
         },
         {
@@ -2172,7 +2172,7 @@
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "BUS",
           "status": "ON"
         },
         {
