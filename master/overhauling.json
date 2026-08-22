@@ -1,6 +1,6 @@
 {
   "sheetName": "O/H PENDING",
-  "updated": "2026-08-22T11:57:20.043Z",
+  "updated": "2026-08-22T12:57:21.743Z",
   "totalRecords": 25,
   "data": [
     {
@@ -112,24 +112,6 @@
       "rowNumber": 7
     },
     {
-      "W.O No": "328/11.08.26",
-      "kW": "55",
-      "Make": "MARATHON",
-      "Frame Size": "D250M",
-      "Mounting": "B3",
-      "RPM": "1470",
-      "Sl No": "NA",
-      "Voltage": "415",
-      "Equipment details": "P-1141A",
-      "Area": "08",
-      "Storage": "O/H",
-      "Remarks": "B.MURMU",
-      "Motor Location\nUpdate On": "PULLEY TO BE REMOVED.",
-      "Job Completion Date": "UP",
-      "PRIORITY": 3,
-      "rowNumber": 8
-    },
-    {
       "W.O No": "127/19.05.26",
       "kW": "45",
       "Make": "CG",
@@ -144,8 +126,8 @@
       "Remarks": "M BARIK",
       "Motor Location\nUpdate On": "UNBALANCE STATOR RESISTANCE R-116.6 Y-116.7 B-99.1 OHM. NEEDS R/W",
       "Job Completion Date": "PENDING",
-      "PRIORITY": 2,
-      "rowNumber": 9
+      "PRIORITY": 3,
+      "rowNumber": 8
     },
     {
       "W.O No": "199/17.06.26",
@@ -162,26 +144,8 @@
       "Remarks": "B.MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 3,
-      "rowNumber": 10
-    },
-    {
-      "W.O No": "338/14.08.26",
-      "kW": "22",
-      "Make": "SIEMENS",
-      "Frame Size": "180L",
-      "Mounting": "B3",
-      "RPM": "1455",
-      "Sl No": "N8/475744",
-      "Voltage": "415",
-      "Equipment details": "BAT-G P-915",
-      "Area": "08",
-      "Storage": "O/H",
-      "Remarks": "M BARIK",
-      "Motor Location\nUpdate On": "ABNORMAL SOUND FROM BOTH END",
-      "Job Completion Date": "UP",
-      "PRIORITY": 3,
-      "rowNumber": 11
+      "PRIORITY": 2,
+      "rowNumber": 9
     },
     {
       "W.O No": "090/29.04.26",
@@ -199,7 +163,7 @@
       "Motor Location\nUpdate On": "WITH PULLY",
       "Job Completion Date": "UP",
       "PRIORITY": 3,
-      "rowNumber": 12
+      "rowNumber": 10
     },
     {
       "W.O No": "893/14.03.25",
@@ -217,7 +181,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "UP",
       "PRIORITY": 3,
-      "rowNumber": 13
+      "rowNumber": 11
     },
     {
       "W.O No": "312/04.08.26",
@@ -234,8 +198,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "BEARING SEIZED",
       "Job Completion Date": "NS",
-      "PRIORITY": 4,
-      "rowNumber": 14
+      "PRIORITY": 3,
+      "rowNumber": 12
     },
     {
       "W.O No": "657/05.01.26",
@@ -252,8 +216,8 @@
       "Remarks": "B.MURMU",
       "Motor Location\nUpdate On": "COUPLING  TO BE REMOVED.DE GREASE-CUP OUTER RING CRACKED.",
       "Job Completion Date": "PENDING",
-      "PRIORITY": 2,
-      "rowNumber": 15
+      "PRIORITY": 3,
+      "rowNumber": 13
     },
     {
       "W.O No": "574/01.12.25",
@@ -270,8 +234,8 @@
       "Remarks": "R C SETHY",
       "Motor Location\nUpdate On": "BEARING SEIZED.02.12.25.DE ROTOR,INNER &OUTER GREASE CUP AND DISC WORN OUT(04.12.25). DELMET IV LOT",
       "Job Completion Date": "PENDING",
-      "PRIORITY": 2,
-      "rowNumber": 16
+      "PRIORITY": 4,
+      "rowNumber": 14
     },
     {
       "W.O No": "382/04.09.19",
@@ -288,8 +252,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "UP",
-      "PRIORITY": 1,
-      "rowNumber": 17
+      "PRIORITY": 2,
+      "rowNumber": 15
     },
     {
       "W.O No": "467/12.10.21",
@@ -306,8 +270,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 1,
-      "rowNumber": 18
+      "PRIORITY": 2,
+      "rowNumber": 16
     },
     {
       "W.O No": "896/19.03.18",
@@ -324,8 +288,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "ROTOR SHAFT SHEARED",
       "Job Completion Date": "NS",
-      "PRIORITY": 2,
-      "rowNumber": 19
+      "PRIORITY": 1,
+      "rowNumber": 17
     },
     {
       "W.O No": "259/06.08.21",
@@ -343,7 +307,7 @@
       "Motor Location\nUpdate On": "ROTOR SHAFT WORN OUT",
       "Job Completion Date": "NS",
       "PRIORITY": 1,
-      "rowNumber": 20
+      "rowNumber": 18
     },
     {
       "W.O No": "457/08.10.21",
@@ -361,7 +325,7 @@
       "Motor Location\nUpdate On": "FOOT TO BE REPAIRED",
       "Job Completion Date": "NS",
       "PRIORITY": 2,
-      "rowNumber": 21
+      "rowNumber": 19
     },
     {
       "W.O No": "762/01.03.23",
@@ -379,7 +343,7 @@
       "Motor Location\nUpdate On": "BROKEN SHAFT REPAIRED BY DELMET",
       "Job Completion Date": "UP",
       "PRIORITY": 1,
-      "rowNumber": 22
+      "rowNumber": 20
     },
     {
       "W.O No": "165/10.06.23",
@@ -396,8 +360,8 @@
       "Remarks": "R C SETY",
       "Motor Location\nUpdate On": "BRAKE ASSEMBLY DAMAGED(LOC-C6,CORRIDOR)",
       "Job Completion Date": "NS",
-      "PRIORITY": 3,
-      "rowNumber": 23
+      "PRIORITY": 2,
+      "rowNumber": 21
     },
     {
       "W.O No": "231/30.07.21",
@@ -415,7 +379,7 @@
       "Motor Location\nUpdate On": "FAN TO BE REPLACED",
       "Job Completion Date": "NS",
       "PRIORITY": 1,
-      "rowNumber": 24
+      "rowNumber": 22
     },
     {
       "W.O No": "616/03.01.23",
@@ -432,8 +396,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "FOOT DAMAGED",
       "Job Completion Date": "NS",
-      "PRIORITY": 4,
-      "rowNumber": 25
+      "PRIORITY": 3,
+      "rowNumber": 23
     },
     {
       "W.O No": "164/10.06.23",
@@ -450,6 +414,42 @@
       "Remarks": "R C SETY",
       "Motor Location\nUpdate On": "BRAKE ASSEMBLY DAMAGED",
       "Job Completion Date": "NS",
+      "PRIORITY": 1,
+      "rowNumber": 24
+    },
+    {
+      "W.O No": "",
+      "kW": "",
+      "Make": "",
+      "Frame Size": "",
+      "Mounting": "",
+      "RPM": "",
+      "Sl No": "",
+      "Voltage": "",
+      "Equipment details": "",
+      "Area": "",
+      "Storage": "",
+      "Remarks": "",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "",
+      "PRIORITY": 4,
+      "rowNumber": 25
+    },
+    {
+      "W.O No": "",
+      "kW": "",
+      "Make": "",
+      "Frame Size": "",
+      "Mounting": "",
+      "RPM": "",
+      "Sl No": "",
+      "Voltage": "",
+      "Equipment details": "",
+      "Area": "",
+      "Storage": "",
+      "Remarks": "",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "",
       "PRIORITY": 3,
       "rowNumber": 26
     }
