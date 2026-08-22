@@ -1,7 +1,7 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-08-22T11:57:18.429Z",
-  "totalRecords": 45,
+  "updated": "2026-08-22T12:57:20.545Z",
+  "totalRecords": 46,
   "data": [
     {
       "W.O No": "455/21.09.20",
@@ -812,6 +812,24 @@
       "Job Completion Date": "PENDING",
       "PRIORITY": 1,
       "rowNumber": 46
+    },
+    {
+      "W.O No": "352/21.08.26",
+      "kW": "75",
+      "Make": "MARATHON",
+      "Frame Size": "D280S",
+      "Mounting": "B3",
+      "RPM": "1480",
+      "Sl No": "285620220001",
+      "Voltage": "415",
+      "Equipment details": "F1001C",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "B MURMU",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 47
     }
   ]
 }
