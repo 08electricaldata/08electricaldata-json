@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T11:45:54.942Z",
+  "updated": "2026-08-22T11:51:01.191Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -1965,7 +1965,7 @@
             "section": "1",
             "level": "C",
             "feederType": "INCOMER",
-            "driveid": "US-10-MCC1-357-PMCC-313",
+            "driveid": "Breaker-US-10-MCC1-357-PMCC-313",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
@@ -2160,7 +2160,57 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
+          }
+        ],
+        "7": [
+          {
+            "position": "7A",
+            "section": "7",
+            "level": "A",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE SFU 250A",
+            "DriveType": "SFU",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "BUS",
+            "status": "OFF"
+          },
+          {
+            "position": "7B",
+            "section": "7",
+            "level": "B",
+            "feederType": "OUTGOING",
+            "driveid": "INST SUPPLY SFU 63A",
+            "DriveType": "SFU",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "BUS",
+            "status": "OFF"
+          },
+          {
+            "position": "7C",
+            "section": "7",
+            "level": "C",
+            "feederType": "OUTGOING",
+            "driveid": "",
+            "DriveType": "DOL",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "BUS",
+            "status": "OFF"
+          },
+          {
+            "position": "7D",
+            "section": "7",
+            "level": "D",
+            "feederType": "INCOMER",
+            "driveid": "Breaker-US-10-MCC2-357-PMCC-313",
+            "DriveType": "SFU",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "Breaker-US-10-MCC2-358-PMCC-313",
+            "status": "ON"
           }
         ]
       },
@@ -2194,7 +2244,7 @@
           "section": "1",
           "level": "C",
           "feederType": "INCOMER",
-          "driveid": "US-10-MCC1-357-PMCC-313",
+          "driveid": "Breaker-US-10-MCC1-357-PMCC-313",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
@@ -2379,7 +2429,55 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
+        },
+        {
+          "position": "7A",
+          "section": "7",
+          "level": "A",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE SFU 250A",
+          "DriveType": "SFU",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "BUS",
+          "status": "OFF"
+        },
+        {
+          "position": "7B",
+          "section": "7",
+          "level": "B",
+          "feederType": "OUTGOING",
+          "driveid": "INST SUPPLY SFU 63A",
+          "DriveType": "SFU",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "BUS",
+          "status": "OFF"
+        },
+        {
+          "position": "7C",
+          "section": "7",
+          "level": "C",
+          "feederType": "OUTGOING",
+          "driveid": "",
+          "DriveType": "DOL",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "BUS",
+          "status": "OFF"
+        },
+        {
+          "position": "7D",
+          "section": "7",
+          "level": "D",
+          "feederType": "INCOMER",
+          "driveid": "Breaker-US-10-MCC2-357-PMCC-313",
+          "DriveType": "SFU",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "Breaker-US-10-MCC2-358-PMCC-313",
+          "status": "ON"
         }
       ]
     },
