@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:45:24.013Z",
+  "updated": "2026-08-23T16:47:04.474Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -845,7 +845,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "26B",
@@ -857,7 +857,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           }
         ]
       },
@@ -1652,7 +1652,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "26B",
@@ -1664,7 +1664,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         }
       ]
     },
