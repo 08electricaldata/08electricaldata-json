@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:56:20.962Z",
+  "updated": "2026-08-23T13:58:07.551Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -302,7 +302,7 @@
             "section": "9",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "Breaker-US-10-MCC2-358-PMCC-313",
+            "driveid": "MCC-358 INCOMER-2 <Breaker-US-10-MCC2-358-PMCC-313>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -328,7 +328,7 @@
             "section": "10",
             "level": "B",
             "feederType": "BUS_COUPLER",
-            "driveid": "Breaker-US-10-BC1-PMCC-313",
+            "driveid": "BUS COUPLER-1 <Breaker-US-10-BC1-PMCC-313>",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
@@ -1239,7 +1239,7 @@
           "section": "9",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "Breaker-US-10-MCC2-358-PMCC-313",
+          "driveid": "MCC-358 INCOMER-2 <Breaker-US-10-MCC2-358-PMCC-313>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
@@ -1263,7 +1263,7 @@
           "section": "10",
           "level": "B",
           "feederType": "BUS_COUPLER",
-          "driveid": "Breaker-US-10-BC1-PMCC-313",
+          "driveid": "BUS COUPLER-1 <Breaker-US-10-BC1-PMCC-313>",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
