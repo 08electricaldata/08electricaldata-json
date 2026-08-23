@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T13:48:18.104Z",
+  "updated": "2026-08-23T13:49:14.275Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -10,7 +10,7 @@
             "section": "1",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE area P-211 (SFU 250A ) <TANKAGE-P-211>",
+            "driveid": "TANKAGE AREA P-211 (SFU 250A ) <TANKAGE-P-211>",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
@@ -963,7 +963,7 @@
           "section": "1",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE area P-211 (SFU 250A ) <TANKAGE-P-211>",
+          "driveid": "TANKAGE AREA P-211 (SFU 250A ) <TANKAGE-P-211>",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
