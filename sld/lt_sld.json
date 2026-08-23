@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:11:37.008Z",
+  "updated": "2026-08-23T16:42:54.622Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -404,7 +404,7 @@
             "section": "12",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "Capacitor Bank ACB 600A",
+            "driveid": "Capacitor Bank 2B ACB 600A",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -415,13 +415,13 @@
             "position": "12C",
             "section": "12",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "KEY SELECTOR BOX",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "13": [
@@ -429,37 +429,37 @@
             "position": "13A",
             "section": "13",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Relay section",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "13B",
             "section": "13",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "INCOMER-1 TR-3146 <Breaker-US-10-3146-PMCC-313>",
+            "driveid": "INCOMER-2 TR-3146 <Breaker-US-10-3146-PMCC-313>",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "Transformer-3146",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "13C",
             "section": "13",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Local control switches",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "14": [
@@ -468,36 +468,24 @@
             "section": "14",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "P-205",
+            "driveid": "TANKAGE AREA P-205  <TANKAGE-P-205>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "14B",
             "section": "14",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "SFU 400A",
+            "driveid": "SPARE SFU 400A",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "14C",
-            "section": "14",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "15": [
@@ -506,36 +494,24 @@
             "section": "15",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "P-204",
+            "driveid": "TANKAGE AREA P-204  <TANKAGE-P-204>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "15B",
             "section": "15",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "313-2B-20ASB-480-I/C-1",
+            "driveid": "ASB-480-I/C-1 ACB",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "15C",
-            "section": "15",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "16": [
@@ -544,12 +520,12 @@
             "section": "16",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "P-143",
+            "driveid": "TANKAGE AREA P-143  <TANKAGE-P-143>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "16B",
@@ -561,19 +537,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "16C",
-            "section": "16",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "17": [
@@ -581,25 +545,25 @@
             "position": "17A",
             "section": "17",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control and Indication Fuses ",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "17B",
             "section": "17",
             "level": "B",
             "feederType": "BUS_COUPLER",
-            "driveid": "BUS Coupler",
+            "driveid": "BUS COUPLER-2 <Breaker-US-10-BC2-PMCC-313>",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "17C",
@@ -607,11 +571,11 @@
             "level": "C",
             "feederType": "OUTGOING",
             "driveid": "Indication & relay",
-            "DriveType": "NA",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           }
         ],
         "18": [
@@ -620,36 +584,36 @@
             "section": "18",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "Relay &Metering",
-            "DriveType": "NA",
+            "driveid": "Control and Indication Fuses  Relay &Metering",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "18B",
             "section": "18",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "313-3B-24 MCC-357 I/C-2 ACB",
+            "driveid": "MCC-357 INCOMER-2 ACB  <Breaker-US-10-MCC2-357-PMCC-313>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "18C",
             "section": "18",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "313-3B-25 MCC-358 I/C-1",
+            "driveid": "MCC-358 INCOMER-1 ACB <Breaker-US-10-MCC1-358-PMCC-313>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           }
         ],
         "19": [
@@ -658,12 +622,12 @@
             "section": "19",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "Relay & Metering",
-            "DriveType": "NA",
+            "driveid": "Control and Indication Fuses Relay & Metering",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "19B",
@@ -675,7 +639,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "19C",
@@ -687,7 +651,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "20": [
@@ -695,37 +659,37 @@
             "position": "20A",
             "section": "20",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Relay section",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "20B",
             "section": "20",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "Transformer-3147",
+            "driveid": "INCOMER-3 TR-3147 <Breaker-US-10-3147-PMCC-313>",
             "DriveType": "",
             "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "Transformer-3147",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "20C",
             "section": "20",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Local control switches",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "21": [
@@ -739,7 +703,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "21B",
@@ -751,7 +715,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "21C",
@@ -763,7 +727,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "22": [
@@ -771,37 +735,25 @@
             "position": "22A",
             "section": "22",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Relay section",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "22B",
             "section": "22",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "GL P-198",
+            "driveid": "GL P-198 <TANKAGE-P-198>",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "22C",
-            "section": "22",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "23": [
@@ -809,37 +761,25 @@
             "position": "23A",
             "section": "23",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Relay section",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "23B",
             "section": "23",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "P-199 JB",
+            "driveid": "GL P-199 <TANKAGE-P-199>",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "23C",
-            "section": "23",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "24": [
@@ -847,37 +787,25 @@
             "position": "24A",
             "section": "24",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Relay section",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "24B",
             "section": "24",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "GLP-200",
+            "driveid": "GL P-200<TANKAGE-P-200>",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "24C",
-            "section": "24",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "25": [
@@ -885,13 +813,13 @@
             "position": "25A",
             "section": "25",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Relay section",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "25B",
@@ -903,19 +831,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "25C",
-            "section": "25",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "26": [
@@ -941,18 +857,6 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
-          },
-          {
-            "position": "26C",
-            "section": "26",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
             "status": ""
           }
         ]
@@ -1335,7 +1239,7 @@
           "section": "12",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "Capacitor Bank ACB 600A",
+          "driveid": "Capacitor Bank 2B ACB 600A",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
@@ -1346,133 +1250,109 @@
           "position": "12C",
           "section": "12",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "KEY SELECTOR BOX",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "13A",
           "section": "13",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Relay section",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "13B",
           "section": "13",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "INCOMER-1 TR-3146 <Breaker-US-10-3146-PMCC-313>",
+          "driveid": "INCOMER-2 TR-3146 <Breaker-US-10-3146-PMCC-313>",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "Transformer-3146",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "13C",
           "section": "13",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Local control switches",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "14A",
           "section": "14",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "P-205",
+          "driveid": "TANKAGE AREA P-205  <TANKAGE-P-205>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "14B",
           "section": "14",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "SFU 400A",
+          "driveid": "SPARE SFU 400A",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "14C",
-          "section": "14",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "15A",
           "section": "15",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "P-204",
+          "driveid": "TANKAGE AREA P-204  <TANKAGE-P-204>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "15B",
           "section": "15",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "313-2B-20ASB-480-I/C-1",
+          "driveid": "ASB-480-I/C-1 ACB",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "15C",
-          "section": "15",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "16A",
           "section": "16",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "P-143",
+          "driveid": "TANKAGE AREA P-143  <TANKAGE-P-143>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "16B",
@@ -1484,43 +1364,31 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "16C",
-          "section": "16",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "17A",
           "section": "17",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control and Indication Fuses ",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "17B",
           "section": "17",
           "level": "B",
           "feederType": "BUS_COUPLER",
-          "driveid": "BUS Coupler",
+          "driveid": "BUS COUPLER-2 <Breaker-US-10-BC2-PMCC-313>",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "17C",
@@ -1528,59 +1396,59 @@
           "level": "C",
           "feederType": "OUTGOING",
           "driveid": "Indication & relay",
-          "DriveType": "NA",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "18A",
           "section": "18",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "Relay &Metering",
-          "DriveType": "NA",
+          "driveid": "Control and Indication Fuses  Relay &Metering",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "18B",
           "section": "18",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "313-3B-24 MCC-357 I/C-2 ACB",
+          "driveid": "MCC-357 INCOMER-2 ACB  <Breaker-US-10-MCC2-357-PMCC-313>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "18C",
           "section": "18",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "313-3B-25 MCC-358 I/C-1",
+          "driveid": "MCC-358 INCOMER-1 ACB <Breaker-US-10-MCC1-358-PMCC-313>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "19A",
           "section": "19",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "Relay & Metering",
-          "DriveType": "NA",
+          "driveid": "Control and Indication Fuses Relay & Metering",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "19B",
@@ -1592,7 +1460,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "19C",
@@ -1604,43 +1472,43 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "20A",
           "section": "20",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Relay section",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "20B",
           "section": "20",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "Transformer-3147",
+          "driveid": "INCOMER-3 TR-3147 <Breaker-US-10-3147-PMCC-313>",
           "DriveType": "",
           "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "Transformer-3147",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "20C",
           "section": "20",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Local control switches",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "21A",
@@ -1652,7 +1520,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "21B",
@@ -1664,7 +1532,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "21C",
@@ -1676,127 +1544,91 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "22A",
           "section": "22",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Relay section",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "22B",
           "section": "22",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "GL P-198",
+          "driveid": "GL P-198 <TANKAGE-P-198>",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "22C",
-          "section": "22",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "23A",
           "section": "23",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Relay section",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "23B",
           "section": "23",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "P-199 JB",
+          "driveid": "GL P-199 <TANKAGE-P-199>",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "23C",
-          "section": "23",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "24A",
           "section": "24",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Relay section",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "24B",
           "section": "24",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "GLP-200",
+          "driveid": "GL P-200<TANKAGE-P-200>",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "24C",
-          "section": "24",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "25A",
           "section": "25",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Relay section",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "25B",
@@ -1808,19 +1640,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
-        },
-        {
-          "position": "25C",
-          "section": "25",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "26A",
@@ -1845,18 +1665,6 @@
           "breakerRating": "",
           "supplyFrom": "BUS",
           "status": ""
-        },
-        {
-          "position": "26C",
-          "section": "26",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         }
       ]
     },
@@ -1869,7 +1677,7 @@
             "section": "1",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-206",
+            "driveid": "TANKAGE AREA P-206 <TANKAGE-P-206>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -1907,7 +1715,7 @@
             "section": "2",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-207",
+            "driveid": "TANKAGE AREA P-207 <TANKAGE-P-207>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -1955,7 +1763,7 @@
             "section": "2",
             "level": "E",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-212",
+            "driveid": "TANKAGE AREA P-212 <TANKAGE-P-212>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -1993,7 +1801,7 @@
             "section": "3",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-172",
+            "driveid": "TANKAGE AREA P-172<TANKAGE-P-172>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2019,7 +1827,7 @@
             "section": "4",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-214",
+            "driveid": "TANKAGE AREA P-214 <TANKAGE-P-214>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2031,7 +1839,7 @@
             "section": "4",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-208",
+            "driveid": "TANKAGE AREA P-208 <TANKAGE-P-208>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2045,7 +1853,7 @@
             "section": "5",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-209",
+            "driveid": "TANKAGE AREA P-209 <TANKAGE-P-209>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2057,7 +1865,7 @@
             "section": "5",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-SP-216",
+            "driveid": "TANKAGE AREA SP-216 <TANKAGE-SP-216>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2148,7 +1956,7 @@
           "section": "1",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-206",
+          "driveid": "TANKAGE AREA P-206 <TANKAGE-P-206>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2184,7 +1992,7 @@
           "section": "2",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-207",
+          "driveid": "TANKAGE AREA P-207 <TANKAGE-P-207>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2232,7 +2040,7 @@
           "section": "2",
           "level": "E",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-212",
+          "driveid": "TANKAGE AREA P-212 <TANKAGE-P-212>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2268,7 +2076,7 @@
           "section": "3",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-172",
+          "driveid": "TANKAGE AREA P-172<TANKAGE-P-172>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2292,7 +2100,7 @@
           "section": "4",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-214",
+          "driveid": "TANKAGE AREA P-214 <TANKAGE-P-214>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2304,7 +2112,7 @@
           "section": "4",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-208",
+          "driveid": "TANKAGE AREA P-208 <TANKAGE-P-208>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2316,7 +2124,7 @@
           "section": "5",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-209",
+          "driveid": "TANKAGE AREA P-209 <TANKAGE-P-209>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2328,7 +2136,7 @@
           "section": "5",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-SP-216",
+          "driveid": "TANKAGE AREA SP-216 <TANKAGE-SP-216>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2418,7 +2226,7 @@
             "section": "1",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-A-147",
+            "driveid": "TANKAGE AREA AGI-147 <TANKAGE-A-147>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2456,7 +2264,7 @@
             "section": "2",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-A-148",
+            "driveid": "TANKAGE AREA AGI-148 <TANKAGE-A-148>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2480,7 +2288,7 @@
             "section": "2",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-202",
+            "driveid": "TANKAGE AREA P-202 <TANKAGE-P-202>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2568,7 +2376,7 @@
             "section": "4",
             "level": "D",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-SP-217",
+            "driveid": "TANKAGE AREA SP-217 <TANKAGE-SP-217>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -2609,7 +2417,7 @@
           "section": "1",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-A-147",
+          "driveid": "TANKAGE AREA AGI-147 <TANKAGE-A-147>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2645,7 +2453,7 @@
           "section": "2",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-A-148",
+          "driveid": "TANKAGE AREA AGI-148 <TANKAGE-A-148>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2669,7 +2477,7 @@
           "section": "2",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-202",
+          "driveid": "TANKAGE AREA P-202 <TANKAGE-P-202>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -2753,7 +2561,7 @@
           "section": "4",
           "level": "D",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-SP-217",
+          "driveid": "TANKAGE AREA SP-217 <TANKAGE-SP-217>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
