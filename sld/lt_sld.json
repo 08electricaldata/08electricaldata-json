@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T04:34:59.680Z",
+  "updated": "2026-08-23T04:45:10.387Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -239,9 +239,9 @@
             "position": "8A",
             "section": "8",
             "level": "A",
-            "feederType": "RELAY_SECTION",
+            "feederType": "OUTGOING",
             "driveid": "Relay section",
-            "DriveType": "NA",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
@@ -263,9 +263,9 @@
             "position": "8C",
             "section": "8",
             "level": "C",
-            "feederType": "RELAY_SECTION",
+            "feederType": "OUTGOING",
             "driveid": "Local control switches",
-            "DriveType": "NA",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
@@ -277,9 +277,9 @@
             "position": "9A",
             "section": "9",
             "level": "A",
-            "feederType": "RELAY_SECTION",
+            "feederType": "OUTGOING",
             "driveid": "Control and Indication Fuses ",
-            "DriveType": "NA",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
@@ -307,7 +307,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "10": [
@@ -315,13 +315,13 @@
             "position": "10A",
             "section": "10",
             "level": "A",
-            "feederType": "RELAY_SECTION",
+            "feederType": "OUTGOING",
             "driveid": "Control and Indication Fuses ",
-            "DriveType": "NA",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "10B",
@@ -333,19 +333,19 @@
             "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "10C",
             "section": "10",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Local control switches",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "11": [
@@ -353,37 +353,37 @@
             "position": "11A",
             "section": "11",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control and Indication Fuses ",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "11B",
             "section": "11",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "313-2B-14\nMCC-357 I/C-1 ACB",
+            "driveid": "Breaker-US-10-MCC1-357-PMCC-313",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "11C",
             "section": "11",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "Spare ACB",
+            "driveid": "Breaker-US-10-SPARE2-PMCC-313",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "12": [
@@ -392,12 +392,12 @@
             "section": "12",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "Indication circuit",
-            "DriveType": "NA",
+            "driveid": "Control and Indication Fuses ",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "12B",
@@ -409,7 +409,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "12C",
@@ -1178,9 +1178,9 @@
           "position": "8A",
           "section": "8",
           "level": "A",
-          "feederType": "RELAY_SECTION",
+          "feederType": "OUTGOING",
           "driveid": "Relay section",
-          "DriveType": "NA",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
@@ -1202,9 +1202,9 @@
           "position": "8C",
           "section": "8",
           "level": "C",
-          "feederType": "RELAY_SECTION",
+          "feederType": "OUTGOING",
           "driveid": "Local control switches",
-          "DriveType": "NA",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
@@ -1214,9 +1214,9 @@
           "position": "9A",
           "section": "9",
           "level": "A",
-          "feederType": "RELAY_SECTION",
+          "feederType": "OUTGOING",
           "driveid": "Control and Indication Fuses ",
-          "DriveType": "NA",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
@@ -1244,19 +1244,19 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "10A",
           "section": "10",
           "level": "A",
-          "feederType": "RELAY_SECTION",
+          "feederType": "OUTGOING",
           "driveid": "Control and Indication Fuses ",
-          "DriveType": "NA",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "10B",
@@ -1268,67 +1268,67 @@
           "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "10C",
           "section": "10",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Local control switches",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "11A",
           "section": "11",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control and Indication Fuses ",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "11B",
           "section": "11",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "313-2B-14\nMCC-357 I/C-1 ACB",
+          "driveid": "Breaker-US-10-MCC1-357-PMCC-313",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "11C",
           "section": "11",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "Spare ACB",
+          "driveid": "Breaker-US-10-SPARE2-PMCC-313",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "12A",
           "section": "12",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "Indication circuit",
-          "DriveType": "NA",
+          "driveid": "Control and Indication Fuses ",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "12B",
@@ -1340,7 +1340,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "12C",
