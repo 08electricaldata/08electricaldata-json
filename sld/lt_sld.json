@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:18:24.229Z",
+  "updated": "2026-08-23T04:04:20.568Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -10,12 +10,12 @@
             "section": "1",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "Spare SFU\n250A CMM250",
+            "driveid": "TANKAGE-P-211",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": "OFF"
+            "status": "ON"
           },
           {
             "position": "1B",
@@ -28,18 +28,6 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "1C",
-            "section": "1",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "2": [
@@ -60,24 +48,12 @@
             "section": "2",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "CTF-004",
+            "driveid": "CT_1-F004",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "2C",
-            "section": "2",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "3": [
@@ -999,12 +975,12 @@
           "section": "1",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "Spare SFU\n250A CMM250",
+          "driveid": "TANKAGE-P-211",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": "OFF"
+          "status": "ON"
         },
         {
           "position": "1B",
@@ -1017,18 +993,6 @@
           "breakerRating": "",
           "supplyFrom": "BUS",
           "status": "ON"
-        },
-        {
-          "position": "1C",
-          "section": "1",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         },
         {
           "position": "2A",
@@ -1047,24 +1011,12 @@
           "section": "2",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "CTF-004",
+          "driveid": "CT_1-F004",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
           "status": "ON"
-        },
-        {
-          "position": "2C",
-          "section": "2",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         },
         {
           "position": "3A",
@@ -1965,11 +1917,11 @@
             "section": "1",
             "level": "C",
             "feederType": "INCOMER",
-            "driveid": "Breaker-US-10-MCC1-357-PMCC-313",
+            "driveid": "I/C-1->PMCC-313-2B-14",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "Breaker-US-10-MCC1-358-PMCC-313",
+            "supplyFrom": "Breaker-US-10-MCC1-357-PMCC-313",
             "status": "OFF"
           }
         ],
@@ -2205,11 +2157,11 @@
             "section": "7",
             "level": "D",
             "feederType": "INCOMER",
-            "driveid": "Breaker-US-10-MCC2-357-PMCC-313",
+            "driveid": "I/C-2->PMCC-313-3B-24",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "Breaker-US-10-MCC2-358-PMCC-313",
+            "supplyFrom": "Breaker-US-10-MCC2-357-PMCC-313",
             "status": "ON"
           }
         ]
@@ -2244,11 +2196,11 @@
           "section": "1",
           "level": "C",
           "feederType": "INCOMER",
-          "driveid": "Breaker-US-10-MCC1-357-PMCC-313",
+          "driveid": "I/C-1->PMCC-313-2B-14",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "Breaker-US-10-MCC1-358-PMCC-313",
+          "supplyFrom": "Breaker-US-10-MCC1-357-PMCC-313",
           "status": "OFF"
         },
         {
@@ -2472,11 +2424,11 @@
           "section": "7",
           "level": "D",
           "feederType": "INCOMER",
-          "driveid": "Breaker-US-10-MCC2-357-PMCC-313",
+          "driveid": "I/C-2->PMCC-313-3B-24",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "Breaker-US-10-MCC2-358-PMCC-313",
+          "supplyFrom": "Breaker-US-10-MCC2-357-PMCC-313",
           "status": "ON"
         }
       ]
@@ -2514,7 +2466,7 @@
             "section": "1",
             "level": "C",
             "feederType": "INCOMER",
-            "driveid": "Breaker-US-10-MCC1-358-PMCC-313",
+            "driveid": "I/C-1->PMCC-313-3B-25",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
@@ -2666,7 +2618,7 @@
             "section": "5",
             "level": "B",
             "feederType": "INCOMER",
-            "driveid": "Breaker-US-10-MCC2-358-PMCC-313",
+            "driveid": "I/C-2->PMCC-313-2B-15",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
@@ -2705,7 +2657,7 @@
           "section": "1",
           "level": "C",
           "feederType": "INCOMER",
-          "driveid": "Breaker-US-10-MCC1-358-PMCC-313",
+          "driveid": "I/C-1->PMCC-313-3B-25",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
@@ -2849,7 +2801,7 @@
           "section": "5",
           "level": "B",
           "feederType": "INCOMER",
-          "driveid": "Breaker-US-10-MCC2-358-PMCC-313",
+          "driveid": "I/C-2->PMCC-313-2B-15",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
