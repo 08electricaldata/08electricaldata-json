@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T03:05:18.352Z",
+  "updated": "2026-08-24T07:05:12.409Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -2774,7 +2774,9 @@
     },
     {
       "id": "TANKAGE-P-1138A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1YPCgYSv-z-NxX9hSOnYnkUxeHNCREojA/view?usp=sharing"
+      ]
     },
     {
       "id": "TANKAGE-P-1138B",
