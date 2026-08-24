@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:28:55.280Z",
+  "updated": "2026-08-24T16:34:19.316Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -10316,6 +10316,539 @@
           "breakerRating": "",
           "supplyFrom": "",
           "status": "OFF"
+        }
+      ]
+    },
+    "US-08E-BCH-398": {
+      "boardId": "US-08E-BCH-398",
+      "sections": {
+        "1": [
+          {
+            "position": "1A",
+            "section": "1",
+            "level": "A",
+            "feederType": "INCOMER",
+            "driveid": "INCOMER-1 FROM PCDB 388-10B 800A",
+            "DriveType": "SFU",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": "ON"
+          }
+        ],
+        "2": [
+          {
+            "position": "2A",
+            "section": "2",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "2B",
+            "section": "2",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "3": [
+          {
+            "position": "3A",
+            "section": "3",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "3B",
+            "section": "3",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "4": [
+          {
+            "position": "4A",
+            "section": "4",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "4B",
+            "section": "4",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "5": [
+          {
+            "position": "5A",
+            "section": "5",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "5B",
+            "section": "5",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "6": [
+          {
+            "position": "6A",
+            "section": "6",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "6B",
+            "section": "6",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "7": [
+          {
+            "position": "7A",
+            "section": "7",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "7B",
+            "section": "7",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "8": [
+          {
+            "position": "8A",
+            "section": "8",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "8B",
+            "section": "8",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "9": [
+          {
+            "position": "9A",
+            "section": "9",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "9B",
+            "section": "9",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "10": [
+          {
+            "position": "10A",
+            "section": "10",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "10B",
+            "section": "10",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ],
+        "11": [
+          {
+            "position": "11A",
+            "section": "11",
+            "level": "A",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          },
+          {
+            "position": "11B",
+            "section": "11",
+            "level": "B",
+            "feederType": "",
+            "driveid": "",
+            "DriveType": "",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": ""
+          }
+        ]
+      },
+      "devices": [
+        {
+          "position": "1A",
+          "section": "1",
+          "level": "A",
+          "feederType": "INCOMER",
+          "driveid": "INCOMER-1 FROM PCDB 388-10B 800A",
+          "DriveType": "SFU",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": "ON"
+        },
+        {
+          "position": "2A",
+          "section": "2",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "2B",
+          "section": "2",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "3A",
+          "section": "3",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "3B",
+          "section": "3",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "4A",
+          "section": "4",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "4B",
+          "section": "4",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "5A",
+          "section": "5",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "5B",
+          "section": "5",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "6A",
+          "section": "6",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "6B",
+          "section": "6",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "7A",
+          "section": "7",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "7B",
+          "section": "7",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "8A",
+          "section": "8",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "8B",
+          "section": "8",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "9A",
+          "section": "9",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "9B",
+          "section": "9",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "10A",
+          "section": "10",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "10B",
+          "section": "10",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "11A",
+          "section": "11",
+          "level": "A",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
+        },
+        {
+          "position": "11B",
+          "section": "11",
+          "level": "B",
+          "feederType": "",
+          "driveid": "",
+          "DriveType": "",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": ""
         }
       ]
     }
