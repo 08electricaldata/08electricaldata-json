@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:34:19.316Z",
+  "updated": "2026-08-24T16:51:28.688Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -10341,25 +10341,37 @@
             "position": "2A",
             "section": "2",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "AGITATOR-765A -18.5KW <TANKAGE-AGITATOR-765A>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "2B",
             "section": "2",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SL PUMP-780A 55KW <TANKAGE-P-780A>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
+          },
+          {
+            "position": "2C",
+            "section": "2",
+            "level": "C",
+            "feederType": "OUTGOING",
+            "driveid": "CONTROL TRANSFORMER-1 2KVA",
+            "DriveType": "CONTROL-TRANSFORMER",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": "ON"
           }
         ],
         "3": [
@@ -10367,25 +10379,37 @@
             "position": "3A",
             "section": "3",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "AGITATOR-765B -18.5KW <TANKAGE-AGITATOR-765B>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "3B",
             "section": "3",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SL PUMP-780B 55KW <TANKAGE-P-780B>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
+          },
+          {
+            "position": "3C",
+            "section": "3",
+            "level": "C",
+            "feederType": "OUTGOING",
+            "driveid": "CONTROL TRANSFORMER-2 2KVA",
+            "DriveType": "CONTROL-TRANSFORMER",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": "ON"
           }
         ],
         "4": [
@@ -10393,25 +10417,37 @@
             "position": "4A",
             "section": "4",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE DOL-18.5KW ",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "4B",
             "section": "4",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "PUMP-781A VFD SFU<TANKAGE-P-781A>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
+          },
+          {
+            "position": "4C",
+            "section": "4",
+            "level": "C",
+            "feederType": "OUTGOING",
+            "driveid": "CONTROL TRANSFORMER-3 1KVA",
+            "DriveType": "CONTROL-TRANSFORMER",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": "ON"
           }
         ],
         "5": [
@@ -10419,25 +10455,37 @@
             "position": "5A",
             "section": "5",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE DOL-18.5KW ",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "5B",
             "section": "5",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "PUMP-781B VFD SFU <TANKAGE-P-781B>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
+          },
+          {
+            "position": "5C",
+            "section": "5",
+            "level": "C",
+            "feederType": "OUTGOING",
+            "driveid": "CONTROL TRANSFORMER-4 1KVA",
+            "DriveType": "CONTROL-TRANSFORMER",
+            "breakerType": "",
+            "breakerRating": "",
+            "supplyFrom": "",
+            "status": "ON"
           }
         ],
         "6": [
@@ -10445,25 +10493,25 @@
             "position": "6A",
             "section": "6",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-784 30 KW <TANKAGE-P-784>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "6B",
             "section": "6",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANAKAGE P-582 55KW <TANKAGE-P-582>",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "7": [
@@ -10471,25 +10519,25 @@
             "position": "7A",
             "section": "7",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE DOL 45 KW <>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "7B",
             "section": "7",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "P-579 55 KW VFD SFU <TANKAGE-P-579>",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "8": [
@@ -10497,25 +10545,25 @@
             "position": "8A",
             "section": "8",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SUMP PUMP-817 30 KW <>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "8B",
             "section": "8",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "P-580 55 KW VFD SFU <TANKAGE-P-580>",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "9": [
@@ -10523,25 +10571,25 @@
             "position": "9A",
             "section": "9",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE 30 KW DOL ",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "9B",
             "section": "9",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "P-581 55 KW VFD SFU <TANKAGE-P-581>",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "10": [
@@ -10549,25 +10597,25 @@
             "position": "10A",
             "section": "10",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE 55KW DOL DRIVE",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "10B",
             "section": "10",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE 55KW DOL DRIVE",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "11": [
@@ -10575,25 +10623,13 @@
             "position": "11A",
             "section": "11",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "INCOMER",
+            "driveid": "INCOMER-2 FROM PCDB 388-16B 800A",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "11B",
-            "section": "11",
-            "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ]
       },
@@ -10614,241 +10650,277 @@
           "position": "2A",
           "section": "2",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "AGITATOR-765A -18.5KW <TANKAGE-AGITATOR-765A>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "2B",
           "section": "2",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SL PUMP-780A 55KW <TANKAGE-P-780A>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
+        },
+        {
+          "position": "2C",
+          "section": "2",
+          "level": "C",
+          "feederType": "OUTGOING",
+          "driveid": "CONTROL TRANSFORMER-1 2KVA",
+          "DriveType": "CONTROL-TRANSFORMER",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": "ON"
         },
         {
           "position": "3A",
           "section": "3",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "AGITATOR-765B -18.5KW <TANKAGE-AGITATOR-765B>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "3B",
           "section": "3",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SL PUMP-780B 55KW <TANKAGE-P-780B>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
+        },
+        {
+          "position": "3C",
+          "section": "3",
+          "level": "C",
+          "feederType": "OUTGOING",
+          "driveid": "CONTROL TRANSFORMER-2 2KVA",
+          "DriveType": "CONTROL-TRANSFORMER",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": "ON"
         },
         {
           "position": "4A",
           "section": "4",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE DOL-18.5KW ",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "4B",
           "section": "4",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "PUMP-781A VFD SFU<TANKAGE-P-781A>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
+        },
+        {
+          "position": "4C",
+          "section": "4",
+          "level": "C",
+          "feederType": "OUTGOING",
+          "driveid": "CONTROL TRANSFORMER-3 1KVA",
+          "DriveType": "CONTROL-TRANSFORMER",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": "ON"
         },
         {
           "position": "5A",
           "section": "5",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE DOL-18.5KW ",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "5B",
           "section": "5",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "PUMP-781B VFD SFU <TANKAGE-P-781B>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
+        },
+        {
+          "position": "5C",
+          "section": "5",
+          "level": "C",
+          "feederType": "OUTGOING",
+          "driveid": "CONTROL TRANSFORMER-4 1KVA",
+          "DriveType": "CONTROL-TRANSFORMER",
+          "breakerType": "",
+          "breakerRating": "",
+          "supplyFrom": "",
+          "status": "ON"
         },
         {
           "position": "6A",
           "section": "6",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-784 30 KW <TANKAGE-P-784>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "6B",
           "section": "6",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANAKAGE P-582 55KW <TANKAGE-P-582>",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "7A",
           "section": "7",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE DOL 45 KW <>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "7B",
           "section": "7",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "P-579 55 KW VFD SFU <TANKAGE-P-579>",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "8A",
           "section": "8",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SUMP PUMP-817 30 KW <>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "8B",
           "section": "8",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "P-580 55 KW VFD SFU <TANKAGE-P-580>",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "9A",
           "section": "9",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE 30 KW DOL ",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "9B",
           "section": "9",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "P-581 55 KW VFD SFU <TANKAGE-P-581>",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "10A",
           "section": "10",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE 55KW DOL DRIVE",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "10B",
           "section": "10",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE 55KW DOL DRIVE",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "11A",
           "section": "11",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "INCOMER",
+          "driveid": "INCOMER-2 FROM PCDB 388-16B 800A",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "11B",
-          "section": "11",
-          "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         }
       ]
     }
