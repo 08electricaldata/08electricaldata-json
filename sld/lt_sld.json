@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:04:21.796Z",
+  "updated": "2026-08-24T16:06:21.685Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -8978,13 +8978,13 @@
             "position": "10C",
             "section": "10",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control switch & Indication switch",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "11": [
@@ -9004,8 +9004,8 @@
             "position": "11B",
             "section": "11",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
+            "feederType": "OUTGOING",
+            "driveid": "LDB INCOMER-1 <Breaker-US-08E-LDB1-PMCC-388>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -9016,13 +9016,13 @@
             "position": "11C",
             "section": "11",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control switch & Indication switch",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "12": [
@@ -9054,13 +9054,13 @@
             "position": "12C",
             "section": "12",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control switch & Indication switch",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "13": [
@@ -9092,13 +9092,13 @@
             "position": "13C",
             "section": "13",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control switch & Indication switch",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "14": [
@@ -9925,13 +9925,13 @@
           "position": "10C",
           "section": "10",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control switch & Indication switch",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "11A",
@@ -9949,8 +9949,8 @@
           "position": "11B",
           "section": "11",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
+          "feederType": "OUTGOING",
+          "driveid": "LDB INCOMER-1 <Breaker-US-08E-LDB1-PMCC-388>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
@@ -9961,13 +9961,13 @@
           "position": "11C",
           "section": "11",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control switch & Indication switch",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "12A",
@@ -9997,13 +9997,13 @@
           "position": "12C",
           "section": "12",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control switch & Indication switch",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "13A",
@@ -10033,13 +10033,13 @@
           "position": "13C",
           "section": "13",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control switch & Indication switch",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "14A",
