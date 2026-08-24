@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:18:03.553Z",
+  "updated": "2026-08-24T16:28:55.280Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -9184,25 +9184,25 @@
             "position": "17B",
             "section": "17",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
+            "feederType": "OUTGOING",
+            "driveid": "LDB INCOMER-2 ACB <Breaker-US-08E-LDB2-PMCC-388>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "17C",
             "section": "17",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control switch & Indication switch",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "18": [
@@ -9210,25 +9210,25 @@
             "position": "18B",
             "section": "18",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SL-P-577 55 kw<TANKAGE-P-577>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "18C",
             "section": "18",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SL-P-578 55 kw<TANKAGE-P-578>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "19": [
@@ -9236,25 +9236,25 @@
             "position": "19B",
             "section": "19",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "RELAY & METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "19C",
             "section": "19",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE FEEDER OF P-785B 55KW MODIFIED TO 90KW",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "20": [
@@ -9262,37 +9262,37 @@
             "position": "20A",
             "section": "20",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "20B",
             "section": "20",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-776 SFU 180 KW",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "20C",
             "section": "20",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-776 <TANKAGE-P-776>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "21": [
@@ -9300,37 +9300,37 @@
             "position": "21A",
             "section": "21",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "21B",
             "section": "21",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-575 SFU 132KW",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "21C",
             "section": "21",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-575 <TANKAGE-P-575>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "22": [
@@ -9338,37 +9338,37 @@
             "position": "22A",
             "section": "22",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "22B",
             "section": "22",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE  SFU 132KW OF 22C",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "22C",
             "section": "22",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE DOL A32 KW OF 22B",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "23": [
@@ -9376,37 +9376,37 @@
             "position": "23A",
             "section": "23",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "23B",
             "section": "23",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "GL-Pump-779B 200 KW to VFD <TANKAGE-P-779B>",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "23C",
             "section": "23",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "CONTROL COMPT.",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ],
         "24": [
@@ -9414,113 +9414,89 @@
             "position": "24A",
             "section": "24",
             "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "24B",
             "section": "24",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-777 SFU 180KW",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "24C",
             "section": "24",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-777 <TANKAGE-P-777>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "25": [
           {
-            "position": "25A",
-            "section": "25",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
             "position": "25B",
             "section": "25",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "25C",
             "section": "25",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "TANKAGE AREA P-785A 110KW DOL<TANKAGE-P-785A>",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "26": [
           {
-            "position": "26A",
-            "section": "26",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
             "position": "26B",
             "section": "26",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "METERING",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "26C",
             "section": "26",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "SPARE OF P-785A 110 KW DOL",
+            "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           }
         ]
       },
@@ -10045,325 +10021,301 @@
           "position": "17B",
           "section": "17",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
+          "feederType": "OUTGOING",
+          "driveid": "LDB INCOMER-2 ACB <Breaker-US-08E-LDB2-PMCC-388>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "17C",
           "section": "17",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control switch & Indication switch",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "18B",
           "section": "18",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SL-P-577 55 kw<TANKAGE-P-577>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "18C",
           "section": "18",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SL-P-578 55 kw<TANKAGE-P-578>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "19B",
           "section": "19",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "RELAY & METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "19C",
           "section": "19",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE FEEDER OF P-785B 55KW MODIFIED TO 90KW",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "20A",
           "section": "20",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "20B",
           "section": "20",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-776 SFU 180 KW",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "20C",
           "section": "20",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-776 <TANKAGE-P-776>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "21A",
           "section": "21",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "21B",
           "section": "21",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-575 SFU 132KW",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "21C",
           "section": "21",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-575 <TANKAGE-P-575>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "22A",
           "section": "22",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "22B",
           "section": "22",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE  SFU 132KW OF 22C",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "22C",
           "section": "22",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE DOL A32 KW OF 22B",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "23A",
           "section": "23",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "23B",
           "section": "23",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "GL-Pump-779B 200 KW to VFD <TANKAGE-P-779B>",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "23C",
           "section": "23",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "CONTROL COMPT.",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "24A",
           "section": "24",
           "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "24B",
           "section": "24",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-777 SFU 180KW",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "24C",
           "section": "24",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-777 <TANKAGE-P-777>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "25A",
-          "section": "25",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "25B",
           "section": "25",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "25C",
           "section": "25",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "TANKAGE AREA P-785A 110KW DOL<TANKAGE-P-785A>",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "26A",
-          "section": "26",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "26B",
           "section": "26",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "METERING",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "26C",
           "section": "26",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "SPARE OF P-785A 110 KW DOL",
+          "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         }
       ]
     }
