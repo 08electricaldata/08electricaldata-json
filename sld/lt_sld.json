@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:06:21.685Z",
+  "updated": "2026-08-24T16:14:02.989Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -8972,7 +8972,7 @@
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "10C",
@@ -9005,12 +9005,12 @@
             "section": "11",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "LDB INCOMER-1 <Breaker-US-08E-LDB1-PMCC-388>",
+            "driveid": "LDB INCOMER-1 ACB <Breaker-US-08E-LDB1-PMCC-388>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "11C",
@@ -9042,13 +9042,13 @@
             "position": "12B",
             "section": "12",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
+            "feederType": "BUS_COUPLER",
+            "driveid": "BUSCOUPLER <Breaker-US-08E-BC-PMCC-388>",
             "DriveType": "",
-            "breakerType": "",
+            "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "OFF"
           },
           {
             "position": "12C",
@@ -9080,13 +9080,13 @@
             "position": "13B",
             "section": "13",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
+            "feederType": "INCOMER",
+            "driveid": "INCOMER-2 TR-3246  <Breaker-US-08E-3246-PMCC-388>",
             "DriveType": "",
-            "breakerType": "",
+            "breakerType": "ACB",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "13C",
@@ -9118,8 +9118,8 @@
             "position": "14B",
             "section": "14",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
+            "feederType": "SPARE",
+            "driveid": "BLANK",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
@@ -9130,13 +9130,13 @@
             "position": "14C",
             "section": "14",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "INCOMER-2 TNC SWITCH AND HT TRIP",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "15": [
@@ -9919,7 +9919,7 @@
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "10C",
@@ -9950,12 +9950,12 @@
           "section": "11",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "LDB INCOMER-1 <Breaker-US-08E-LDB1-PMCC-388>",
+          "driveid": "LDB INCOMER-1 ACB <Breaker-US-08E-LDB1-PMCC-388>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "11C",
@@ -9985,13 +9985,13 @@
           "position": "12B",
           "section": "12",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
+          "feederType": "BUS_COUPLER",
+          "driveid": "BUSCOUPLER <Breaker-US-08E-BC-PMCC-388>",
           "DriveType": "",
-          "breakerType": "",
+          "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "OFF"
         },
         {
           "position": "12C",
@@ -10021,13 +10021,13 @@
           "position": "13B",
           "section": "13",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
+          "feederType": "INCOMER",
+          "driveid": "INCOMER-2 TR-3246  <Breaker-US-08E-3246-PMCC-388>",
           "DriveType": "",
-          "breakerType": "",
+          "breakerType": "ACB",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "13C",
@@ -10057,8 +10057,8 @@
           "position": "14B",
           "section": "14",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
+          "feederType": "SPARE",
+          "driveid": "BLANK",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
@@ -10069,13 +10069,13 @@
           "position": "14C",
           "section": "14",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "INCOMER-2 TNC SWITCH AND HT TRIP",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "15A",
