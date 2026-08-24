@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:18:01.334Z",
+  "updated": "2026-08-24T16:00:47.265Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -8928,25 +8928,25 @@
             "position": "9B",
             "section": "9",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
+            "feederType": "OUTGOING",
+            "driveid": "ASB Incomer-1 ACB<Breaker-US-08E-ASB1-PMCC-388>",
             "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           },
           {
             "position": "9C",
             "section": "9",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "Control switch & Indication switch",
+            "DriveType": "Control-Comp",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "",
-            "status": ""
+            "status": "ON"
           }
         ],
         "10": [
@@ -9877,25 +9877,25 @@
           "position": "9B",
           "section": "9",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
+          "feederType": "OUTGOING",
+          "driveid": "ASB Incomer-1 ACB<Breaker-US-08E-ASB1-PMCC-388>",
           "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "9C",
           "section": "9",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "Control switch & Indication switch",
+          "DriveType": "Control-Comp",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "",
-          "status": ""
+          "status": "ON"
         },
         {
           "position": "10A",
