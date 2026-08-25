@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:10:56.334Z",
+  "updated": "2026-08-25T16:37:05.968Z",
   "totalRecords": 59,
   "data": [
     {
@@ -733,7 +733,7 @@
     {
       "Substation": "OXALATE",
       "Sl. No": 56,
-      "Voltage Level": "416 V",
+      "Voltage Level": "415 V",
       "Board Type": "MCC",
       "Board No": "COBIT-MCC",
       "Board UID": "OXALATE-COBIT-MCC",
@@ -746,7 +746,7 @@
     {
       "Substation": "OXALATE",
       "Sl. No": 57,
-      "Voltage Level": "417 V",
+      "Voltage Level": "415 V",
       "Board Type": "MCC",
       "Board No": "SLDB",
       "Board UID": "OXALATE-SLDB",
@@ -759,7 +759,7 @@
     {
       "Substation": "OXALATE",
       "Sl. No": 58,
-      "Voltage Level": "418 V",
+      "Voltage Level": "415 V",
       "Board Type": "MCC",
       "Board No": "AC-PANEL",
       "Board UID": "OXALATE-AC-PANEL",
