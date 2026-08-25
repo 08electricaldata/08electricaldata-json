@@ -1,9 +1,33 @@
 {
   "gallery": "SAFETY PHOTOS",
   "folderId": "1nESERIqfv6Qx623ewtSbAo6s2alQzBLw",
-  "updated": "2026-08-25T11:05:18.075Z",
-  "total": 10,
+  "updated": "2026-08-25T16:48:03.398Z",
+  "total": 12,
   "photos": [
+    {
+      "id": "1iXiYdGNrcDDgzMY_eYuXI9zAkicuwSsx",
+      "title": "Comp-1003 s/d 25-08-2026",
+      "filename": "Comp-1003 s/d 25-08-2026.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1iXiYdGNrcDDgzMY_eYuXI9zAkicuwSsx=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1iXiYdGNrcDDgzMY_eYuXI9zAkicuwSsx=w700",
+      "created": "2026-08-25T16:39:53.006Z",
+      "modified": "2026-08-25T16:39:53.006Z",
+      "size": 2936670,
+      "type": "image/heif"
+    },
+    {
+      "id": "109GSY8PhxO8JcNKW_AkSvv_CIgQFHUgT",
+      "title": "Comp-1003 s/d 25-08-2026",
+      "filename": "Comp-1003 s/d 25-08-2026.HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/109GSY8PhxO8JcNKW_AkSvv_CIgQFHUgT=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/109GSY8PhxO8JcNKW_AkSvv_CIgQFHUgT=w700",
+      "created": "2026-08-25T16:39:52.378Z",
+      "modified": "2026-08-25T16:39:52.378Z",
+      "size": 3029103,
+      "type": "image/heif"
+    },
     {
       "id": "1vuuWF4kOh2lS5bYJfamQFEhgcJVrEVSz",
       "title": "17-08-2026(COMP-50 CDS PERMIT)",
