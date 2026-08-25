@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:18:05.534Z",
+  "updated": "2026-08-25T15:57:47.878Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -11327,7 +11327,7 @@
             "section": "12",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "CONTROL TRANSFORMER",
+            "driveid": "Control and Indication Fuses ",
             "DriveType": "CONTROL-TRANSFORMER",
             "breakerType": "",
             "breakerRating": "",
@@ -11339,8 +11339,8 @@
             "section": "12",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "SPARE MODULE ",
-            "DriveType": "DOL",
+            "driveid": "capacitor breaker-2B ACB <Breaker-US-15-CAPBNK2B-PMCC-325>",
+            "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
@@ -11353,12 +11353,12 @@
             "section": "13",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "SFU NO MODULE",
-            "DriveType": "SFU",
+            "driveid": "220 kv ACDB CDS INCOMER-1<Breaker-US-15-ACDB-CDS1-486-PMCC-325>",
+            "DriveType": "",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": "OFF"
+            "status": "ON"
           },
           {
             "position": "13B",
@@ -11856,7 +11856,7 @@
           "section": "12",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "CONTROL TRANSFORMER",
+          "driveid": "Control and Indication Fuses ",
           "DriveType": "CONTROL-TRANSFORMER",
           "breakerType": "",
           "breakerRating": "",
@@ -11868,8 +11868,8 @@
           "section": "12",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "SPARE MODULE ",
-          "DriveType": "DOL",
+          "driveid": "capacitor breaker-2B ACB <Breaker-US-15-CAPBNK2B-PMCC-325>",
+          "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
@@ -11880,12 +11880,12 @@
           "section": "13",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "SFU NO MODULE",
-          "DriveType": "SFU",
+          "driveid": "220 kv ACDB CDS INCOMER-1<Breaker-US-15-ACDB-CDS1-486-PMCC-325>",
+          "DriveType": "",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": "OFF"
+          "status": "ON"
         },
         {
           "position": "13B",
