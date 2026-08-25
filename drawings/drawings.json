@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T02:52:07.863Z",
+  "updated": "2026-08-25T10:51:43.587Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -2816,11 +2816,15 @@
     },
     {
       "id": "TANKAGE-P-1143A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1XMS2QgHqRYaIVmuEPeQDGzHkuXzwMw2q/view?usp=sharing"
+      ]
     },
     {
       "id": "TANKAGE-P-1143B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1XMS2QgHqRYaIVmuEPeQDGzHkuXzwMw2q/view?usp=sharing"
+      ]
     },
     {
       "id": "TANKAGE-P-143",
