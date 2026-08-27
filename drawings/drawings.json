@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T11:05:31.251Z",
+  "updated": "2026-08-27T18:51:33.540Z",
   "rows": [
     {
       "id": "BAT_A-COMMON",
@@ -21,23 +21,33 @@
     },
     {
       "id": "BAT_A-P-201",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-202",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-203",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-204",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-205",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-211",
@@ -61,11 +71,15 @@
     },
     {
       "id": "BAT_A-P-221A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-221B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_A-P-222A",
@@ -105,7 +119,9 @@
     },
     {
       "id": "BAT_A-SP-251",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-COMMON",
@@ -127,23 +143,33 @@
     },
     {
       "id": "BAT_B-P-201",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-202",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-203",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-204",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-205",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-211",
@@ -167,11 +193,15 @@
     },
     {
       "id": "BAT_B-P-221A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-221B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_B-P-222A",
@@ -211,7 +241,9 @@
     },
     {
       "id": "BAT_B-SP-251",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_C-BOARD-REPLACE",
@@ -297,11 +329,15 @@
     },
     {
       "id": "BAT_C-P-221A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_C-P-221B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_C-P-222A",
@@ -355,7 +391,9 @@
     },
     {
       "id": "BAT_C-SP-251",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_D-COMMON",
@@ -415,11 +453,15 @@
     },
     {
       "id": "BAT_D-P-221A",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_D-P-221B",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_D-P-222A",
@@ -459,7 +501,9 @@
     },
     {
       "id": "BAT_D-SP-251",
-      "drawings": []
+      "drawings": [
+        "https://drive.google.com/file/d/1WHrSMeeliFzD4NNXpy30TIGWoG632TeM/view?usp=sharing"
+      ]
     },
     {
       "id": "BAT_E-AGITATOR-901",
