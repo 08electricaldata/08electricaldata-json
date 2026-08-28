@@ -1,7 +1,7 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-08-28T03:57:17.812Z",
-  "totalRecords": 46,
+  "updated": "2026-08-28T04:57:19.723Z",
+  "totalRecords": 47,
   "data": [
     {
       "W.O No": "455/21.09.20",
@@ -830,6 +830,24 @@
       "Job Completion Date": "NS",
       "PRIORITY": "",
       "rowNumber": 47
+    },
+    {
+      "W.O No": "357/26.08.26",
+      "kW": "90",
+      "Make": "SIEMENS",
+      "Frame Size": "280 M",
+      "Mounting": "B3",
+      "RPM": "1485",
+      "Sl No": "1LA0284-4YA80Z",
+      "Voltage": "415",
+      "Equipment details": "P-1139",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "RAVINDRA",
+      "Motor Location\nUpdate On": "EARTH FAUILT",
+      "Job Completion Date": "NS",
+      "PRIORITY": "",
+      "rowNumber": 48
     }
   ]
 }
