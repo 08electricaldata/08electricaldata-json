@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T12:18:03.382Z",
+  "updated": "2026-08-31T13:18:03.548Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -4322,30 +4322,6 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "20C",
-            "section": "20",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "20D",
-            "section": "20",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "21": [
@@ -4366,36 +4342,12 @@
             "section": "21",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "TANKAGE-P-1138C",
+            "driveid": "TANKAGE AREA -P-1138C <TANKAGE-P-1138C>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "21C",
-            "section": "21",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "21D",
-            "section": "21",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "22": [
@@ -4404,7 +4356,7 @@
             "section": "22",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "125A Compressor 1003 LCP",
+            "driveid": "125A SFU SPARE",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
@@ -4415,20 +4367,20 @@
             "position": "22B",
             "section": "22",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "OUTGOING",
+            "driveid": "125A Compressor 1003 LCP",
+            "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
+            "supplyFrom": "BUS",
+            "status": "ON"
           },
           {
             "position": "22C",
             "section": "22",
             "level": "C",
             "feederType": "OUTGOING",
-            "driveid": "CT_1-1001D",
+            "driveid": "CT-1 FAN-1001D <CT_1-1001D>",
             "DriveType": "DOL",
             "breakerType": "",
             "breakerRating": "",
@@ -5337,30 +5289,6 @@
           "status": "ON"
         },
         {
-          "position": "20C",
-          "section": "20",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "20D",
-          "section": "20",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "21A",
           "section": "21",
           "level": "A",
@@ -5377,7 +5305,7 @@
           "section": "21",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "TANKAGE-P-1138C",
+          "driveid": "TANKAGE AREA -P-1138C <TANKAGE-P-1138C>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
@@ -5385,35 +5313,11 @@
           "status": "ON"
         },
         {
-          "position": "21C",
-          "section": "21",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "21D",
-          "section": "21",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "22A",
           "section": "22",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "125A Compressor 1003 LCP",
+          "driveid": "125A SFU SPARE",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
@@ -5424,20 +5328,20 @@
           "position": "22B",
           "section": "22",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "OUTGOING",
+          "driveid": "125A Compressor 1003 LCP",
+          "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
+          "supplyFrom": "BUS",
+          "status": "ON"
         },
         {
           "position": "22C",
           "section": "22",
           "level": "C",
           "feederType": "OUTGOING",
-          "driveid": "CT_1-1001D",
+          "driveid": "CT-1 FAN-1001D <CT_1-1001D>",
           "DriveType": "DOL",
           "breakerType": "",
           "breakerRating": "",
