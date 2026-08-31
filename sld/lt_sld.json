@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T11:18:02.595Z",
+  "updated": "2026-08-31T12:12:59.010Z",
   "boards": {
     "US-10-313": {
       "boardId": "US-10-313",
@@ -3684,18 +3684,6 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "1D",
-            "section": "1",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "2": [
@@ -3704,12 +3692,12 @@
             "section": "2",
             "level": "A",
             "feederType": "OUTGOING",
-            "driveid": "AUX EQUIPMENT",
+            "driveid": "AUX EQUIPMENT bBREAKER TNC SWITCH",
             "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
             "supplyFrom": "BUS",
-            "status": "OFF"
+            "status": "ON"
           },
           {
             "position": "2B",
@@ -3734,18 +3722,6 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "2D",
-            "section": "2",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "3": [
@@ -3772,51 +3748,15 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "3C",
-            "section": "3",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "3D",
-            "section": "3",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "4": [
-          {
-            "position": "4A",
-            "section": "4",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
           {
             "position": "4B",
             "section": "4",
             "level": "B",
             "feederType": "OUTGOING",
-            "driveid": "CSS 07 ",
+            "driveid": "SPARE SFU 250A",
             "DriveType": "SFU",
             "breakerType": "",
             "breakerRating": "",
@@ -3872,30 +3812,6 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "5C",
-            "section": "5",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "5D",
-            "section": "5",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "6": [
@@ -3922,45 +3838,9 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "OFF"
-          },
-          {
-            "position": "6C",
-            "section": "6",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "6D",
-            "section": "6",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "7": [
-          {
-            "position": "7A",
-            "section": "7",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
           {
             "position": "7B",
             "section": "7",
@@ -4022,30 +3902,6 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "8C",
-            "section": "8",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "8D",
-            "section": "8",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "9": [
@@ -4072,45 +3928,9 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "9C",
-            "section": "9",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "9D",
-            "section": "9",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "10": [
-          {
-            "position": "10A",
-            "section": "10",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
           {
             "position": "10B",
             "section": "10",
@@ -4149,18 +3969,6 @@
           }
         ],
         "11": [
-          {
-            "position": "11A",
-            "section": "11",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
           {
             "position": "11B",
             "section": "11",
@@ -4222,79 +4030,31 @@
             "breakerRating": "",
             "supplyFrom": "BUS",
             "status": "ON"
-          },
-          {
-            "position": "12C",
-            "section": "12",
-            "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "12D",
-            "section": "12",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "13": [
           {
-            "position": "13A",
-            "section": "13",
-            "level": "A",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
             "position": "13B",
             "section": "13",
             "level": "B",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "VACCANT",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "BUS",
             "status": ""
           },
           {
             "position": "13C",
             "section": "13",
             "level": "C",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
+            "feederType": "SPARE",
+            "driveid": "VACCANT",
+            "DriveType": "NA",
             "breakerType": "",
             "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
-          },
-          {
-            "position": "13D",
-            "section": "13",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
+            "supplyFrom": "BUS",
             "status": ""
           }
         ],
@@ -4334,18 +4094,6 @@
             "breakerRating": "",
             "supplyFrom": "",
             "status": "ON"
-          },
-          {
-            "position": "14D",
-            "section": "14",
-            "level": "D",
-            "feederType": "",
-            "driveid": "",
-            "DriveType": "",
-            "breakerType": "",
-            "breakerRating": "",
-            "supplyFrom": "",
-            "status": ""
           }
         ],
         "15": [
@@ -5037,28 +4785,16 @@
           "status": "ON"
         },
         {
-          "position": "1D",
-          "section": "1",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "2A",
           "section": "2",
           "level": "A",
           "feederType": "OUTGOING",
-          "driveid": "AUX EQUIPMENT",
+          "driveid": "AUX EQUIPMENT bBREAKER TNC SWITCH",
           "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
           "supplyFrom": "BUS",
-          "status": "OFF"
+          "status": "ON"
         },
         {
           "position": "2B",
@@ -5085,18 +4821,6 @@
           "status": "ON"
         },
         {
-          "position": "2D",
-          "section": "2",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "3A",
           "section": "3",
           "level": "A",
@@ -5121,47 +4845,11 @@
           "status": "ON"
         },
         {
-          "position": "3C",
-          "section": "3",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "3D",
-          "section": "3",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "4A",
-          "section": "4",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "4B",
           "section": "4",
           "level": "B",
           "feederType": "OUTGOING",
-          "driveid": "CSS 07 ",
+          "driveid": "SPARE SFU 250A",
           "DriveType": "SFU",
           "breakerType": "",
           "breakerRating": "",
@@ -5217,30 +4905,6 @@
           "status": "ON"
         },
         {
-          "position": "5C",
-          "section": "5",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "5D",
-          "section": "5",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "6A",
           "section": "6",
           "level": "A",
@@ -5263,42 +4927,6 @@
           "breakerRating": "",
           "supplyFrom": "BUS",
           "status": "OFF"
-        },
-        {
-          "position": "6C",
-          "section": "6",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "6D",
-          "section": "6",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "7A",
-          "section": "7",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         },
         {
           "position": "7B",
@@ -5361,30 +4989,6 @@
           "status": "ON"
         },
         {
-          "position": "8C",
-          "section": "8",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "8D",
-          "section": "8",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "9A",
           "section": "9",
           "level": "A",
@@ -5407,42 +5011,6 @@
           "breakerRating": "",
           "supplyFrom": "BUS",
           "status": "ON"
-        },
-        {
-          "position": "9C",
-          "section": "9",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "9D",
-          "section": "9",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "10A",
-          "section": "10",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         },
         {
           "position": "10B",
@@ -5479,18 +5047,6 @@
           "breakerRating": "",
           "supplyFrom": "BUS",
           "status": "ON"
-        },
-        {
-          "position": "11A",
-          "section": "11",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         },
         {
           "position": "11B",
@@ -5553,75 +5109,27 @@
           "status": "ON"
         },
         {
-          "position": "12C",
-          "section": "12",
-          "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "12D",
-          "section": "12",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "13A",
-          "section": "13",
-          "level": "A",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
           "position": "13B",
           "section": "13",
           "level": "B",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "VACCANT",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "BUS",
           "status": ""
         },
         {
           "position": "13C",
           "section": "13",
           "level": "C",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
+          "feederType": "SPARE",
+          "driveid": "VACCANT",
+          "DriveType": "NA",
           "breakerType": "",
           "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
-        },
-        {
-          "position": "13D",
-          "section": "13",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
+          "supplyFrom": "BUS",
           "status": ""
         },
         {
@@ -5659,18 +5167,6 @@
           "breakerRating": "",
           "supplyFrom": "",
           "status": "ON"
-        },
-        {
-          "position": "14D",
-          "section": "14",
-          "level": "D",
-          "feederType": "",
-          "driveid": "",
-          "DriveType": "",
-          "breakerType": "",
-          "breakerRating": "",
-          "supplyFrom": "",
-          "status": ""
         },
         {
           "position": "15A",
