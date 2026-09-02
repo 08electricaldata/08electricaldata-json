@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "updated": "2026-09-02T07:04:25.488Z",
+  "updated": "2026-09-02T10:50:53.035Z",
   "headers": [
     "",
     "",
@@ -37013,20 +37013,20 @@
     ],
     [
       262168,
+      "August",
+      "CSFO",
+      "Other",
+      "2026-08-31T07:00:00.000Z",
+      "disconnection of power cable in dewatering pump",
+      "NORMAL JOB",
+      "CABLE CONN/DISCON",
+      "YES",
+      "NALCO",
+      "2026-08-31T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
+      ""
     ],
     [
       262169,
