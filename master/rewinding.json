@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-09-07T09:57:18.809Z",
+  "updated": "2026-09-07T10:57:18.840Z",
   "totalRecords": 47,
   "data": [
     {
@@ -593,7 +593,7 @@
       "Storage": "R/W",
       "Remarks": "B B BEHERA",
       "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "PRIORITY": 12,
       "rowNumber": 34
     },
