@@ -1,7 +1,7 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-09-29T05:01:05.466Z",
-  "totalRecords": 47,
+  "updated": "2026-09-29T05:57:23.268Z",
+  "totalRecords": 46,
   "data": [
     {
       "W.O No": "455/21.09.20",
@@ -580,24 +580,6 @@
       "rowNumber": 33
     },
     {
-      "W.O No": "274/01.08.25",
-      "kW": "30",
-      "Make": "SIEMENS",
-      "Frame Size": "200L",
-      "Mounting": "B3",
-      "RPM": "1475",
-      "Sl No": "64951765",
-      "Voltage": "415",
-      "Equipment details": "P-907B",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "B B BEHERA",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "UP",
-      "PRIORITY": 12,
-      "rowNumber": 34
-    },
-    {
       "W.O No": "320/19.08.25",
       "kW": "18.5",
       "Make": "CG",
@@ -613,7 +595,7 @@
       "Motor Location\nUpdate On": "RACK LOC-V0/E",
       "Job Completion Date": "NS",
       "PRIORITY": 11,
-      "rowNumber": 35
+      "rowNumber": 34
     },
     {
       "W.O No": "393/26.09.25",
@@ -631,7 +613,7 @@
       "Motor Location\nUpdate On": "SHAFT SHEARED , TRMINAL BOX NOT AVAILABLE.",
       "Job Completion Date": "NS",
       "PRIORITY": 21,
-      "rowNumber": 36
+      "rowNumber": 35
     },
     {
       "W.O No": "477/28.10.25",
@@ -649,7 +631,7 @@
       "Motor Location\nUpdate On": "RACK LOC-Y3/R",
       "Job Completion Date": "NS",
       "PRIORITY": 23,
-      "rowNumber": 37
+      "rowNumber": 36
     },
     {
       "W.O No": "513/13.11.25",
@@ -667,7 +649,7 @@
       "Motor Location\nUpdate On": "RACK LOC-Y3/R",
       "Job Completion Date": "NS",
       "PRIORITY": 26,
-      "rowNumber": 38
+      "rowNumber": 37
     },
     {
       "W.O No": "572/01.12.25",
@@ -685,7 +667,7 @@
       "Motor Location\nUpdate On": "RACK LOC-W0/O.BOTH  ENDSHIELDS WORN OUT(17.03.26)6319C3.",
       "Job Completion Date": "PENDING",
       "PRIORITY": 3,
-      "rowNumber": 39
+      "rowNumber": 38
     },
     {
       "W.O No": "009/06.04.26",
@@ -703,7 +685,7 @@
       "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "NS",
       "PRIORITY": "",
-      "rowNumber": 40
+      "rowNumber": 39
     },
     {
       "W.O No": "041/17.04.26",
@@ -720,8 +702,8 @@
       "Remarks": "B.MURMU",
       "Motor Location\nUpdate On": "Y0/M",
       "Job Completion Date": "NS",
-      "PRIORITY": 2,
-      "rowNumber": 41
+      "PRIORITY": "",
+      "rowNumber": 40
     },
     {
       "W.O No": "095/30.04.26",
@@ -738,8 +720,8 @@
       "Remarks": "M. BARIK",
       "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "NS",
-      "PRIORITY": 1,
-      "rowNumber": 42
+      "PRIORITY": 2,
+      "rowNumber": 41
     },
     {
       "W.O No": "096/30.04.26",
@@ -756,8 +738,8 @@
       "Remarks": "M. BARIK",
       "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
       "Job Completion Date": "NS",
-      "PRIORITY": 2,
-      "rowNumber": 43
+      "PRIORITY": 1,
+      "rowNumber": 42
     },
     {
       "W.O No": "100/02.05.26",
@@ -774,8 +756,8 @@
       "Remarks": "M. BARIK",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 1,
-      "rowNumber": 44
+      "PRIORITY": 2,
+      "rowNumber": 43
     },
     {
       "W.O No": "145/25.05.26",
@@ -793,7 +775,7 @@
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
       "PRIORITY": 1,
-      "rowNumber": 45
+      "rowNumber": 44
     },
     {
       "W.O No": "159/30.05.26",
@@ -811,7 +793,7 @@
       "Motor Location\nUpdate On": "08.07.26 SWG 18 NA(13.07.26)",
       "Job Completion Date": "PENDING",
       "PRIORITY": 1,
-      "rowNumber": 46
+      "rowNumber": 45
     },
     {
       "W.O No": "352/21.08.26",
@@ -828,8 +810,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": "",
-      "rowNumber": 47
+      "PRIORITY": 1,
+      "rowNumber": 46
     },
     {
       "W.O No": "357/26.08.26",
@@ -847,7 +829,7 @@
       "Motor Location\nUpdate On": "EARTH FAUILT",
       "Job Completion Date": "NS",
       "PRIORITY": "",
-      "rowNumber": 48
+      "rowNumber": 47
     }
   ]
 }
