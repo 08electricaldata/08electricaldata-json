@@ -1,9 +1,21 @@
 {
   "gallery": "5S PHOTOS",
   "folderId": "14qp__1aX3aSfJNYa0egXSpLTBDVeCofC",
-  "updated": "2026-10-03T07:06:43.089Z",
-  "total": 15,
+  "updated": "2026-10-03T10:51:44.297Z",
+  "total": 16,
   "photos": [
+    {
+      "id": "1MSMxk-NZGK2s489rTO4KgmIdaZizSjH2",
+      "title": "PHOTO-2026-10-03-14-02-44",
+      "filename": "PHOTO-2026-10-03-14-02-44.jpg",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1MSMxk-NZGK2s489rTO4KgmIdaZizSjH2=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1MSMxk-NZGK2s489rTO4KgmIdaZizSjH2=w700",
+      "created": "2026-10-03T08:51:20.097Z",
+      "modified": "2026-10-03T08:51:20.097Z",
+      "size": 337751,
+      "type": "image/jpeg"
+    },
     {
       "id": "1TYq-Qw-RmE-dzeMy484KYoUTyfVGJ2_C",
       "title": "Us-10 VFD ROOM PHONE",
