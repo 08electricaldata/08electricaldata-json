@@ -1,6 +1,6 @@
 {
   "sheetName": "O/H PENDING",
-  "updated": "2026-10-07T06:57:20.290Z",
+  "updated": "2026-10-07T07:57:22.497Z",
   "totalRecords": 31,
   "data": [
     {
@@ -53,7 +53,7 @@
       "Storage": "O/H",
       "Remarks": "M BARIK",
       "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "PRIORITY": 3,
       "rowNumber": 4
     },
@@ -166,6 +166,42 @@
       "rowNumber": 10
     },
     {
+      "W.O No": "450/03.10.26",
+      "kW": "5.7",
+      "Make": "PRIMO",
+      "Frame Size": "BPV 132S",
+      "Mounting": "B3",
+      "RPM": "945",
+      "Sl No": "12615",
+      "Voltage": "415",
+      "Equipment details": "EOT: HUST MOTOR",
+      "Area": "08",
+      "Storage": "O/H",
+      "Remarks": "M BARIK",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "NS",
+      "PRIORITY": 3,
+      "rowNumber": 11
+    },
+    {
+      "W.O No": "434/28.09.26",
+      "kW": "5.5",
+      "Make": "ABB",
+      "Frame Size": "132S4M",
+      "Mounting": "B3",
+      "RPM": "1435",
+      "Sl No": "NA",
+      "Voltage": "415",
+      "Equipment details": "P-CONV-46",
+      "Area": "08",
+      "Storage": "O/H",
+      "Remarks": "M BARIK",
+      "Motor Location\nUpdate On": "ROTOR JAMMING",
+      "Job Completion Date": "NS",
+      "PRIORITY": 3,
+      "rowNumber": 12
+    },
+    {
       "W.O No": "127/19.05.26",
       "kW": "45",
       "Make": "CG",
@@ -181,7 +217,7 @@
       "Motor Location\nUpdate On": "UNBALANCE STATOR RESISTANCE R-116.6 Y-116.7 B-99.1 OHM. NEEDS R/W",
       "Job Completion Date": "PENDING",
       "PRIORITY": 3,
-      "rowNumber": 11
+      "rowNumber": 13
     },
     {
       "W.O No": "378/04.09.26",
@@ -198,8 +234,26 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 3,
-      "rowNumber": 12
+      "PRIORITY": 4,
+      "rowNumber": 14
+    },
+    {
+      "W.O No": "442/29.09.26",
+      "kW": "275",
+      "Make": "CG",
+      "Frame Size": "HMH4AC 450/6",
+      "Mounting": "B3",
+      "RPM": "988",
+      "Sl No": "HMHA383090/4",
+      "Voltage": "6600",
+      "Equipment details": "--311 CW PUMP",
+      "Area": "08",
+      "Storage": "O/H",
+      "Remarks": "M BARIK",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "NS",
+      "PRIORITY": 2,
+      "rowNumber": 15
     },
     {
       "W.O No": "199/17.06.26",
@@ -216,8 +270,8 @@
       "Remarks": "B.MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 3,
-      "rowNumber": 13
+      "PRIORITY": 2,
+      "rowNumber": 16
     },
     {
       "W.O No": "090/29.04.26",
@@ -234,8 +288,8 @@
       "Remarks": "M. BARIK",
       "Motor Location\nUpdate On": "WITH PULLY",
       "Job Completion Date": "UP",
-      "PRIORITY": 4,
-      "rowNumber": 14
+      "PRIORITY": 1,
+      "rowNumber": 17
     },
     {
       "W.O No": "893/14.03.25",
@@ -252,8 +306,8 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "UP",
-      "PRIORITY": 2,
-      "rowNumber": 15
+      "PRIORITY": 1,
+      "rowNumber": 18
     },
     {
       "W.O No": "312/04.08.26",
@@ -271,25 +325,7 @@
       "Motor Location\nUpdate On": "BEARING SEIZED. NEEDS R/W",
       "Job Completion Date": "UP",
       "PRIORITY": 2,
-      "rowNumber": 16
-    },
-    {
-      "W.O No": "402/21.09.26",
-      "kW": "135",
-      "Make": "NGEF",
-      "Frame Size": "AMW 315 L4H2",
-      "Mounting": "B3",
-      "RPM": "1483",
-      "Sl No": "146 117 02",
-      "Voltage": "415",
-      "Equipment details": "P- 197",
-      "Area": "08",
-      "Storage": "O/H",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "22.09.26",
-      "Job Completion Date": "UP",
-      "PRIORITY": 1,
-      "rowNumber": 17
+      "rowNumber": 19
     },
     {
       "W.O No": "657/05.01.26",
@@ -307,7 +343,7 @@
       "Motor Location\nUpdate On": "COUPLING  TO BE REMOVED.DE GREASE-CUP OUTER RING CRACKED.",
       "Job Completion Date": "PENDING",
       "PRIORITY": 1,
-      "rowNumber": 18
+      "rowNumber": 20
     },
     {
       "W.O No": "379/07.09.26",
@@ -325,25 +361,7 @@
       "Motor Location\nUpdate On": "6319C3 , 6316C3",
       "Job Completion Date": "NS",
       "PRIORITY": 2,
-      "rowNumber": 19
-    },
-    {
-      "W.O No": "401/21.09.26",
-      "kW": "110",
-      "Make": "NGEF",
-      "Frame Size": "AMW 315 M4H1",
-      "Mounting": "B3",
-      "RPM": "1480",
-      "Sl No": "146 104 10",
-      "Voltage": "415",
-      "Equipment details": "P- 223(BAT- C)",
-      "Area": "08",
-      "Storage": "O/H",
-      "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
-      "PRIORITY": 1,
-      "rowNumber": 20
+      "rowNumber": 21
     },
     {
       "W.O No": "574/01.12.25",
@@ -360,24 +378,6 @@
       "Remarks": "R C SETHY",
       "Motor Location\nUpdate On": "BEARING SEIZED.02.12.25.DE ROTOR,INNER &OUTER GREASE CUP AND DISC WORN OUT(04.12.25). DELMET IV LOT",
       "Job Completion Date": "PENDING",
-      "PRIORITY": 2,
-      "rowNumber": 21
-    },
-    {
-      "W.O No": "429/28.09.26",
-      "kW": "0.04",
-      "Make": "BAUER",
-      "Frame Size": "DK78-178 S",
-      "Mounting": "B5",
-      "RPM": "650",
-      "Sl No": "1812961-03",
-      "Voltage": "415",
-      "Equipment details": "3122 M10",
-      "Area": "08",
-      "Storage": "O/H",
-      "Remarks": "AMIT MISHJRA",
-      "Motor Location\nUpdate On": "WITH PINION",
-      "Job Completion Date": "NS",
       "PRIORITY": 1,
       "rowNumber": 22
     },
