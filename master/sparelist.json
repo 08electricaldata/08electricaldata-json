@@ -1,6 +1,6 @@
 {
   "sheetName": "SPARE LIST",
-  "updated": "2026-10-13T07:09:18.597Z",
+  "updated": "2026-10-13T13:09:18.703Z",
   "totalRecords": 1552,
   "data": [
     {
@@ -7674,13 +7674,13 @@
       "Voltage": "415",
       "Equipment details": "P-133/134",
       "Area": "06/07",
-      "Storage": "Z1/I",
+      "Storage": "Z1/E",
       "Remarks": "",
-      "Motor Location\nUpdate On": "20.12.25",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "28.11.25",
       "Motor Age in years": 0.92,
       "Col16": "",
-      "Col17": "AK Samal @ 20-Dec-2025 10:22:02",
+      "Col17": "SC Tudu @ 12-Oct-2026 16:52:57",
       "rowNumber": 395
     },
     {
@@ -8334,13 +8334,13 @@
       "Voltage": 415,
       "Equipment details": "Conv-708",
       "Area": "52/01",
-      "Storage": "U1/P",
+      "Storage": "Z1/F",
       "Remarks": "",
-      "Motor Location\nUpdate On": "01.10.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "13.11.15",
       "Motor Age in years": 10.92,
       "Col16": "",
-      "Col17": "SC Tudu @ 01-Oct-2026 18:47:52",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:07:39",
       "rowNumber": 428
     },
     {
@@ -8354,13 +8354,13 @@
       "Voltage": 415,
       "Equipment details": "Conv-1008A",
       "Area": "52/01",
-      "Storage": "U1/P",
+      "Storage": "Z1/F",
       "Remarks": "",
-      "Motor Location\nUpdate On": "01.10.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "13.11.15",
       "Motor Age in years": 10.92,
       "Col16": "",
-      "Col17": "SC Tudu @ 01-Oct-2026 18:47:05",
+      "Col17": "SC Tudu @ 12-Oct-2026 16:55:21",
       "rowNumber": 429
     },
     {
@@ -11054,13 +11054,13 @@
       "Voltage": "415",
       "Equipment details": "SPARE",
       "Area": "08",
-      "Storage": "Z2/I",
+      "Storage": "U2/L",
       "Remarks": "",
-      "Motor Location\nUpdate On": "02.09.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "29.04.25",
       "Motor Age in years": 1.5,
       "Col16": "",
-      "Col17": "",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:09:58",
       "rowNumber": 564
     },
     {
@@ -11994,13 +11994,13 @@
       "Voltage": 415,
       "Equipment details": "98B11",
       "Area": "10",
-      "Storage": "Y2/J",
+      "Storage": "X2/L",
       "Remarks": "",
-      "Motor Location\nUpdate On": "25.07.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "23.11.24",
       "Motor Age in years": 1.92,
       "Col16": "",
-      "Col17": "SC Tudu @ 25-Jul-2026 18:16:30",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:21:23",
       "rowNumber": 611
     },
     {
@@ -14194,13 +14194,13 @@
       "Voltage": 415,
       "Equipment details": "80AB01",
       "Area": "10",
-      "Storage": "Y2/J",
+      "Storage": "X2/L",
       "Remarks": "",
-      "Motor Location\nUpdate On": "25.07.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "26.11.24",
       "Motor Age in years": 1.92,
       "Col16": "",
-      "Col17": "SC Tudu @ 25-Jul-2026 18:15:52",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:11:41",
       "rowNumber": 721
     },
     {
@@ -15634,13 +15634,13 @@
       "Voltage": "415",
       "Equipment details": "MTA-518",
       "Area": "02/03",
-      "Storage": "Z2/I",
+      "Storage": "604/18.11.24",
       "Remarks": "",
-      "Motor Location\nUpdate On": "02.09.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "30.04.25",
       "Motor Age in years": 1.5,
       "Col16": "",
-      "Col17": "",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:11:01",
       "rowNumber": 793
     },
     {
@@ -18274,13 +18274,13 @@
       "Voltage": 415,
       "Equipment details": "CLARIFIER OLD-2635 O/A",
       "Area": "35",
-      "Storage": "Z2/I",
+      "Storage": "U2/L",
       "Remarks": "",
-      "Motor Location\nUpdate On": "02.09.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "19.04.25",
       "Motor Age in years": 1.5,
       "Col16": "",
-      "Col17": "",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:09:20",
       "rowNumber": 925
     },
     {
@@ -26634,13 +26634,13 @@
       "Voltage": "415",
       "Equipment details": "P-1409 B",
       "Area": "02EX",
-      "Storage": "V0/R",
+      "Storage": "Z1/F",
       "Remarks": "",
-      "Motor Location\nUpdate On": "12.03.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "27.02.26",
       "Motor Age in years": 0.67,
       "Col16": "",
-      "Col17": "SC Tudu @ 12-Mar-2026 16:16:40",
+      "Col17": "SC Tudu @ 12-Oct-2026 16:54:43",
       "rowNumber": 1343
     },
     {
@@ -27054,13 +27054,13 @@
       "Voltage": "415",
       "Equipment details": "PPT AGTR-753",
       "Area": "06E",
-      "Storage": "W2/ N",
+      "Storage": "Z1/E",
       "Remarks": "",
-      "Motor Location\nUpdate On": "01.08.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "31.03.26",
       "Motor Age in years": 0.58,
       "Col16": "",
-      "Col17": "AK Samal @ 16-May-2026 19:43:53",
+      "Col17": "SC Tudu @ 12-Oct-2026 16:53:59",
       "rowNumber": 1364
     },
     {
@@ -30254,13 +30254,13 @@
       "Voltage": "415",
       "Equipment details": "03 FILTER FLOOR-EOT CRANE",
       "Area": "06/07",
-      "Storage": "Z2/I",
+      "Storage": "U2/L",
       "Remarks": "",
-      "Motor Location\nUpdate On": "02.09.26",
+      "Motor Location\nUpdate On": "12.10.26",
       "Job Completion Date": "22.08.26",
       "Motor Age in years": 0.17,
       "Col16": "",
-      "Col17": "",
+      "Col17": "SC Tudu @ 12-Oct-2026 17:08:40",
       "rowNumber": 1524
     },
     {
@@ -30864,26 +30864,6 @@
       "rowNumber": 1554
     },
     {
-      "W.O No": "388/10.09.26",
-      "kW": "2.2",
-      "Make": "SIEMENS",
-      "Frame Size": "112M",
-      "Mounting": "B3",
-      "RPM": "2860",
-      "Sl No": "NA",
-      "Voltage": "415",
-      "Equipment details": "AC SCANNERFAN#3",
-      "Area": "25B",
-      "Storage": "X",
-      "Remarks": "",
-      "Motor Location\nUpdate On": "01.10.26",
-      "Job Completion Date": "29.09.26",
-      "Motor Age in years": 0.08,
-      "Col16": "",
-      "Col17": "",
-      "rowNumber": 1555
-    },
-    {
       "W.O No": "419/26.09.26",
       "kW": "55",
       "Make": "NGEF",
@@ -30901,7 +30881,7 @@
       "Motor Age in years": 0,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1556
+      "rowNumber": 1555
     },
     {
       "W.O No": "435/28.09.26",
@@ -30921,7 +30901,7 @@
       "Motor Age in years": 0.08,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1557
+      "rowNumber": 1556
     },
     {
       "W.O No": "398/19.09.26",
@@ -30941,7 +30921,7 @@
       "Motor Age in years": 0.08,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1558
+      "rowNumber": 1557
     },
     {
       "W.O No": "433/28.09.26",
@@ -30961,7 +30941,7 @@
       "Motor Age in years": 0,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1559
+      "rowNumber": 1558
     },
     {
       "W.O No": "418/26.09.26",
@@ -30981,7 +30961,7 @@
       "Motor Age in years": 0,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1560
+      "rowNumber": 1559
     },
     {
       "W.O No": "369/01.09.26",
@@ -31001,7 +30981,7 @@
       "Motor Age in years": 0.08,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1561
+      "rowNumber": 1560
     },
     {
       "W.O No": "417/26.09.26",
@@ -31021,7 +31001,7 @@
       "Motor Age in years": 0.08,
       "Col16": "",
       "Col17": "",
-      "rowNumber": 1562
+      "rowNumber": 1561
     },
     {
       "W.O No": "302/07.08.23",
@@ -31039,6 +31019,26 @@
       "Motor Location\nUpdate On": "06.10.26",
       "Job Completion Date": "06.10.26",
       "Motor Age in years": 0,
+      "Col16": "",
+      "Col17": "",
+      "rowNumber": 1562
+    },
+    {
+      "W.O No": "026/07.04.26",
+      "kW": "1600",
+      "Make": "MARATHON",
+      "Frame Size": "630U",
+      "Mounting": "B3",
+      "RPM": "913",
+      "Sl No": "U110024/1",
+      "Voltage": "415",
+      "Equipment details": "BM-004",
+      "Area": "02/03",
+      "Storage": "X",
+      "Remarks": "",
+      "Motor Location\nUpdate On": "08.10.26",
+      "Job Completion Date": "13.06.26",
+      "Motor Age in years": 0.33,
       "Col16": "",
       "Col17": "",
       "rowNumber": 1563
