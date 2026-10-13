@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-10-13T11:57:18.311Z",
+  "updated": "2026-10-13T12:57:20.012Z",
   "totalRecords": 46,
   "data": [
     {
@@ -826,8 +826,8 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "RAVINDRA",
-      "Motor Location\nUpdate On": "EARTH FAUILT",
-      "Job Completion Date": "NS",
+      "Motor Location\nUpdate On": "EARTH FAUILT,07.09.26",
+      "Job Completion Date": "UP",
       "PRIORITY": "",
       "rowNumber": 47
     }
