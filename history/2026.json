@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "updated": "2026-10-22T03:04:35.294Z",
+  "updated": "2026-10-22T07:06:48.527Z",
   "headers": [
     "",
     "",
@@ -37796,25 +37796,25 @@
     [
       262214,
       "September",
-      "TANKAGE",
-      "P-203",
+      "CT_1",
+      "P-840",
       "2026-09-04T07:00:00.000Z",
-      "MOTOR LIC LPBS PM DONE",
-      "PM JOBS",
-      "MOTOR PM",
+      "alighnment for adj",
+      "ADJUSTMENT",
+      "Alignment",
       "YES",
-      "ANIL_AREA",
+      "MOTOR",
       "2026-09-04T07:00:00.000Z",
-      75,
+      290,
       "",
       "",
-      "LT"
+      "HT"
     ],
     [
       262215,
       "September",
       "TANKAGE",
-      "P-205",
+      "P-203",
       "2026-09-04T07:00:00.000Z",
       "MOTOR LIC LPBS PM DONE",
       "PM JOBS",
@@ -37831,6 +37831,23 @@
       262216,
       "September",
       "TANKAGE",
+      "P-205",
+      "2026-09-04T07:00:00.000Z",
+      "MOTOR LIC LPBS PM DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-04T07:00:00.000Z",
+      75,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262217,
+      "September",
+      "TANKAGE",
       "P-203",
       "2026-09-04T07:00:00.000Z",
       "MODULE PM DONE",
@@ -37845,7 +37862,7 @@
       "LT"
     ],
     [
-      262217,
+      262218,
       "September",
       "TANKAGE",
       "P-203",
@@ -37862,7 +37879,7 @@
       "LT"
     ],
     [
-      262218,
+      262219,
       "September",
       "TANKAGE",
       "P-198",
@@ -37879,7 +37896,7 @@
       "LT"
     ],
     [
-      262219,
+      262220,
       "September",
       "TANKAGE",
       "P-199",
@@ -37896,7 +37913,7 @@
       "LT"
     ],
     [
-      262220,
+      262221,
       "September",
       "TANKAGE",
       "P-200",
@@ -37913,7 +37930,7 @@
       "LT"
     ],
     [
-      262221,
+      262222,
       "September",
       "CT_1",
       "F001",
@@ -37930,7 +37947,7 @@
       "LT"
     ],
     [
-      262222,
+      262223,
       "September",
       "CT_1",
       "F001",
@@ -37947,7 +37964,7 @@
       "LT"
     ],
     [
-      262223,
+      262224,
       "September",
       "CT_1",
       "P-840",
@@ -37964,7 +37981,7 @@
       "HT"
     ],
     [
-      262224,
+      262225,
       "September",
       "TANKAGE",
       "P-302",
@@ -37981,7 +37998,7 @@
       "LT"
     ],
     [
-      262225,
+      262226,
       "September",
       "CT_1",
       "P-840",
@@ -37998,7 +38015,7 @@
       "HT"
     ],
     [
-      262226,
+      262227,
       "September",
       "Transformer",
       3175,
@@ -38015,7 +38032,7 @@
       ""
     ],
     [
-      262227,
+      262228,
       "September",
       "TANKAGE",
       "P-196",
@@ -38032,7 +38049,7 @@
       "LT"
     ],
     [
-      262228,
+      262229,
       "September",
       "TANKAGE",
       "P-303",
@@ -38049,7 +38066,7 @@
       ""
     ],
     [
-      262229,
+      262230,
       "September",
       "TANKAGE",
       "P-306",
@@ -38066,7 +38083,7 @@
       ""
     ],
     [
-      262230,
+      262231,
       "September",
       "TANKAGE",
       "P-581",
@@ -38083,7 +38100,7 @@
       "LT"
     ],
     [
-      262231,
+      262232,
       "September",
       "TANKAGE",
       "P-1070A",
@@ -38100,7 +38117,7 @@
       "LT"
     ],
     [
-      262232,
+      262233,
       "September",
       "CT_1",
       "P-840",
@@ -38117,7 +38134,7 @@
       "HT"
     ],
     [
-      262233,
+      262234,
       "September",
       "CT_1",
       "P-840",
@@ -38134,7 +38151,7 @@
       "HT"
     ],
     [
-      262234,
+      262235,
       "September",
       "CT_1",
       "P-840",
@@ -38151,7 +38168,7 @@
       "HT"
     ],
     [
-      262235,
+      262236,
       "September",
       "Transformer",
       3175,
@@ -38168,7 +38185,7 @@
       ""
     ],
     [
-      262236,
+      262237,
       "September",
       "TANKAGE",
       "P-303",
@@ -38185,7 +38202,7 @@
       ""
     ],
     [
-      262237,
+      262238,
       "September",
       "TANKAGE",
       "P-306",
@@ -38202,7 +38219,7 @@
       ""
     ],
     [
-      262238,
+      262239,
       "September",
       "SUBSTATION",
       "US-10",
@@ -38219,7 +38236,7 @@
       ""
     ],
     [
-      262239,
+      262240,
       "September",
       "CT_2",
       "P-367",
@@ -38236,7 +38253,7 @@
       "HT"
     ],
     [
-      262240,
+      262241,
       "September",
       "CT_2",
       "P-225",
@@ -38253,7 +38270,7 @@
       "LT"
     ],
     [
-      262241,
+      262242,
       "September",
       "CT_2",
       "FP-001A",
@@ -38270,7 +38287,7 @@
       "LT"
     ],
     [
-      262242,
+      262243,
       "September",
       "LAB",
       "LAB",
@@ -38287,7 +38304,7 @@
       ""
     ],
     [
-      262243,
+      262244,
       "September",
       "CT_1",
       "P-840",
@@ -38304,7 +38321,7 @@
       "HT"
     ],
     [
-      262244,
+      262245,
       "September",
       "LAB",
       "LAB",
@@ -38321,7 +38338,7 @@
       ""
     ],
     [
-      262245,
+      262246,
       "September",
       "CT_2",
       "F-001",
@@ -38338,27 +38355,10 @@
       "LT"
     ],
     [
-      262246,
-      "September",
-      "CT_2",
-      "F-002",
-      "2026-09-09T07:00:00.000Z",
-      "MODULE PM DONE",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "ANIL_AREA",
-      "2026-09-09T07:00:00.000Z",
-      52,
-      "",
-      "",
-      "LT"
-    ],
-    [
       262247,
       "September",
       "CT_2",
-      "F-003",
+      "F-002",
       "2026-09-09T07:00:00.000Z",
       "MODULE PM DONE",
       "PM JOBS",
@@ -38375,6 +38375,23 @@
       262248,
       "September",
       "CT_2",
+      "F-003",
+      "2026-09-09T07:00:00.000Z",
+      "MODULE PM DONE",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-09T07:00:00.000Z",
+      52,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262249,
+      "September",
+      "CT_2",
       "F-002",
       "2026-09-09T07:00:00.000Z",
       "AUXILARY COIL FOPUND DAMAGED,SO REPLAED",
@@ -38389,7 +38406,7 @@
       "LT"
     ],
     [
-      262249,
+      262250,
       "September",
       "CT_2",
       "P-225",
@@ -38406,7 +38423,7 @@
       "LT"
     ],
     [
-      262250,
+      262251,
       "September",
       "TANKAGE",
       "COMMON",
@@ -38423,7 +38440,7 @@
       ""
     ],
     [
-      262251,
+      262252,
       "September",
       "CT_2",
       "F-1002",
@@ -38440,7 +38457,7 @@
       "LT"
     ],
     [
-      262252,
+      262253,
       "September",
       "CT_2",
       "F-002",
@@ -38457,7 +38474,7 @@
       "LT"
     ],
     [
-      262253,
+      262254,
       "September",
       "SUBSTATION",
       "US-10",
@@ -38474,7 +38491,7 @@
       ""
     ],
     [
-      262254,
+      262255,
       "September",
       "Transformer",
       2144,
@@ -38491,7 +38508,7 @@
       ""
     ],
     [
-      262255,
+      262256,
       "September",
       "Breaker",
       "US-18-BC-PMCC.328",
@@ -38508,7 +38525,7 @@
       ""
     ],
     [
-      262256,
+      262257,
       "September",
       "CT_2",
       "F-002",
@@ -38525,7 +38542,7 @@
       "LT"
     ],
     [
-      262257,
+      262258,
       "September",
       "COMPRESSOR",
       "COMP-50",
@@ -38542,7 +38559,7 @@
       "HT"
     ],
     [
-      262258,
+      262259,
       "September",
       "PROJECT",
       "SODIC-COND",
@@ -38559,7 +38576,7 @@
       ""
     ],
     [
-      262259,
+      262260,
       "September",
       "BOARD",
       "US-13-239-HT-BOARD",
@@ -38576,27 +38593,10 @@
       ""
     ],
     [
-      262260,
-      "September",
-      "TANKAGE",
-      "P-50",
-      "2026-09-11T07:00:00.000Z",
-      "module pm done",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "SUPPLY",
-      "2026-09-11T07:00:00.000Z",
-      125,
-      "",
-      "",
-      "LT"
-    ],
-    [
       262261,
       "September",
       "TANKAGE",
-      "P-51",
+      "P-50",
       "2026-09-11T07:00:00.000Z",
       "module pm done",
       "PM JOBS",
@@ -38613,11 +38613,11 @@
       262262,
       "September",
       "TANKAGE",
-      "P-50",
+      "P-51",
       "2026-09-11T07:00:00.000Z",
-      "mcb fixed against fuses of 2a mcb",
-      "REPLACEMENT",
-      "REPLACE-MCB",
+      "module pm done",
+      "PM JOBS",
+      "MODULE PM",
       "YES",
       "SUPPLY",
       "2026-09-11T07:00:00.000Z",
@@ -38630,7 +38630,7 @@
       262263,
       "September",
       "TANKAGE",
-      "P-51",
+      "P-50",
       "2026-09-11T07:00:00.000Z",
       "mcb fixed against fuses of 2a mcb",
       "REPLACEMENT",
@@ -38647,6 +38647,23 @@
       262264,
       "September",
       "TANKAGE",
+      "P-51",
+      "2026-09-11T07:00:00.000Z",
+      "mcb fixed against fuses of 2a mcb",
+      "REPLACEMENT",
+      "REPLACE-MCB",
+      "YES",
+      "SUPPLY",
+      "2026-09-11T07:00:00.000Z",
+      125,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262265,
+      "September",
+      "TANKAGE",
       "P-1138C",
       "2026-09-11T07:00:00.000Z",
       "aluminum cable replaced with new single run copper cable of 95sqmm",
@@ -38661,7 +38678,7 @@
       "LT"
     ],
     [
-      262265,
+      262266,
       "September",
       "TANKAGE",
       "P-50",
@@ -38678,7 +38695,7 @@
       "LT"
     ],
     [
-      262266,
+      262267,
       "September",
       "TANKAGE",
       "P-51",
@@ -38695,7 +38712,7 @@
       "LT"
     ],
     [
-      262267,
+      262268,
       "September",
       "PROJECT",
       "OXALATE",
@@ -38712,7 +38729,7 @@
       ""
     ],
     [
-      262268,
+      262269,
       "September",
       "MOL",
       "BUCKET-ELEVATOR-116",
@@ -38729,7 +38746,7 @@
       "LT"
     ],
     [
-      262269,
+      262270,
       "September",
       "BAT_G",
       "P-902",
@@ -38746,7 +38763,7 @@
       "LT"
     ],
     [
-      262270,
+      262271,
       "September",
       "MOL",
       "CONV-726",
@@ -38763,7 +38780,7 @@
       "LT"
     ],
     [
-      262271,
+      262272,
       "September",
       "COMPRESSOR",
       "COMP-new",
@@ -38780,7 +38797,7 @@
       ""
     ],
     [
-      262272,
+      262273,
       "September",
       "SUBSTATION",
       "US-08EX-STORE",
@@ -38797,7 +38814,7 @@
       ""
     ],
     [
-      262273,
+      262274,
       "September",
       "COMPRESSOR",
       "COMP-new",
@@ -38814,7 +38831,7 @@
       ""
     ],
     [
-      262274,
+      262275,
       "September",
       "SUBSTATION",
       "US-08EX",
@@ -38831,7 +38848,7 @@
       ""
     ],
     [
-      262275,
+      262276,
       "September",
       "BAT_I",
       "P-907A",
@@ -38848,7 +38865,7 @@
       "LT"
     ],
     [
-      262276,
+      262277,
       "September",
       "PROJECT",
       "OXALATE",
@@ -38865,27 +38882,10 @@
       ""
     ],
     [
-      262277,
-      "September",
-      "BAT_C",
-      "P-200",
-      "2026-09-15T07:00:00.000Z",
-      "module pm done",
-      "PM JOBS",
-      "MODULE PM",
-      "YES",
-      "NALCO",
-      "2026-09-15T07:00:00.000Z",
-      90,
-      "",
-      "",
-      "LT"
-    ],
-    [
       262278,
       "September",
       "BAT_C",
-      "P-201",
+      "P-200",
       "2026-09-15T07:00:00.000Z",
       "module pm done",
       "PM JOBS",
@@ -38902,7 +38902,7 @@
       262279,
       "September",
       "BAT_C",
-      "P-202",
+      "P-201",
       "2026-09-15T07:00:00.000Z",
       "module pm done",
       "PM JOBS",
@@ -38919,7 +38919,7 @@
       262280,
       "September",
       "BAT_C",
-      "P-203",
+      "P-202",
       "2026-09-15T07:00:00.000Z",
       "module pm done",
       "PM JOBS",
@@ -38936,7 +38936,7 @@
       262281,
       "September",
       "BAT_C",
-      "P-204",
+      "P-203",
       "2026-09-15T07:00:00.000Z",
       "module pm done",
       "PM JOBS",
@@ -38953,7 +38953,7 @@
       262282,
       "September",
       "BAT_C",
-      "P-205",
+      "P-204",
       "2026-09-15T07:00:00.000Z",
       "module pm done",
       "PM JOBS",
@@ -38970,9 +38970,9 @@
       262283,
       "September",
       "BAT_C",
-      "P-200",
+      "P-205",
       "2026-09-15T07:00:00.000Z",
-      "additional screw has been fixed for strength increase of dol module support by BCH engineer",
+      "module pm done",
       "PM JOBS",
       "MODULE PM",
       "YES",
@@ -38987,7 +38987,7 @@
       262284,
       "September",
       "BAT_C",
-      "P-201",
+      "P-200",
       "2026-09-15T07:00:00.000Z",
       "additional screw has been fixed for strength increase of dol module support by BCH engineer",
       "PM JOBS",
@@ -39004,7 +39004,7 @@
       262285,
       "September",
       "BAT_C",
-      "P-202",
+      "P-201",
       "2026-09-15T07:00:00.000Z",
       "additional screw has been fixed for strength increase of dol module support by BCH engineer",
       "PM JOBS",
@@ -39021,7 +39021,7 @@
       262286,
       "September",
       "BAT_C",
-      "P-203",
+      "P-202",
       "2026-09-15T07:00:00.000Z",
       "additional screw has been fixed for strength increase of dol module support by BCH engineer",
       "PM JOBS",
@@ -39038,7 +39038,7 @@
       262287,
       "September",
       "BAT_C",
-      "P-204",
+      "P-203",
       "2026-09-15T07:00:00.000Z",
       "additional screw has been fixed for strength increase of dol module support by BCH engineer",
       "PM JOBS",
@@ -39055,7 +39055,7 @@
       262288,
       "September",
       "BAT_C",
-      "P-205",
+      "P-204",
       "2026-09-15T07:00:00.000Z",
       "additional screw has been fixed for strength increase of dol module support by BCH engineer",
       "PM JOBS",
@@ -39070,6 +39070,23 @@
     ],
     [
       262289,
+      "September",
+      "BAT_C",
+      "P-205",
+      "2026-09-15T07:00:00.000Z",
+      "additional screw has been fixed for strength increase of dol module support by BCH engineer",
+      "PM JOBS",
+      "MODULE PM",
+      "YES",
+      "NALCO",
+      "2026-09-15T07:00:00.000Z",
+      90,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262290,
       "September",
       "COMMON",
       "CSTORE",
@@ -39086,7 +39103,7 @@
       ""
     ],
     [
-      262290,
+      262291,
       "September",
       "BAT_C",
       "P-201",
@@ -39103,7 +39120,7 @@
       "LT"
     ],
     [
-      262291,
+      262292,
       "September",
       "TANKAGE",
       "COMMON",
@@ -39120,7 +39137,7 @@
       ""
     ],
     [
-      262292,
+      262293,
       "September",
       "PROJECT",
       "OXALATE",
@@ -39137,7 +39154,24 @@
       ""
     ],
     [
-      262293,
+      262294,
+      "September",
+      "BAT_C",
+      "P-212",
+      "2026-09-15T07:00:00.000Z",
+      "motor pulley  replacement for adj",
+      "ADJUSTMENT",
+      "REPLACE-PULLEY",
+      "YES",
+      "MOTOR",
+      "2026-09-15T07:00:00.000Z",
+      110,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262295,
       "September",
       "CT_2",
       "P-226",
@@ -39154,7 +39188,7 @@
       "LT"
     ],
     [
-      262294,
+      262296,
       "September",
       "MOL",
       "BUCKET-ELEVATOR-116",
@@ -39171,7 +39205,7 @@
       "LT"
     ],
     [
-      262295,
+      262297,
       "September",
       "TANKAGE",
       "P-1138A",
@@ -39188,7 +39222,7 @@
       "LT"
     ],
     [
-      262296,
+      262298,
       "September",
       "CSFO",
       "P-398",
@@ -39205,7 +39239,7 @@
       "LT"
     ],
     [
-      262297,
+      262299,
       "September",
       "CSFO",
       "SP-218",
@@ -39222,7 +39256,7 @@
       "LT"
     ],
     [
-      262298,
+      262300,
       "September",
       "BAT_C",
       "P-223",
@@ -39239,7 +39273,7 @@
       "LT"
     ],
     [
-      262299,
+      262301,
       "September",
       "BAT_C",
       "P-223",
@@ -39256,7 +39290,7 @@
       "LT"
     ],
     [
-      262300,
+      262302,
       "September",
       "BAT_A",
       "P-200",
@@ -39273,7 +39307,7 @@
       "LT"
     ],
     [
-      262301,
+      262303,
       "September",
       "TANKAGE",
       "P-197",
@@ -39290,44 +39324,10 @@
       "LT"
     ],
     [
-      262302,
-      "September",
-      "BAT_A",
-      "P-212",
-      "2026-09-19T07:00:00.000Z",
-      "motor lic lpbs spm done",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "NALCO",
-      "2026-09-19T07:00:00.000Z",
-      110,
-      "",
-      "",
-      "LT"
-    ],
-    [
-      262303,
-      "September",
-      "BAT_A",
-      "P-213",
-      "2026-09-19T07:00:00.000Z",
-      "motor lic lpbs spm done",
-      "PM JOBS",
-      "MOTOR PM",
-      "YES",
-      "NALCO",
-      "2026-09-19T07:00:00.000Z",
-      110,
-      "",
-      "",
-      "LT"
-    ],
-    [
       262304,
       "September",
       "BAT_A",
-      "P-214",
+      "P-212",
       "2026-09-19T07:00:00.000Z",
       "motor lic lpbs spm done",
       "PM JOBS",
@@ -39344,6 +39344,40 @@
       262305,
       "September",
       "BAT_A",
+      "P-213",
+      "2026-09-19T07:00:00.000Z",
+      "motor lic lpbs spm done",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "NALCO",
+      "2026-09-19T07:00:00.000Z",
+      110,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262306,
+      "September",
+      "BAT_A",
+      "P-214",
+      "2026-09-19T07:00:00.000Z",
+      "motor lic lpbs spm done",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "NALCO",
+      "2026-09-19T07:00:00.000Z",
+      110,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262307,
+      "September",
+      "BAT_A",
       "P-215",
       "2026-09-19T07:00:00.000Z",
       "motor lic lpbs spm done",
@@ -39358,7 +39392,7 @@
       "LT"
     ],
     [
-      262306,
+      262308,
       "September",
       "BAT_A",
       "P-222A",
@@ -39375,7 +39409,7 @@
       "LT"
     ],
     [
-      262307,
+      262309,
       "September",
       "BAT_A",
       "P-224A",
@@ -39392,7 +39426,7 @@
       "LT"
     ],
     [
-      262308,
+      262310,
       "September",
       "BAT_B",
       "P-223",
@@ -39409,7 +39443,7 @@
       "LT"
     ],
     [
-      262309,
+      262311,
       "September",
       "BAT_B",
       "SP-251",
@@ -39426,7 +39460,7 @@
       "LT"
     ],
     [
-      262310,
+      262312,
       "September",
       "TANKAGE",
       "P-194",
@@ -39443,7 +39477,7 @@
       "LT"
     ],
     [
-      262311,
+      262313,
       "September",
       "TANKAGE",
       "P-195",
@@ -39460,44 +39494,10 @@
       "LT"
     ],
     [
-      262312,
-      "September",
-      "BAT_B",
-      "P-212",
-      "2026-09-19T07:00:00.000Z",
-      "vfd pm done",
-      "PM JOBS",
-      "VFD PM",
-      "YES",
-      "ANIL_AREA",
-      "2026-09-19T07:00:00.000Z",
-      110,
-      "",
-      "",
-      "LT"
-    ],
-    [
-      262313,
-      "September",
-      "BAT_B",
-      "P-213",
-      "2026-09-19T07:00:00.000Z",
-      "vfd pm done",
-      "PM JOBS",
-      "VFD PM",
-      "YES",
-      "ANIL_AREA",
-      "2026-09-19T07:00:00.000Z",
-      110,
-      "",
-      "",
-      "LT"
-    ],
-    [
       262314,
       "September",
       "BAT_B",
-      "P-214",
+      "P-212",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39514,7 +39514,7 @@
       262315,
       "September",
       "BAT_B",
-      "P-215",
+      "P-213",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39522,7 +39522,7 @@
       "YES",
       "ANIL_AREA",
       "2026-09-19T07:00:00.000Z",
-      75,
+      110,
       "",
       "",
       "LT"
@@ -39531,7 +39531,7 @@
       262316,
       "September",
       "BAT_B",
-      "P-223",
+      "P-214",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39548,7 +39548,7 @@
       262317,
       "September",
       "BAT_B",
-      "P-222A",
+      "P-215",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39556,7 +39556,7 @@
       "YES",
       "ANIL_AREA",
       "2026-09-19T07:00:00.000Z",
-      45,
+      75,
       "",
       "",
       "LT"
@@ -39565,7 +39565,7 @@
       262318,
       "September",
       "BAT_B",
-      "P-222B",
+      "P-223",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39573,7 +39573,7 @@
       "YES",
       "ANIL_AREA",
       "2026-09-19T07:00:00.000Z",
-      45,
+      110,
       "",
       "",
       "LT"
@@ -39582,7 +39582,7 @@
       262319,
       "September",
       "BAT_B",
-      "P-224A",
+      "P-222A",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39599,7 +39599,7 @@
       262320,
       "September",
       "BAT_B",
-      "P-224B",
+      "P-222B",
       "2026-09-19T07:00:00.000Z",
       "vfd pm done",
       "PM JOBS",
@@ -39614,6 +39614,40 @@
     ],
     [
       262321,
+      "September",
+      "BAT_B",
+      "P-224A",
+      "2026-09-19T07:00:00.000Z",
+      "vfd pm done",
+      "PM JOBS",
+      "VFD PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-19T07:00:00.000Z",
+      45,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262322,
+      "September",
+      "BAT_B",
+      "P-224B",
+      "2026-09-19T07:00:00.000Z",
+      "vfd pm done",
+      "PM JOBS",
+      "VFD PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-19T07:00:00.000Z",
+      45,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262323,
       "September",
       "BAT_C",
       "P-212",
@@ -39630,7 +39664,7 @@
       "LT"
     ],
     [
-      262322,
+      262324,
       "September",
       "BAT_C",
       "P-213",
@@ -39647,7 +39681,7 @@
       "LT"
     ],
     [
-      262323,
+      262325,
       "September",
       "BAT_C",
       "P-214",
@@ -39664,7 +39698,7 @@
       "LT"
     ],
     [
-      262324,
+      262326,
       "September",
       "BAT_C",
       "P-215",
@@ -39681,7 +39715,7 @@
       "LT"
     ],
     [
-      262325,
+      262327,
       "September",
       "BAT_C",
       "P-223",
@@ -39698,7 +39732,7 @@
       "LT"
     ],
     [
-      262326,
+      262328,
       "September",
       "BAT_C",
       "P-222A",
@@ -39715,7 +39749,7 @@
       "LT"
     ],
     [
-      262327,
+      262329,
       "September",
       "BAT_C",
       "P-222B",
@@ -39732,7 +39766,7 @@
       "LT"
     ],
     [
-      262328,
+      262330,
       "September",
       "BAT_C",
       "P-224A",
@@ -39749,7 +39783,7 @@
       "LT"
     ],
     [
-      262329,
+      262331,
       "September",
       "BAT_C",
       "P-224B",
@@ -39766,7 +39800,7 @@
       "LT"
     ],
     [
-      262330,
+      262332,
       "September",
       "BAT_D",
       "P-232",
@@ -39783,7 +39817,7 @@
       "LT"
     ],
     [
-      262331,
+      262333,
       "September",
       "CT_1",
       "P-840",
@@ -39800,7 +39834,7 @@
       "HT"
     ],
     [
-      262332,
+      262334,
       "September",
       "BAT_D",
       "P-231",
@@ -39817,10 +39851,10 @@
       "LT"
     ],
     [
-      262333,
+      262335,
       "September",
       "TANKAGE",
-      "P-196",
+      "P-194",
       "2026-09-19T07:00:00.000Z",
       "motor pulley replacement for adj",
       "ADJUSTMENT",
@@ -39834,7 +39868,7 @@
       ""
     ],
     [
-      262334,
+      262336,
       "September",
       "PROJECT",
       "OXALATE",
@@ -39851,7 +39885,7 @@
       ""
     ],
     [
-      262335,
+      262337,
       "September",
       "PROJECT",
       "OXALATE",
@@ -39868,7 +39902,7 @@
       ""
     ],
     [
-      262336,
+      262338,
       "September",
       "PROJECT",
       "OXALATE",
@@ -39885,7 +39919,7 @@
       ""
     ],
     [
-      262337,
+      262339,
       "September",
       "Transformer",
       3253,
@@ -39902,7 +39936,7 @@
       ""
     ],
     [
-      262338,
+      262340,
       "September",
       "Transformer",
       3253,
@@ -39919,7 +39953,7 @@
       ""
     ],
     [
-      262339,
+      262341,
       "September",
       "Transformer",
       3253,
@@ -39936,7 +39970,7 @@
       ""
     ],
     [
-      262340,
+      262342,
       "September",
       "Transformer",
       3253,
@@ -39953,7 +39987,7 @@
       ""
     ],
     [
-      262341,
+      262343,
       "September",
       "BAT_G",
       "P-912",
@@ -39970,7 +40004,7 @@
       "LT"
     ],
     [
-      262342,
+      262344,
       "September",
       "BAT_G",
       "P-908",
@@ -39987,7 +40021,7 @@
       "LT"
     ],
     [
-      262343,
+      262345,
       "September",
       "BAT_G",
       "P-913",
@@ -40004,7 +40038,7 @@
       "LT"
     ],
     [
-      262344,
+      262346,
       "September",
       "CSFO",
       "Other",
@@ -40021,7 +40055,7 @@
       ""
     ],
     [
-      262345,
+      262347,
       "September",
       "BAT_C",
       "P-224B",
@@ -40038,7 +40072,7 @@
       "LT"
     ],
     [
-      262346,
+      262348,
       "September",
       "PROJECT",
       "PSDF",
@@ -40055,7 +40089,7 @@
       ""
     ],
     [
-      262347,
+      262349,
       "September",
       "CSFO",
       "SP-218",
@@ -40072,44 +40106,10 @@
       "LT"
     ],
     [
-      262348,
-      "September",
-      "CSFO",
-      "P-219",
-      "2026-09-25T07:00:00.000Z",
-      "AS WATER INGRESSID INSIDE THE MOTOR BUT NOT TB ,SO IR VALUES CHECKED AND STARTED THE MOTOR",
-      "BD",
-      "CHECKING",
-      "YES",
-      "NALCO",
-      "2026-09-25T07:00:00.000Z",
-      75,
-      "",
-      "",
-      "LT"
-    ],
-    [
-      262349,
-      "September",
-      "CSFO",
-      "P-220",
-      "2026-09-25T07:00:00.000Z",
-      "AS WATER INGRESSID INSIDE THE MOTOR BUT NOT TB ,SO IR VALUES CHECKED AND STARTED THE MOTOR",
-      "BD",
-      "CHECKING",
-      "YES",
-      "NALCO",
-      "2026-09-25T07:00:00.000Z",
-      75,
-      "",
-      "",
-      "LT"
-    ],
-    [
       262350,
       "September",
       "CSFO",
-      "P-385",
+      "P-219",
       "2026-09-25T07:00:00.000Z",
       "AS WATER INGRESSID INSIDE THE MOTOR BUT NOT TB ,SO IR VALUES CHECKED AND STARTED THE MOTOR",
       "BD",
@@ -40128,6 +40128,40 @@
       "CSFO",
       "P-220",
       "2026-09-25T07:00:00.000Z",
+      "AS WATER INGRESSID INSIDE THE MOTOR BUT NOT TB ,SO IR VALUES CHECKED AND STARTED THE MOTOR",
+      "BD",
+      "CHECKING",
+      "YES",
+      "NALCO",
+      "2026-09-25T07:00:00.000Z",
+      75,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262352,
+      "September",
+      "CSFO",
+      "P-385",
+      "2026-09-25T07:00:00.000Z",
+      "AS WATER INGRESSID INSIDE THE MOTOR BUT NOT TB ,SO IR VALUES CHECKED AND STARTED THE MOTOR",
+      "BD",
+      "CHECKING",
+      "YES",
+      "NALCO",
+      "2026-09-25T07:00:00.000Z",
+      75,
+      "",
+      "",
+      "LT"
+    ],
+    [
+      262353,
+      "September",
+      "CSFO",
+      "P-220",
+      "2026-09-25T07:00:00.000Z",
       "LIC HANDLE FOUND BROKEN ,WHICH IS REPLACED",
       "BD",
       "REPLACE-LIC-HANDLE",
@@ -40140,7 +40174,7 @@
       "LT"
     ],
     [
-      262352,
+      262354,
       "September",
       "BAT_C",
       "P-224B",
@@ -40157,7 +40191,7 @@
       "LT"
     ],
     [
-      262353,
+      262355,
       "September",
       "PROJECT",
       "OXALATE",
@@ -40174,7 +40208,7 @@
       ""
     ],
     [
-      262354,
+      262356,
       "September",
       "PROJECT",
       "OXALATE",
@@ -40191,140 +40225,140 @@
       ""
     ],
     [
-      262355,
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
-    ],
-    [
-      262356,
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
-    ],
-    [
       262357,
+      "September",
+      "MOL",
+      "P-1003A",
+      "2026-09-26T07:00:00.000Z",
+      "lic &lpbs  MOTOR PM & TRAIL RUN DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
+      ""
     ],
     [
       262358,
+      "September",
+      "MOL",
+      "P-1003B",
+      "2026-09-26T07:00:00.000Z",
+      "lic &lpbs  MOTOR PM & TRAIL RUN DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
+      ""
     ],
     [
       262359,
+      "September",
+      "MOL",
+      "FAN-1003",
+      "2026-09-26T07:00:00.000Z",
+      "lic &lpbs  MOTOR PM & TRAIL RUN DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
+      ""
     ],
     [
       262360,
+      "September",
+      "MOL",
+      "Agi-1003",
+      "2026-09-26T07:00:00.000Z",
+      "lic &lpbs  MOTOR PM & TRAIL RUN DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
+      ""
     ],
     [
       262361,
+      "September",
+      "MOL",
+      "P-1002A",
+      "2026-09-26T07:00:00.000Z",
+      "lic &lpbs  MOTOR PM & TRAIL RUN DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
+      ""
+    ],
+    [
+      262362,
+      "September",
+      "MOL",
+      "FAN-1002",
+      "2026-09-26T07:00:00.000Z",
+      "lic &lpbs  MOTOR PM & TRAIL RUN DONE",
+      "PM JOBS",
+      "MOTOR PM",
+      "YES",
+      "ANIL_AREA",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
+      ""
+    ],
+    [
+      262363,
+      "September",
+      "BAT_F",
+      "P-905",
+      "2026-09-26T07:00:00.000Z",
+      "CANOPY OF MOTOR FIXING DONE AND INSPECTION OF ALL CANOPIES",
+      "REPAIR JOB",
+      "CANOPY ",
+      "YES",
+      "NALCO",
+      "2026-09-26T07:00:00.000Z",
+      90,
       "",
       "",
       "LT"
     ],
     [
-      262362,
+      262364,
+      "September",
+      "MOL",
+      "P-1002B",
+      "2026-09-26T07:00:00.000Z",
+      "POWER CABLE JOINTING DONE AND TRIAL RUN  TAKEN",
+      "NORMAL JOB",
+      "CABLE CONN/DISCON",
+      "YES",
+      "NALCO",
+      "2026-09-26T07:00:00.000Z",
       "",
       "",
       "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "#REF!",
-      "",
-      "",
-      "LT"
+      ""
     ],
     [
       "",
