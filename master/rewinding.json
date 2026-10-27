@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-10-27T06:22:49.604Z",
+  "updated": "2026-10-27T06:57:16.592Z",
   "totalRecords": 46,
   "data": [
     {
@@ -198,7 +198,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1ST LOT)",
       "Job Completion Date": "UP",
-      "PRIORITY": 20,
+      "PRIORITY": 3,
       "rowNumber": 12
     },
     {
@@ -216,7 +216,7 @@
       "Remarks": "R C SETY",
       "Motor Location\nUpdate On": "RACK LOC - Z1/B. R/W BY M/S MAITY.",
       "Job Completion Date": "NS",
-      "PRIORITY": 13,
+      "PRIORITY": 3,
       "rowNumber": 13
     },
     {
@@ -234,7 +234,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 22,
+      "PRIORITY": 5,
       "rowNumber": 14
     },
     {
@@ -252,7 +252,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 25,
+      "PRIORITY": 5,
       "rowNumber": 15
     },
     {
@@ -270,7 +270,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 41,
+      "PRIORITY": 10,
       "rowNumber": 16
     },
     {
@@ -288,7 +288,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "RACK LOC-V0/I\n24.11.23",
       "Job Completion Date": "NS",
-      "PRIORITY": 17,
+      "PRIORITY": 3,
       "rowNumber": 17
     },
     {
@@ -306,7 +306,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 14,
+      "PRIORITY": 1,
       "rowNumber": 18
     },
     {
@@ -324,7 +324,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 39,
+      "PRIORITY": 10,
       "rowNumber": 19
     },
     {
@@ -342,7 +342,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "OUT SOURCING  R/W.",
       "Job Completion Date": "UP",
-      "PRIORITY": 18,
+      "PRIORITY": 1,
       "rowNumber": 20
     },
     {
@@ -360,7 +360,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "STATOR, ROTOR, GREASE CUP DAMAGED",
       "Job Completion Date": "NS",
-      "PRIORITY": 36,
+      "PRIORITY": 1,
       "rowNumber": 21
     },
     {
@@ -378,7 +378,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "PRIORITY": 6,
+      "PRIORITY": 4,
       "rowNumber": 22
     },
     {
