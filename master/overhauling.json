@@ -1,7 +1,7 @@
 {
   "sheetName": "O/H PENDING",
-  "updated": "2026-10-28T08:57:19.736Z",
-  "totalRecords": 34,
+  "updated": "2026-10-28T09:57:29.339Z",
+  "totalRecords": 33,
   "data": [
     {
       "W.O No": "896/19.03.18",
@@ -442,7 +442,7 @@
       "Storage": "O/H",
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "6319C3 , 6316C3",
-      "Job Completion Date": "NS",
+      "Job Completion Date": "UP",
       "rowNumber": 27
     },
     {
@@ -505,12 +505,12 @@
       "RPM": "945",
       "Sl No": "12615",
       "Voltage": "415",
-      "Equipment details": "EOT: HUST MOTOR",
+      "Equipment details": "EOT: HOIST MOTOR",
       "Area": "08",
       "Storage": "O/H",
       "Remarks": "M BARIK",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
+      "Motor Location\nUpdate On": "24.10.26",
+      "Job Completion Date": "UP",
       "rowNumber": 31
     },
     {
@@ -531,23 +531,6 @@
       "rowNumber": 32
     },
     {
-      "W.O No": "468/13.10.26",
-      "kW": "75",
-      "Make": "NGEF",
-      "Frame Size": "280 S",
-      "Mounting": "B3",
-      "RPM": "1485",
-      "Sl No": "NA",
-      "Voltage": "415",
-      "Equipment details": "TANK AGE P-205",
-      "Area": "08",
-      "Storage": "O/H",
-      "Remarks": "RC SETY",
-      "Motor Location\nUpdate On": "14.10.26",
-      "Job Completion Date": "UP",
-      "rowNumber": 33
-    },
-    {
       "W.O No": "469/13.10.26",
       "kW": "90",
       "Make": "ABB",
@@ -562,7 +545,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "10.10.26",
       "Job Completion Date": "UP",
-      "rowNumber": 34
+      "rowNumber": 33
     },
     {
       "W.O No": "481/22.10.26",
@@ -579,7 +562,7 @@
       "Remarks": "B.MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "UP",
-      "rowNumber": 35
+      "rowNumber": 34
     }
   ]
 }
