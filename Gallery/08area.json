@@ -1,9 +1,57 @@
 {
   "gallery": "08 AREA PHOTOS",
   "folderId": "10Q1QRHbnpSdqyyQzact1e42_ndHO4Lo_",
-  "updated": "2026-10-30T03:05:49.100Z",
-  "total": 22,
+  "updated": "2026-10-30T07:06:00.954Z",
+  "total": 26,
   "photos": [
+    {
+      "id": "1IUHybkA8UlDW-NcoPX4IlgMNFJXVUQqd",
+      "title": "abb41f57-00e9-474b-b8a2-18eefe4f5d5c",
+      "filename": "abb41f57-00e9-474b-b8a2-18eefe4f5d5c.JPG",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1IUHybkA8UlDW-NcoPX4IlgMNFJXVUQqd=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1IUHybkA8UlDW-NcoPX4IlgMNFJXVUQqd=w700",
+      "created": "2026-10-30T04:36:21.711Z",
+      "modified": "2026-10-30T04:36:21.711Z",
+      "size": 1968551,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1QejsTljHkf6_L8srKbyEwNUqp4_7O6BS",
+      "title": "904cd676-58f1-4e02-9676-ffd951b4fed1",
+      "filename": "904cd676-58f1-4e02-9676-ffd951b4fed1.JPG",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1QejsTljHkf6_L8srKbyEwNUqp4_7O6BS=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1QejsTljHkf6_L8srKbyEwNUqp4_7O6BS=w700",
+      "created": "2026-10-30T04:36:13.163Z",
+      "modified": "2026-10-30T04:36:13.163Z",
+      "size": 1684228,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1XqsEfZ2jw37r76koGBsuIjE0IFJRkflw",
+      "title": "3ef30aa3-28d7-4f08-bfba-e1019bbff166",
+      "filename": "3ef30aa3-28d7-4f08-bfba-e1019bbff166.JPG",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1XqsEfZ2jw37r76koGBsuIjE0IFJRkflw=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1XqsEfZ2jw37r76koGBsuIjE0IFJRkflw=w700",
+      "created": "2026-10-30T04:36:12.110Z",
+      "modified": "2026-10-30T04:36:12.110Z",
+      "size": 1653989,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1GXwdmRyipJMQF718BhDsRnMEBeKKVmEz",
+      "title": "76b60d7d-25e8-4be9-a69a-cec458b3243d",
+      "filename": "76b60d7d-25e8-4be9-a69a-cec458b3243d.JPG",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1GXwdmRyipJMQF718BhDsRnMEBeKKVmEz=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1GXwdmRyipJMQF718BhDsRnMEBeKKVmEz=w700",
+      "created": "2026-10-30T04:35:54.414Z",
+      "modified": "2026-10-30T04:35:54.414Z",
+      "size": 1603000,
+      "type": "image/jpeg"
+    },
     {
       "id": "1nvjGgoHB0O2EU0lZhWgK24XGJK4OE9_R",
       "title": "viswakarma puja-2026",
