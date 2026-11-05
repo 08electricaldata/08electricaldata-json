@@ -1,7 +1,7 @@
 {
   "sheetName": "O/H PENDING",
-  "updated": "2026-11-05T12:57:19.019Z",
-  "totalRecords": 33,
+  "updated": "2026-11-05T13:57:25.664Z",
+  "totalRecords": 34,
   "data": [
     {
       "W.O No": "896/19.03.18",
@@ -548,21 +548,38 @@
       "rowNumber": 33
     },
     {
-      "W.O No": "481/22.10.26",
-      "kW": "90",
-      "Make": "NGEF",
-      "Frame Size": "AMW 280 M4H1",
+      "W.O No": "504/26.10.26",
+      "kW": "110",
+      "Make": "KEC",
+      "Frame Size": "LD315 MMK11",
       "Mounting": "B3",
       "RPM": "1485",
-      "Sl No": "144-328-01",
+      "Sl No": "28605121-3",
       "Voltage": "415",
-      "Equipment details": "P-205(BAT-C)",
+      "Equipment details": "P-211",
       "Area": "08",
       "Storage": "O/H",
       "Remarks": "B.MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "UP",
       "rowNumber": 34
+    },
+    {
+      "W.O No": "520/03.11.26",
+      "kW": "45",
+      "Make": "SIEMENS",
+      "Frame Size": "225SM",
+      "Mounting": "V5",
+      "RPM": "1420",
+      "Sl No": "1LA2177-4",
+      "Voltage": "415",
+      "Equipment details": "BAT-H:SP=919",
+      "Area": "08",
+      "Storage": "O/H",
+      "Remarks": "M:BARIK",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "NS",
+      "rowNumber": 35
     }
   ]
 }
