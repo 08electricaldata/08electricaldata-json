@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-11-05T12:57:17.738Z",
+  "updated": "2026-11-05T13:57:23.176Z",
   "totalRecords": 46,
   "data": [
     {
@@ -509,8 +509,8 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "B MURMU",
-      "Motor Location\nUpdate On": "",
-      "Job Completion Date": "NS",
+      "Motor Location\nUpdate On": "COIL BURNT,VPI WINDING.(04.11.26)",
+      "Job Completion Date": "PENDING",
       "rowNumber": 31
     },
     {
@@ -684,23 +684,6 @@
       "rowNumber": 41
     },
     {
-      "W.O No": "096/30.04.26",
-      "kW": "75",
-      "Make": "SIEMENS",
-      "Frame Size": "315 M",
-      "Mounting": "B3",
-      "RPM": "1490",
-      "Sl No": "N8/ 64014980",
-      "Voltage": "415",
-      "Equipment details": "P- 908 (BAT- E)",
-      "Area": "08",
-      "Storage": "R/W",
-      "Remarks": "M. BARIK",
-      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
-      "Job Completion Date": "NS",
-      "rowNumber": 42
-    },
-    {
       "W.O No": "100/02.05.26",
       "kW": "90",
       "Make": "WEG",
@@ -715,7 +698,7 @@
       "Remarks": "M. BARIK",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "rowNumber": 43
+      "rowNumber": 42
     },
     {
       "W.O No": "145/25.05.26",
@@ -732,7 +715,7 @@
       "Remarks": "SURAJ JAISWAL",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "rowNumber": 44
+      "rowNumber": 43
     },
     {
       "W.O No": "159/30.05.26",
@@ -749,7 +732,7 @@
       "Remarks": "M BARIK",
       "Motor Location\nUpdate On": "08.07.26 SWG 18 NA(13.07.26)",
       "Job Completion Date": "PENDING",
-      "rowNumber": 45
+      "rowNumber": 44
     },
     {
       "W.O No": "352/21.08.26",
@@ -766,7 +749,7 @@
       "Remarks": "B MURMU",
       "Motor Location\nUpdate On": "",
       "Job Completion Date": "NS",
-      "rowNumber": 46
+      "rowNumber": 45
     },
     {
       "W.O No": "357/26.08.26",
@@ -783,6 +766,23 @@
       "Remarks": "RAVINDRA",
       "Motor Location\nUpdate On": "EARTH FAUILT,07.09.26",
       "Job Completion Date": "UP",
+      "rowNumber": 46
+    },
+    {
+      "W.O No": "506/27.10.26",
+      "kW": "110",
+      "Make": "KEC",
+      "Frame Size": "SC 315S",
+      "Mounting": "B3",
+      "RPM": "1480",
+      "Sl No": "129902039-2",
+      "Voltage": "415",
+      "Equipment details": "P-211(BAT-B)",
+      "Area": "08",
+      "Storage": "R/W",
+      "Remarks": "B.MURMU",
+      "Motor Location\nUpdate On": "",
+      "Job Completion Date": "NS",
       "rowNumber": 47
     }
   ]
