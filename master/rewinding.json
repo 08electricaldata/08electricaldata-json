@@ -1,6 +1,6 @@
 {
   "sheetName": "R/W PENDING",
-  "updated": "2026-11-16T11:57:18.212Z",
+  "updated": "2026-11-16T12:57:19.887Z",
   "totalRecords": 46,
   "data": [
     {
@@ -679,8 +679,8 @@
       "Area": "08",
       "Storage": "R/W",
       "Remarks": "M. BARIK",
-      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT)",
-      "Job Completion Date": "NS",
+      "Motor Location\nUpdate On": "R/W BY M/S MAITY. (1st LOT) 6316C3 BEARING NA.",
+      "Job Completion Date": "PENDING",
       "rowNumber": 41
     },
     {
