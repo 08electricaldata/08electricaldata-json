@@ -1,9 +1,33 @@
 {
   "gallery": "SAFETY PHOTOS",
   "folderId": "1nESERIqfv6Qx623ewtSbAo6s2alQzBLw",
-  "updated": "2026-11-24T03:05:23.188Z",
-  "total": 14,
+  "updated": "2026-11-24T07:05:19.319Z",
+  "total": 16,
   "photos": [
+    {
+      "id": "1zy1D9uDfBI5uCu-rCj2Ig4sI34NHQuDm",
+      "title": "Safety touch program,2026-11-06-22-37-59",
+      "filename": "Safety touch program,2026-11-06-22-37-59.jpg",
+      "extension": "jpg",
+      "image": "https://lh3.googleusercontent.com/d/1zy1D9uDfBI5uCu-rCj2Ig4sI34NHQuDm=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1zy1D9uDfBI5uCu-rCj2Ig4sI34NHQuDm=w700",
+      "created": "2026-11-24T05:43:08.453Z",
+      "modified": "2026-11-24T05:43:28.963Z",
+      "size": 397817,
+      "type": "image/jpeg"
+    },
+    {
+      "id": "1CMYGNus_K0G-TSO_FFvQCu-hP6jVzqAg",
+      "title": "New compressor s/d 16-11-2026 ",
+      "filename": "New compressor s/d 16-11-2026 .HEIC",
+      "extension": "heic",
+      "image": "https://lh3.googleusercontent.com/d/1CMYGNus_K0G-TSO_FFvQCu-hP6jVzqAg=w1800",
+      "thumb": "https://lh3.googleusercontent.com/d/1CMYGNus_K0G-TSO_FFvQCu-hP6jVzqAg=w700",
+      "created": "2026-11-24T05:34:44.769Z",
+      "modified": "2026-11-24T05:35:07.497Z",
+      "size": 2764632,
+      "type": "image/heic"
+    },
     {
       "id": "1VFdZ4qpdrhP0Vu1TBSdmFeDIq-n640xp",
       "title": "CWP-368 s/d on 10-10-26",
